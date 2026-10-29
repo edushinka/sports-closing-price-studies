@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and credit Bet Better (https://betbetter.world/studies/)."
+title: "Sports closing-price studies: no-vig closing probabilities vs results"
+authors:
+  - family-names: Glush
+    given-names: Edward
+    orcid: "https://orcid.org/0009-0008-4074-369X"
+    affiliation: "Bet Better"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://betbetter.world/studies/"
+repository-code: "https://github.com/edushinka/sports-closing-price-studies"
+keywords:
+  - sports betting markets
+  - closing line
+  - calibration
+  - home advantage
+  - NFL
+  - NHL
+  - college football

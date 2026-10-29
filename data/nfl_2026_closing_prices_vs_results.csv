@@ -1,0 +1,98 @@
+date_utc,week,home_team,away_team,home_no_vig_close_prob,home_won,home_score,away_score,n_books
+2026-09-20,2,Arizona Cardinals,Seattle Seahawks,0.3482,0,7,31,9
+2026-09-21,2,Kansas City Chiefs,Indianapolis Colts,0.7076,1,33,30,9
+2026-09-20,2,Los Angeles Chargers,Las Vegas Raiders,0.7255,0,14,26,9
+2026-09-20,2,Houston Texans,Cincinnati Bengals,0.5781,0,6,20,10
+2026-09-20,2,Tampa Bay Buccaneers,Cleveland Browns,0.7723,0,19,23,10
+2026-09-20,2,Denver Broncos,Jacksonville Jaguars,0.5685,1,20,13,9
+2026-09-13,1,Tennessee Titans,New York Jets,0.5185,0,10,23,9
+2026-09-20,2,Tennessee Titans,Philadelphia Eagles,0.2616,0,20,24,10
+2026-09-13,1,Pittsburgh Steelers,Atlanta Falcons,0.7208,1,20,13,10
+2026-09-13,1,Minnesota Vikings,Green Bay Packers,0.5513,1,39,22,10
+2026-09-20,2,Dallas Cowboys,Washington Commanders,0.6528,1,37,20,9
+2026-09-20,2,Chicago Bears,Minnesota Vikings,0.6577,0,3,9,10
+2026-09-20,2,San Francisco 49ers,Miami Dolphins,0.8695,1,35,13,9
+2026-09-20,2,New York Jets,Green Bay Packers,0.396,0,17,20,10
+2026-09-20,2,Atlanta Falcons,Carolina Panthers,0.4396,0,3,34,10
+2026-09-15,1,Kansas City Chiefs,Denver Broncos,0.5389,1,31,10,10
+2026-09-20,2,Baltimore Ravens,New Orleans Saints,0.7705,0,17,24,10
+2026-09-13,1,Indianapolis Colts,Baltimore Ravens,0.4117,0,23,41,10
+2026-09-22,2,Los Angeles Rams,New York Giants,0.7194,1,28,6,10
+2026-09-13,1,Carolina Panthers,Chicago Bears,0.4072,0,37,59,10
+2026-09-18,2,Buffalo Bills,Detroit Lions,0.6813,1,41,31,10
+2026-09-20,2,New England Patriots,Pittsburgh Steelers,0.6653,1,20,3,10
+2026-09-11,1,Los Angeles Rams,San Francisco 49ers,0.641,0,7,27,10
+2026-09-10,1,Seattle Seahawks,New England Patriots,0.6117,1,13,10,10
+2026-09-25,3,Green Bay Packers,Atlanta Falcons,0.6812,0,14,35,5
+2026-09-27,3,Tampa Bay Buccaneers,Minnesota Vikings,0.4922,0,16,23,5
+2026-10-02,4,Cleveland Browns,Pittsburgh Steelers,0.4223,1,27,24,5
+2026-10-04,4,New York Giants,Arizona Cardinals,0.444,1,36,24,5
+2026-10-04,4,Seattle Seahawks,Los Angeles Chargers,0.7445,1,30,23,5
+2026-10-04,4,Tampa Bay Buccaneers,Green Bay Packers,0.4206,0,14,17,5
+2026-10-04,4,San Francisco 49ers,Denver Broncos,0.5933,1,24,14,5
+2026-09-27,3,New York Giants,Tennessee Titans,0.5575,1,12,7,5
+2026-10-04,4,Chicago Bears,New York Jets,0.6279,1,23,12,5
+2026-10-04,4,Philadelphia Eagles,Los Angeles Rams,0.368,0,20,24,5
+2026-10-04,4,Las Vegas Raiders,Kansas City Chiefs,0.3294,0,27,30,5
+2026-10-04,4,Baltimore Ravens,Tennessee Titans,0.851,1,24,18,5
+2026-10-04,4,Cincinnati Bengals,Jacksonville Jaguars,0.5646,0,17,22,5
+2026-10-04,4,Buffalo Bills,New England Patriots,0.7394,0,26,29,5
+2026-10-04,4,Minnesota Vikings,Miami Dolphins,0.813,1,15,10,5
+2026-10-11,5,New Orleans Saints,Minnesota Vikings,0.4449,0,13,23,5
+2026-09-27,3,Cleveland Browns,Carolina Panthers,0.454,1,21,18,5
+2026-09-27,3,Miami Dolphins,Kansas City Chiefs,0.175,0,10,24,5
+2026-09-27,3,Detroit Lions,New York Jets,0.732,1,31,24,5
+2026-09-27,3,Indianapolis Colts,Houston Texans,0.4704,1,19,17,5
+2026-09-27,3,Jacksonville Jaguars,New England Patriots,0.5899,1,35,6,5
+2026-09-27,3,Pittsburgh Steelers,Cincinnati Bengals,0.3905,1,30,27,5
+2026-09-27,3,Dallas Cowboys,Baltimore Ravens,0.3873,0,31,34,5
+2026-09-27,3,San Francisco 49ers,Arizona Cardinals,0.7664,1,36,30,5
+2026-09-27,3,Buffalo Bills,Los Angeles Chargers,0.7446,1,24,16,5
+2026-10-04,4,Washington Commanders,Indianapolis Colts,0.3336,0,13,30,5
+2026-10-04,4,Houston Texans,Dallas Cowboys,0.5794,0,30,34,5
+2026-10-05,4,Carolina Panthers,Detroit Lions,0.3401,1,32,26,5
+2026-10-09,5,Dallas Cowboys,Tampa Bay Buccaneers,0.8043,0,16,24,5
+2026-09-27,3,Washington Commanders,Seattle Seahawks,0.2285,1,33,31,5
+2026-10-11,5,Green Bay Packers,Chicago Bears,0.4727,1,31,7,5
+2026-09-27,3,New Orleans Saints,Las Vegas Raiders,0.639,0,27,35,5
+2026-09-28,3,Denver Broncos,Los Angeles Rams,0.4914,1,30,26,5
+2026-09-29,3,Chicago Bears,Philadelphia Eagles,0.3612,1,27,7,5
+2026-10-11,5,Pittsburgh Steelers,Indianapolis Colts,0.588,1,34,22,5
+2026-10-11,5,New England Patriots,Las Vegas Raiders,0.622,1,45,17,5
+2026-10-12,5,Atlanta Falcons,Baltimore Ravens,0.611,0,23,30,5
+2026-10-11,5,Seattle Seahawks,San Francisco 49ers,0.5944,0,29,32,5
+2026-10-26,7,Seattle Seahawks,Kansas City Chiefs,0.5918,1,20,3,5
+2026-10-25,7,Carolina Panthers,Tampa Bay Buccaneers,0.589,0,13,43,5
+2026-10-25,7,Houston Texans,New York Giants,0.8016,0,21,27,5
+2026-10-25,7,New Orleans Saints,Pittsburgh Steelers,0.4027,0,10,16,5
+2026-10-11,5,New York Jets,Cleveland Browns,0.563,1,17,12,5
+2026-10-11,5,Miami Dolphins,Cincinnati Bengals,0.2486,0,24,31,5
+2026-10-11,5,Tennessee Titans,Houston Texans,0.2696,0,3,26,5
+2026-10-11,5,Los Angeles Chargers,Denver Broncos,0.3793,0,17,23,5
+2026-10-11,5,Arizona Cardinals,Detroit Lions,0.3172,0,21,45,5
+2026-10-16,6,Denver Broncos,Seattle Seahawks,0.4274,1,17,14,5
+2026-10-18,6,New England Patriots,New York Jets,0.7451,1,26,19,5
+2026-10-18,6,New York Giants,New Orleans Saints,0.4972,0,27,34,5
+2026-10-06,4,New Orleans Saints,Atlanta Falcons,0.5118,0,24,45,5
+2026-10-18,6,Kansas City Chiefs,Los Angeles Chargers,0.7733,1,22,6,5
+2026-10-18,6,Tampa Bay Buccaneers,Pittsburgh Steelers,0.4449,0,19,26,5
+2026-10-11,5,Jacksonville Jaguars,Philadelphia Eagles,0.765,1,19,17,5
+2026-10-18,6,Los Angeles Rams,Arizona Cardinals,0.8547,0,16,18,5
+2026-10-18,6,Las Vegas Raiders,Buffalo Bills,0.3235,0,30,33,5
+2026-10-18,6,Jacksonville Jaguars,Houston Texans,0.5616,0,31,34,5
+2026-10-18,6,Atlanta Falcons,Chicago Bears,0.4838,0,23,31,5
+2026-10-18,6,Indianapolis Colts,Tennessee Titans,0.7147,0,20,26,5
+2026-10-18,6,Philadelphia Eagles,Carolina Panthers,0.4087,0,14,25,5
+2026-10-18,6,Cleveland Browns,Baltimore Ravens,0.3909,1,13,10,5
+2026-10-20,6,San Francisco 49ers,Washington Commanders,0.7662,1,23,17,5
+2026-10-23,7,Chicago Bears,New England Patriots,0.584,1,30,24,5
+2026-10-25,7,Arizona Cardinals,Denver Broncos,0.3312,0,16,30,5
+2026-10-25,7,Baltimore Ravens,Cincinnati Bengals,0.4104,0,13,35,5
+2026-10-25,7,Tennessee Titans,Cleveland Browns,0.4585,0,24,27,5
+2026-10-19,6,Green Bay Packers,Dallas Cowboys,0.4937,1,23,13,5
+2026-10-25,7,Atlanta Falcons,San Francisco 49ers,0.4286,1,29,20,5
+2026-10-25,7,New York Jets,Miami Dolphins,0.6424,0,25,28,5
+2026-10-25,7,Detroit Lions,Green Bay Packers,0.6355,1,20,17,5
+2026-10-25,7,Minnesota Vikings,Indianapolis Colts,0.7376,1,16,10,5
+2026-10-25,7,Las Vegas Raiders,Los Angeles Rams,0.385,0,21,35,5
+2026-10-27,7,Philadelphia Eagles,Dallas Cowboys,0.338,0,21,38,5
