@@ -1,0 +1,922 @@
+date_utc,week,home_team,away_team,home_no_vig_close_prob,home_won,home_score,away_score,n_books,season,stage
+2022-07-01,1,Newcastle Knights,Gold Coast Titans,0.527,1,38,12,8,2022,Regular season
+2022-07-01,1,Penrith Panthers,Sydney Roosters,0.8555,1,26,18,8,2022,Regular season
+2022-07-02,1,South Sydney Rabbitohs,Parramatta Eels,0.4229,1,30,12,8,2022,Regular season
+2022-07-02,1,North Queensland Cowboys,Brisbane Broncos,0.6381,1,40,26,8,2022,Regular season
+2022-07-02,1,Canterbury Bulldogs,Cronulla Sutherland Sharks,0.306,0,6,18,8,2022,Regular season
+2022-07-03,1,New Zealand Warriors,Wests Tigers,0.587,1,22,2,8,2022,Regular season
+2022-07-03,1,St George Illawarra Dragons,Canberra Raiders,0.4353,1,12,10,8,2022,Regular season
+2022-07-07,1,Cronulla Sutherland Sharks,Melbourne Storm,0.3369,1,28,6,8,2022,Regular season
+2022-07-08,2,Newcastle Knights,South Sydney Rabbitohs,0.361,0,28,40,8,2022,Regular season
+2022-07-09,2,Wests Tigers,Parramatta Eels,0.2036,0,20,28,8,2022,Regular season
+2022-07-10,2,Brisbane Broncos,St George Illawarra Dragons,0.5264,1,32,18,9,2022,Regular season
+2022-07-15,3,North Queensland Cowboys,Cronulla Sutherland Sharks,0.4743,0,12,26,9,2022,Regular season
+2022-07-15,3,Parramatta Eels,New Zealand Warriors,0.8481,1,28,18,9,2022,Regular season
+2022-07-16,3,Manly Warringah Sea Eagles,Newcastle Knights,0.7135,1,42,12,9,2022,Regular season
+2022-07-16,3,Sydney Roosters,St George Illawarra Dragons,0.7152,1,54,26,9,2022,Regular season
+2022-07-16,3,Gold Coast Titans,Brisbane Broncos,0.3559,0,12,16,9,2022,Regular season
+2022-07-17,3,Melbourne Storm,Canberra Raiders,0.8146,0,16,20,9,2022,Regular season
+2022-07-17,3,Canterbury Bulldogs,South Sydney Rabbitohs,0.3306,0,28,36,9,2022,Regular season
+2022-07-17,3,Wests Tigers,Penrith Panthers,0.3103,0,16,18,9,2022,Regular season
+2022-07-21,3,Parramatta Eels,Brisbane Broncos,0.6069,0,14,36,9,2022,Regular season
+2022-07-22,4,Newcastle Knights,Sydney Roosters,0.2757,0,12,42,9,2022,Regular season
+2022-07-22,4,St George Illawarra Dragons,Manly Warringah Sea Eagles,0.4264,1,20,6,9,2022,Regular season
+2022-07-23,4,Penrith Panthers,Cronulla Sutherland Sharks,0.7883,1,20,10,9,2022,Regular season
+2022-07-23,4,South Sydney Rabbitohs,Melbourne Storm,0.4868,1,24,12,9,2022,Regular season
+2022-07-23,4,Canberra Raiders,New Zealand Warriors,0.7772,1,26,14,9,2022,Regular season
+2022-07-24,4,Canterbury Bulldogs,Gold Coast Titans,0.603,1,36,26,9,2022,Regular season
+2022-07-24,4,North Queensland Cowboys,Wests Tigers,0.8948,1,27,26,9,2022,Regular season
+2022-07-28,4,Manly Warringah Sea Eagles,Sydney Roosters,0.1407,0,10,20,9,2022,Regular season
+2022-07-29,5,New Zealand Warriors,Melbourne Storm,0.2207,0,12,24,9,2022,Regular season
+2022-07-29,5,Parramatta Eels,Penrith Panthers,0.293,1,34,10,9,2022,Regular season
+2022-07-30,5,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.5346,1,21,20,9,2022,Regular season
+2022-07-30,5,Gold Coast Titans,Canberra Raiders,0.3301,0,24,36,9,2022,Regular season
+2022-07-30,5,Brisbane Broncos,Wests Tigers,0.86,0,18,32,9,2022,Regular season
+2022-07-31,5,St George Illawarra Dragons,North Queensland Cowboys,0.3114,0,8,34,9,2022,Regular season
+2022-07-31,5,Newcastle Knights,Canterbury Bulldogs,0.3448,0,10,24,9,2022,Regular season
+2022-08-04,5,Sydney Roosters,Brisbane Broncos,0.6021,1,34,16,9,2022,Regular season
+2022-08-05,6,Manly Warringah Sea Eagles,Parramatta Eels,0.544,0,20,36,9,2022,Regular season
+2022-08-05,6,Melbourne Storm,Gold Coast Titans,0.8641,1,32,14,9,2022,Regular season
+2022-08-06,6,Cronulla Sutherland Sharks,St George Illawarra Dragons,0.7435,1,24,18,9,2022,Regular season
+2022-08-06,6,Canberra Raiders,Penrith Panthers,0.4395,0,6,26,9,2022,Regular season
+2022-08-06,6,South Sydney Rabbitohs,New Zealand Warriors,0.8751,1,48,10,9,2022,Regular season
+2022-08-07,6,Wests Tigers,Newcastle Knights,0.6483,0,10,14,9,2022,Regular season
+2022-08-07,6,Canterbury Bulldogs,North Queensland Cowboys,0.2375,0,14,28,9,2022,Regular season
+2022-08-11,6,Penrith Panthers,Melbourne Storm,0.58,0,0,16,9,2022,Regular season
+2022-08-12,7,New Zealand Warriors,Canterbury Bulldogs,0.3962,1,42,18,9,2022,Regular season
+2022-08-12,7,Parramatta Eels,South Sydney Rabbitohs,0.4349,0,0,26,9,2022,Regular season
+2022-08-13,7,Wests Tigers,Cronulla Sutherland Sharks,0.2024,0,12,36,9,2022,Regular season
+2022-08-13,7,Sydney Roosters,North Queensland Cowboys,0.5766,1,32,18,9,2022,Regular season
+2022-08-13,7,Brisbane Broncos,Newcastle Knights,0.8718,1,28,10,9,2022,Regular season
+2022-08-14,7,Canberra Raiders,St George Illawarra Dragons,0.6509,1,24,22,9,2022,Regular season
+2022-08-14,7,Gold Coast Titans,Manly Warringah Sea Eagles,0.2851,1,44,24,9,2022,Regular season
+2022-08-18,7,South Sydney Rabbitohs,Penrith Panthers,0.6212,0,22,26,9,2022,Regular season
+2022-08-19,8,Brisbane Broncos,Melbourne Storm,0.3141,0,12,60,9,2022,Regular season
+2022-08-19,8,North Queensland Cowboys,New Zealand Warriors,0.8775,1,48,4,9,2022,Regular season
+2022-08-20,8,Parramatta Eels,Canterbury Bulldogs,0.7298,1,42,6,9,2022,Regular season
+2022-08-20,8,Manly Warringah Sea Eagles,Cronulla Sutherland Sharks,0.2088,0,6,40,9,2022,Regular season
+2022-08-20,8,Sydney Roosters,Wests Tigers,0.902,1,72,6,9,2022,Regular season
+2022-08-21,8,St George Illawarra Dragons,Gold Coast Titans,0.6255,1,46,26,9,2022,Regular season
+2022-08-21,8,Newcastle Knights,Canberra Raiders,0.2163,0,22,28,9,2022,Regular season
+2022-08-25,8,Brisbane Broncos,Parramatta Eels,0.3848,0,6,53,9,2022,Regular season
+2022-08-26,9,Melbourne Storm,Sydney Roosters,0.5835,0,14,18,9,2022,Regular season
+2022-08-27,9,Canberra Raiders,Manly Warringah Sea Eagles,0.7898,1,48,6,9,2022,Regular season
+2022-08-27,9,South Sydney Rabbitohs,North Queensland Cowboys,0.5876,1,20,10,9,2022,Regular season
+2022-08-27,9,Cronulla Sutherland Sharks,Canterbury Bulldogs,0.89,1,16,0,9,2022,Regular season
+2022-08-28,9,Wests Tigers,St George Illawarra Dragons,0.2841,0,22,24,9,2022,Regular season
+2022-08-28,9,Gold Coast Titans,Newcastle Knights,0.6585,1,36,26,9,2022,Regular season
+2022-09-01,9,Parramatta Eels,Melbourne Storm,0.5769,1,22,14,8,2022,Regular season
+2022-09-02,10,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.6651,1,21,20,9,2022,Regular season
+2022-09-02,10,Sydney Roosters,South Sydney Rabbitohs,0.5619,1,26,16,9,2022,Regular season
+2022-09-03,10,North Queensland Cowboys,Penrith Panthers,0.855,1,38,8,8,2022,Regular season
+2022-09-03,10,New Zealand Warriors,Gold Coast Titans,0.5729,0,26,27,9,2022,Regular season
+2022-09-03,10,St George Illawarra Dragons,Brisbane Broncos,0.415,1,22,12,9,2022,Regular season
+2022-09-04,10,Wests Tigers,Canberra Raiders,0.349,0,10,56,9,2022,Regular season
+2022-09-04,10,Newcastle Knights,Cronulla Sutherland Sharks,0.1343,0,16,38,9,2022,Regular season
+2022-09-09,11,Penrith Panthers,Parramatta Eels,0.6773,1,27,8,9,2022,Finals
+2022-09-10,11,Cronulla Sutherland Sharks,North Queensland Cowboys,0.5595,0,30,32,9,2022,Finals
+2022-09-10,11,Melbourne Storm,Canberra Raiders,0.7067,0,20,28,9,2022,Finals
+2022-09-11,11,Sydney Roosters,South Sydney Rabbitohs,0.6026,0,14,30,9,2022,Finals
+2022-09-16,12,Parramatta Eels,Canberra Raiders,0.6318,1,40,4,9,2022,Finals
+2022-09-17,12,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.4235,0,12,38,9,2022,Finals
+2022-09-23,13,North Queensland Cowboys,Parramatta Eels,0.5626,0,20,24,9,2022,Finals
+2022-09-24,13,Penrith Panthers,South Sydney Rabbitohs,0.7205,1,32,12,9,2022,Finals
+2022-10-02,14,Penrith Panthers,Parramatta Eels,0.7026,1,28,12,9,2022,Finals
+2023-03-02,35,Parramatta Eels,Melbourne Storm,0.4738,0,12,16,10,2023,Regular season
+2023-03-03,36,New Zealand Warriors,Newcastle Knights,0.5655,1,20,12,9,2023,Regular season
+2023-03-03,36,Penrith Panthers,Brisbane Broncos,0.7786,0,12,13,10,2023,Regular season
+2023-03-04,36,Manly Warringah Sea Eagles,Canterbury Bulldogs,0.6243,1,31,6,9,2023,Regular season
+2023-03-04,36,North Queensland Cowboys,Canberra Raiders,0.7387,1,19,18,9,2023,Regular season
+2023-03-04,36,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.3631,0,18,27,10,2023,Regular season
+2023-03-05,36,Wests Tigers,Gold Coast Titans,0.6082,0,10,22,10,2023,Regular season
+2023-03-09,36,Penrith Panthers,South Sydney Rabbitohs,0.6255,1,16,10,9,2023,Regular season
+2023-03-10,37,Brisbane Broncos,North Queensland Cowboys,0.5423,1,28,16,8,2023,Regular season
+2023-03-10,37,Parramatta Eels,Cronulla Sutherland Sharks,0.6531,0,26,30,10,2023,Regular season
+2023-03-11,37,Sydney Roosters,New Zealand Warriors,0.7694,1,20,12,9,2023,Regular season
+2023-03-11,37,Melbourne Storm,Canterbury Bulldogs,0.6996,0,12,26,10,2023,Regular season
+2023-03-12,37,St George Illawarra Dragons,Gold Coast Titans,0.4525,1,32,18,8,2023,Regular season
+2023-03-12,37,Wests Tigers,Newcastle Knights,0.5854,0,12,14,10,2023,Regular season
+2023-03-16,37,Manly Warringah Sea Eagles,Parramatta Eels,0.5843,1,34,30,10,2023,Regular season
+2023-03-17,38,Sydney Roosters,South Sydney Rabbitohs,0.4376,1,20,18,10,2023,Regular season
+2023-03-18,38,Gold Coast Titans,Melbourne Storm,0.3542,1,38,34,10,2023,Regular season
+2023-03-18,38,Brisbane Broncos,St George Illawarra Dragons,0.76,1,40,18,10,2023,Regular season
+2023-03-18,38,North Queensland Cowboys,New Zealand Warriors,0.7441,0,12,26,9,2023,Regular season
+2023-03-19,38,Canberra Raiders,Cronulla Sutherland Sharks,0.444,1,24,20,10,2023,Regular season
+2023-03-19,38,Canterbury Bulldogs,Wests Tigers,0.7149,1,26,22,10,2023,Regular season
+2023-03-23,38,Parramatta Eels,Penrith Panthers,0.3116,1,17,16,10,2023,Regular season
+2023-03-24,39,Melbourne Storm,Wests Tigers,0.7499,1,24,12,10,2023,Regular season
+2023-03-25,39,South Sydney Rabbitohs,Manly Warringah Sea Eagles,0.5942,1,13,12,10,2023,Regular season
+2023-03-25,39,North Queensland Cowboys,Gold Coast Titans,0.6546,1,24,12,9,2023,Regular season
+2023-03-26,39,New Zealand Warriors,Canterbury Bulldogs,0.5379,1,16,14,10,2023,Regular season
+2023-03-26,39,Newcastle Knights,Canberra Raiders,0.3683,1,24,14,10,2023,Regular season
+2023-03-26,39,St George Illawarra Dragons,Cronulla Sutherland Sharks,0.342,0,8,40,10,2023,Regular season
+2023-03-30,39,Sydney Roosters,Parramatta Eels,0.6256,1,28,20,10,2023,Regular season
+2023-03-31,40,Canberra Raiders,Penrith Panthers,0.2249,0,12,53,10,2023,Regular season
+2023-03-31,40,South Sydney Rabbitohs,Melbourne Storm,0.6294,0,10,18,10,2023,Regular season
+2023-04-01,40,Brisbane Broncos,Wests Tigers,0.8332,1,46,12,10,2023,Regular season
+2023-04-02,40,Canterbury Bulldogs,North Queensland Cowboys,0.5006,1,15,14,9,2023,Regular season
+2023-04-02,40,Cronulla Sutherland Sharks,New Zealand Warriors,0.7792,0,30,32,10,2023,Regular season
+2023-04-06,40,Melbourne Storm,Sydney Roosters,0.5592,1,28,8,10,2023,Regular season
+2023-04-07,41,Canterbury Bulldogs,South Sydney Rabbitohs,0.239,0,16,50,10,2023,Regular season
+2023-04-08,41,Brisbane Broncos,Canberra Raiders,0.8478,0,14,20,10,2023,Regular season
+2023-04-08,41,Penrith Panthers,Manly Warringah Sea Eagles,0.7382,1,44,12,10,2023,Regular season
+2023-04-09,41,Gold Coast Titans,St George Illawarra Dragons,0.4987,1,20,18,10,2023,Regular season
+2023-04-09,41,Newcastle Knights,New Zealand Warriors,0.4953,1,34,24,10,2023,Regular season
+2023-04-10,41,Wests Tigers,Parramatta Eels,0.2268,0,22,28,10,2023,Regular season
+2023-04-14,42,Manly Warringah Sea Eagles,Melbourne Storm,0.3779,1,18,8,10,2023,Regular season
+2023-04-14,42,Cronulla Sutherland Sharks,Sydney Roosters,0.4244,1,22,12,10,2023,Regular season
+2023-04-15,42,Newcastle Knights,Penrith Panthers,0.1636,0,15,16,10,2023,Regular season
+2023-04-15,42,New Zealand Warriors,North Queensland Cowboys,0.4987,1,22,14,9,2023,Regular season
+2023-04-15,42,Gold Coast Titans,Brisbane Broncos,0.276,0,26,43,10,2023,Regular season
+2023-04-16,42,Parramatta Eels,Canterbury Bulldogs,0.7182,1,30,4,10,2023,Regular season
+2023-04-16,42,Canberra Raiders,St George Illawarra Dragons,0.6696,1,20,14,10,2023,Regular season
+2023-04-20,42,South Sydney Rabbitohs,Penrith Panthers,0.3855,1,20,18,10,2023,Regular season
+2023-04-21,43,Parramatta Eels,Brisbane Broncos,0.4317,0,16,26,10,2023,Regular season
+2023-04-22,43,Canterbury Bulldogs,Cronulla Sutherland Sharks,0.1755,0,20,33,10,2023,Regular season
+2023-04-22,43,North Queensland Cowboys,Newcastle Knights,0.5911,1,18,16,8,2023,Regular season
+2023-04-23,43,Wests Tigers,Manly Warringah Sea Eagles,0.2554,0,16,22,9,2023,Regular season
+2023-04-25,43,Melbourne Storm,New Zealand Warriors,0.7612,1,30,22,9,2023,Regular season
+2023-04-25,43,Sydney Roosters,St George Illawarra Dragons,0.7985,1,27,26,9,2023,Regular season
+2023-04-27,43,Cronulla Sutherland Sharks,North Queensland Cowboys,0.7494,1,44,6,9,2023,Regular season
+2023-04-28,44,Parramatta Eels,Newcastle Knights,0.6576,1,43,12,10,2023,Regular season
+2023-04-28,44,Brisbane Broncos,South Sydney Rabbitohs,0.3981,0,6,32,10,2023,Regular season
+2023-04-29,44,Penrith Panthers,Wests Tigers,0.8743,0,8,12,10,2023,Regular season
+2023-04-29,44,Manly Warringah Sea Eagles,Gold Coast Titans,0.6038,0,10,26,10,2023,Regular season
+2023-04-30,44,New Zealand Warriors,Sydney Roosters,0.3409,0,0,14,10,2023,Regular season
+2023-04-30,44,St George Illawarra Dragons,Canterbury Bulldogs,0.6362,0,16,18,10,2023,Regular season
+2023-05-05,45,Manly Warringah Sea Eagles,Brisbane Broncos,0.2533,0,6,32,11,2023,Regular season
+2023-05-05,45,Canterbury Bulldogs,Canberra Raiders,0.3543,0,30,34,11,2023,Regular season
+2023-05-06,45,Melbourne Storm,South Sydney Rabbitohs,0.4703,0,12,28,11,2023,Regular season
+2023-05-06,45,New Zealand Warriors,Penrith Panthers,0.2351,0,6,18,11,2023,Regular season
+2023-05-07,45,Gold Coast Titans,Parramatta Eels,0.3386,1,26,24,11,2023,Regular season
+2023-05-07,45,Sydney Roosters,North Queensland Cowboys,0.7787,0,6,20,11,2023,Regular season
+2023-05-07,45,Wests Tigers,St George Illawarra Dragons,0.4821,1,18,16,11,2023,Regular season
+2023-05-11,45,Melbourne Storm,Brisbane Broncos,0.5639,1,24,16,10,2023,Regular season
+2023-05-12,46,Penrith Panthers,Sydney Roosters,0.6499,1,48,4,10,2023,Regular season
+2023-05-12,46,Canterbury Bulldogs,New Zealand Warriors,0.4453,0,12,24,10,2023,Regular season
+2023-05-13,46,North Queensland Cowboys,St George Illawarra Dragons,0.6677,1,42,22,10,2023,Regular season
+2023-05-13,46,South Sydney Rabbitohs,Wests Tigers,0.8369,1,20,0,10,2023,Regular season
+2023-05-13,46,Canberra Raiders,Parramatta Eels,0.5677,1,26,18,10,2023,Regular season
+2023-05-14,46,Newcastle Knights,Gold Coast Titans,0.5461,1,46,26,10,2023,Regular season
+2023-05-14,46,Manly Warringah Sea Eagles,Cronulla Sutherland Sharks,0.3744,0,14,20,10,2023,Regular season
+2023-05-18,46,Brisbane Broncos,Penrith Panthers,0.2968,0,4,15,10,2023,Regular season
+2023-05-19,47,South Sydney Rabbitohs,Parramatta Eels,0.7228,0,16,36,10,2023,Regular season
+2023-05-19,47,St George Illawarra Dragons,Sydney Roosters,0.3421,1,24,22,10,2023,Regular season
+2023-05-20,47,Cronulla Sutherland Sharks,Newcastle Knights,0.697,1,26,6,10,2023,Regular season
+2023-05-20,47,Dolphins,Melbourne Storm,0.3429,0,16,24,10,2023,Regular season
+2023-05-20,47,Wests Tigers,North Queensland Cowboys,0.4442,1,66,18,10,2023,Regular season
+2023-05-21,47,Canberra Raiders,Manly Warringah Sea Eagles,0.5999,0,14,42,10,2023,Regular season
+2023-05-21,47,Canterbury Bulldogs,Gold Coast Titans,0.4759,1,20,18,10,2023,Regular season
+2023-05-25,47,Dolphins,St George Illawarra Dragons,0.653,1,26,12,9,2023,Regular season
+2023-05-26,48,Parramatta Eels,North Queensland Cowboys,0.8116,1,24,16,9,2023,Regular season
+2023-05-27,48,New Zealand Warriors,Brisbane Broncos,0.6659,0,22,26,10,2023,Regular season
+2023-05-27,48,South Sydney Rabbitohs,Canberra Raiders,0.5688,0,26,33,10,2023,Regular season
+2023-05-28,48,Newcastle Knights,Manly Warringah Sea Eagles,0.7246,1,28,18,10,2023,Regular season
+2023-06-02,49,Wests Tigers,Canberra Raiders,0.4576,0,19,20,9,2023,Regular season
+2023-06-03,49,Cronulla Sutherland Sharks,Brisbane Broncos,0.6089,0,12,20,10,2023,Regular season
+2023-06-03,49,New Zealand Warriors,Dolphins,0.6794,1,30,8,10,2023,Regular season
+2023-06-03,49,Gold Coast Titans,South Sydney Rabbitohs,0.2976,0,28,46,10,2023,Regular season
+2023-06-04,49,North Queensland Cowboys,Melbourne Storm,0.3238,1,45,20,10,2023,Regular season
+2023-06-04,49,Penrith Panthers,St George Illawarra Dragons,0.8719,1,26,18,10,2023,Regular season
+2023-06-04,49,Sydney Roosters,Canterbury Bulldogs,0.7313,1,25,24,10,2023,Regular season
+2023-06-08,49,Gold Coast Titans,Wests Tigers,0.5158,1,28,12,10,2023,Regular season
+2023-06-09,50,Manly Warringah Sea Eagles,Dolphins,0.6982,1,58,18,10,2023,Regular season
+2023-06-09,50,Canberra Raiders,New Zealand Warriors,0.6381,0,14,36,10,2023,Regular season
+2023-06-10,50,St George Illawarra Dragons,South Sydney Rabbitohs,0.4278,1,36,30,10,2023,Regular season
+2023-06-10,50,Sydney Roosters,Penrith Panthers,0.3825,0,6,30,10,2023,Regular season
+2023-06-10,50,Brisbane Broncos,Newcastle Knights,0.7932,1,24,20,10,2023,Regular season
+2023-06-11,50,Melbourne Storm,Cronulla Sutherland Sharks,0.5903,1,54,10,10,2023,Regular season
+2023-06-12,50,Canterbury Bulldogs,Parramatta Eels,0.3487,0,12,34,10,2023,Regular season
+2023-06-16,51,North Queensland Cowboys,Penrith Panthers,0.5244,1,27,23,10,2023,Regular season
+2023-06-17,51,Parramatta Eels,Manly Warringah Sea Eagles,0.6068,1,34,4,10,2023,Regular season
+2023-06-17,51,Newcastle Knights,Sydney Roosters,0.6418,0,16,18,10,2023,Regular season
+2023-06-17,51,Wests Tigers,Melbourne Storm,0.3483,0,6,28,10,2023,Regular season
+2023-06-18,51,Cronulla Sutherland Sharks,Canterbury Bulldogs,0.8496,1,48,10,10,2023,Regular season
+2023-06-23,52,St George Illawarra Dragons,New Zealand Warriors,0.3563,0,18,48,10,2023,Regular season
+2023-06-24,52,Penrith Panthers,Newcastle Knights,0.6057,1,20,12,10,2023,Regular season
+2023-06-24,52,Melbourne Storm,Manly Warringah Sea Eagles,0.7578,1,24,6,10,2023,Regular season
+2023-06-24,52,Dolphins,Parramatta Eels,0.3472,0,20,48,10,2023,Regular season
+2023-06-25,52,Brisbane Broncos,Gold Coast Titans,0.7534,0,12,18,10,2023,Regular season
+2023-06-25,52,South Sydney Rabbitohs,North Queensland Cowboys,0.653,0,6,31,10,2023,Regular season
+2023-06-25,52,Sydney Roosters,Canberra Raiders,0.593,0,18,20,10,2023,Regular season
+2023-06-29,52,Cronulla Sutherland Sharks,St George Illawarra Dragons,0.8609,1,52,16,10,2023,Regular season
+2023-06-30,53,Melbourne Storm,Penrith Panthers,0.5383,0,16,34,10,2023,Regular season
+2023-06-30,53,New Zealand Warriors,South Sydney Rabbitohs,0.6338,0,6,28,10,2023,Regular season
+2023-07-01,53,Canberra Raiders,Gold Coast Titans,0.5796,1,26,22,10,2023,Regular season
+2023-07-01,53,North Queensland Cowboys,Wests Tigers,0.8379,1,74,0,10,2023,Regular season
+2023-07-01,53,Brisbane Broncos,Dolphins,0.7118,1,24,16,10,2023,Regular season
+2023-07-02,53,Canterbury Bulldogs,Newcastle Knights,0.4406,0,0,66,10,2023,Regular season
+2023-07-02,53,Manly Warringah Sea Eagles,Sydney Roosters,0.6049,1,18,16,10,2023,Regular season
+2023-07-06,53,Wests Tigers,Cronulla Sutherland Sharks,0.0855,0,12,36,10,2023,Regular season
+2023-07-07,54,St George Illawarra Dragons,Canberra Raiders,0.23,0,26,36,10,2023,Regular season
+2023-07-08,54,South Sydney Rabbitohs,Canterbury Bulldogs,0.6057,0,32,36,10,2023,Regular season
+2023-07-08,54,Parramatta Eels,New Zealand Warriors,0.3642,0,10,46,10,2023,Regular season
+2023-07-09,54,Gold Coast Titans,Dolphins,0.5846,0,21,23,10,2023,Regular season
+2023-07-14,55,Newcastle Knights,Wests Tigers,0.775,1,34,18,10,2023,Regular season
+2023-07-15,55,Canterbury Bulldogs,Brisbane Broncos,0.3361,0,24,44,10,2023,Regular season
+2023-07-15,55,Manly Warringah Sea Eagles,North Queensland Cowboys,0.4035,0,8,19,10,2023,Regular season
+2023-07-15,55,Sydney Roosters,Melbourne Storm,0.3549,0,16,30,10,2023,Regular season
+2023-07-16,55,Parramatta Eels,Gold Coast Titans,0.7436,1,25,24,10,2023,Regular season
+2023-07-16,55,Dolphins,Penrith Panthers,0.2425,0,14,24,10,2023,Regular season
+2023-07-16,55,New Zealand Warriors,Cronulla Sutherland Sharks,0.516,1,44,12,10,2023,Regular season
+2023-07-20,55,St George Illawarra Dragons,Wests Tigers,0.6143,1,18,14,10,2023,Regular season
+2023-07-21,56,South Sydney Rabbitohs,Brisbane Broncos,0.5008,0,20,36,10,2023,Regular season
+2023-07-21,56,New Zealand Warriors,Canberra Raiders,0.6765,1,21,20,10,2023,Regular season
+2023-07-22,56,Gold Coast Titans,Sydney Roosters,0.4354,0,18,36,10,2023,Regular season
+2023-07-22,56,North Queensland Cowboys,Parramatta Eels,0.6823,1,24,16,10,2023,Regular season
+2023-07-22,56,Newcastle Knights,Melbourne Storm,0.2964,1,26,18,10,2023,Regular season
+2023-07-23,56,Cronulla Sutherland Sharks,Manly Warringah Sea Eagles,0.7137,0,26,30,10,2023,Regular season
+2023-07-23,56,Penrith Panthers,Canterbury Bulldogs,0.948,1,44,18,3,2023,Regular season
+2023-07-27,56,Brisbane Broncos,Sydney Roosters,0.6985,1,32,10,10,2023,Regular season
+2023-07-28,57,Wests Tigers,South Sydney Rabbitohs,0.0987,0,18,32,10,2023,Regular season
+2023-07-28,57,Melbourne Storm,Parramatta Eels,0.6665,1,46,16,10,2023,Regular season
+2023-07-29,57,Canberra Raiders,Newcastle Knights,0.5845,0,6,28,10,2023,Regular season
+2023-07-29,57,St George Illawarra Dragons,Manly Warringah Sea Eagles,0.3355,0,18,24,10,2023,Regular season
+2023-07-29,57,Penrith Panthers,Cronulla Sutherland Sharks,0.8556,1,28,0,10,2023,Regular season
+2023-07-30,57,Canterbury Bulldogs,Dolphins,0.4169,1,23,22,11,2023,Regular season
+2023-07-30,57,Gold Coast Titans,North Queensland Cowboys,0.2871,1,22,13,11,2023,Regular season
+2023-08-03,57,Sydney Roosters,Manly Warringah Sea Eagles,0.6066,1,26,16,11,2023,Regular season
+2023-08-04,58,Gold Coast Titans,New Zealand Warriors,0.2973,0,18,28,11,2023,Regular season
+2023-08-04,58,Penrith Panthers,Melbourne Storm,0.7976,1,26,6,11,2023,Regular season
+2023-08-05,58,North Queensland Cowboys,Brisbane Broncos,0.4899,0,14,30,11,2023,Regular season
+2023-08-05,58,South Sydney Rabbitohs,Cronulla Sutherland Sharks,0.7715,0,16,26,11,2023,Regular season
+2023-08-05,58,Dolphins,Newcastle Knights,0.2732,0,28,30,11,2023,Regular season
+2023-08-06,58,Canberra Raiders,Wests Tigers,0.7505,1,22,18,11,2023,Regular season
+2023-08-06,58,Parramatta Eels,St George Illawarra Dragons,0.8425,1,26,20,11,2023,Regular season
+2023-08-10,58,Manly Warringah Sea Eagles,Penrith Panthers,0.1527,0,12,24,12,2023,Regular season
+2023-08-11,59,Cronulla Sutherland Sharks,Gold Coast Titans,0.737,1,36,6,12,2023,Regular season
+2023-08-11,59,Brisbane Broncos,Parramatta Eels,0.7616,1,54,10,12,2023,Regular season
+2023-08-12,59,South Sydney Rabbitohs,St George Illawarra Dragons,0.8566,1,26,14,12,2023,Regular season
+2023-08-12,59,Wests Tigers,New Zealand Warriors,0.1882,0,22,30,12,2023,Regular season
+2023-08-12,59,Sydney Roosters,Dolphins,0.7376,1,30,14,12,2023,Regular season
+2023-08-13,59,Melbourne Storm,Canberra Raiders,0.7585,1,48,2,12,2023,Regular season
+2023-08-13,59,Newcastle Knights,Canterbury Bulldogs,0.7321,1,42,6,12,2023,Regular season
+2023-08-17,59,North Queensland Cowboys,Cronulla Sutherland Sharks,0.6144,0,12,32,11,2023,Regular season
+2023-08-18,60,New Zealand Warriors,Manly Warringah Sea Eagles,0.8089,1,29,22,11,2023,Regular season
+2023-08-18,60,Parramatta Eels,Sydney Roosters,0.4124,0,12,34,11,2023,Regular season
+2023-08-19,60,Wests Tigers,Dolphins,0.6525,1,24,23,11,2023,Regular season
+2023-08-19,60,St George Illawarra Dragons,Melbourne Storm,0.1789,0,28,38,11,2023,Regular season
+2023-08-19,60,Gold Coast Titans,Penrith Panthers,0.1004,0,14,40,11,2023,Regular season
+2023-08-20,60,Canberra Raiders,Canterbury Bulldogs,0.6901,1,36,24,11,2023,Regular season
+2023-08-20,60,Newcastle Knights,South Sydney Rabbitohs,0.4059,1,29,10,11,2023,Regular season
+2023-08-24,60,Penrith Panthers,Parramatta Eels,0.8744,0,18,32,11,2023,Regular season
+2023-08-25,61,Dolphins,North Queensland Cowboys,0.2998,0,10,34,11,2023,Regular season
+2023-08-25,61,New Zealand Warriors,St George Illawarra Dragons,0.8389,1,18,6,11,2023,Regular season
+2023-08-26,61,Canberra Raiders,Brisbane Broncos,0.2935,0,18,29,11,2023,Regular season
+2023-08-26,61,Melbourne Storm,Gold Coast Titans,0.8861,1,37,16,11,2023,Regular season
+2023-08-26,61,Sydney Roosters,Wests Tigers,0.8242,1,32,8,11,2023,Regular season
+2023-08-27,61,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.3761,0,24,42,11,2023,Regular season
+2023-08-27,61,Newcastle Knights,Cronulla Sutherland Sharks,0.6713,1,32,6,11,2023,Regular season
+2023-08-31,61,Brisbane Broncos,Melbourne Storm,0.6148,0,22,32,11,2023,Regular season
+2023-09-01,62,Manly Warringah Sea Eagles,Wests Tigers,0.7908,1,54,12,11,2023,Regular season
+2023-09-01,62,South Sydney Rabbitohs,Sydney Roosters,0.5622,0,12,26,11,2023,Regular season
+2023-09-02,62,Penrith Panthers,North Queensland Cowboys,0.7653,1,44,12,11,2023,Regular season
+2023-09-02,62,Dolphins,New Zealand Warriors,0.6275,1,34,10,11,2023,Regular season
+2023-09-02,62,St George Illawarra Dragons,Newcastle Knights,0.5002,0,12,32,11,2023,Regular season
+2023-09-03,62,Cronulla Sutherland Sharks,Canberra Raiders,0.743,1,24,6,11,2023,Regular season
+2023-09-03,62,Gold Coast Titans,Canterbury Bulldogs,0.7691,1,34,30,11,2023,Regular season
+2023-09-08,63,Brisbane Broncos,Melbourne Storm,0.5961,1,26,0,12,2023,Finals
+2023-09-09,63,Penrith Panthers,New Zealand Warriors,0.8639,1,32,6,12,2023,Finals
+2023-09-09,63,Cronulla Sutherland Sharks,Sydney Roosters,0.4782,0,12,13,12,2023,Finals
+2023-09-10,63,Newcastle Knights,Canberra Raiders,0.8276,1,30,28,12,2023,Finals
+2023-09-15,64,Melbourne Storm,Sydney Roosters,0.6954,1,18,13,12,2023,Finals
+2023-09-16,64,New Zealand Warriors,Newcastle Knights,0.6215,1,40,10,12,2023,Finals
+2023-09-22,65,Penrith Panthers,Melbourne Storm,0.8085,1,38,4,12,2023,Finals
+2023-09-23,65,Brisbane Broncos,New Zealand Warriors,0.7644,1,42,12,12,2023,Finals
+2023-10-01,66,Penrith Panthers,Brisbane Broncos,0.5971,1,26,24,11,2023,Finals
+2024-03-03,88,Sydney Roosters,Brisbane Broncos,0.3997,1,20,10,11,2024,Regular season
+2024-03-03,88,Manly Warringah Sea Eagles,South Sydney Rabbitohs,0.4872,1,36,24,11,2024,Regular season
+2024-03-07,88,Newcastle Knights,Canberra Raiders,0.6968,0,12,28,11,2024,Regular season
+2024-03-08,89,New Zealand Warriors,Cronulla Sutherland Sharks,0.6246,0,12,16,11,2024,Regular season
+2024-03-08,89,Melbourne Storm,Penrith Panthers,0.3494,1,8,0,11,2024,Regular season
+2024-03-09,89,Gold Coast Titans,St George Illawarra Dragons,0.6134,0,4,28,11,2024,Regular season
+2024-03-09,89,Parramatta Eels,Canterbury Bulldogs,0.6974,1,26,8,11,2024,Regular season
+2024-03-10,89,Dolphins,North Queensland Cowboys,0.3927,0,18,43,11,2024,Regular season
+2024-03-14,89,Brisbane Broncos,South Sydney Rabbitohs,0.696,1,28,18,11,2024,Regular season
+2024-03-15,90,Penrith Panthers,Parramatta Eels,0.6931,1,26,18,12,2024,Regular season
+2024-03-15,90,Cronulla Sutherland Sharks,Canterbury Bulldogs,0.7556,1,25,6,12,2024,Regular season
+2024-03-16,90,Canberra Raiders,Wests Tigers,0.6792,1,32,12,12,2024,Regular season
+2024-03-16,90,Melbourne Storm,New Zealand Warriors,0.6733,1,30,26,12,2024,Regular season
+2024-03-16,90,North Queensland Cowboys,Newcastle Knights,0.6704,1,21,20,12,2024,Regular season
+2024-03-17,90,Dolphins,St George Illawarra Dragons,0.4734,1,38,0,12,2024,Regular season
+2024-03-17,90,Manly Warringah Sea Eagles,Sydney Roosters,0.4391,1,21,14,12,2024,Regular season
+2024-03-21,90,Penrith Panthers,Brisbane Broncos,0.7622,1,34,12,12,2024,Regular season
+2024-03-22,91,Sydney Roosters,South Sydney Rabbitohs,0.6002,1,48,6,12,2024,Regular season
+2024-03-22,91,New Zealand Warriors,Canberra Raiders,0.7027,1,18,10,12,2024,Regular season
+2024-03-23,91,St George Illawarra Dragons,North Queensland Cowboys,0.3393,0,24,46,12,2024,Regular season
+2024-03-23,91,Canterbury Bulldogs,Gold Coast Titans,0.5544,1,32,0,12,2024,Regular season
+2024-03-23,91,Wests Tigers,Cronulla Sutherland Sharks,0.2382,1,32,6,12,2024,Regular season
+2024-03-24,91,Newcastle Knights,Melbourne Storm,0.5406,1,14,12,12,2024,Regular season
+2024-03-24,91,Parramatta Eels,Manly Warringah Sea Eagles,0.5288,1,28,24,12,2024,Regular season
+2024-03-28,91,Sydney Roosters,Penrith Panthers,0.6336,0,16,22,12,2024,Regular season
+2024-03-29,92,South Sydney Rabbitohs,Canterbury Bulldogs,0.6231,1,20,16,12,2024,Regular season
+2024-03-29,92,Brisbane Broncos,North Queensland Cowboys,0.4822,1,38,12,12,2024,Regular season
+2024-03-30,92,Gold Coast Titans,Dolphins,0.4432,0,14,30,12,2024,Regular season
+2024-03-30,92,St George Illawarra Dragons,Manly Warringah Sea Eagles,0.2889,1,20,12,12,2024,Regular season
+2024-03-31,92,Cronulla Sutherland Sharks,Canberra Raiders,0.5836,1,36,22,12,2024,Regular season
+2024-03-31,92,New Zealand Warriors,Newcastle Knights,0.7398,1,20,12,12,2024,Regular season
+2024-04-01,92,Parramatta Eels,Wests Tigers,0.6575,0,16,17,12,2024,Regular season
+2024-04-04,92,Melbourne Storm,Brisbane Broncos,0.6621,1,34,32,12,2024,Regular season
+2024-04-05,93,Canterbury Bulldogs,Sydney Roosters,0.249,1,30,26,12,2024,Regular season
+2024-04-05,93,Newcastle Knights,St George Illawarra Dragons,0.6351,1,30,10,12,2024,Regular season
+2024-04-06,93,Dolphins,Wests Tigers,0.6428,1,26,16,12,2024,Regular season
+2024-04-06,93,South Sydney Rabbitohs,New Zealand Warriors,0.4692,0,4,34,12,2024,Regular season
+2024-04-06,93,Manly Warringah Sea Eagles,Penrith Panthers,0.4244,1,32,18,12,2024,Regular season
+2024-04-07,93,North Queensland Cowboys,Gold Coast Titans,0.8442,1,35,22,12,2024,Regular season
+2024-04-07,93,Canberra Raiders,Parramatta Eels,0.5399,1,41,8,12,2024,Regular season
+2024-04-11,93,Newcastle Knights,Sydney Roosters,0.6035,0,20,22,12,2024,Regular season
+2024-04-12,94,Brisbane Broncos,Dolphins,0.7236,1,28,14,12,2024,Regular season
+2024-04-12,94,Melbourne Storm,Canterbury Bulldogs,0.8575,1,16,14,12,2024,Regular season
+2024-04-13,94,Parramatta Eels,North Queensland Cowboys,0.4184,1,27,20,12,2024,Regular season
+2024-04-13,94,South Sydney Rabbitohs,Cronulla Sutherland Sharks,0.2602,0,22,34,11,2024,Regular season
+2024-04-14,94,Canberra Raiders,Gold Coast Titans,0.7222,1,21,20,12,2024,Regular season
+2024-04-14,94,Wests Tigers,St George Illawarra Dragons,0.5169,0,12,24,12,2024,Regular season
+2024-04-18,94,Sydney Roosters,Melbourne Storm,0.4715,0,12,18,12,2024,Regular season
+2024-04-19,95,St George Illawarra Dragons,New Zealand Warriors,0.3078,1,30,12,12,2024,Regular season
+2024-04-19,95,Parramatta Eels,Dolphins,0.6844,0,16,44,12,2024,Regular season
+2024-04-20,95,Brisbane Broncos,Canberra Raiders,0.6912,1,34,10,12,2024,Regular season
+2024-04-20,95,Gold Coast Titans,Manly Warringah Sea Eagles,0.2914,0,30,34,12,2024,Regular season
+2024-04-20,95,Penrith Panthers,Wests Tigers,0.8111,1,22,6,12,2024,Regular season
+2024-04-21,95,Cronulla Sutherland Sharks,North Queensland Cowboys,0.5935,1,42,6,12,2024,Regular season
+2024-04-21,95,Canterbury Bulldogs,Newcastle Knights,0.5062,1,36,12,12,2024,Regular season
+2024-04-25,95,New Zealand Warriors,Gold Coast Titans,0.7747,0,24,27,12,2024,Regular season
+2024-04-25,95,St George Illawarra Dragons,Sydney Roosters,0.365,0,18,60,12,2024,Regular season
+2024-04-25,95,Melbourne Storm,South Sydney Rabbitohs,0.8118,1,54,20,12,2024,Regular season
+2024-04-26,96,Manly Warringah Sea Eagles,Parramatta Eels,0.7555,1,32,18,12,2024,Regular season
+2024-04-27,96,Wests Tigers,Brisbane Broncos,0.2202,0,10,34,12,2024,Regular season
+2024-04-27,96,North Queensland Cowboys,Penrith Panthers,0.2723,0,20,26,12,2024,Regular season
+2024-04-28,96,Dolphins,Newcastle Knights,0.6602,0,14,18,12,2024,Regular season
+2024-04-28,96,Canberra Raiders,Cronulla Sutherland Sharks,0.3374,0,0,40,12,2024,Regular season
+2024-05-02,96,South Sydney Rabbitohs,Penrith Panthers,0.2091,0,12,42,11,2024,Regular season
+2024-05-03,97,Manly Warringah Sea Eagles,Canberra Raiders,0.7891,0,24,26,11,2024,Regular season
+2024-05-03,97,Brisbane Broncos,Sydney Roosters,0.682,0,18,40,11,2024,Regular season
+2024-05-04,97,Canterbury Bulldogs,Wests Tigers,0.7442,1,22,14,12,2024,Regular season
+2024-05-04,97,Gold Coast Titans,Melbourne Storm,0.193,0,20,22,12,2024,Regular season
+2024-05-04,97,North Queensland Cowboys,Dolphins,0.674,0,26,28,12,2024,Regular season
+2024-05-05,97,Newcastle Knights,New Zealand Warriors,0.3803,1,14,8,12,2024,Regular season
+2024-05-05,97,Cronulla Sutherland Sharks,St George Illawarra Dragons,0.7764,1,20,10,12,2024,Regular season
+2024-05-09,97,Dolphins,Manly Warringah Sea Eagles,0.447,1,30,24,12,2024,Regular season
+2024-05-10,98,Penrith Panthers,Canterbury Bulldogs,0.827,1,16,10,12,2024,Regular season
+2024-05-10,98,Parramatta Eels,Brisbane Broncos,0.2737,0,14,30,12,2024,Regular season
+2024-05-11,98,Wests Tigers,Newcastle Knights,0.4011,0,14,20,12,2024,Regular season
+2024-05-11,98,Melbourne Storm,Cronulla Sutherland Sharks,0.6638,0,18,25,12,2024,Regular season
+2024-05-11,98,St George Illawarra Dragons,South Sydney Rabbitohs,0.6314,1,28,14,12,2024,Regular season
+2024-05-12,98,Gold Coast Titans,North Queensland Cowboys,0.4208,1,20,18,12,2024,Regular season
+2024-05-12,98,Sydney Roosters,New Zealand Warriors,0.7675,1,38,18,12,2024,Regular season
+2024-05-17,99,Canberra Raiders,Canterbury Bulldogs,0.3885,1,24,20,12,2024,Regular season
+2024-05-17,99,Manly Warringah Sea Eagles,Brisbane Broncos,0.3469,0,12,13,12,2024,Regular season
+2024-05-18,99,Cronulla Sutherland Sharks,Sydney Roosters,0.403,1,38,30,12,2024,Regular season
+2024-05-18,99,South Sydney Rabbitohs,North Queensland Cowboys,0.2954,0,22,28,12,2024,Regular season
+2024-05-18,99,Gold Coast Titans,Newcastle Knights,0.3571,0,24,28,12,2024,Regular season
+2024-05-19,99,Wests Tigers,Dolphins,0.2279,0,12,24,12,2024,Regular season
+2024-05-19,99,New Zealand Warriors,Penrith Panthers,0.185,1,22,20,12,2024,Regular season
+2024-05-19,99,Melbourne Storm,Parramatta Eels,0.7491,1,48,16,12,2024,Regular season
+2024-05-23,99,Canterbury Bulldogs,St George Illawarra Dragons,0.6106,1,44,12,12,2024,Regular season
+2024-05-24,100,Manly Warringah Sea Eagles,Melbourne Storm,0.3937,1,26,20,12,2024,Regular season
+2024-05-24,100,North Queensland Cowboys,Wests Tigers,0.8096,1,42,28,12,2024,Regular season
+2024-05-25,100,Cronulla Sutherland Sharks,Penrith Panthers,0.5729,0,0,42,12,2024,Regular season
+2024-05-25,100,South Sydney Rabbitohs,Parramatta Eels,0.4677,1,42,26,12,2024,Regular season
+2024-05-25,100,Canberra Raiders,Sydney Roosters,0.2365,0,16,44,12,2024,Regular season
+2024-05-26,100,Brisbane Broncos,Gold Coast Titans,0.8053,0,34,36,12,2024,Regular season
+2024-05-26,100,New Zealand Warriors,Dolphins,0.3889,1,24,20,12,2024,Regular season
+2024-05-30,100,Parramatta Eels,Cronulla Sutherland Sharks,0.5199,1,34,22,12,2024,Regular season
+2024-05-31,101,Newcastle Knights,Canterbury Bulldogs,0.6243,0,2,32,12,2024,Regular season
+2024-06-01,101,Dolphins,Canberra Raiders,0.5978,0,25,26,12,2024,Regular season
+2024-06-01,101,Penrith Panthers,St George Illawarra Dragons,0.7217,0,10,22,12,2024,Regular season
+2024-06-02,101,Sydney Roosters,North Queensland Cowboys,0.8203,0,16,18,12,2024,Regular season
+2024-06-07,102,St George Illawarra Dragons,Wests Tigers,0.7069,1,56,14,12,2024,Regular season
+2024-06-08,102,North Queensland Cowboys,New Zealand Warriors,0.5438,0,12,42,12,2024,Regular season
+2024-06-08,102,Gold Coast Titans,South Sydney Rabbitohs,0.5051,0,12,46,12,2024,Regular season
+2024-06-08,102,Brisbane Broncos,Cronulla Sutherland Sharks,0.6236,0,12,22,12,2024,Regular season
+2024-06-09,102,Penrith Panthers,Manly Warringah Sea Eagles,0.6511,1,32,22,12,2024,Regular season
+2024-06-09,102,Melbourne Storm,Newcastle Knights,0.7929,1,36,28,12,2024,Regular season
+2024-06-10,102,Canterbury Bulldogs,Parramatta Eels,0.446,1,22,18,12,2024,Regular season
+2024-06-13,102,Cronulla Sutherland Sharks,Dolphins,0.7077,0,28,30,12,2024,Regular season
+2024-06-14,103,Canberra Raiders,North Queensland Cowboys,0.5591,0,16,34,12,2024,Regular season
+2024-06-14,103,South Sydney Rabbitohs,Brisbane Broncos,0.4162,1,22,12,12,2024,Regular season
+2024-06-15,103,New Zealand Warriors,Melbourne Storm,0.5616,0,24,38,12,2024,Regular season
+2024-06-15,103,Parramatta Eels,Sydney Roosters,0.3432,0,18,28,12,2024,Regular season
+2024-06-15,103,Wests Tigers,Gold Coast Titans,0.4481,1,18,10,12,2024,Regular season
+2024-06-16,103,Manly Warringah Sea Eagles,St George Illawarra Dragons,0.6251,1,30,14,12,2024,Regular season
+2024-06-16,103,Newcastle Knights,Penrith Panthers,0.2479,0,18,26,12,2024,Regular season
+2024-06-21,104,Dolphins,Melbourne Storm,0.3672,0,24,30,12,2024,Regular season
+2024-06-22,104,Sydney Roosters,Canterbury Bulldogs,0.6904,1,26,8,12,2024,Regular season
+2024-06-22,104,Gold Coast Titans,New Zealand Warriors,0.3692,1,66,6,12,2024,Regular season
+2024-06-22,104,South Sydney Rabbitohs,Manly Warringah Sea Eagles,0.6807,1,14,0,12,2024,Regular season
+2024-06-23,104,Wests Tigers,Canberra Raiders,0.3737,1,48,24,12,2024,Regular season
+2024-06-28,105,Canterbury Bulldogs,Cronulla Sutherland Sharks,0.3946,1,15,14,12,2024,Regular season
+2024-06-29,105,Melbourne Storm,Canberra Raiders,0.7165,1,16,6,12,2024,Regular season
+2024-06-29,105,Newcastle Knights,Parramatta Eels,0.5018,1,34,26,12,2024,Regular season
+2024-06-29,105,New Zealand Warriors,Brisbane Broncos,0.5939,1,32,16,12,2024,Regular season
+2024-06-30,105,St George Illawarra Dragons,Dolphins,0.5014,1,26,6,12,2024,Regular season
+2024-06-30,105,Sydney Roosters,Wests Tigers,0.8036,1,40,6,12,2024,Regular season
+2024-06-30,105,Penrith Panthers,North Queensland Cowboys,0.7552,0,6,16,12,2024,Regular season
+2024-07-04,105,Parramatta Eels,South Sydney Rabbitohs,0.4113,0,16,32,12,2024,Regular season
+2024-07-05,106,Cronulla Sutherland Sharks,Gold Coast Titans,0.713,0,16,20,12,2024,Regular season
+2024-07-05,106,Brisbane Broncos,Penrith Panthers,0.393,0,6,14,12,2024,Regular season
+2024-07-06,106,North Queensland Cowboys,Manly Warringah Sea Eagles,0.5522,0,20,21,12,2024,Regular season
+2024-07-06,106,Wests Tigers,Melbourne Storm,0.2528,0,28,40,12,2024,Regular season
+2024-07-06,106,Canterbury Bulldogs,New Zealand Warriors,0.6342,1,13,12,12,2024,Regular season
+2024-07-07,106,Sydney Roosters,St George Illawarra Dragons,0.7768,1,42,12,12,2024,Regular season
+2024-07-07,106,Canberra Raiders,Newcastle Knights,0.4253,0,12,16,12,2024,Regular season
+2024-07-11,106,Dolphins,South Sydney Rabbitohs,0.5494,1,36,28,12,2024,Regular season
+2024-07-12,107,Cronulla Sutherland Sharks,Wests Tigers,0.6868,1,58,6,12,2024,Regular season
+2024-07-13,107,Gold Coast Titans,Parramatta Eels,0.7061,1,24,16,12,2024,Regular season
+2024-07-13,107,Brisbane Broncos,St George Illawarra Dragons,0.6225,0,26,30,12,2024,Regular season
+2024-07-14,107,Manly Warringah Sea Eagles,Newcastle Knights,0.6886,1,44,6,12,2024,Regular season
+2024-07-19,108,Canberra Raiders,New Zealand Warriors,0.5774,1,20,18,12,2024,Regular season
+2024-07-20,108,Newcastle Knights,Brisbane Broncos,0.3825,0,14,30,12,2024,Regular season
+2024-07-20,108,South Sydney Rabbitohs,Wests Tigers,0.7246,1,42,28,12,2024,Regular season
+2024-07-20,108,Melbourne Storm,Sydney Roosters,0.4421,1,24,8,12,2024,Regular season
+2024-07-21,108,Penrith Panthers,Dolphins,0.7368,1,28,26,12,2024,Regular season
+2024-07-21,108,Manly Warringah Sea Eagles,Gold Coast Titans,0.6726,1,38,8,12,2024,Regular season
+2024-07-21,108,North Queensland Cowboys,Canterbury Bulldogs,0.5772,1,20,18,12,2024,Regular season
+2024-07-26,109,New Zealand Warriors,Wests Tigers,0.7636,1,28,16,12,2024,Regular season
+2024-07-26,109,Parramatta Eels,Melbourne Storm,0.1324,0,14,32,12,2024,Regular season
+2024-07-27,109,Brisbane Broncos,Canterbury Bulldogs,0.7464,0,16,41,12,2024,Regular season
+2024-07-27,109,Sydney Roosters,Manly Warringah Sea Eagles,0.6879,1,34,30,12,2024,Regular season
+2024-07-27,109,North Queensland Cowboys,Cronulla Sutherland Sharks,0.5779,1,30,22,12,2024,Regular season
+2024-07-28,109,St George Illawarra Dragons,Penrith Panthers,0.2289,0,10,46,12,2024,Regular season
+2024-07-28,109,Canberra Raiders,South Sydney Rabbitohs,0.5803,1,32,12,12,2024,Regular season
+2024-07-28,109,Dolphins,Gold Coast Titans,0.6379,0,14,21,12,2024,Regular season
+2024-08-01,109,Wests Tigers,North Queensland Cowboys,0.2775,0,30,48,12,2024,Regular season
+2024-08-02,110,New Zealand Warriors,Parramatta Eels,0.7955,0,20,30,12,2024,Regular season
+2024-08-02,110,Dolphins,Sydney Roosters,0.2303,0,34,40,12,2024,Regular season
+2024-08-03,110,Melbourne Storm,St George Illawarra Dragons,0.8606,0,16,18,12,2024,Regular season
+2024-08-03,110,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.7645,1,20,6,12,2024,Regular season
+2024-08-03,110,Gold Coast Titans,Brisbane Broncos,0.4044,1,46,18,12,2024,Regular season
+2024-08-04,110,Canterbury Bulldogs,Canberra Raiders,0.6843,1,22,18,12,2024,Regular season
+2024-08-04,110,Penrith Panthers,Newcastle Knights,0.8626,1,22,14,12,2024,Regular season
+2024-08-08,110,South Sydney Rabbitohs,Melbourne Storm,0.1651,0,16,28,13,2024,Regular season
+2024-08-09,111,Gold Coast Titans,Cronulla Sutherland Sharks,0.6293,0,0,44,13,2024,Regular season
+2024-08-09,111,Parramatta Eels,Penrith Panthers,0.1637,0,34,36,13,2024,Regular season
+2024-08-10,111,St George Illawarra Dragons,Canterbury Bulldogs,0.4284,0,10,28,13,2024,Regular season
+2024-08-10,111,North Queensland Cowboys,Brisbane Broncos,0.662,0,18,42,13,2024,Regular season
+2024-08-10,111,Canberra Raiders,Manly Warringah Sea Eagles,0.406,0,24,46,13,2024,Regular season
+2024-08-11,111,Newcastle Knights,Wests Tigers,0.7325,1,34,18,13,2024,Regular season
+2024-08-11,111,Dolphins,New Zealand Warriors,0.6502,1,34,32,13,2024,Regular season
+2024-08-15,111,Penrith Panthers,Melbourne Storm,0.6221,0,22,24,13,2024,Regular season
+2024-08-16,112,Manly Warringah Sea Eagles,New Zealand Warriors,0.802,1,24,10,13,2024,Regular season
+2024-08-16,112,Sydney Roosters,Parramatta Eels,0.8322,1,38,14,13,2024,Regular season
+2024-08-17,112,Canterbury Bulldogs,Dolphins,0.621,1,30,10,13,2024,Regular season
+2024-08-17,112,Wests Tigers,South Sydney Rabbitohs,0.36,1,18,16,13,2024,Regular season
+2024-08-17,112,North Queensland Cowboys,Canberra Raiders,0.6344,1,42,4,13,2024,Regular season
+2024-08-18,112,St George Illawarra Dragons,Gold Coast Titans,0.5988,1,32,16,13,2024,Regular season
+2024-08-18,112,Cronulla Sutherland Sharks,Newcastle Knights,0.6923,1,19,18,13,2024,Regular season
+2024-08-22,112,Wests Tigers,Manly Warringah Sea Eagles,0.1729,1,34,26,13,2024,Regular season
+2024-08-23,113,New Zealand Warriors,Canterbury Bulldogs,0.3944,0,18,34,13,2024,Regular season
+2024-08-23,113,Brisbane Broncos,Parramatta Eels,0.7089,1,30,24,13,2024,Regular season
+2024-08-24,113,Canberra Raiders,Penrith Panthers,0.2873,1,22,18,13,2024,Regular season
+2024-08-24,113,South Sydney Rabbitohs,Newcastle Knights,0.3487,0,16,36,13,2024,Regular season
+2024-08-24,113,Melbourne Storm,Dolphins,0.8194,1,48,6,13,2024,Regular season
+2024-08-25,113,St George Illawarra Dragons,Cronulla Sutherland Sharks,0.4605,0,10,38,13,2024,Regular season
+2024-08-25,113,Gold Coast Titans,Sydney Roosters,0.1974,0,22,48,13,2024,Regular season
+2024-08-29,113,North Queensland Cowboys,Melbourne Storm,0.754,1,38,30,13,2024,Regular season
+2024-08-30,114,Penrith Panthers,South Sydney Rabbitohs,0.8583,1,34,12,13,2024,Regular season
+2024-08-30,114,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.5775,0,22,34,13,2024,Regular season
+2024-08-31,114,Parramatta Eels,St George Illawarra Dragons,0.4088,1,44,40,13,2024,Regular season
+2024-08-31,114,Dolphins,Brisbane Broncos,0.3471,1,40,6,13,2024,Regular season
+2024-08-31,114,Cronulla Sutherland Sharks,New Zealand Warriors,0.8146,0,28,30,13,2024,Regular season
+2024-09-01,114,Newcastle Knights,Gold Coast Titans,0.7366,1,36,14,13,2024,Regular season
+2024-09-01,114,Sydney Roosters,Canberra Raiders,0.8467,0,12,14,13,2024,Regular season
+2024-09-05,114,Brisbane Broncos,Melbourne Storm,0.1883,0,12,50,12,2024,Regular season
+2024-09-06,115,South Sydney Rabbitohs,Sydney Roosters,0.232,0,28,36,13,2024,Regular season
+2024-09-06,115,Wests Tigers,Parramatta Eels,0.4363,0,26,60,13,2024,Regular season
+2024-09-07,115,Penrith Panthers,Gold Coast Titans,0.8642,1,18,12,13,2024,Regular season
+2024-09-07,115,Canterbury Bulldogs,North Queensland Cowboys,0.5058,0,6,44,13,2024,Regular season
+2024-09-07,115,St George Illawarra Dragons,Canberra Raiders,0.5665,0,24,26,13,2024,Regular season
+2024-09-08,115,Manly Warringah Sea Eagles,Cronulla Sutherland Sharks,0.5419,0,20,40,13,2024,Regular season
+2024-09-08,115,Newcastle Knights,Dolphins,0.5498,1,14,6,13,2024,Regular season
+2024-09-13,116,Penrith Panthers,Sydney Roosters,0.6963,1,30,10,12,2024,Finals
+2024-09-14,116,Melbourne Storm,Cronulla Sutherland Sharks,0.7481,1,37,10,11,2024,Finals
+2024-09-14,116,North Queensland Cowboys,Newcastle Knights,0.7014,1,28,16,11,2024,Finals
+2024-09-15,116,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.4635,0,22,24,11,2024,Finals
+2024-09-20,117,Cronulla Sutherland Sharks,North Queensland Cowboys,0.5887,1,26,18,11,2024,Finals
+2024-09-21,117,Sydney Roosters,Manly Warringah Sea Eagles,0.6243,1,40,16,11,2024,Finals
+2024-09-27,118,Melbourne Storm,Sydney Roosters,0.7436,1,48,18,11,2024,Finals
+2024-09-28,118,Penrith Panthers,Cronulla Sutherland Sharks,0.8077,1,26,6,11,2024,Finals
+2024-10-06,119,Melbourne Storm,Penrith Panthers,0.5423,0,6,14,11,2024,Finals
+2025-03-02,140,Penrith Panthers,Cronulla Sutherland Sharks,0.5528,1,28,22,13,2025,Regular season
+2025-03-02,140,Canberra Raiders,New Zealand Warriors,0.44,1,30,8,12,2025,Regular season
+2025-03-06,140,Sydney Roosters,Brisbane Broncos,0.3024,0,14,50,13,2025,Regular season
+2025-03-07,141,Wests Tigers,Newcastle Knights,0.413,0,8,10,12,2025,Regular season
+2025-03-08,141,St George Illawarra Dragons,Canterbury Bulldogs,0.4286,0,20,28,12,2025,Regular season
+2025-03-08,141,Manly Warringah Sea Eagles,North Queensland Cowboys,0.6808,1,42,12,12,2025,Regular season
+2025-03-09,141,Melbourne Storm,Parramatta Eels,0.8718,1,56,18,12,2025,Regular season
+2025-03-13,141,Newcastle Knights,Dolphins,0.6112,1,26,12,13,2025,Regular season
+2025-03-14,142,Penrith Panthers,Sydney Roosters,0.9124,0,32,38,12,2025,Regular season
+2025-03-14,142,New Zealand Warriors,Manly Warringah Sea Eagles,0.2937,1,36,16,12,2025,Regular season
+2025-03-15,142,Canberra Raiders,Brisbane Broncos,0.2395,1,32,22,12,2025,Regular season
+2025-03-15,142,St George Illawarra Dragons,South Sydney Rabbitohs,0.6593,0,24,25,12,2025,Regular season
+2025-03-15,142,North Queensland Cowboys,Cronulla Sutherland Sharks,0.2994,0,12,36,12,2025,Regular season
+2025-03-16,142,Canterbury Bulldogs,Gold Coast Titans,0.6628,1,40,24,12,2025,Regular season
+2025-03-16,142,Parramatta Eels,Wests Tigers,0.403,0,6,32,13,2025,Regular season
+2025-03-20,142,Melbourne Storm,Penrith Panthers,0.7198,1,30,24,13,2025,Regular season
+2025-03-21,143,Brisbane Broncos,North Queensland Cowboys,0.8387,1,26,16,13,2025,Regular season
+2025-03-21,143,New Zealand Warriors,Sydney Roosters,0.5239,1,14,6,13,2025,Regular season
+2025-03-22,143,Gold Coast Titans,Newcastle Knights,0.5343,1,26,6,13,2025,Regular season
+2025-03-22,143,Dolphins,Wests Tigers,0.5615,0,18,30,13,2025,Regular season
+2025-03-22,143,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.8252,1,27,12,13,2025,Regular season
+2025-03-23,143,Manly Warringah Sea Eagles,Canberra Raiders,0.5655,1,40,12,13,2025,Regular season
+2025-03-23,143,Parramatta Eels,Canterbury Bulldogs,0.3191,0,8,16,13,2025,Regular season
+2025-03-27,143,South Sydney Rabbitohs,Penrith Panthers,0.2714,1,28,18,14,2025,Regular season
+2025-03-28,144,Dolphins,Brisbane Broncos,0.2266,0,12,20,14,2025,Regular season
+2025-03-28,144,Sydney Roosters,Gold Coast Titans,0.6401,0,12,30,14,2025,Regular season
+2025-03-29,144,Cronulla Sutherland Sharks,Canterbury Bulldogs,0.7519,0,6,20,14,2025,Regular season
+2025-03-29,144,North Queensland Cowboys,Canberra Raiders,0.5136,1,30,20,14,2025,Regular season
+2025-03-29,144,St George Illawarra Dragons,Melbourne Storm,0.3062,1,14,8,14,2025,Regular season
+2025-03-30,144,Wests Tigers,New Zealand Warriors,0.5983,0,24,26,14,2025,Regular season
+2025-03-30,144,Manly Warringah Sea Eagles,Parramatta Eels,0.8198,1,26,12,14,2025,Regular season
+2025-04-03,144,Canberra Raiders,Cronulla Sutherland Sharks,0.4064,1,24,20,13,2025,Regular season
+2025-04-04,145,South Sydney Rabbitohs,Sydney Roosters,0.5871,1,20,14,13,2025,Regular season
+2025-04-04,145,Penrith Panthers,North Queensland Cowboys,0.8002,0,18,22,13,2025,Regular season
+2025-04-05,145,Gold Coast Titans,Dolphins,0.6291,0,10,36,13,2025,Regular season
+2025-04-05,145,Parramatta Eels,St George Illawarra Dragons,0.3894,1,23,22,13,2025,Regular season
+2025-04-05,145,Brisbane Broncos,Wests Tigers,0.8231,1,46,24,13,2025,Regular season
+2025-04-06,145,Canterbury Bulldogs,Newcastle Knights,0.6549,1,20,0,13,2025,Regular season
+2025-04-06,145,Manly Warringah Sea Eagles,Melbourne Storm,0.335,0,24,48,13,2025,Regular season
+2025-04-10,145,Dolphins,Penrith Panthers,0.3173,1,30,12,13,2025,Regular season
+2025-04-11,146,Brisbane Broncos,Sydney Roosters,0.7898,0,16,26,13,2025,Regular season
+2025-04-11,146,St George Illawarra Dragons,Gold Coast Titans,0.6175,1,38,16,13,2025,Regular season
+2025-04-12,146,South Sydney Rabbitohs,North Queensland Cowboys,0.4623,0,16,24,13,2025,Regular season
+2025-04-12,146,Cronulla Sutherland Sharks,Manly Warringah Sea Eagles,0.6276,1,24,18,13,2025,Regular season
+2025-04-12,146,Parramatta Eels,Canberra Raiders,0.3325,0,12,50,13,2025,Regular season
+2025-04-13,146,Newcastle Knights,Wests Tigers,0.5372,0,4,20,13,2025,Regular season
+2025-04-13,146,Melbourne Storm,New Zealand Warriors,0.8264,1,42,14,13,2025,Regular season
+2025-04-17,146,Manly Warringah Sea Eagles,St George Illawarra Dragons,0.6088,0,18,20,13,2025,Regular season
+2025-04-18,147,Dolphins,Melbourne Storm,0.2547,1,42,22,13,2025,Regular season
+2025-04-18,147,Canterbury Bulldogs,South Sydney Rabbitohs,0.7253,1,32,0,13,2025,Regular season
+2025-04-19,147,New Zealand Warriors,Brisbane Broncos,0.3059,1,20,18,13,2025,Regular season
+2025-04-19,147,Sydney Roosters,Penrith Panthers,0.3932,0,12,40,13,2025,Regular season
+2025-04-20,147,Gold Coast Titans,Canberra Raiders,0.3542,0,20,30,13,2025,Regular season
+2025-04-20,147,Newcastle Knights,Cronulla Sutherland Sharks,0.3058,0,14,34,13,2025,Regular season
+2025-04-21,147,Wests Tigers,Parramatta Eels,0.5636,0,22,38,13,2025,Regular season
+2025-04-24,147,Brisbane Broncos,Canterbury Bulldogs,0.3909,1,42,18,13,2025,Regular season
+2025-04-25,148,Melbourne Storm,South Sydney Rabbitohs,0.8067,1,24,16,13,2025,Regular season
+2025-04-25,148,New Zealand Warriors,Newcastle Knights,0.6885,1,26,12,13,2025,Regular season
+2025-04-25,148,Sydney Roosters,St George Illawarra Dragons,0.5226,1,46,18,13,2025,Regular season
+2025-04-26,148,Penrith Panthers,Manly Warringah Sea Eagles,0.6305,0,10,26,13,2025,Regular season
+2025-04-26,148,North Queensland Cowboys,Gold Coast Titans,0.6919,1,50,18,13,2025,Regular season
+2025-04-27,148,Canberra Raiders,Dolphins,0.6297,1,40,28,13,2025,Regular season
+2025-04-27,148,Wests Tigers,Cronulla Sutherland Sharks,0.3677,1,20,18,13,2025,Regular season
+2025-05-02,149,Sydney Roosters,Dolphins,0.5033,1,36,26,13,2025,Regular season
+2025-05-02,149,Cronulla Sutherland Sharks,Parramatta Eels,0.6441,1,28,18,13,2025,Regular season
+2025-05-03,149,Wests Tigers,St George Illawarra Dragons,0.5309,1,34,28,13,2025,Regular season
+2025-05-03,149,New Zealand Warriors,North Queensland Cowboys,0.4334,1,30,26,13,2025,Regular season
+2025-05-03,149,South Sydney Rabbitohs,Newcastle Knights,0.4065,0,4,30,13,2025,Regular season
+2025-05-04,149,Gold Coast Titans,Canterbury Bulldogs,0.2605,0,18,38,13,2025,Regular season
+2025-05-04,149,Melbourne Storm,Canberra Raiders,0.6363,0,18,20,13,2025,Regular season
+2025-05-04,149,Penrith Panthers,Brisbane Broncos,0.3679,1,32,8,13,2025,Regular season
+2025-05-08,149,Parramatta Eels,Dolphins,0.5476,0,16,20,13,2025,Regular season
+2025-05-09,150,South Sydney Rabbitohs,Brisbane Broncos,0.2608,1,22,14,13,2025,Regular season
+2025-05-09,150,Newcastle Knights,Gold Coast Titans,0.6463,0,20,24,13,2025,Regular season
+2025-05-10,150,St George Illawarra Dragons,New Zealand Warriors,0.4634,0,14,15,13,2025,Regular season
+2025-05-10,150,Canberra Raiders,Canterbury Bulldogs,0.5551,0,20,32,12,2025,Regular season
+2025-05-11,150,Manly Warringah Sea Eagles,Cronulla Sutherland Sharks,0.568,0,14,30,13,2025,Regular season
+2025-05-11,150,Melbourne Storm,Wests Tigers,0.8067,1,64,0,12,2025,Regular season
+2025-05-16,151,Newcastle Knights,Parramatta Eels,0.4886,0,6,28,13,2025,Regular season
+2025-05-16,151,Canterbury Bulldogs,Sydney Roosters,0.645,1,24,20,13,2025,Regular season
+2025-05-17,151,North Queensland Cowboys,Manly Warringah Sea Eagles,0.5522,0,6,24,13,2025,Regular season
+2025-05-17,151,Cronulla Sutherland Sharks,Melbourne Storm,0.3653,1,31,26,13,2025,Regular season
+2025-05-17,151,Dolphins,New Zealand Warriors,0.4649,0,12,16,13,2025,Regular season
+2025-05-18,151,Canberra Raiders,Gold Coast Titans,0.7275,1,40,24,14,2025,Regular season
+2025-05-18,151,Brisbane Broncos,St George Illawarra Dragons,0.7342,0,26,30,13,2025,Regular season
+2025-05-18,151,Wests Tigers,South Sydney Rabbitohs,0.505,0,12,22,14,2025,Regular season
+2025-05-22,151,Canterbury Bulldogs,Dolphins,0.6634,0,8,44,14,2025,Regular season
+2025-05-23,152,Parramatta Eels,Manly Warringah Sea Eagles,0.3679,1,30,10,14,2025,Regular season
+2025-05-24,152,Sydney Roosters,Cronulla Sutherland Sharks,0.2705,1,42,16,14,2025,Regular season
+2025-05-24,152,Penrith Panthers,Newcastle Knights,0.6208,0,6,25,14,2025,Regular season
+2025-05-25,152,New Zealand Warriors,Canberra Raiders,0.5268,0,10,16,14,2025,Regular season
+2025-05-30,153,St George Illawarra Dragons,Newcastle Knights,0.6939,1,20,6,14,2025,Regular season
+2025-05-31,153,Gold Coast Titans,Melbourne Storm,0.213,0,16,28,14,2025,Regular season
+2025-05-31,153,North Queensland Cowboys,Wests Tigers,0.6931,1,32,28,14,2025,Regular season
+2025-05-31,153,Manly Warringah Sea Eagles,Brisbane Broncos,0.4469,1,34,6,14,2025,Regular season
+2025-06-01,153,Sydney Roosters,Canberra Raiders,0.6013,0,24,26,14,2025,Regular season
+2025-06-01,153,South Sydney Rabbitohs,New Zealand Warriors,0.4262,0,30,36,14,2025,Regular season
+2025-06-01,153,Penrith Panthers,Parramatta Eels,0.6167,1,18,10,14,2025,Regular season
+2025-06-05,153,Newcastle Knights,Manly Warringah Sea Eagles,0.3228,1,26,22,14,2025,Regular season
+2025-06-06,154,Dolphins,St George Illawarra Dragons,0.649,1,56,6,14,2025,Regular season
+2025-06-06,154,Melbourne Storm,North Queensland Cowboys,0.7942,1,38,14,14,2025,Regular season
+2025-06-07,154,Brisbane Broncos,Gold Coast Titans,0.7342,1,44,14,14,2025,Regular season
+2025-06-07,154,Cronulla Sutherland Sharks,New Zealand Warriors,0.6827,0,10,40,14,2025,Regular season
+2025-06-08,154,Canberra Raiders,South Sydney Rabbitohs,0.6865,1,36,12,14,2025,Regular season
+2025-06-08,154,Wests Tigers,Penrith Panthers,0.2565,0,14,18,14,2025,Regular season
+2025-06-09,154,Canterbury Bulldogs,Parramatta Eels,0.6624,1,30,12,14,2025,Regular season
+2025-06-12,154,Cronulla Sutherland Sharks,St George Illawarra Dragons,0.7608,1,30,18,14,2025,Regular season
+2025-06-13,155,Gold Coast Titans,Manly Warringah Sea Eagles,0.2508,1,28,8,14,2025,Regular season
+2025-06-14,155,North Queensland Cowboys,Dolphins,0.3854,0,4,58,14,2025,Regular season
+2025-06-14,155,Newcastle Knights,Sydney Roosters,0.2738,0,8,12,14,2025,Regular season
+2025-06-15,155,South Sydney Rabbitohs,Canterbury Bulldogs,0.3276,0,18,24,14,2025,Regular season
+2025-06-20,156,Wests Tigers,Canberra Raiders,0.2843,0,12,16,13,2025,Regular season
+2025-06-21,156,New Zealand Warriors,Penrith Panthers,0.7843,0,18,28,14,2025,Regular season
+2025-06-21,156,South Sydney Rabbitohs,Melbourne Storm,0.2191,0,24,25,14,2025,Regular season
+2025-06-21,156,Dolphins,Newcastle Knights,0.7506,0,20,26,14,2025,Regular season
+2025-06-22,156,Sydney Roosters,North Queensland Cowboys,0.6866,1,42,8,13,2025,Regular season
+2025-06-22,156,Parramatta Eels,Gold Coast Titans,0.4447,1,36,20,13,2025,Regular season
+2025-06-22,156,Brisbane Broncos,Cronulla Sutherland Sharks,0.6095,1,34,28,14,2025,Regular season
+2025-06-26,156,Penrith Panthers,Canterbury Bulldogs,0.4842,1,8,6,14,2025,Regular season
+2025-06-27,157,Newcastle Knights,Canberra Raiders,0.3593,0,18,22,14,2025,Regular season
+2025-06-27,157,Manly Warringah Sea Eagles,Wests Tigers,0.7088,1,28,10,14,2025,Regular season
+2025-06-28,157,St George Illawarra Dragons,Parramatta Eels,0.5679,1,34,20,14,2025,Regular season
+2025-06-28,157,Brisbane Broncos,New Zealand Warriors,0.6216,1,26,12,14,2025,Regular season
+2025-06-28,157,Dolphins,South Sydney Rabbitohs,0.5934,1,50,28,14,2025,Regular season
+2025-06-29,157,Melbourne Storm,Cronulla Sutherland Sharks,0.7218,1,30,6,14,2025,Regular season
+2025-06-29,157,Gold Coast Titans,North Queensland Cowboys,0.4306,0,24,30,14,2025,Regular season
+2025-07-04,158,Canterbury Bulldogs,Brisbane Broncos,0.6861,0,18,22,14,2025,Regular season
+2025-07-05,158,Canberra Raiders,St George Illawarra Dragons,0.7632,1,28,24,14,2025,Regular season
+2025-07-05,158,North Queensland Cowboys,Melbourne Storm,0.3244,0,20,26,14,2025,Regular season
+2025-07-06,158,Sydney Roosters,Wests Tigers,0.7579,0,28,30,14,2025,Regular season
+2025-07-06,158,Manly Warringah Sea Eagles,South Sydney Rabbitohs,0.7059,1,30,12,14,2025,Regular season
+2025-07-11,159,Cronulla Sutherland Sharks,Dolphins,0.6305,1,24,12,14,2025,Regular season
+2025-07-12,159,North Queensland Cowboys,Canterbury Bulldogs,0.3736,0,8,12,14,2025,Regular season
+2025-07-12,159,St George Illawarra Dragons,Sydney Roosters,0.369,0,24,31,14,2025,Regular season
+2025-07-12,159,Newcastle Knights,Melbourne Storm,0.2956,0,14,32,14,2025,Regular season
+2025-07-13,159,New Zealand Warriors,Wests Tigers,0.6495,1,34,14,14,2025,Regular season
+2025-07-13,159,Parramatta Eels,Penrith Panthers,0.3053,0,10,32,14,2025,Regular season
+2025-07-13,159,Gold Coast Titans,Brisbane Broncos,0.2714,0,14,26,14,2025,Regular season
+2025-07-17,159,Dolphins,North Queensland Cowboys,0.6479,1,43,24,14,2025,Regular season
+2025-07-18,160,Penrith Panthers,South Sydney Rabbitohs,0.7546,1,30,10,14,2025,Regular season
+2025-07-18,160,Cronulla Sutherland Sharks,Sydney Roosters,0.5267,1,31,18,14,2025,Regular season
+2025-07-19,160,Canberra Raiders,Parramatta Eels,0.8023,1,40,16,14,2025,Regular season
+2025-07-19,160,Canterbury Bulldogs,St George Illawarra Dragons,0.7639,1,20,18,14,2025,Regular season
+2025-07-19,160,Melbourne Storm,Manly Warringah Sea Eagles,0.7307,0,16,18,14,2025,Regular season
+2025-07-20,160,Newcastle Knights,New Zealand Warriors,0.3402,0,15,20,13,2025,Regular season
+2025-07-20,160,Wests Tigers,Gold Coast Titans,0.5741,1,21,20,13,2025,Regular season
+2025-07-24,160,Sydney Roosters,Melbourne Storm,0.4046,0,30,34,13,2025,Regular season
+2025-07-25,161,Brisbane Broncos,Parramatta Eels,0.7975,0,20,22,13,2025,Regular season
+2025-07-25,161,North Queensland Cowboys,St George Illawarra Dragons,0.5822,1,38,32,13,2025,Regular season
+2025-07-26,161,New Zealand Warriors,Gold Coast Titans,0.7522,0,16,24,13,2025,Regular season
+2025-07-26,161,South Sydney Rabbitohs,Cronulla Sutherland Sharks,0.195,0,12,14,13,2025,Regular season
+2025-07-26,161,Penrith Panthers,Wests Tigers,0.7746,1,36,2,13,2025,Regular season
+2025-07-27,161,Canberra Raiders,Newcastle Knights,0.8078,1,44,18,13,2025,Regular season
+2025-07-27,161,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.5848,1,42,4,13,2025,Regular season
+2025-07-31,161,Parramatta Eels,Melbourne Storm,0.2778,0,10,16,13,2025,Regular season
+2025-08-01,162,New Zealand Warriors,Dolphins,0.3953,0,18,20,13,2025,Regular season
+2025-08-01,162,Brisbane Broncos,South Sydney Rabbitohs,0.8567,1,60,14,13,2025,Regular season
+2025-08-02,162,St George Illawarra Dragons,Canberra Raiders,0.3064,1,18,12,13,2025,Regular season
+2025-08-02,162,Manly Warringah Sea Eagles,Sydney Roosters,0.5147,0,4,20,13,2025,Regular season
+2025-08-02,162,Gold Coast Titans,Penrith Panthers,0.2092,0,26,30,13,2025,Regular season
+2025-08-03,162,Wests Tigers,Canterbury Bulldogs,0.2772,1,28,14,13,2025,Regular season
+2025-08-03,162,Cronulla Sutherland Sharks,North Queensland Cowboys,0.701,1,32,12,13,2025,Regular season
+2025-08-07,162,Melbourne Storm,Brisbane Broncos,0.6139,1,22,2,13,2025,Regular season
+2025-08-08,163,Newcastle Knights,Penrith Panthers,0.2111,0,12,48,13,2025,Regular season
+2025-08-08,163,Canberra Raiders,Manly Warringah Sea Eagles,0.669,1,28,12,13,2025,Regular season
+2025-08-09,163,Canterbury Bulldogs,New Zealand Warriors,0.6889,1,32,14,13,2025,Regular season
+2025-08-09,163,St George Illawarra Dragons,Cronulla Sutherland Sharks,0.3413,1,22,14,13,2025,Regular season
+2025-08-09,163,Dolphins,Sydney Roosters,0.4666,0,12,64,13,2025,Regular season
+2025-08-10,163,Gold Coast Titans,South Sydney Rabbitohs,0.5953,0,18,20,13,2025,Regular season
+2025-08-10,163,Parramatta Eels,North Queensland Cowboys,0.6005,1,19,18,13,2025,Regular season
+2025-08-14,163,Penrith Panthers,Melbourne Storm,0.6332,0,18,22,13,2025,Regular season
+2025-08-15,164,Sydney Roosters,Canterbury Bulldogs,0.4671,1,32,12,13,2025,Regular season
+2025-08-15,164,New Zealand Warriors,St George Illawarra Dragons,0.6146,1,14,10,13,2025,Regular season
+2025-08-16,164,Cronulla Sutherland Sharks,Gold Coast Titans,0.6918,1,54,22,13,2025,Regular season
+2025-08-16,164,Brisbane Broncos,Dolphins,0.5634,1,38,28,13,2025,Regular season
+2025-08-16,164,South Sydney Rabbitohs,Parramatta Eels,0.334,1,20,16,13,2025,Regular season
+2025-08-17,164,North Queensland Cowboys,Newcastle Knights,0.6963,1,38,4,13,2025,Regular season
+2025-08-17,164,Wests Tigers,Manly Warringah Sea Eagles,0.4289,1,26,12,13,2025,Regular season
+2025-08-21,164,South Sydney Rabbitohs,St George Illawarra Dragons,0.5241,1,40,0,14,2025,Regular season
+2025-08-22,165,Melbourne Storm,Canterbury Bulldogs,0.6465,1,20,14,14,2025,Regular season
+2025-08-22,165,Penrith Panthers,Canberra Raiders,0.5886,0,16,20,14,2025,Regular season
+2025-08-23,165,Gold Coast Titans,New Zealand Warriors,0.4385,0,18,32,14,2025,Regular season
+2025-08-23,165,Manly Warringah Sea Eagles,Dolphins,0.4948,1,58,30,14,2025,Regular season
+2025-08-23,165,Parramatta Eels,Sydney Roosters,0.282,1,30,10,14,2025,Regular season
+2025-08-24,165,Wests Tigers,North Queensland Cowboys,0.5803,0,28,34,13,2025,Regular season
+2025-08-24,165,Newcastle Knights,Brisbane Broncos,0.2458,0,12,46,14,2025,Regular season
+2025-08-28,165,Canterbury Bulldogs,Penrith Panthers,0.8731,1,28,4,14,2025,Regular season
+2025-08-29,166,Melbourne Storm,Sydney Roosters,0.5455,0,10,40,14,2025,Regular season
+2025-08-29,166,New Zealand Warriors,Parramatta Eels,0.6078,0,22,26,14,2025,Regular season
+2025-08-30,166,North Queensland Cowboys,Brisbane Broncos,0.3797,0,30,38,14,2025,Regular season
+2025-08-30,166,St George Illawarra Dragons,Manly Warringah Sea Eagles,0.4977,0,24,40,14,2025,Regular season
+2025-08-30,166,Canberra Raiders,Wests Tigers,0.7916,1,24,10,14,2025,Regular season
+2025-08-31,166,Cronulla Sutherland Sharks,Newcastle Knights,0.8657,1,40,16,13,2025,Regular season
+2025-08-31,166,Dolphins,Gold Coast Titans,0.6649,1,36,30,14,2025,Regular season
+2025-09-04,166,Brisbane Broncos,Melbourne Storm,0.3785,1,30,14,14,2025,Regular season
+2025-09-05,167,Sydney Roosters,South Sydney Rabbitohs,0.757,1,36,6,14,2025,Regular season
+2025-09-05,167,Manly Warringah Sea Eagles,New Zealand Warriors,0.6351,1,27,26,14,2025,Regular season
+2025-09-06,167,St George Illawarra Dragons,Penrith Panthers,0.1871,0,20,40,14,2025,Regular season
+2025-09-06,167,Gold Coast Titans,Wests Tigers,0.4891,1,36,28,14,2025,Regular season
+2025-09-06,167,Canterbury Bulldogs,Cronulla Sutherland Sharks,0.63,0,6,24,14,2025,Regular season
+2025-09-07,167,Parramatta Eels,Newcastle Knights,0.7873,1,66,10,13,2025,Regular season
+2025-09-07,167,Dolphins,Canberra Raiders,0.7601,1,62,24,14,2025,Regular season
+2025-09-12,168,Melbourne Storm,Canterbury Bulldogs,0.661,1,26,18,13,2025,Finals
+2025-09-13,168,New Zealand Warriors,Penrith Panthers,0.2375,0,8,24,6,2025,Finals
+2025-09-13,168,Cronulla Sutherland Sharks,Sydney Roosters,0.4286,1,20,10,13,2025,Finals
+2025-09-14,168,Canberra Raiders,Brisbane Broncos,0.5643,0,28,29,13,2025,Finals
+2025-09-20,169,Canberra Raiders,Cronulla Sutherland Sharks,0.5509,0,12,32,13,2025,Finals
+2025-09-21,169,Canterbury Bulldogs,Penrith Panthers,0.285,0,26,46,12,2025,Finals
+2025-09-26,170,Melbourne Storm,Cronulla Sutherland Sharks,0.6933,1,22,14,12,2025,Finals
+2025-09-28,170,Brisbane Broncos,Penrith Panthers,0.4419,1,16,14,13,2025,Finals
+2025-10-05,171,Melbourne Storm,Brisbane Broncos,0.5527,0,22,26,14,2025,Finals
+2026-03-01,192,Newcastle Knights,North Queensland Cowboys,0.432,1,28,18,9,2026,Regular season
+2026-03-01,192,Canterbury Bulldogs,St George Illawarra Dragons,0.7032,1,15,14,9,2026,Regular season
+2026-03-05,192,Melbourne Storm,Parramatta Eels,0.6621,1,52,4,11,2026,Regular season
+2026-03-06,193,New Zealand Warriors,Sydney Roosters,0.364,1,42,18,10,2026,Regular season
+2026-03-06,193,Brisbane Broncos,Penrith Panthers,0.5329,0,0,26,11,2026,Regular season
+2026-03-07,193,Cronulla Sutherland Sharks,Gold Coast Titans,0.7465,1,50,10,11,2026,Regular season
+2026-03-07,193,Manly Warringah Sea Eagles,Canberra Raiders,0.527,0,28,29,11,2026,Regular season
+2026-03-08,193,Dolphins,South Sydney Rabbitohs,0.5636,0,30,40,11,2026,Regular season
+2026-03-12,193,Brisbane Broncos,Parramatta Eels,0.7661,0,32,40,11,2026,Regular season
+2026-03-13,194,New Zealand Warriors,Canberra Raiders,0.5218,1,40,6,11,2026,Regular season
+2026-03-13,194,Sydney Roosters,South Sydney Rabbitohs,0.5568,1,26,18,11,2026,Regular season
+2026-03-14,194,Wests Tigers,North Queensland Cowboys,0.6054,1,44,16,11,2026,Regular season
+2026-03-14,194,St George Illawarra Dragons,Melbourne Storm,0.2951,0,20,46,11,2026,Regular season
+2026-03-14,194,Penrith Panthers,Cronulla Sutherland Sharks,0.672,1,26,6,11,2026,Regular season
+2026-03-15,194,Manly Warringah Sea Eagles,Newcastle Knights,0.6296,0,16,36,11,2026,Regular season
+2026-03-15,194,Dolphins,Gold Coast Titans,0.7207,1,18,14,11,2026,Regular season
+2026-03-19,194,Canberra Raiders,Canterbury Bulldogs,0.5118,0,10,14,11,2026,Regular season
+2026-03-20,195,Sydney Roosters,Penrith Panthers,0.3793,0,4,40,11,2026,Regular season
+2026-03-20,195,Melbourne Storm,Brisbane Broncos,0.7084,0,14,18,11,2026,Regular season
+2026-03-21,195,Newcastle Knights,New Zealand Warriors,0.3346,0,12,38,11,2026,Regular season
+2026-03-21,195,Cronulla Sutherland Sharks,Dolphins,0.6569,0,10,38,11,2026,Regular season
+2026-03-21,195,South Sydney Rabbitohs,Wests Tigers,0.5932,1,20,16,11,2026,Regular season
+2026-03-22,195,Parramatta Eels,St George Illawarra Dragons,0.6164,1,30,20,11,2026,Regular season
+2026-03-22,195,North Queensland Cowboys,Gold Coast Titans,0.597,1,30,16,11,2026,Regular season
+2026-03-26,195,Manly Warringah Sea Eagles,Sydney Roosters,0.3557,0,16,33,11,2026,Regular season
+2026-03-27,196,New Zealand Warriors,Wests Tigers,0.8,0,14,32,11,2026,Regular season
+2026-03-27,196,Brisbane Broncos,Dolphins,0.5773,1,26,12,11,2026,Regular season
+2026-03-28,196,Canterbury Bulldogs,Newcastle Knights,0.7758,0,16,24,11,2026,Regular season
+2026-03-28,196,Penrith Panthers,Parramatta Eels,0.8067,1,48,20,11,2026,Regular season
+2026-03-28,196,North Queensland Cowboys,Melbourne Storm,0.2439,1,28,24,11,2026,Regular season
+2026-03-29,196,Canberra Raiders,Cronulla Sutherland Sharks,0.5384,0,22,34,11,2026,Regular season
+2026-03-29,196,Gold Coast Titans,St George Illawarra Dragons,0.5483,1,22,14,11,2026,Regular season
+2026-04-02,196,Dolphins,Manly Warringah Sea Eagles,0.6998,0,18,52,11,2026,Regular season
+2026-04-03,197,South Sydney Rabbitohs,Canterbury Bulldogs,0.5124,1,32,24,11,2026,Regular season
+2026-04-03,197,Penrith Panthers,Melbourne Storm,0.7044,1,50,10,11,2026,Regular season
+2026-04-04,197,St George Illawarra Dragons,North Queensland Cowboys,0.4685,0,0,32,11,2026,Regular season
+2026-04-04,197,Gold Coast Titans,Brisbane Broncos,0.2254,0,12,26,11,2026,Regular season
+2026-04-05,197,Cronulla Sutherland Sharks,New Zealand Warriors,0.6079,1,36,22,11,2026,Regular season
+2026-04-05,197,Newcastle Knights,Canberra Raiders,0.423,1,32,12,11,2026,Regular season
+2026-04-06,197,Parramatta Eels,Wests Tigers,0.4995,0,20,22,11,2026,Regular season
+2026-04-09,197,Canterbury Bulldogs,Penrith Panthers,0.1541,1,32,16,11,2026,Regular season
+2026-04-10,198,St George Illawarra Dragons,Manly Warringah Sea Eagles,0.3368,0,18,28,11,2026,Regular season
+2026-04-10,198,Brisbane Broncos,North Queensland Cowboys,0.5287,0,31,35,11,2026,Regular season
+2026-04-11,198,South Sydney Rabbitohs,Canberra Raiders,0.6121,0,34,36,11,2026,Regular season
+2026-04-11,198,Cronulla Sutherland Sharks,Sydney Roosters,0.467,0,22,34,11,2026,Regular season
+2026-04-11,198,Melbourne Storm,New Zealand Warriors,0.7167,0,14,38,11,2026,Regular season
+2026-04-12,198,Parramatta Eels,Gold Coast Titans,0.5861,0,10,52,11,2026,Regular season
+2026-04-12,198,Wests Tigers,Newcastle Knights,0.6038,1,42,22,11,2026,Regular season
+2026-04-16,198,North Queensland Cowboys,Manly Warringah Sea Eagles,0.5884,0,6,38,11,2026,Regular season
+2026-04-17,199,Canberra Raiders,Melbourne Storm,0.459,1,26,22,11,2026,Regular season
+2026-04-17,199,Dolphins,Penrith Panthers,0.2562,0,22,23,11,2026,Regular season
+2026-04-18,199,New Zealand Warriors,Gold Coast Titans,0.7391,1,28,20,11,2026,Regular season
+2026-04-18,199,South Sydney Rabbitohs,St George Illawarra Dragons,0.7511,1,30,12,11,2026,Regular season
+2026-04-18,199,Wests Tigers,Brisbane Broncos,0.6158,0,20,21,11,2026,Regular season
+2026-04-19,199,Sydney Roosters,Newcastle Knights,0.8004,1,38,24,11,2026,Regular season
+2026-04-19,199,Parramatta Eels,Canterbury Bulldogs,0.236,1,38,20,11,2026,Regular season
+2026-04-23,199,Wests Tigers,Canberra Raiders,0.6546,1,33,14,11,2026,Regular season
+2026-04-24,200,North Queensland Cowboys,Cronulla Sutherland Sharks,0.4821,1,46,34,11,2026,Regular season
+2026-04-24,200,Brisbane Broncos,Canterbury Bulldogs,0.4144,1,32,12,11,2026,Regular season
+2026-04-25,200,St George Illawarra Dragons,Sydney Roosters,0.1903,0,16,62,11,2026,Regular season
+2026-04-25,200,New Zealand Warriors,Dolphins,0.6427,1,20,18,11,2026,Regular season
+2026-04-25,200,Melbourne Storm,South Sydney Rabbitohs,0.6154,0,6,48,11,2026,Regular season
+2026-04-26,200,Newcastle Knights,Penrith Panthers,0.2015,0,12,44,11,2026,Regular season
+2026-04-26,200,Manly Warringah Sea Eagles,Parramatta Eels,0.684,1,33,18,11,2026,Regular season
+2026-05-01,201,Canterbury Bulldogs,North Queensland Cowboys,0.5141,0,12,28,11,2026,Regular season
+2026-05-01,201,Dolphins,Melbourne Storm,0.5868,1,28,10,11,2026,Regular season
+2026-05-02,201,Gold Coast Titans,Canberra Raiders,0.606,0,12,28,11,2026,Regular season
+2026-05-02,201,Parramatta Eels,New Zealand Warriors,0.3462,0,14,36,11,2026,Regular season
+2026-05-02,201,Sydney Roosters,Brisbane Broncos,0.6182,1,38,24,11,2026,Regular season
+2026-05-03,201,Newcastle Knights,South Sydney Rabbitohs,0.4519,1,42,38,11,2026,Regular season
+2026-05-03,201,Cronulla Sutherland Sharks,Wests Tigers,0.6472,1,52,10,11,2026,Regular season
+2026-05-03,201,Penrith Panthers,Manly Warringah Sea Eagles,0.8132,1,18,16,11,2026,Regular season
+2026-05-07,201,Dolphins,Canterbury Bulldogs,0.7024,1,44,12,11,2026,Regular season
+2026-05-08,202,North Queensland Cowboys,Parramatta Eels,0.7397,0,30,33,11,2026,Regular season
+2026-05-08,202,Sydney Roosters,Gold Coast Titans,0.8461,1,28,12,11,2026,Regular season
+2026-05-09,202,St George Illawarra Dragons,Newcastle Knights,0.287,0,10,44,11,2026,Regular season
+2026-05-09,202,South Sydney Rabbitohs,Cronulla Sutherland Sharks,0.3763,1,36,12,11,2026,Regular season
+2026-05-09,202,Manly Warringah Sea Eagles,Brisbane Broncos,0.4966,1,32,4,11,2026,Regular season
+2026-05-10,202,Melbourne Storm,Wests Tigers,0.7146,1,44,16,11,2026,Regular season
+2026-05-10,202,Canberra Raiders,Penrith Panthers,0.2852,0,18,30,11,2026,Regular season
+2026-05-15,203,Cronulla Sutherland Sharks,Canterbury Bulldogs,0.6173,1,38,16,11,2026,Regular season
+2026-05-15,203,South Sydney Rabbitohs,Dolphins,0.456,0,10,32,11,2026,Regular season
+2026-05-16,203,Wests Tigers,Manly Warringah Sea Eagles,0.2805,0,18,46,11,2026,Regular season
+2026-05-16,203,Sydney Roosters,North Queensland Cowboys,0.7947,0,12,18,11,2026,Regular season
+2026-05-16,203,Parramatta Eels,Melbourne Storm,0.3122,0,8,34,11,2026,Regular season
+2026-05-17,203,Gold Coast Titans,Newcastle Knights,0.3162,0,12,36,11,2026,Regular season
+2026-05-17,203,New Zealand Warriors,Brisbane Broncos,0.5583,1,42,12,11,2026,Regular season
+2026-05-17,203,Penrith Panthers,St George Illawarra Dragons,0.9123,1,28,6,11,2026,Regular season
+2026-05-21,203,Canberra Raiders,Dolphins,0.568,0,22,30,11,2026,Regular season
+2026-05-22,204,Canterbury Bulldogs,Melbourne Storm,0.5555,1,30,20,11,2026,Regular season
+2026-05-23,204,St George Illawarra Dragons,New Zealand Warriors,0.2306,0,12,30,11,2026,Regular season
+2026-05-23,204,Manly Warringah Sea Eagles,Gold Coast Titans,0.7584,1,12,10,11,2026,Regular season
+2026-05-24,204,North Queensland Cowboys,South Sydney Rabbitohs,0.6095,1,30,18,11,2026,Regular season
+2026-05-29,205,Cronulla Sutherland Sharks,Manly Warringah Sea Eagles,0.529,1,28,22,11,2026,Regular season
+2026-05-30,205,Newcastle Knights,Parramatta Eels,0.788,1,28,22,11,2026,Regular season
+2026-05-30,205,Wests Tigers,Canterbury Bulldogs,0.5662,1,22,16,11,2026,Regular season
+2026-05-30,205,Melbourne Storm,Sydney Roosters,0.4237,1,18,4,11,2026,Regular season
+2026-05-31,205,Brisbane Broncos,St George Illawarra Dragons,0.8553,0,26,30,11,2026,Regular season
+2026-05-31,205,Canberra Raiders,North Queensland Cowboys,0.5776,1,26,12,11,2026,Regular season
+2026-05-31,205,Penrith Panthers,New Zealand Warriors,0.531,1,20,18,11,2026,Regular season
+2026-06-04,205,Manly Warringah Sea Eagles,South Sydney Rabbitohs,0.604,1,28,14,11,2026,Regular season
+2026-06-05,206,Melbourne Storm,Newcastle Knights,0.5869,1,32,30,11,2026,Regular season
+2026-06-05,206,Canberra Raiders,Sydney Roosters,0.4149,0,0,26,11,2026,Regular season
+2026-06-06,206,North Queensland Cowboys,Dolphins,0.3664,0,14,40,11,2026,Regular season
+2026-06-06,206,Brisbane Broncos,Gold Coast Titans,0.6961,0,23,28,11,2026,Regular season
+2026-06-07,206,Wests Tigers,Penrith Panthers,0.1932,0,0,68,11,2026,Regular season
+2026-06-07,206,Cronulla Sutherland Sharks,St George Illawarra Dragons,0.7302,1,34,12,11,2026,Regular season
+2026-06-08,206,Canterbury Bulldogs,Parramatta Eels,0.6655,1,14,12,11,2026,Regular season
+2026-06-11,206,South Sydney Rabbitohs,Brisbane Broncos,0.6688,1,48,6,11,2026,Regular season
+2026-06-12,207,Dolphins,Sydney Roosters,0.7044,1,48,10,11,2026,Regular season
+2026-06-13,207,New Zealand Warriors,Cronulla Sutherland Sharks,0.6849,0,8,10,11,2026,Regular season
+2026-06-13,207,Parramatta Eels,Canberra Raiders,0.446,1,15,12,11,2026,Regular season
+2026-06-14,207,Wests Tigers,Gold Coast Titans,0.624,1,36,28,11,2026,Regular season
+2026-06-19,208,Newcastle Knights,St George Illawarra Dragons,0.741,1,22,20,11,2026,Regular season
+2026-06-20,208,Wests Tigers,Dolphins,0.381,0,22,36,11,2026,Regular season
+2026-06-20,208,Gold Coast Titans,Penrith Panthers,0.2335,1,19,18,11,2026,Regular season
+2026-06-20,208,Canterbury Bulldogs,Manly Warringah Sea Eagles,0.3057,1,13,12,11,2026,Regular season
+2026-06-21,208,New Zealand Warriors,North Queensland Cowboys,0.66,1,38,20,11,2026,Regular season
+2026-06-21,208,Melbourne Storm,Canberra Raiders,0.681,1,42,20,11,2026,Regular season
+2026-06-21,208,Sydney Roosters,Cronulla Sutherland Sharks,0.5931,1,27,8,11,2026,Regular season
+2026-06-25,208,Parramatta Eels,South Sydney Rabbitohs,0.3984,0,12,32,11,2026,Regular season
+2026-06-26,209,Gold Coast Titans,Canterbury Bulldogs,0.5185,0,12,30,11,2026,Regular season
+2026-06-26,209,Brisbane Broncos,Sydney Roosters,0.3418,0,18,24,11,2026,Regular season
+2026-06-27,209,Dolphins,New Zealand Warriors,0.665,1,26,24,11,2026,Regular season
+2026-06-27,209,North Queensland Cowboys,Penrith Panthers,0.2393,1,26,12,11,2026,Regular season
+2026-06-27,209,Manly Warringah Sea Eagles,Melbourne Storm,0.6193,1,30,4,11,2026,Regular season
+2026-06-28,209,Canberra Raiders,St George Illawarra Dragons,0.714,1,24,16,11,2026,Regular season
+2026-06-28,209,Newcastle Knights,Wests Tigers,0.7026,1,12,6,11,2026,Regular season
+2026-07-03,210,Penrith Panthers,South Sydney Rabbitohs,0.6233,1,36,14,11,2026,Regular season
+2026-07-04,210,St George Illawarra Dragons,Wests Tigers,0.4247,1,24,10,11,2026,Regular season
+2026-07-04,210,Brisbane Broncos,Cronulla Sutherland Sharks,0.3638,0,16,28,10,2026,Regular season
+2026-07-05,210,Parramatta Eels,Manly Warringah Sea Eagles,0.2714,1,23,14,11,2026,Regular season
+2026-07-05,210,Newcastle Knights,Dolphins,0.4865,1,13,12,11,2026,Regular season
+2026-07-10,211,Wests Tigers,New Zealand Warriors,0.3067,0,6,32,11,2026,Regular season
+2026-07-11,211,Dolphins,Cronulla Sutherland Sharks,0.5375,0,0,66,11,2026,Regular season
+2026-07-11,211,Canterbury Bulldogs,Canberra Raiders,0.5791,0,16,40,11,2026,Regular season
+2026-07-11,211,Sydney Roosters,Parramatta Eels,0.7368,1,28,12,11,2026,Regular season
+2026-07-12,211,South Sydney Rabbitohs,Newcastle Knights,0.4494,1,26,24,11,2026,Regular season
+2026-07-12,211,Manly Warringah Sea Eagles,North Queensland Cowboys,0.6456,0,18,19,11,2026,Regular season
+2026-07-12,211,Melbourne Storm,Gold Coast Titans,0.7185,1,22,18,11,2026,Regular season
+2026-07-16,211,Penrith Panthers,Brisbane Broncos,0.7622,0,12,14,11,2026,Regular season
+2026-07-17,212,Cronulla Sutherland Sharks,Newcastle Knights,0.6773,1,20,18,11,2026,Regular season
+2026-07-17,212,Sydney Roosters,Melbourne Storm,0.7481,1,14,6,11,2026,Regular season
+2026-07-18,212,Canberra Raiders,South Sydney Rabbitohs,0.5063,1,34,24,11,2026,Regular season
+2026-07-18,212,New Zealand Warriors,St George Illawarra Dragons,0.8203,1,20,12,11,2026,Regular season
+2026-07-18,212,Canterbury Bulldogs,Wests Tigers,0.6361,1,32,0,11,2026,Regular season
+2026-07-19,212,Gold Coast Titans,Manly Warringah Sea Eagles,0.3871,1,38,32,11,2026,Regular season
+2026-07-19,212,Dolphins,North Queensland Cowboys,0.5977,1,36,16,11,2026,Regular season
+2026-07-23,212,Parramatta Eels,Penrith Panthers,0.1955,0,18,24,11,2026,Regular season
+2026-07-24,213,Newcastle Knights,Sydney Roosters,0.294,0,22,23,11,2026,Regular season
+2026-07-24,213,South Sydney Rabbitohs,Melbourne Storm,0.4817,1,28,26,11,2026,Regular season
+2026-07-25,213,Canberra Raiders,Wests Tigers,0.8079,1,56,10,11,2026,Regular season
+2026-07-25,213,Canterbury Bulldogs,New Zealand Warriors,0.4,1,18,6,11,2026,Regular season
+2026-07-25,213,North Queensland Cowboys,Brisbane Broncos,0.3934,1,18,10,11,2026,Regular season
+2026-07-26,213,St George Illawarra Dragons,Gold Coast Titans,0.5183,0,18,38,11,2026,Regular season
+2026-07-26,213,Manly Warringah Sea Eagles,Cronulla Sutherland Sharks,0.3801,0,12,48,11,2026,Regular season
+2026-07-30,213,North Queensland Cowboys,Sydney Roosters,0.3823,0,12,82,11,2026,Regular season
+2026-07-31,214,Melbourne Storm,Canterbury Bulldogs,0.2635,0,22,36,10,2026,Regular season
+2026-07-31,214,St George Illawarra Dragons,Dolphins,0.1873,0,22,28,10,2026,Regular season
+2026-08-01,214,Gold Coast Titans,New Zealand Warriors,0.3911,0,6,42,11,2026,Regular season
+2026-08-01,214,Brisbane Broncos,Newcastle Knights,0.6223,0,6,30,10,2026,Regular season
+2026-08-01,214,Penrith Panthers,Canberra Raiders,0.7226,1,42,18,10,2026,Regular season
+2026-08-02,214,Wests Tigers,Parramatta Eels,0.3665,0,13,16,11,2026,Regular season
+2026-08-02,214,Cronulla Sutherland Sharks,South Sydney Rabbitohs,0.7995,1,32,16,11,2026,Regular season
+2026-08-06,214,Gold Coast Titans,North Queensland Cowboys,0.3942,0,8,30,11,2026,Regular season
+2026-08-07,215,New Zealand Warriors,Penrith Panthers,0.4205,1,28,12,11,2026,Regular season
+2026-08-07,215,Sydney Roosters,Canterbury Bulldogs,0.6336,1,20,18,11,2026,Regular season
+2026-08-08,215,Melbourne Storm,Manly Warringah Sea Eagles,0.4413,1,42,20,11,2026,Regular season
+2026-08-08,215,South Sydney Rabbitohs,Parramatta Eels,0.715,1,28,24,11,2026,Regular season
+2026-08-08,215,Dolphins,Brisbane Broncos,0.6983,1,40,32,11,2026,Regular season
+2026-08-09,215,St George Illawarra Dragons,Cronulla Sutherland Sharks,0.1555,1,24,16,11,2026,Regular season
+2026-08-09,215,Canberra Raiders,Newcastle Knights,0.5932,0,24,30,11,2026,Regular season
+2026-08-13,215,Penrith Panthers,Sydney Roosters,0.6345,0,6,12,11,2026,Regular season
+2026-08-14,216,Manly Warringah Sea Eagles,Dolphins,0.2706,0,0,22,11,2026,Regular season
+2026-08-14,216,Canterbury Bulldogs,South Sydney Rabbitohs,0.614,0,6,22,11,2026,Regular season
+2026-08-15,216,Cronulla Sutherland Sharks,Canberra Raiders,0.7346,0,20,24,11,2026,Regular season
+2026-08-15,216,Parramatta Eels,North Queensland Cowboys,0.3914,1,32,30,11,2026,Regular season
+2026-08-15,216,Brisbane Broncos,New Zealand Warriors,0.3314,0,6,40,11,2026,Regular season
+2026-08-16,216,Newcastle Knights,Gold Coast Titans,0.7511,1,36,26,11,2026,Regular season
+2026-08-16,216,Wests Tigers,St George Illawarra Dragons,0.5254,0,22,24,11,2026,Regular season
+2026-08-20,216,Melbourne Storm,Penrith Panthers,0.3123,0,14,22,11,2026,Regular season
+2026-08-21,217,Dolphins,Parramatta Eels,0.7907,1,34,16,11,2026,Regular season
+2026-08-21,217,Canberra Raiders,Brisbane Broncos,0.7324,0,30,34,11,2026,Regular season
+2026-08-22,217,Newcastle Knights,Manly Warringah Sea Eagles,0.6792,0,24,44,11,2026,Regular season
+2026-08-22,217,South Sydney Rabbitohs,New Zealand Warriors,0.4224,0,26,45,11,2026,Regular season
+2026-08-22,217,St George Illawarra Dragons,Canterbury Bulldogs,0.3375,0,14,44,11,2026,Regular season
+2026-08-23,217,Gold Coast Titans,Cronulla Sutherland Sharks,0.303,0,22,30,11,2026,Regular season
+2026-08-23,217,Sydney Roosters,Wests Tigers,0.895,0,24,25,11,2026,Regular season
+2026-08-27,217,Brisbane Broncos,Melbourne Storm,0.3786,0,20,46,11,2026,Regular season
+2026-08-28,218,Penrith Panthers,Canterbury Bulldogs,0.7113,1,24,10,11,2026,Regular season
+2026-08-28,218,Manly Warringah Sea Eagles,St George Illawarra Dragons,0.7158,1,44,10,11,2026,Regular season
+2026-08-29,218,Gold Coast Titans,South Sydney Rabbitohs,0.2448,0,22,42,11,2026,Regular season
+2026-08-29,218,North Queensland Cowboys,Wests Tigers,0.7689,1,24,10,11,2026,Regular season
+2026-08-29,218,Sydney Roosters,Dolphins,0.6203,0,12,26,11,2026,Regular season
+2026-08-30,218,New Zealand Warriors,Newcastle Knights,0.6608,1,46,32,11,2026,Regular season
+2026-08-30,218,Parramatta Eels,Cronulla Sutherland Sharks,0.3109,1,38,18,11,2026,Regular season
+2026-09-03,218,Canterbury Bulldogs,Brisbane Broncos,0.6713,0,20,34,11,2026,Regular season
+2026-09-04,219,South Sydney Rabbitohs,Sydney Roosters,0.8706,1,50,20,11,2026,Regular season
+2026-09-04,219,Gold Coast Titans,Dolphins,0.2497,0,20,24,11,2026,Regular season
+2026-09-05,219,Cronulla Sutherland Sharks,Melbourne Storm,0.2934,0,20,24,11,2026,Regular season
+2026-09-05,219,North Queensland Cowboys,Canberra Raiders,0.6285,0,30,50,11,2026,Regular season
+2026-09-05,219,New Zealand Warriors,Manly Warringah Sea Eagles,0.7238,1,31,30,11,2026,Regular season
+2026-09-06,219,St George Illawarra Dragons,Parramatta Eels,0.3887,1,24,22,11,2026,Regular season
+2026-09-06,219,Penrith Panthers,Wests Tigers,0.872,1,38,10,11,2026,Regular season
+2026-09-11,220,South Sydney Rabbitohs,Newcastle Knights,0.6827,0,10,20,11,2026,Finals
+2026-09-12,220,New Zealand Warriors,Dolphins,0.5819,0,16,26,11,2026,Finals
+2026-09-12,220,Cronulla Sutherland Sharks,North Queensland Cowboys,0.6716,1,26,16,11,2026,Finals
+2026-09-13,220,Penrith Panthers,Sydney Roosters,0.6952,1,19,12,11,2026,Finals
+2026-09-19,221,Sydney Roosters,Cronulla Sutherland Sharks,0.6535,1,46,10,11,2026,Finals
+2026-09-20,221,New Zealand Warriors,Newcastle Knights,0.6818,0,10,12,12,2026,Finals
+2026-09-25,222,Dolphins,Sydney Roosters,0.5467,0,20,36,12,2026,Finals
+2026-09-27,222,Penrith Panthers,Newcastle Knights,0.6782,0,14,22,11,2026,Finals
+2026-10-04,223,Sydney Roosters,Newcastle Knights,0.6801,1,19,18,11,2026,Finals

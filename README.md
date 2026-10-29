@@ -10,6 +10,24 @@ priced a season. Each study ships one CSV and the same base-R script reproduces 
 | NHL 2026-27 home ice | 133 | Home teams priced at 52.2%, won 57.1% | [nhl-home-ice-2026](https://betbetter.world/studies/nhl-home-ice-2026) | [10.5281/zenodo.23774011](https://doi.org/10.5281/zenodo.23774011) |
 | College football 2026 favourites | 363 | 80%+ favourites won 110 of 117 | [ncaaf-favourites-2026](https://betbetter.world/studies/ncaaf-favourites-2026) | [10.5281/zenodo.23774342](https://doi.org/10.5281/zenodo.23774342) |
 
+### Wave 2 (30-Oct-2026): every league with an honest sample
+
+| Study | Games | Write-up | CSV |
+|---|---|---|---|
+| NBA Back-to-Backs: Tired Teams Won 42.5% of 1,472 Games | 5,897 | [nba-back-to-backs-2021-2026](https://betbetter.world/studies/nba-back-to-backs-2021-2026) | `data/nba_2021_2026_closing_prices_vs_results.csv` |
+| MLB 2026: Underdogs Won 42.6% of 2,163 Games | 2,163 | [mlb-favourites-2026](https://betbetter.world/studies/mlb-favourites-2026) | `data/mlb_2026_closing_prices_vs_results.csv` |
+| ATP Tennis: Big Grand Slam Favourites Lost Only 19 of 256 | 1,722 | [tennis-atp-favourites-2024-2026](https://betbetter.world/studies/tennis-atp-favourites-2024-2026) | `data/atp_2024_2026_closing_prices_vs_results.csv` |
+| WTA Tennis 2024-2026: Favourites Priced at 69.6% Won 70.5% | 1,777 | [tennis-wta-favourites-2024-2026](https://betbetter.world/studies/tennis-wta-favourites-2024-2026) | `data/wta_2024_2026_closing_prices_vs_results.csv` |
+| UFC Favourites Won 70.1% of 1,496 Fights, More Than the Odds Said | 1,496 | [ufc-favourites-2023-2026](https://betbetter.world/studies/ufc-favourites-2023-2026) | `data/ufc_2023_2026_closing_prices_vs_results.csv` |
+| NRL 2022-2026: Slight Favourites Won 126 and Lost 126 | 921 | [nrl-favourites-2022-2026](https://betbetter.world/studies/nrl-favourites-2022-2026) | `data/nrl_2022_2026_closing_prices_vs_results.csv` |
+| AFL 2026: Big Favourites Won 52 of 53 | 212 | [afl-favourites-2026](https://betbetter.world/studies/afl-favourites-2026) | `data/afl_2026_closing_prices_vs_results.csv` |
+| WNBA 2026: The Washington Mystics Won 29 Games. The Odds Expected 22. | 353 | [wnba-favourites-2026](https://betbetter.world/studies/wnba-favourites-2026) | `data/wnba_2026_closing_prices_vs_results.csv` |
+| MLS 2026: 31.9% of Games Were Draws. The Odds Said 23.6%. | 430 | [soccer-draws-2026](https://betbetter.world/studies/soccer-draws-2026) | `data/soccer_2026_closing_prices_vs_results.csv` |
+| College Basketball 2024-25: Home Teams Won 66.1%, More Than the Odds Said | 949 | [college-basketball-home-court-2024-25](https://betbetter.world/studies/college-basketball-home-court-2024-25) | `data/ncaab_2024_25_closing_prices_vs_results.csv` |
+| Cricket: ODI Favourites Won 58.8%. The Odds Said 65.0%. | 424 | [cricket-favourites-2023-2026](https://betbetter.world/studies/cricket-favourites-2023-2026) | `data/cricket_2023_2026_closing_prices_vs_results.csv` |
+
+UFC, ATP and WTA have no home side: `home_team` is the alphabetically first competitor, so the home-field line reads about zero by design and the favourite bands are exact. Cricket `home_team` is the side the books list first. Soccer adds `draw_no_vig_close_prob`, `away_no_vig_close_prob` and `draw`.
+
 More leagues are added as each season's sample grows.
 
 ## Columns

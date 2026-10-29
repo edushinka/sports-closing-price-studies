@@ -1,0 +1,2164 @@
+date_utc,week,home_team,away_team,home_no_vig_close_prob,home_won,home_score,away_score,n_books
+2026-03-26,1,San Francisco Giants,New York Yankees,0.47,0,0,7,10
+2026-03-26,1,New York Mets,Pittsburgh Pirates,0.525,1,11,7,22
+2026-03-26,1,Milwaukee Brewers,Chicago White Sox,0.6303,1,14,2,22
+2026-03-26,1,Chicago Cubs,Washington Nationals,0.6494,0,4,10,22
+2026-03-26,1,Baltimore Orioles,Minnesota Twins,0.562,1,2,1,22
+2026-03-26,1,Cincinnati Reds,Boston Red Sox,0.4102,0,0,3,22
+2026-03-26,1,San Diego Padres,Detroit Tigers,0.463,0,2,8,22
+2026-03-26,1,Houston Astros,Los Angeles Angels,0.6156,0,0,3,22
+2026-03-26,1,Philadelphia Phillies,Texas Rangers,0.5926,1,5,3,22
+2026-03-26,1,St. Louis Cardinals,Tampa Bay Rays,0.4545,1,9,7,22
+2026-03-27,1,San Francisco Giants,New York Yankees,0.4524,0,0,3,22
+2026-03-27,1,Toronto Blue Jays,Athletics,0.6141,1,3,2,22
+2026-03-27,1,Miami Marlins,Colorado Rockies,0.6315,1,2,1,22
+2026-03-27,1,Los Angeles Dodgers,Arizona Diamondbacks,0.708,1,8,2,10
+2026-03-27,1,Seattle Mariners,Cleveland Guardians,0.6196,0,4,6,10
+2026-03-27,1,Atlanta Braves,Kansas City Royals,0.5641,1,6,0,22
+2026-03-28,1,Miami Marlins,Colorado Rockies,0.6348,1,4,3,22
+2026-03-28,1,Milwaukee Brewers,Chicago White Sox,0.6359,1,6,1,22
+2026-03-28,1,Atlanta Braves,Kansas City Royals,0.5755,1,6,2,22
+2026-03-28,1,San Francisco Giants,New York Yankees,0.459,0,1,3,22
+2026-03-28,1,Seattle Mariners,Cleveland Guardians,0.5881,1,5,1,22
+2026-03-28,1,San Diego Padres,Detroit Tigers,0.5497,0,2,5,10
+2026-03-28,1,Seattle Mariners,Cleveland Guardians,0.6111,1,5,1,10
+2026-03-28,1,Los Angeles Dodgers,Arizona Diamondbacks,0.6761,1,5,4,9
+2026-03-28,1,St. Louis Cardinals,Tampa Bay Rays,0.4911,1,6,5,22
+2026-03-28,1,Chicago Cubs,Washington Nationals,0.6816,1,10,2,22
+2026-03-28,1,Toronto Blue Jays,Athletics,0.6373,1,8,7,22
+2026-03-28,1,Baltimore Orioles,Minnesota Twins,0.5981,0,1,4,22
+2026-03-28,1,Philadelphia Phillies,Texas Rangers,0.5691,0,4,5,22
+2026-03-28,1,Cincinnati Reds,Boston Red Sox,0.446,1,6,5,22
+2026-03-28,1,New York Mets,Pittsburgh Pirates,0.6078,1,4,2,22
+2026-03-29,1,Milwaukee Brewers,Chicago White Sox,0.5978,1,9,7,22
+2026-03-29,1,Houston Astros,Los Angeles Angels,0.61,1,9,7,22
+2026-03-29,1,Houston Astros,Los Angeles Angels,0.5556,1,9,7,22
+2026-03-29,1,San Diego Padres,Detroit Tigers,0.5057,1,3,0,10
+2026-03-29,1,Los Angeles Dodgers,Arizona Diamondbacks,0.6843,1,3,2,10
+2026-03-29,1,St. Louis Cardinals,Tampa Bay Rays,0.48,0,7,11,22
+2026-03-29,1,Chicago Cubs,Washington Nationals,0.6865,0,3,6,22
+2026-03-29,1,Atlanta Braves,Kansas City Royals,0.5837,0,1,4,22
+2026-03-29,1,Baltimore Orioles,Minnesota Twins,0.5844,1,8,6,22
+2026-03-29,1,Philadelphia Phillies,Texas Rangers,0.5896,0,3,8,22
+2026-03-29,1,Toronto Blue Jays,Athletics,0.5822,1,5,2,22
+2026-03-29,1,Cincinnati Reds,Boston Red Sox,0.4473,1,3,2,22
+2026-03-29,1,Miami Marlins,Colorado Rockies,0.6312,1,4,3,22
+2026-03-29,1,New York Mets,Pittsburgh Pirates,0.6237,0,3,4,22
+2026-03-30,1,Kansas City Royals,Minnesota Twins,0.596,1,3,1,22
+2026-03-30,1,Baltimore Orioles,Texas Rangers,0.5414,0,2,5,22
+2026-03-30,1,Miami Marlins,Chicago White Sox,0.5717,0,4,9,22
+2026-03-30,1,Cincinnati Reds,Pittsburgh Pirates,0.5485,1,2,0,22
+2026-03-30,1,Philadelphia Phillies,Washington Nationals,0.6089,0,2,13,22
+2026-03-30,1,Toronto Blue Jays,Colorado Rockies,0.7163,0,5,14,22
+2026-03-30,1,Atlanta Braves,Athletics,0.546,1,4,0,22
+2026-03-30,1,Chicago Cubs,Los Angeles Angels,0.6273,1,7,2,22
+2026-03-30,1,Milwaukee Brewers,Tampa Bay Rays,0.591,0,2,3,22
+2026-03-30,1,St. Louis Cardinals,New York Mets,0.424,0,2,4,22
+2026-03-31,1,Houston Astros,Boston Red Sox,0.4572,1,8,1,10
+2026-03-31,1,Seattle Mariners,New York Yankees,0.4798,1,2,1,10
+2026-03-31,1,Seattle Mariners,New York Yankees,0.5128,1,2,1,22
+2026-03-31,1,San Diego Padres,San Francisco Giants,0.5415,0,2,3,22
+2026-03-31,1,San Diego Padres,San Francisco Giants,0.5171,0,2,3,10
+2026-03-31,1,Arizona Diamondbacks,Detroit Tigers,0.5306,1,9,6,10
+2026-03-31,1,Los Angeles Dodgers,Cleveland Guardians,0.6247,0,2,4,10
+2026-03-31,1,Baltimore Orioles,Texas Rangers,0.4685,0,5,8,22
+2026-03-31,1,Miami Marlins,Chicago White Sox,0.5826,1,9,2,22
+2026-03-31,1,Houston Astros,Boston Red Sox,0.4903,1,8,1,22
+2026-03-31,1,Cincinnati Reds,Pittsburgh Pirates,0.4734,0,3,8,22
+2026-03-31,1,Philadelphia Phillies,Washington Nationals,0.6291,1,3,2,22
+2026-03-31,1,Arizona Diamondbacks,Detroit Tigers,0.4484,1,9,6,21
+2026-03-31,1,Toronto Blue Jays,Colorado Rockies,0.699,1,5,1,22
+2026-03-31,1,Atlanta Braves,Athletics,0.5844,0,2,5,22
+2026-03-31,1,Chicago Cubs,Los Angeles Angels,0.5633,0,0,2,22
+2026-03-31,1,Milwaukee Brewers,Tampa Bay Rays,0.5375,1,6,2,22
+2026-03-31,1,St. Louis Cardinals,New York Mets,0.4229,1,3,0,22
+2026-04-01,1,Los Angeles Dodgers,Cleveland Guardians,0.7047,1,4,1,7
+2026-04-01,1,Atlanta Braves,Athletics,0.6657,1,5,1,22
+2026-04-01,1,Baltimore Orioles,Texas Rangers,0.5138,1,8,3,22
+2026-04-01,1,Cincinnati Reds,Pittsburgh Pirates,0.4311,0,3,8,22
+2026-04-01,1,Kansas City Royals,Minnesota Twins,0.4925,1,13,9,22
+2026-04-01,1,Philadelphia Phillies,Washington Nationals,0.7036,1,6,5,22
+2026-04-01,1,Toronto Blue Jays,Colorado Rockies,0.7145,0,1,2,22
+2026-04-01,1,Miami Marlins,Chicago White Sox,0.5714,1,10,0,22
+2026-04-01,1,St. Louis Cardinals,New York Mets,0.3984,1,2,1,22
+2026-04-01,1,Milwaukee Brewers,Tampa Bay Rays,0.5647,1,8,2,22
+2026-04-01,1,Chicago Cubs,Los Angeles Angels,0.597,1,6,2,22
+2026-04-02,2,Los Angeles Dodgers,Cleveland Guardians,0.7182,0,1,4,10
+2026-04-02,2,Kansas City Royals,Minnesota Twins,0.5827,0,1,5,22
+2026-04-03,2,Arizona Diamondbacks,Atlanta Braves,0.4915,0,2,17,10
+2026-04-03,2,San Francisco Giants,New York Mets,0.4742,1,7,2,10
+2026-04-03,2,Washington Nationals,Los Angeles Dodgers,0.2953,0,6,13,22
+2026-04-03,2,Detroit Tigers,St. Louis Cardinals,0.6168,1,4,0,22
+2026-04-03,2,New York Yankees,Miami Marlins,0.589,1,8,2,22
+2026-04-03,2,Boston Red Sox,San Diego Padres,0.5288,1,5,2,22
+2026-04-03,2,Chicago White Sox,Toronto Blue Jays,0.3605,1,5,4,22
+2026-04-03,2,Texas Rangers,Cincinnati Reds,0.6038,0,3,5,22
+2026-04-03,2,Cleveland Guardians,Chicago Cubs,0.4829,1,4,1,22
+2026-04-03,2,Colorado Rockies,Philadelphia Phillies,0.3705,0,1,10,22
+2026-04-03,2,Minnesota Twins,Tampa Bay Rays,0.5015,1,10,4,22
+2026-04-03,2,Pittsburgh Pirates,Baltimore Orioles,0.4755,1,5,4,22
+2026-04-04,2,Los Angeles Angels,Seattle Mariners,0.4123,0,1,3,10
+2026-04-04,2,San Francisco Giants,New York Mets,0.4556,0,3,10,10
+2026-04-04,2,Detroit Tigers,St. Louis Cardinals,0.6039,1,11,6,22
+2026-04-04,2,Los Angeles Angels,Seattle Mariners,0.3997,0,1,3,21
+2026-04-04,2,San Francisco Giants,New York Mets,0.5256,0,3,10,21
+2026-04-04,2,Chicago White Sox,Toronto Blue Jays,0.429,1,6,3,22
+2026-04-04,2,Pittsburgh Pirates,Baltimore Orioles,0.5098,1,3,2,22
+2026-04-04,2,Washington Nationals,Los Angeles Dodgers,0.2797,0,5,10,22
+2026-04-04,2,Boston Red Sox,San Diego Padres,0.5703,0,2,3,22
+2026-04-04,2,Texas Rangers,Cincinnati Reds,0.564,0,0,2,22
+2026-04-04,2,New York Yankees,Miami Marlins,0.6384,1,9,7,22
+2026-04-04,2,Minnesota Twins,Tampa Bay Rays,0.4891,0,1,7,22
+2026-04-05,2,Athletics,Houston Astros,0.5034,1,12,10,22
+2026-04-05,2,Arizona Diamondbacks,Atlanta Braves,0.5031,1,6,5,22
+2026-04-05,2,Arizona Diamondbacks,Atlanta Braves,0.4984,1,6,5,21
+2026-04-05,2,Pittsburgh Pirates,Baltimore Orioles,0.5302,1,8,2,22
+2026-04-05,2,Boston Red Sox,San Diego Padres,0.583,0,6,8,22
+2026-04-05,2,Kansas City Royals,Milwaukee Brewers,0.492,0,5,8,22
+2026-04-05,2,Washington Nationals,Los Angeles Dodgers,0.386,0,6,8,22
+2026-04-05,2,New York Yankees,Miami Marlins,0.7163,0,6,7,22
+2026-04-05,2,Detroit Tigers,St. Louis Cardinals,0.5629,0,3,5,22
+2026-04-05,2,Chicago White Sox,Toronto Blue Jays,0.4031,1,3,0,22
+2026-04-05,2,Kansas City Royals,Milwaukee Brewers,0.5276,0,5,8,22
+2026-04-05,2,Minnesota Twins,Tampa Bay Rays,0.5033,0,1,4,22
+2026-04-05,2,Texas Rangers,Cincinnati Reds,0.5314,0,1,2,22
+2026-04-05,2,Athletics,Houston Astros,0.4554,1,12,10,21
+2026-04-06,2,Cleveland Guardians,Chicago Cubs,0.4568,0,2,4,21
+2026-04-06,2,Tampa Bay Rays,Chicago Cubs,0.5292,1,6,4,22
+2026-04-06,2,Cleveland Guardians,Kansas City Royals,0.5194,0,2,4,22
+2026-04-06,2,Miami Marlins,Cincinnati Reds,0.5517,0,0,2,22
+2026-04-06,2,Pittsburgh Pirates,San Diego Padres,0.5564,0,0,5,22
+2026-04-06,2,Boston Red Sox,Milwaukee Brewers,0.4655,0,6,8,22
+2026-04-06,2,Washington Nationals,St. Louis Cardinals,0.4889,1,9,6,22
+2026-04-06,2,Toronto Blue Jays,Los Angeles Dodgers,0.4629,0,2,14,22
+2026-04-06,2,Chicago White Sox,Baltimore Orioles,0.441,0,1,2,22
+2026-04-06,2,Minnesota Twins,Detroit Tigers,0.5317,1,7,3,22
+2026-04-07,2,San Francisco Giants,Philadelphia Phillies,0.4815,0,4,6,10
+2026-04-07,2,San Francisco Giants,Philadelphia Phillies,0.4403,0,4,6,22
+2026-04-07,2,Texas Rangers,Seattle Mariners,0.4766,1,2,1,22
+2026-04-07,2,Cleveland Guardians,Kansas City Royals,0.5253,1,2,1,22
+2026-04-07,2,Chicago White Sox,Baltimore Orioles,0.4282,0,2,4,21
+2026-04-07,2,Colorado Rockies,Houston Astros,0.4396,1,9,7,22
+2026-04-07,2,Los Angeles Angels,Atlanta Braves,0.4679,1,6,2,22
+2026-04-07,2,New York Mets,Arizona Diamondbacks,0.5805,1,4,3,22
+2026-04-07,2,Tampa Bay Rays,Chicago Cubs,0.5176,0,2,9,22
+2026-04-07,2,Miami Marlins,Cincinnati Reds,0.5593,0,3,6,22
+2026-04-07,2,Texas Rangers,Seattle Mariners,0.5147,1,2,1,10
+2026-04-07,2,Colorado Rockies,Houston Astros,0.4276,1,9,7,10
+2026-04-07,2,Los Angeles Angels,Atlanta Braves,0.3882,1,6,2,10
+2026-04-07,2,Pittsburgh Pirates,San Diego Padres,0.5693,1,7,1,22
+2026-04-07,2,Boston Red Sox,Milwaukee Brewers,0.5903,1,3,2,22
+2026-04-07,2,Washington Nationals,St. Louis Cardinals,0.5119,0,6,7,22
+2026-04-07,2,New York Yankees,Athletics,0.6902,1,5,3,22
+2026-04-07,2,Toronto Blue Jays,Los Angeles Dodgers,0.4213,0,1,4,22
+2026-04-07,2,Minnesota Twins,Detroit Tigers,0.3997,1,4,2,22
+2026-04-08,2,Pittsburgh Pirates,San Diego Padres,0.4707,0,2,8,22
+2026-04-08,2,Cleveland Guardians,Kansas City Royals,0.4533,1,10,2,22
+2026-04-08,2,Minnesota Twins,Detroit Tigers,0.4213,1,8,6,21
+2026-04-08,2,Boston Red Sox,Milwaukee Brewers,0.5585,1,5,0,22
+2026-04-08,2,Chicago White Sox,Baltimore Orioles,0.4261,0,3,5,22
+2026-04-08,2,Toronto Blue Jays,Los Angeles Dodgers,0.416,1,4,3,22
+2026-04-08,2,Washington Nationals,St. Louis Cardinals,0.4712,0,1,6,22
+2026-04-08,2,New York Mets,Arizona Diamondbacks,0.5437,0,2,7,22
+2026-04-08,2,Tampa Bay Rays,Chicago Cubs,0.5113,0,2,6,21
+2026-04-08,2,Miami Marlins,Cincinnati Reds,0.5384,1,7,4,21
+2026-04-08,2,New York Yankees,Athletics,0.6396,0,2,3,21
+2026-04-09,3,Miami Marlins,Cincinnati Reds,0.5309,1,8,1,22
+2026-04-09,3,New York Yankees,Athletics,0.6356,0,0,1,22
+2026-04-09,3,Minnesota Twins,Detroit Tigers,0.4468,1,3,1,22
+2026-04-09,3,New York Mets,Arizona Diamondbacks,0.6216,0,1,7,22
+2026-04-09,3,Kansas City Royals,Chicago White Sox,0.6161,0,0,2,22
+2026-04-10,3,Kansas City Royals,Chicago White Sox,0.6183,1,2,0,21
+2026-04-10,3,Milwaukee Brewers,Washington Nationals,0.647,0,3,7,21
+2026-04-10,3,San Diego Padres,Colorado Rockies,0.6203,1,7,3,10
+2026-04-10,3,Chicago Cubs,Pittsburgh Pirates,0.5813,0,0,2,22
+2026-04-10,3,Philadelphia Phillies,Arizona Diamondbacks,0.6153,0,4,5,22
+2026-04-10,3,Detroit Tigers,Miami Marlins,0.5533,1,2,0,22
+2026-04-10,3,Cincinnati Reds,Los Angeles Angels,0.6142,0,2,10,22
+2026-04-10,3,Toronto Blue Jays,Minnesota Twins,0.58,1,10,4,22
+2026-04-10,3,New York Mets,Athletics,0.5681,0,0,4,22
+2026-04-10,3,Tampa Bay Rays,New York Yankees,0.4846,1,5,3,22
+2026-04-10,3,Atlanta Braves,Cleveland Guardians,0.5584,1,11,5,22
+2026-04-10,3,Baltimore Orioles,San Francisco Giants,0.5299,0,3,6,22
+2026-04-11,3,Atlanta Braves,Cleveland Guardians,0.5191,0,0,6,22
+2026-04-11,3,San Diego Padres,Colorado Rockies,0.6563,1,5,2,21
+2026-04-11,3,Baltimore Orioles,San Francisco Giants,0.4784,1,6,2,22
+2026-04-11,3,San Diego Padres,Colorado Rockies,0.6103,1,5,2,10
+2026-04-11,3,Seattle Mariners,Houston Astros,0.553,1,9,6,10
+2026-04-11,3,Los Angeles Dodgers,Texas Rangers,0.6675,1,8,7,10
+2026-04-11,3,Philadelphia Phillies,Arizona Diamondbacks,0.5418,1,4,3,22
+2026-04-11,3,Los Angeles Dodgers,Texas Rangers,0.5768,1,8,7,22
+2026-04-11,3,Detroit Tigers,Miami Marlins,0.557,1,6,1,22
+2026-04-11,3,Chicago Cubs,Pittsburgh Pirates,0.5675,0,3,4,22
+2026-04-11,3,Toronto Blue Jays,Minnesota Twins,0.5265,0,4,7,22
+2026-04-11,3,New York Mets,Athletics,0.5961,0,6,11,22
+2026-04-11,3,Kansas City Royals,Chicago White Sox,0.6289,1,2,0,22
+2026-04-11,3,Cincinnati Reds,Los Angeles Angels,0.5439,1,7,3,22
+2026-04-11,3,Tampa Bay Rays,New York Yankees,0.3894,1,5,4,22
+2026-04-11,3,Milwaukee Brewers,Washington Nationals,0.6162,0,1,3,22
+2026-04-12,3,St. Louis Cardinals,Boston Red Sox,0.4409,0,3,9,22
+2026-04-12,3,Chicago Cubs,Pittsburgh Pirates,0.5468,1,7,6,22
+2026-04-12,3,Philadelphia Phillies,Arizona Diamondbacks,0.5619,0,3,4,22
+2026-04-12,3,Baltimore Orioles,San Francisco Giants,0.5328,1,6,2,22
+2026-04-12,3,Toronto Blue Jays,Minnesota Twins,0.5542,0,2,8,22
+2026-04-12,3,Tampa Bay Rays,New York Yankees,0.4376,1,5,4,22
+2026-04-12,3,New York Mets,Athletics,0.5982,0,0,1,22
+2026-04-12,3,Cincinnati Reds,Los Angeles Angels,0.4952,0,6,9,22
+2026-04-12,3,Detroit Tigers,Miami Marlins,0.6123,1,8,2,22
+2026-04-12,3,Kansas City Royals,Chicago White Sox,0.6189,0,5,6,22
+2026-04-12,3,Milwaukee Brewers,Washington Nationals,0.6539,0,6,8,22
+2026-04-12,3,Atlanta Braves,Cleveland Guardians,0.6349,1,13,1,22
+2026-04-12,3,St. Louis Cardinals,Boston Red Sox,0.4779,0,3,9,22
+2026-04-13,3,Seattle Mariners,Houston Astros,0.6056,1,6,2,22
+2026-04-13,3,Seattle Mariners,Houston Astros,0.6105,1,6,2,22
+2026-04-13,3,Baltimore Orioles,Arizona Diamondbacks,0.5441,1,9,7,22
+2026-04-13,3,Philadelphia Phillies,Chicago Cubs,0.6153,1,13,7,22
+2026-04-13,3,Pittsburgh Pirates,Washington Nationals,0.6612,1,16,5,22
+2026-04-13,3,New York Yankees,Los Angeles Angels,0.6225,1,11,10,22
+2026-04-13,3,Atlanta Braves,Miami Marlins,0.5738,0,4,10,22
+2026-04-13,3,Minnesota Twins,Boston Red Sox,0.403,1,13,6,22
+2026-04-13,3,St. Louis Cardinals,Cleveland Guardians,0.4774,0,3,9,22
+2026-04-14,3,Baltimore Orioles,Arizona Diamondbacks,0.591,0,3,4,22
+2026-04-14,3,Philadelphia Phillies,Chicago Cubs,0.562,0,4,10,22
+2026-04-14,3,Cincinnati Reds,San Francisco Giants,0.5039,1,2,1,22
+2026-04-14,3,Detroit Tigers,Kansas City Royals,0.5247,1,2,1,22
+2026-04-14,3,Pittsburgh Pirates,Washington Nationals,0.6221,0,4,5,22
+2026-04-14,3,New York Yankees,Los Angeles Angels,0.6154,0,1,7,22
+2026-04-14,3,Atlanta Braves,Miami Marlins,0.5945,1,6,5,22
+2026-04-14,3,Minnesota Twins,Boston Red Sox,0.439,1,6,0,22
+2026-04-14,3,Chicago White Sox,Tampa Bay Rays,0.4496,0,5,8,22
+2026-04-14,3,Milwaukee Brewers,Toronto Blue Jays,0.5251,0,7,9,22
+2026-04-14,3,St. Louis Cardinals,Cleveland Guardians,0.463,1,6,5,22
+2026-04-14,3,Athletics,Texas Rangers,0.4628,0,1,8,10
+2026-04-14,3,Los Angeles Dodgers,New York Mets,0.5944,1,4,0,10
+2026-04-15,3,Baltimore Orioles,Arizona Diamondbacks,0.5511,0,5,8,22
+2026-04-15,3,St. Louis Cardinals,Cleveland Guardians,0.5034,1,5,3,22
+2026-04-15,3,Minnesota Twins,Boston Red Sox,0.4674,0,5,9,22
+2026-04-15,3,Athletics,Texas Rangers,0.4939,1,2,1,22
+2026-04-15,3,Philadelphia Phillies,Chicago Cubs,0.5594,0,2,11,22
+2026-04-15,3,Cincinnati Reds,San Francisco Giants,0.4954,1,8,3,22
+2026-04-15,3,Detroit Tigers,Kansas City Royals,0.5405,1,2,1,22
+2026-04-15,3,Pittsburgh Pirates,Washington Nationals,0.613,1,2,0,22
+2026-04-15,3,New York Yankees,Los Angeles Angels,0.6299,1,5,4,22
+2026-04-15,3,Houston Astros,Colorado Rockies,0.6041,1,7,6,10
+2026-04-15,3,Athletics,Texas Rangers,0.458,1,2,1,10
+2026-04-15,3,San Diego Padres,Seattle Mariners,0.4758,1,4,1,10
+2026-04-15,3,Los Angeles Dodgers,New York Mets,0.6371,1,2,1,10
+2026-04-15,3,Atlanta Braves,Miami Marlins,0.5963,1,6,3,22
+2026-04-15,3,Chicago White Sox,Tampa Bay Rays,0.4935,0,3,8,22
+2026-04-15,3,Milwaukee Brewers,Toronto Blue Jays,0.4741,1,2,1,22
+2026-04-16,4,Pittsburgh Pirates,Washington Nationals,0.5921,0,7,8,22
+2026-04-16,4,Cincinnati Reds,San Francisco Giants,0.5335,0,0,3,22
+2026-04-16,4,Detroit Tigers,Kansas City Royals,0.4748,1,10,9,22
+2026-04-16,4,New York Yankees,Los Angeles Angels,0.7198,0,4,11,22
+2026-04-16,4,Milwaukee Brewers,Toronto Blue Jays,0.5165,1,2,1,22
+2026-04-16,4,Chicago White Sox,Tampa Bay Rays,0.4576,0,3,5,21
+2026-04-16,4,Cleveland Guardians,Baltimore Orioles,0.5436,1,4,2,22
+2026-04-16,4,Houston Astros,Colorado Rockies,0.6301,1,3,1,10
+2026-04-16,4,San Diego Padres,Seattle Mariners,0.4993,1,7,6,10
+2026-04-16,4,Los Angeles Dodgers,New York Mets,0.6286,1,8,2,10
+2026-04-17,4,New York Yankees,Kansas City Royals,0.6142,1,4,2,22
+2026-04-17,4,Miami Marlins,Milwaukee Brewers,0.51,0,5,7,22
+2026-04-17,4,Boston Red Sox,Detroit Tigers,0.5374,1,1,0,22
+2026-04-17,4,Houston Astros,Colorado Rockies,0.5993,0,2,3,10
+2026-04-17,4,San Diego Padres,Seattle Mariners,0.4757,1,5,2,10
+2026-04-17,4,Chicago Cubs,New York Mets,0.5824,1,12,4,22
+2026-04-17,4,Cleveland Guardians,Baltimore Orioles,0.5537,0,4,6,22
+2026-04-17,4,Philadelphia Phillies,Atlanta Braves,0.4892,0,0,9,22
+2026-04-17,4,Pittsburgh Pirates,Tampa Bay Rays,0.5332,1,5,1,22
+2026-04-17,4,Washington Nationals,San Francisco Giants,0.4257,0,5,10,22
+2026-04-18,4,Miami Marlins,Milwaukee Brewers,0.512,0,2,5,22
+2026-04-18,4,Cleveland Guardians,Baltimore Orioles,0.5563,1,4,2,22
+2026-04-18,4,Colorado Rockies,Los Angeles Dodgers,0.2719,0,1,7,10
+2026-04-18,4,Philadelphia Phillies,Atlanta Braves,0.5269,0,1,3,22
+2026-04-18,4,Colorado Rockies,Los Angeles Dodgers,0.3452,0,1,7,21
+2026-04-18,4,Arizona Diamondbacks,Toronto Blue Jays,0.5324,1,6,3,21
+2026-04-18,4,Los Angeles Angels,San Diego Padres,0.5453,1,8,0,10
+2026-04-18,4,Arizona Diamondbacks,Toronto Blue Jays,0.5589,1,6,3,10
+2026-04-18,4,Los Angeles Angels,San Diego Padres,0.4274,1,8,0,21
+2026-04-18,4,New York Yankees,Kansas City Royals,0.5966,1,13,4,22
+2026-04-18,4,Chicago Cubs,New York Mets,0.5133,1,4,2,21
+2026-04-18,4,Washington Nationals,San Francisco Giants,0.4957,0,6,7,22
+2026-04-18,4,Boston Red Sox,Detroit Tigers,0.4276,0,1,4,22
+2026-04-18,4,Pittsburgh Pirates,Tampa Bay Rays,0.5826,0,7,8,21
+2026-04-19,4,Minnesota Twins,Cincinnati Reds,0.5699,0,4,7,22
+2026-04-19,4,Houston Astros,St. Louis Cardinals,0.5533,0,5,7,22
+2026-04-19,4,Chicago Cubs,New York Mets,0.5573,1,2,1,22
+2026-04-19,4,Seattle Mariners,Texas Rangers,0.5575,1,5,2,22
+2026-04-19,4,New York Yankees,Kansas City Royals,0.5809,1,7,0,22
+2026-04-19,4,Athletics,Chicago White Sox,0.593,0,4,7,22
+2026-04-19,4,Pittsburgh Pirates,Tampa Bay Rays,0.501,1,6,3,22
+2026-04-19,4,Washington Nationals,San Francisco Giants,0.4395,1,3,0,22
+2026-04-19,4,Cleveland Guardians,Baltimore Orioles,0.525,1,8,4,22
+2026-04-19,4,Miami Marlins,Milwaukee Brewers,0.5084,1,5,3,22
+2026-04-19,4,Athletics,Chicago White Sox,0.5875,0,4,7,21
+2026-04-19,4,Minnesota Twins,Cincinnati Reds,0.5189,0,4,7,22
+2026-04-19,4,Houston Astros,St. Louis Cardinals,0.5594,0,5,7,22
+2026-04-19,4,Seattle Mariners,Texas Rangers,0.5621,1,5,2,21
+2026-04-19,4,Boston Red Sox,Detroit Tigers,0.5647,0,2,6,20
+2026-04-19,4,Philadelphia Phillies,Atlanta Braves,0.4908,0,2,4,22
+2026-04-20,4,Boston Red Sox,Detroit Tigers,0.5534,1,8,6,22
+2026-04-20,4,Cleveland Guardians,Houston Astros,0.5495,0,2,9,22
+2026-04-20,4,Tampa Bay Rays,Cincinnati Reds,0.5331,0,1,6,22
+2026-04-20,4,Miami Marlins,St. Louis Cardinals,0.5569,1,5,3,22
+2026-04-20,4,Washington Nationals,Atlanta Braves,0.4155,0,4,9,22
+2026-04-20,4,Kansas City Royals,Baltimore Orioles,0.4885,0,5,7,22
+2026-04-20,4,Chicago Cubs,Philadelphia Phillies,0.5109,1,5,1,22
+2026-04-21,4,Colorado Rockies,Los Angeles Dodgers,0.3523,0,3,12,10
+2026-04-21,4,Los Angeles Angels,Toronto Blue Jays,0.4903,0,2,5,10
+2026-04-21,4,Seattle Mariners,Athletics,0.6065,0,4,6,22
+2026-04-21,4,Seattle Mariners,Athletics,0.5661,0,4,6,10
+2026-04-21,4,Cleveland Guardians,Houston Astros,0.5803,1,8,5,22
+2026-04-21,4,Tampa Bay Rays,Cincinnati Reds,0.4907,0,6,12,22
+2026-04-21,4,Los Angeles Angels,Toronto Blue Jays,0.5784,0,2,5,22
+2026-04-21,4,Detroit Tigers,Milwaukee Brewers,0.5075,0,4,12,22
+2026-04-21,4,Miami Marlins,St. Louis Cardinals,0.5215,0,3,5,22
+2026-04-21,4,Washington Nationals,Atlanta Braves,0.4161,1,11,4,22
+2026-04-21,4,Boston Red Sox,New York Yankees,0.5317,0,0,4,22
+2026-04-21,4,New York Mets,Minnesota Twins,0.594,0,3,5,22
+2026-04-21,4,Kansas City Royals,Baltimore Orioles,0.5367,1,6,5,22
+2026-04-21,4,Chicago Cubs,Philadelphia Phillies,0.5395,1,7,4,22
+2026-04-22,4,Arizona Diamondbacks,Chicago White Sox,0.5724,0,5,11,10
+2026-04-22,4,San Francisco Giants,Los Angeles Dodgers,0.3829,1,3,1,10
+2026-04-22,4,Miami Marlins,St. Louis Cardinals,0.5658,1,4,1,22
+2026-04-22,4,Tampa Bay Rays,Cincinnati Reds,0.56,1,6,1,22
+2026-04-22,4,Cleveland Guardians,Houston Astros,0.5937,0,0,2,22
+2026-04-22,4,Colorado Rockies,San Diego Padres,0.4202,0,0,1,22
+2026-04-22,4,Arizona Diamondbacks,Chicago White Sox,0.5761,0,5,11,22
+2026-04-22,4,Kansas City Royals,Baltimore Orioles,0.5436,0,6,8,22
+2026-04-22,4,San Francisco Giants,Los Angeles Dodgers,0.3901,1,3,1,22
+2026-04-22,4,Detroit Tigers,Milwaukee Brewers,0.5497,1,5,2,22
+2026-04-22,4,Washington Nationals,Atlanta Braves,0.4134,0,6,8,22
+2026-04-22,4,Boston Red Sox,New York Yankees,0.4536,0,1,4,22
+2026-04-22,4,New York Mets,Minnesota Twins,0.5909,1,3,2,22
+2026-04-22,4,Chicago Cubs,Philadelphia Phillies,0.6304,1,7,2,22
+2026-04-22,4,Texas Rangers,Pittsburgh Pirates,0.5134,1,5,1,10
+2026-04-22,4,Colorado Rockies,San Diego Padres,0.4292,0,0,1,10
+2026-04-23,5,Washington Nationals,Atlanta Braves,0.4473,0,2,7,22
+2026-04-23,5,Texas Rangers,Pittsburgh Pirates,0.4858,0,4,8,10
+2026-04-23,5,Detroit Tigers,Milwaukee Brewers,0.6682,1,5,4,22
+2026-04-23,5,Chicago Cubs,Philadelphia Phillies,0.4884,1,8,7,22
+2026-04-23,5,Boston Red Sox,New York Yankees,0.429,0,2,4,22
+2026-04-23,5,New York Mets,Minnesota Twins,0.5078,1,10,8,22
+2026-04-24,5,Tampa Bay Rays,Minnesota Twins,0.5586,1,6,2,22
+2026-04-24,5,Atlanta Braves,Philadelphia Phillies,0.5924,1,5,3,22
+2026-04-24,5,Chicago White Sox,Washington Nationals,0.533,1,5,4,22
+2026-04-24,5,Kansas City Royals,Los Angeles Angels,0.4994,1,6,3,22
+2026-04-24,5,Milwaukee Brewers,Pittsburgh Pirates,0.4888,0,0,6,22
+2026-04-24,5,Texas Rangers,Pittsburgh Pirates,0.586,1,6,1,10
+2026-04-24,5,Cincinnati Reds,Detroit Tigers,0.4813,1,9,8,22
+2026-04-24,5,Baltimore Orioles,Boston Red Sox,0.5306,1,10,3,22
+2026-04-24,5,Toronto Blue Jays,Cleveland Guardians,0.4713,0,6,8,22
+2026-04-24,5,New York Mets,Colorado Rockies,0.6479,0,3,4,22
+2026-04-25,5,Tampa Bay Rays,Minnesota Twins,0.5482,1,6,1,22
+2026-04-25,5,Arizona Diamondbacks,San Diego Padres,0.5066,0,4,6,22
+2026-04-25,5,Kansas City Royals,Los Angeles Angels,0.5618,1,12,1,22
+2026-04-25,5,Milwaukee Brewers,Pittsburgh Pirates,0.5641,0,3,6,22
+2026-04-25,5,Atlanta Braves,Philadelphia Phillies,0.549,0,5,8,22
+2026-04-25,5,Cincinnati Reds,Detroit Tigers,0.4978,1,9,2,22
+2026-04-25,5,Baltimore Orioles,Boston Red Sox,0.528,0,1,17,22
+2026-04-25,5,Toronto Blue Jays,Cleveland Guardians,0.5739,1,5,3,22
+2026-04-25,5,Chicago White Sox,Washington Nationals,0.5646,0,3,6,22
+2026-04-26,5,Texas Rangers,Athletics,0.5366,0,1,2,22
+2026-04-26,5,Chicago White Sox,Washington Nationals,0.5214,0,1,2,22
+2026-04-26,5,Houston Astros,New York Yankees,0.4531,1,7,4,22
+2026-04-26,5,Houston Astros,New York Yankees,0.4181,1,7,4,22
+2026-04-26,5,Milwaukee Brewers,Pittsburgh Pirates,0.5263,1,5,0,22
+2026-04-26,5,St. Louis Cardinals,Seattle Mariners,0.454,0,2,3,22
+2026-04-26,5,St. Louis Cardinals,Seattle Mariners,0.4296,0,2,3,22
+2026-04-26,5,Texas Rangers,Athletics,0.5153,0,1,2,22
+2026-04-26,5,Arizona Diamondbacks,San Diego Padres,0.4508,1,12,7,22
+2026-04-26,5,Los Angeles Dodgers,Chicago Cubs,0.56,1,6,0,22
+2026-04-26,5,San Francisco Giants,Miami Marlins,0.4959,1,6,3,22
+2026-04-26,5,Atlanta Braves,Philadelphia Phillies,0.6555,1,6,2,22
+2026-04-26,5,San Francisco Giants,Miami Marlins,0.5332,1,6,3,22
+2026-04-26,5,Los Angeles Dodgers,Chicago Cubs,0.525,1,6,0,22
+2026-04-26,5,Baltimore Orioles,Boston Red Sox,0.5571,0,3,5,22
+2026-04-26,5,Toronto Blue Jays,Cleveland Guardians,0.5394,1,4,2,22
+2026-04-26,5,Cincinnati Reds,Detroit Tigers,0.4996,0,3,8,22
+2026-04-26,5,Tampa Bay Rays,Minnesota Twins,0.5693,1,4,2,22
+2026-04-27,5,Cleveland Guardians,Tampa Bay Rays,0.5592,0,2,3,22
+2026-04-27,5,Pittsburgh Pirates,St. Louis Cardinals,0.527,0,2,4,22
+2026-04-27,5,Toronto Blue Jays,Boston Red Sox,0.5543,0,0,5,22
+2026-04-27,5,Minnesota Twins,Seattle Mariners,0.4652,1,11,4,22
+2026-04-27,5,Chicago White Sox,Los Angeles Angels,0.5062,1,8,7,12
+2026-04-28,5,Los Angeles Dodgers,Miami Marlins,0.7235,1,5,4,10
+2026-04-28,5,Cleveland Guardians,Tampa Bay Rays,0.5425,0,0,1,22
+2026-04-28,5,Baltimore Orioles,Houston Astros,0.552,1,5,3,22
+2026-04-28,5,Cincinnati Reds,Colorado Rockies,0.6383,1,7,2,22
+2026-04-28,5,Philadelphia Phillies,San Francisco Giants,0.5893,1,7,0,22
+2026-04-28,5,Pittsburgh Pirates,St. Louis Cardinals,0.5897,0,7,11,22
+2026-04-28,5,Chicago White Sox,Los Angeles Angels,0.4555,1,5,2,22
+2026-04-28,5,Texas Rangers,New York Yankees,0.4043,0,2,4,10
+2026-04-28,5,San Diego Padres,Chicago Cubs,0.5211,1,9,7,10
+2026-04-28,5,Toronto Blue Jays,Boston Red Sox,0.5117,1,3,0,22
+2026-04-28,5,New York Mets,Washington Nationals,0.6188,1,8,0,22
+2026-04-28,5,Texas Rangers,New York Yankees,0.4861,0,2,4,22
+2026-04-28,5,Atlanta Braves,Detroit Tigers,0.5344,1,5,2,22
+2026-04-28,5,Milwaukee Brewers,Arizona Diamondbacks,0.5466,1,13,2,22
+2026-04-28,5,Minnesota Twins,Seattle Mariners,0.4596,0,1,7,22
+2026-04-28,5,Los Angeles Dodgers,Miami Marlins,0.6819,1,5,4,22
+2026-04-28,5,San Diego Padres,Chicago Cubs,0.4975,1,9,7,21
+2026-04-29,5,Chicago White Sox,Los Angeles Angels,0.4832,1,3,2,22
+2026-04-29,5,Cleveland Guardians,Tampa Bay Rays,0.5135,1,3,1,22
+2026-04-29,5,Athletics,Kansas City Royals,0.5303,0,1,4,22
+2026-04-29,5,Minnesota Twins,Seattle Mariners,0.4471,0,3,5,22
+2026-04-29,5,Toronto Blue Jays,Boston Red Sox,0.521,1,8,1,22
+2026-04-29,5,Athletics,Kansas City Royals,0.4986,0,1,4,10
+2026-04-29,5,Cincinnati Reds,Colorado Rockies,0.58,0,2,13,21
+2026-04-29,5,Pittsburgh Pirates,St. Louis Cardinals,0.5443,0,4,5,21
+2026-04-29,5,New York Mets,Washington Nationals,0.591,0,2,14,21
+2026-04-29,5,Atlanta Braves,Detroit Tigers,0.4391,1,4,3,21
+2026-04-29,5,Milwaukee Brewers,Arizona Diamondbacks,0.5411,0,2,6,22
+2026-04-30,6,Cincinnati Reds,Colorado Rockies,0.5974,1,6,4,22
+2026-04-30,6,New York Mets,Washington Nationals,0.633,0,4,5,22
+2026-04-30,6,Milwaukee Brewers,Arizona Diamondbacks,0.5361,1,13,1,22
+2026-04-30,6,Minnesota Twins,Toronto Blue Jays,0.4493,1,7,1,21
+2026-04-30,6,Atlanta Braves,Detroit Tigers,0.536,0,2,5,22
+2026-04-30,6,Pittsburgh Pirates,St. Louis Cardinals,0.6791,0,5,10,22
+2026-05-01,6,Chicago Cubs,Arizona Diamondbacks,0.5762,1,6,5,22
+2026-05-01,6,Detroit Tigers,Texas Rangers,0.5123,0,4,5,22
+2026-05-01,6,Pittsburgh Pirates,Cincinnati Reds,0.5529,1,9,1,22
+2026-05-01,6,Washington Nationals,Milwaukee Brewers,0.4124,0,1,6,22
+2026-05-01,6,New York Yankees,Baltimore Orioles,0.6241,1,7,2,22
+2026-05-01,6,Boston Red Sox,Houston Astros,0.5248,1,3,1,22
+2026-05-01,6,Miami Marlins,Philadelphia Phillies,0.4859,0,5,6,22
+2026-05-01,6,Tampa Bay Rays,San Francisco Giants,0.556,1,3,0,22
+2026-05-02,6,Colorado Rockies,Atlanta Braves,0.3793,0,6,8,10
+2026-05-02,6,Los Angeles Angels,New York Mets,0.5007,0,3,4,10
+2026-05-02,6,San Diego Padres,Chicago White Sox,0.5662,0,2,8,10
+2026-05-02,6,Detroit Tigers,Texas Rangers,0.5454,1,5,1,22
+2026-05-02,6,Seattle Mariners,Kansas City Royals,0.5574,0,6,7,10
+2026-05-02,6,New York Yankees,Baltimore Orioles,0.6065,1,9,4,22
+2026-05-02,6,Los Angeles Angels,New York Mets,0.4537,0,3,4,22
+2026-05-02,6,San Diego Padres,Chicago White Sox,0.6066,0,2,8,22
+2026-05-02,6,Seattle Mariners,Kansas City Royals,0.5084,0,6,7,22
+2026-05-02,6,Chicago Cubs,Arizona Diamondbacks,0.5987,1,2,0,22
+2026-05-02,6,Pittsburgh Pirates,Cincinnati Reds,0.5545,1,17,7,22
+2026-05-02,6,Washington Nationals,Milwaukee Brewers,0.455,0,1,4,22
+2026-05-02,6,Boston Red Sox,Houston Astros,0.5569,0,3,6,22
+2026-05-02,6,Miami Marlins,Philadelphia Phillies,0.5445,1,4,0,22
+2026-05-02,6,Tampa Bay Rays,San Francisco Giants,0.484,1,5,1,22
+2026-05-03,6,St. Louis Cardinals,Los Angeles Dodgers,0.4462,0,1,4,22
+2026-05-03,6,Athletics,Cleveland Guardians,0.5219,1,7,1,22
+2026-05-03,6,Athletics,Cleveland Guardians,0.4564,1,7,1,22
+2026-05-03,6,Minnesota Twins,Toronto Blue Jays,0.442,1,4,3,22
+2026-05-03,6,Minnesota Twins,Toronto Blue Jays,0.5009,1,4,3,22
+2026-05-03,6,Detroit Tigers,Texas Rangers,0.5254,1,7,1,22
+2026-05-03,6,New York Yankees,Baltimore Orioles,0.7169,1,11,3,22
+2026-05-03,6,Boston Red Sox,Houston Astros,0.6137,0,1,3,22
+2026-05-03,6,Pittsburgh Pirates,Cincinnati Reds,0.5228,1,1,0,22
+2026-05-03,6,Washington Nationals,Milwaukee Brewers,0.4293,1,3,2,22
+2026-05-03,6,Miami Marlins,Philadelphia Phillies,0.4363,0,2,7,22
+2026-05-03,6,Tampa Bay Rays,San Francisco Giants,0.5245,1,2,1,22
+2026-05-03,6,St. Louis Cardinals,Los Angeles Dodgers,0.4464,0,1,4,22
+2026-05-03,6,Chicago Cubs,Arizona Diamondbacks,0.5847,1,8,4,22
+2026-05-04,6,Colorado Rockies,Atlanta Braves,0.3922,0,2,4,22
+2026-05-04,6,Colorado Rockies,New York Mets,0.4396,0,2,4,21
+2026-05-04,6,Miami Marlins,Philadelphia Phillies,0.5038,0,0,1,22
+2026-05-04,6,Tampa Bay Rays,Toronto Blue Jays,0.5372,1,5,1,22
+2026-05-04,6,New York Yankees,Baltimore Orioles,0.6568,1,12,1,22
+2026-05-04,6,Chicago Cubs,Cincinnati Reds,0.6578,1,5,4,21
+2026-05-04,6,Kansas City Royals,Cleveland Guardians,0.5191,1,6,2,22
+2026-05-04,6,St. Louis Cardinals,Milwaukee Brewers,0.4603,1,6,3,22
+2026-05-04,6,Detroit Tigers,Boston Red Sox,0.4715,0,4,5,22
+2026-05-05,6,San Francisco Giants,San Diego Padres,0.4508,1,3,2,10
+2026-05-05,6,Philadelphia Phillies,Athletics,0.6474,1,9,1,20
+2026-05-05,6,Houston Astros,Los Angeles Dodgers,0.3422,0,3,8,21
+2026-05-05,6,San Francisco Giants,San Diego Padres,0.5162,1,3,2,22
+2026-05-05,6,Miami Marlins,Baltimore Orioles,0.562,0,7,9,20
+2026-05-05,6,Detroit Tigers,Boston Red Sox,0.5793,0,3,10,20
+2026-05-05,6,Tampa Bay Rays,Toronto Blue Jays,0.5417,1,4,3,20
+2026-05-05,6,Washington Nationals,Minnesota Twins,0.4845,0,3,11,21
+2026-05-05,6,New York Yankees,Texas Rangers,0.545,1,7,4,21
+2026-05-05,6,Houston Astros,Los Angeles Dodgers,0.359,0,3,8,10
+2026-05-05,6,Los Angeles Angels,Chicago White Sox,0.58,0,0,6,10
+2026-05-05,6,Chicago Cubs,Cincinnati Reds,0.6028,1,3,2,21
+2026-05-05,6,Kansas City Royals,Cleveland Guardians,0.4835,1,5,3,21
+2026-05-05,6,Seattle Mariners,Atlanta Braves,0.5573,1,5,4,10
+2026-05-05,6,Los Angeles Angels,Chicago White Sox,0.4894,0,0,6,22
+2026-05-05,6,Seattle Mariners,Atlanta Braves,0.5481,1,5,4,22
+2026-05-06,6,Arizona Diamondbacks,Pittsburgh Pirates,0.5469,1,9,0,10
+2026-05-06,6,Arizona Diamondbacks,Pittsburgh Pirates,0.5095,1,9,0,22
+2026-05-06,6,Tampa Bay Rays,Toronto Blue Jays,0.5569,1,3,0,22
+2026-05-06,6,St. Louis Cardinals,Milwaukee Brewers,0.4972,0,2,6,22
+2026-05-06,6,Philadelphia Phillies,Athletics,0.6026,1,6,3,22
+2026-05-06,6,Miami Marlins,Baltimore Orioles,0.5465,0,4,7,22
+2026-05-06,6,Detroit Tigers,Boston Red Sox,0.5019,0,0,4,22
+2026-05-06,6,Washington Nationals,Minnesota Twins,0.4749,1,15,2,22
+2026-05-06,6,New York Yankees,Texas Rangers,0.6128,0,1,6,22
+2026-05-06,6,Chicago Cubs,Cincinnati Reds,0.6053,1,7,6,22
+2026-05-06,6,Kansas City Royals,Cleveland Guardians,0.5584,0,1,3,22
+2026-05-07,7,Kansas City Royals,Cleveland Guardians,0.5548,0,5,8,22
+2026-05-07,7,Chicago Cubs,Cincinnati Reds,0.6407,1,8,3,22
+2026-05-07,7,Philadelphia Phillies,Athletics,0.545,0,1,12,22
+2026-05-07,7,Miami Marlins,Baltimore Orioles,0.5405,1,4,3,22
+2026-05-07,7,Boston Red Sox,Tampa Bay Rays,0.5139,0,4,8,22
+2026-05-07,7,New York Yankees,Texas Rangers,0.5866,1,9,2,22
+2026-05-07,7,Washington Nationals,Minnesota Twins,0.5312,1,7,5,22
+2026-05-08,7,Kansas City Royals,Detroit Tigers,0.5712,1,4,3,22
+2026-05-08,7,Milwaukee Brewers,New York Yankees,0.4723,1,6,0,22
+2026-05-08,7,San Diego Padres,St. Louis Cardinals,0.5988,0,1,2,10
+2026-05-08,7,Cincinnati Reds,Houston Astros,0.5383,0,0,10,22
+2026-05-08,7,Philadelphia Phillies,Colorado Rockies,0.6672,0,7,9,22
+2026-05-08,7,Baltimore Orioles,Athletics,0.5489,0,3,4,22
+2026-05-08,7,Toronto Blue Jays,Los Angeles Angels,0.589,1,2,0,22
+2026-05-08,7,Boston Red Sox,Tampa Bay Rays,0.547,1,2,0,22
+2026-05-08,7,Miami Marlins,Washington Nationals,0.5588,0,2,3,22
+2026-05-08,7,Cleveland Guardians,Minnesota Twins,0.5711,1,6,4,22
+2026-05-08,7,Chicago White Sox,Seattle Mariners,0.4449,0,8,12,22
+2026-05-09,7,Los Angeles Dodgers,Atlanta Braves,0.5066,1,3,1,10
+2026-05-09,7,Milwaukee Brewers,New York Yankees,0.4532,1,4,3,22
+2026-05-09,7,Toronto Blue Jays,Los Angeles Angels,0.618,1,14,1,22
+2026-05-09,7,Baltimore Orioles,Athletics,0.5266,0,2,6,22
+2026-05-09,7,Cincinnati Reds,Houston Astros,0.5912,1,3,1,22
+2026-05-09,7,Miami Marlins,Washington Nationals,0.5921,1,8,7,22
+2026-05-09,7,Philadelphia Phillies,Colorado Rockies,0.6262,1,9,3,22
+2026-05-09,7,San Francisco Giants,Pittsburgh Pirates,0.5179,1,5,2,22
+2026-05-09,7,Chicago White Sox,Seattle Mariners,0.461,1,6,1,22
+2026-05-09,7,Los Angeles Dodgers,Atlanta Braves,0.5882,1,3,1,22
+2026-05-09,7,Kansas City Royals,Detroit Tigers,0.5538,1,5,1,22
+2026-05-09,7,Cleveland Guardians,Minnesota Twins,0.5222,0,1,2,12
+2026-05-10,7,Texas Rangers,Chicago Cubs,0.4562,1,3,0,22
+2026-05-10,7,Arizona Diamondbacks,New York Mets,0.4857,1,5,1,22
+2026-05-10,7,San Diego Padres,St. Louis Cardinals,0.5636,1,3,2,22
+2026-05-10,7,Boston Red Sox,Tampa Bay Rays,0.577,0,1,4,22
+2026-05-10,7,Philadelphia Phillies,Colorado Rockies,0.7231,1,6,0,22
+2026-05-10,7,Toronto Blue Jays,Los Angeles Angels,0.5026,0,1,6,22
+2026-05-10,7,Cincinnati Reds,Houston Astros,0.5095,1,5,0,22
+2026-05-10,7,Boston Red Sox,Tampa Bay Rays,0.5667,0,1,4,22
+2026-05-10,7,Cleveland Guardians,Minnesota Twins,0.5947,0,4,5,22
+2026-05-10,7,Chicago White Sox,Seattle Mariners,0.444,1,2,1,22
+2026-05-10,7,Milwaukee Brewers,New York Yankees,0.517,1,4,3,22
+2026-05-10,7,Texas Rangers,Chicago Cubs,0.5262,1,3,0,22
+2026-05-10,7,Arizona Diamondbacks,New York Mets,0.5111,1,5,1,22
+2026-05-10,7,Miami Marlins,Washington Nationals,0.5479,1,5,2,22
+2026-05-10,7,San Diego Padres,St. Louis Cardinals,0.5433,1,3,2,22
+2026-05-10,7,Kansas City Royals,Detroit Tigers,0.5351,0,3,6,22
+2026-05-10,7,Baltimore Orioles,Athletics,0.4986,1,2,1,22
+2026-05-11,7,Cleveland Guardians,Los Angeles Angels,0.6038,1,7,2,22
+2026-05-11,7,Baltimore Orioles,New York Yankees,0.4221,1,3,2,22
+2026-05-11,7,Toronto Blue Jays,Tampa Bay Rays,0.529,0,5,8,22
+2026-05-12,7,Texas Rangers,Arizona Diamondbacks,0.5036,0,0,1,10
+2026-05-12,7,Houston Astros,Seattle Mariners,0.4199,0,1,3,10
+2026-05-12,7,Los Angeles Dodgers,San Francisco Giants,0.6297,0,3,9,10
+2026-05-12,7,Cleveland Guardians,Los Angeles Angels,0.5534,1,3,2,22
+2026-05-12,7,Baltimore Orioles,New York Yankees,0.4443,0,2,6,22
+2026-05-12,7,Cincinnati Reds,Washington Nationals,0.5615,0,4,10,22
+2026-05-12,7,Pittsburgh Pirates,Colorado Rockies,0.716,1,3,1,22
+2026-05-12,7,Boston Red Sox,Philadelphia Phillies,0.4398,0,1,2,22
+2026-05-12,7,Toronto Blue Jays,Tampa Bay Rays,0.4831,0,6,7,22
+2026-05-12,7,New York Mets,Detroit Tigers,0.5722,1,10,2,22
+2026-05-12,7,Atlanta Braves,Chicago Cubs,0.5262,1,5,2,22
+2026-05-12,7,Chicago White Sox,Kansas City Royals,0.4851,1,6,5,22
+2026-05-12,7,Minnesota Twins,Miami Marlins,0.5013,1,3,0,22
+2026-05-12,7,Milwaukee Brewers,San Diego Padres,0.5716,1,6,4,22
+2026-05-13,7,Houston Astros,Seattle Mariners,0.3651,0,2,10,10
+2026-05-13,7,Athletics,St. Louis Cardinals,0.5916,0,4,6,10
+2026-05-13,7,Los Angeles Dodgers,San Francisco Giants,0.7383,0,2,6,10
+2026-05-13,7,Baltimore Orioles,New York Yankees,0.4005,1,7,0,21
+2026-05-13,7,Cleveland Guardians,Los Angeles Angels,0.5843,1,4,2,22
+2026-05-13,7,Houston Astros,Seattle Mariners,0.4746,0,2,10,22
+2026-05-13,7,Athletics,St. Louis Cardinals,0.5422,0,4,6,22
+2026-05-13,7,Cincinnati Reds,Washington Nationals,0.6132,0,7,8,22
+2026-05-13,7,Pittsburgh Pirates,Colorado Rockies,0.6232,0,4,10,22
+2026-05-13,7,Boston Red Sox,Philadelphia Phillies,0.543,1,3,1,22
+2026-05-13,7,Toronto Blue Jays,Tampa Bay Rays,0.573,1,5,3,22
+2026-05-13,7,New York Mets,Detroit Tigers,0.5216,1,3,2,22
+2026-05-13,7,Atlanta Braves,Chicago Cubs,0.4474,1,4,1,22
+2026-05-13,7,Chicago White Sox,Kansas City Royals,0.4901,1,6,5,22
+2026-05-13,7,Minnesota Twins,Miami Marlins,0.4567,0,5,9,22
+2026-05-13,7,Milwaukee Brewers,San Diego Padres,0.5929,0,1,3,22
+2026-05-13,7,Texas Rangers,Arizona Diamondbacks,0.5331,1,7,4,10
+2026-05-14,8,Los Angeles Dodgers,San Francisco Giants,0.6885,1,4,0,10
+2026-05-14,8,Pittsburgh Pirates,Colorado Rockies,0.6082,1,7,2,22
+2026-05-14,8,Cincinnati Reds,Washington Nationals,0.5853,1,15,1,22
+2026-05-14,8,New York Mets,Detroit Tigers,0.5878,1,9,4,22
+2026-05-14,8,Minnesota Twins,Miami Marlins,0.4967,1,9,1,22
+2026-05-14,8,Milwaukee Brewers,San Diego Padres,0.5586,1,7,1,22
+2026-05-14,8,Boston Red Sox,Philadelphia Phillies,0.5185,0,1,3,22
+2026-05-14,8,Atlanta Braves,Chicago Cubs,0.6372,0,0,2,22
+2026-05-14,8,Chicago White Sox,Kansas City Royals,0.4478,1,6,2,22
+2026-05-14,8,Texas Rangers,Arizona Diamondbacks,0.4909,1,6,5,10
+2026-05-15,8,Washington Nationals,Baltimore Orioles,0.4437,1,3,2,22
+2026-05-15,8,Detroit Tigers,Toronto Blue Jays,0.464,1,3,2,22
+2026-05-15,8,Cleveland Guardians,Cincinnati Reds,0.5557,0,6,7,22
+2026-05-15,8,Tampa Bay Rays,Miami Marlins,0.5261,1,7,2,22
+2026-05-15,8,Atlanta Braves,Boston Red Sox,0.577,1,3,2,22
+2026-05-15,8,New York Mets,New York Yankees,0.4247,0,2,5,22
+2026-05-15,8,Chicago White Sox,Chicago Cubs,0.461,0,5,10,22
+2026-05-15,8,Los Angeles Dodgers,San Francisco Giants,0.614,1,5,2,10
+2026-05-15,8,Pittsburgh Pirates,Philadelphia Phillies,0.5507,0,9,11,22
+2026-05-15,8,Minnesota Twins,Milwaukee Brewers,0.4998,0,2,3,12
+2026-05-16,8,Washington Nationals,Baltimore Orioles,0.4978,1,13,3,22
+2026-05-16,8,Pittsburgh Pirates,Philadelphia Phillies,0.3938,0,0,6,22
+2026-05-16,8,Tampa Bay Rays,Miami Marlins,0.5547,0,5,10,22
+2026-05-16,8,Cleveland Guardians,Cincinnati Reds,0.5786,1,7,4,22
+2026-05-16,8,Chicago White Sox,Chicago Cubs,0.4986,1,8,3,22
+2026-05-16,8,Minnesota Twins,Milwaukee Brewers,0.4573,0,1,2,22
+2026-05-16,8,Atlanta Braves,Boston Red Sox,0.5237,0,2,3,22
+2026-05-16,8,New York Mets,New York Yankees,0.4705,1,6,3,22
+2026-05-16,8,Los Angeles Angels,Los Angeles Dodgers,0.3716,0,0,6,10
+2026-05-16,8,Athletics,San Francisco Giants,0.5459,1,5,2,10
+2026-05-16,8,Detroit Tigers,Toronto Blue Jays,0.5115,0,1,2,22
+2026-05-16,8,Los Angeles Angels,Los Angeles Dodgers,0.4329,0,0,6,22
+2026-05-16,8,Athletics,San Francisco Giants,0.5632,1,5,2,22
+2026-05-17,8,Colorado Rockies,Arizona Diamondbacks,0.4457,0,6,8,22
+2026-05-17,8,Pittsburgh Pirates,Philadelphia Phillies,0.5401,0,0,6,22
+2026-05-17,8,Cleveland Guardians,Cincinnati Reds,0.5922,1,10,3,22
+2026-05-17,8,Houston Astros,Texas Rangers,0.4586,0,0,8,22
+2026-05-17,8,St. Louis Cardinals,Kansas City Royals,0.4984,0,0,2,22
+2026-05-17,8,Detroit Tigers,Toronto Blue Jays,0.4734,0,1,4,22
+2026-05-17,8,New York Mets,New York Yankees,0.5267,1,7,6,22
+2026-05-17,8,Chicago White Sox,Chicago Cubs,0.4531,1,9,8,22
+2026-05-17,8,Seattle Mariners,San Diego Padres,0.5834,0,3,8,21
+2026-05-17,8,Tampa Bay Rays,Miami Marlins,0.5731,1,6,3,22
+2026-05-17,8,Atlanta Braves,Boston Red Sox,0.5761,1,8,1,22
+2026-05-17,8,Washington Nationals,Baltimore Orioles,0.4758,0,3,7,22
+2026-05-17,8,Houston Astros,Texas Rangers,0.4673,0,0,8,22
+2026-05-17,8,Minnesota Twins,Milwaukee Brewers,0.4456,1,5,4,22
+2026-05-17,8,St. Louis Cardinals,Kansas City Royals,0.5243,0,0,2,22
+2026-05-17,8,Colorado Rockies,Arizona Diamondbacks,0.4336,0,6,8,22
+2026-05-17,8,Seattle Mariners,San Diego Padres,0.5796,0,3,8,22
+2026-05-18,8,Detroit Tigers,Cleveland Guardians,0.5724,0,2,8,22
+2026-05-18,8,Washington Nationals,New York Mets,0.4662,0,7,16,22
+2026-05-18,8,New York Yankees,Toronto Blue Jays,0.6068,1,7,6,22
+2026-05-18,8,Chicago Cubs,Milwaukee Brewers,0.5934,0,3,9,22
+2026-05-18,8,Minnesota Twins,Houston Astros,0.5113,1,6,3,22
+2026-05-18,8,Miami Marlins,Atlanta Braves,0.5099,1,12,0,22
+2026-05-18,8,Tampa Bay Rays,Baltimore Orioles,0.5589,1,16,6,22
+2026-05-18,8,Philadelphia Phillies,Cincinnati Reds,0.5239,1,5,4,22
+2026-05-18,8,Kansas City Royals,Boston Red Sox,0.4922,0,1,3,22
+2026-05-19,8,Kansas City Royals,Boston Red Sox,0.4569,0,1,7,22
+2026-05-19,8,Colorado Rockies,Texas Rangers,0.4377,1,7,6,10
+2026-05-19,8,Los Angeles Angels,Athletics,0.4554,1,2,1,10
+2026-05-19,8,Arizona Diamondbacks,San Francisco Giants,0.553,1,12,2,10
+2026-05-19,8,Seattle Mariners,Chicago White Sox,0.5906,1,6,1,10
+2026-05-19,8,San Diego Padres,Los Angeles Dodgers,0.4321,1,1,0,10
+2026-05-19,8,Miami Marlins,Atlanta Braves,0.4415,0,4,8,21
+2026-05-19,8,Tampa Bay Rays,Baltimore Orioles,0.5068,1,4,1,21
+2026-05-19,8,Philadelphia Phillies,Cincinnati Reds,0.5591,0,1,4,21
+2026-05-19,8,Detroit Tigers,Cleveland Guardians,0.4098,0,3,4,21
+2026-05-19,8,Washington Nationals,New York Mets,0.439,1,9,6,22
+2026-05-19,8,New York Yankees,Toronto Blue Jays,0.5485,1,5,4,22
+2026-05-19,8,Chicago Cubs,Milwaukee Brewers,0.4768,0,2,5,22
+2026-05-19,8,Minnesota Twins,Houston Astros,0.5614,0,1,2,22
+2026-05-19,8,St. Louis Cardinals,Pittsburgh Pirates,0.5094,1,9,6,22
+2026-05-19,8,Colorado Rockies,Texas Rangers,0.4744,1,7,6,22
+2026-05-19,8,Arizona Diamondbacks,San Francisco Giants,0.5181,1,12,2,22
+2026-05-19,8,Seattle Mariners,Chicago White Sox,0.5642,1,6,1,22
+2026-05-20,8,Miami Marlins,Atlanta Braves,0.3732,0,1,9,22
+2026-05-20,8,Detroit Tigers,Cleveland Guardians,0.4784,0,2,3,22
+2026-05-20,8,Washington Nationals,New York Mets,0.4658,1,8,4,22
+2026-05-20,8,New York Yankees,Toronto Blue Jays,0.6082,0,1,2,22
+2026-05-20,8,Kansas City Royals,Boston Red Sox,0.5146,0,3,4,22
+2026-05-20,8,Chicago Cubs,Milwaukee Brewers,0.5139,0,0,5,22
+2026-05-20,8,St. Louis Cardinals,Pittsburgh Pirates,0.5144,0,0,7,22
+2026-05-20,8,Los Angeles Angels,Athletics,0.5576,0,6,14,10
+2026-05-20,8,San Diego Padres,Los Angeles Dodgers,0.3982,0,4,5,10
+2026-05-20,8,Philadelphia Phillies,Cincinnati Reds,0.5807,0,4,9,22
+2026-05-20,8,Tampa Bay Rays,Baltimore Orioles,0.5219,1,5,3,22
+2026-05-20,8,Minnesota Twins,Houston Astros,0.5621,1,4,1,22
+2026-05-21,9,San Diego Padres,Los Angeles Dodgers,0.3642,0,0,4,10
+2026-05-21,9,Los Angeles Angels,Athletics,0.4585,0,5,6,10
+2026-05-21,9,Detroit Tigers,Cleveland Guardians,0.5281,0,1,3,22
+2026-05-21,9,St. Louis Cardinals,Pittsburgh Pirates,0.4751,0,2,6,22
+2026-05-21,9,Washington Nationals,New York Mets,0.493,0,1,2,22
+2026-05-21,9,Miami Marlins,Atlanta Braves,0.4395,0,3,9,22
+2026-05-21,9,New York Yankees,Toronto Blue Jays,0.5661,0,0,2,22
+2026-05-22,9,Arizona Diamondbacks,Colorado Rockies,0.6561,1,2,1,10
+2026-05-22,9,Chicago Cubs,Houston Astros,0.5683,0,2,4,22
+2026-05-22,9,Philadelphia Phillies,Cleveland Guardians,0.6206,0,0,1,21
+2026-05-22,9,New York Yankees,Tampa Bay Rays,0.5724,0,2,4,21
+2026-05-22,9,Toronto Blue Jays,Pittsburgh Pirates,0.597,1,6,2,21
+2026-05-22,9,Los Angeles Angels,Athletics,0.5219,0,2,3,10
+2026-05-22,9,Boston Red Sox,Minnesota Twins,0.5778,0,6,8,21
+2026-05-22,9,Miami Marlins,New York Mets,0.512,1,2,1,21
+2026-05-22,9,Atlanta Braves,Washington Nationals,0.6313,1,5,4,21
+2026-05-22,9,Baltimore Orioles,Detroit Tigers,0.5443,1,7,4,21
+2026-05-22,9,Kansas City Royals,Seattle Mariners,0.4879,0,0,2,22
+2026-05-22,9,Milwaukee Brewers,Los Angeles Dodgers,0.505,1,5,1,22
+2026-05-23,9,Chicago Cubs,Houston Astros,0.572,0,0,3,21
+2026-05-23,9,Toronto Blue Jays,Pittsburgh Pirates,0.4309,1,5,2,21
+2026-05-23,9,Philadelphia Phillies,Cleveland Guardians,0.6142,1,3,0,21
+2026-05-23,9,San Diego Padres,Athletics,0.5318,1,7,3,10
+2026-05-23,9,Milwaukee Brewers,Los Angeles Dodgers,0.4828,0,3,11,22
+2026-05-23,9,Atlanta Braves,Washington Nationals,0.6041,0,0,2,21
+2026-05-23,9,Boston Red Sox,Minnesota Twins,0.5365,0,2,4,21
+2026-05-23,9,Kansas City Royals,Seattle Mariners,0.4637,1,5,0,21
+2026-05-23,9,Miami Marlins,New York Mets,0.5094,1,4,1,21
+2026-05-23,9,Los Angeles Angels,Texas Rangers,0.4913,1,9,6,22
+2026-05-23,9,Arizona Diamondbacks,Colorado Rockies,0.6342,0,2,3,22
+2026-05-23,9,Los Angeles Angels,Texas Rangers,0.4078,1,9,6,10
+2026-05-23,9,Arizona Diamondbacks,Colorado Rockies,0.6682,0,2,3,10
+2026-05-24,9,San Francisco Giants,Chicago White Sox,0.5071,1,8,5,21
+2026-05-24,9,Toronto Blue Jays,Pittsburgh Pirates,0.6092,0,1,4,22
+2026-05-24,9,Boston Red Sox,Minnesota Twins,0.6084,0,5,6,22
+2026-05-24,9,Philadelphia Phillies,Cleveland Guardians,0.4853,0,1,3,22
+2026-05-24,9,New York Yankees,Tampa Bay Rays,0.5601,1,2,0,22
+2026-05-24,9,Atlanta Braves,Washington Nationals,0.5919,0,1,2,22
+2026-05-24,9,Miami Marlins,New York Mets,0.5431,1,4,0,22
+2026-05-24,9,Kansas City Royals,Seattle Mariners,0.4709,1,8,6,22
+2026-05-24,9,Milwaukee Brewers,Los Angeles Dodgers,0.4212,0,1,5,22
+2026-05-24,9,Chicago Cubs,Houston Astros,0.6056,0,5,8,22
+2026-05-24,9,San Francisco Giants,Chicago White Sox,0.5326,1,8,5,22
+2026-05-25,9,San Diego Padres,Athletics,0.5399,0,0,3,22
+2026-05-25,9,Baltimore Orioles,Detroit Tigers,0.5383,1,9,7,21
+2026-05-25,9,Baltimore Orioles,Tampa Bay Rays,0.4892,1,9,7,22
+2026-05-25,9,Pittsburgh Pirates,Chicago Cubs,0.4681,1,2,1,22
+2026-05-25,9,Chicago White Sox,Minnesota Twins,0.501,1,3,1,22
+2026-05-25,9,Milwaukee Brewers,St. Louis Cardinals,0.6677,1,5,1,22
+2026-05-25,9,Kansas City Royals,New York Yankees,0.4576,0,3,4,22
+2026-05-25,9,New York Mets,Cincinnati Reds,0.5559,0,2,7,22
+2026-05-25,9,San Francisco Giants,Arizona Diamondbacks,0.5456,0,2,6,22
+2026-05-25,9,Cleveland Guardians,Washington Nationals,0.6109,0,2,10,22
+2026-05-25,9,San Diego Padres,Philadelphia Phillies,0.4784,0,0,3,22
+2026-05-25,9,Texas Rangers,Houston Astros,0.5245,0,0,9,22
+2026-05-25,9,Toronto Blue Jays,Miami Marlins,0.5803,0,2,8,22
+2026-05-26,9,Los Angeles Dodgers,Colorado Rockies,0.7361,1,5,3,10
+2026-05-26,9,Athletics,Seattle Mariners,0.4971,0,2,9,10
+2026-05-26,9,Cleveland Guardians,Washington Nationals,0.5477,0,3,6,22
+2026-05-26,9,Baltimore Orioles,Tampa Bay Rays,0.4912,1,6,1,22
+2026-05-26,9,Pittsburgh Pirates,Chicago Cubs,0.554,1,12,1,22
+2026-05-26,9,Athletics,Seattle Mariners,0.4747,0,2,9,22
+2026-05-26,9,Detroit Tigers,Los Angeles Angels,0.5551,0,6,10,22
+2026-05-26,9,Boston Red Sox,Atlanta Braves,0.5029,0,6,7,22
+2026-05-26,9,Toronto Blue Jays,Miami Marlins,0.5327,1,8,1,22
+2026-05-26,9,New York Mets,Cincinnati Reds,0.4754,0,2,7,22
+2026-05-26,9,Chicago White Sox,Minnesota Twins,0.4846,0,3,5,22
+2026-05-26,9,Kansas City Royals,New York Yankees,0.3602,0,1,15,22
+2026-05-26,9,Milwaukee Brewers,St. Louis Cardinals,0.6536,1,6,0,22
+2026-05-27,9,Los Angeles Dodgers,Colorado Rockies,0.6762,1,15,6,10
+2026-05-27,9,Toronto Blue Jays,Miami Marlins,0.5792,1,2,1,22
+2026-05-27,9,Cleveland Guardians,Washington Nationals,0.6187,1,3,2,22
+2026-05-27,9,Milwaukee Brewers,St. Louis Cardinals,0.6073,1,2,1,22
+2026-05-27,9,Baltimore Orioles,Tampa Bay Rays,0.4655,1,11,2,22
+2026-05-27,9,Pittsburgh Pirates,Chicago Cubs,0.5304,0,4,10,22
+2026-05-27,9,Detroit Tigers,Los Angeles Angels,0.5072,1,4,0,22
+2026-05-27,9,Boston Red Sox,Atlanta Braves,0.5122,1,8,0,22
+2026-05-27,9,New York Mets,Cincinnati Reds,0.5263,1,4,2,22
+2026-05-27,9,Chicago White Sox,Minnesota Twins,0.5012,1,15,2,22
+2026-05-27,9,Kansas City Royals,New York Yankees,0.4132,0,0,7,22
+2026-05-27,9,Texas Rangers,Houston Astros,0.5469,1,10,7,10
+2026-05-28,10,Los Angeles Dodgers,Colorado Rockies,0.7836,1,4,1,10
+2026-05-28,10,Detroit Tigers,Los Angeles Angels,0.5505,0,1,7,22
+2026-05-28,10,Chicago White Sox,Minnesota Twins,0.6083,1,6,2,22
+2026-05-28,10,Boston Red Sox,Atlanta Braves,0.4517,0,2,10,22
+2026-05-28,10,Baltimore Orioles,Toronto Blue Jays,0.5389,0,1,2,22
+2026-05-28,10,Pittsburgh Pirates,Chicago Cubs,0.6077,0,2,7,22
+2026-05-28,10,Texas Rangers,Houston Astros,0.5681,0,3,4,10
+2026-05-29,10,Chicago White Sox,Detroit Tigers,0.503,1,4,3,22
+2026-05-29,10,Texas Rangers,Houston Astros,0.571,0,1,5,10
+2026-05-29,10,Cincinnati Reds,Atlanta Braves,0.447,0,3,8,22
+2026-05-29,10,Pittsburgh Pirates,Minnesota Twins,0.5463,1,6,5,22
+2026-05-29,10,Washington Nationals,San Diego Padres,0.5176,0,5,7,22
+2026-05-29,10,Baltimore Orioles,Toronto Blue Jays,0.5358,0,5,6,22
+2026-05-29,10,Cleveland Guardians,Boston Red Sox,0.5322,1,4,3,22
+2026-05-29,10,Tampa Bay Rays,Los Angeles Angels,0.5886,1,8,5,22
+2026-05-29,10,New York Mets,Miami Marlins,0.5066,1,9,7,22
+2026-05-29,10,St. Louis Cardinals,Chicago Cubs,0.4528,1,6,5,22
+2026-05-30,10,New York Mets,Miami Marlins,0.5347,1,6,1,20
+2026-05-30,10,Cincinnati Reds,Atlanta Braves,0.4667,0,2,5,22
+2026-05-30,10,St. Louis Cardinals,Chicago Cubs,0.453,0,1,6,22
+2026-05-30,10,Colorado Rockies,San Francisco Giants,0.4891,1,8,6,22
+2026-05-30,10,Colorado Rockies,San Francisco Giants,0.4252,1,8,6,10
+2026-05-30,10,Athletics,New York Yankees,0.3879,0,2,8,22
+2026-05-30,10,Seattle Mariners,Arizona Diamondbacks,0.5656,1,7,6,22
+2026-05-30,10,Athletics,New York Yankees,0.437,0,2,8,10
+2026-05-30,10,Seattle Mariners,Arizona Diamondbacks,0.5662,1,7,6,10
+2026-05-30,10,Los Angeles Dodgers,Philadelphia Phillies,0.676,1,4,2,22
+2026-05-30,10,Los Angeles Dodgers,Philadelphia Phillies,0.5191,1,4,2,10
+2026-05-30,10,Chicago White Sox,Detroit Tigers,0.4929,1,7,1,22
+2026-05-30,10,Baltimore Orioles,Toronto Blue Jays,0.4654,1,6,5,22
+2026-05-30,10,Pittsburgh Pirates,Minnesota Twins,0.5721,1,10,9,22
+2026-05-30,10,Washington Nationals,San Diego Padres,0.4629,1,9,4,22
+2026-05-30,10,Cleveland Guardians,Boston Red Sox,0.5388,0,1,9,22
+2026-05-30,10,Tampa Bay Rays,Los Angeles Angels,0.6027,0,3,14,22
+2026-05-31,10,Texas Rangers,Kansas City Royals,0.53,1,6,3,22
+2026-05-31,10,Texas Rangers,Kansas City Royals,0.5071,1,6,3,22
+2026-05-31,10,Houston Astros,Milwaukee Brewers,0.4647,0,0,2,22
+2026-05-31,10,St. Louis Cardinals,Chicago Cubs,0.5183,1,5,1,22
+2026-05-31,10,Baltimore Orioles,Toronto Blue Jays,0.5504,1,9,5,21
+2026-05-31,10,Pittsburgh Pirates,Minnesota Twins,0.6002,1,9,3,22
+2026-05-31,10,Washington Nationals,San Diego Padres,0.4926,1,4,2,22
+2026-05-31,10,Cincinnati Reds,Atlanta Braves,0.4673,1,6,4,21
+2026-05-31,10,Cleveland Guardians,Boston Red Sox,0.514,0,4,9,22
+2026-05-31,10,Tampa Bay Rays,Los Angeles Angels,0.6474,1,5,2,22
+2026-05-31,10,New York Mets,Miami Marlins,0.5818,1,10,1,22
+2026-05-31,10,Chicago White Sox,Detroit Tigers,0.5479,1,2,1,22
+2026-05-31,10,Houston Astros,Milwaukee Brewers,0.3639,0,0,2,22
+2026-06-01,10,Minnesota Twins,Chicago White Sox,0.5661,1,9,6,22
+2026-06-01,10,Milwaukee Brewers,San Francisco Giants,0.5925,1,16,2,22
+2026-06-01,10,St. Louis Cardinals,Texas Rangers,0.4595,0,1,2,22
+2026-06-01,10,Tampa Bay Rays,Detroit Tigers,0.5904,0,9,10,22
+2026-06-01,10,Washington Nationals,Miami Marlins,0.5641,0,3,7,22
+2026-06-01,10,Cincinnati Reds,Kansas City Royals,0.5407,0,2,9,22
+2026-06-02,10,Los Angeles Angels,Colorado Rockies,0.6385,0,8,9,10
+2026-06-02,10,Arizona Diamondbacks,Los Angeles Dodgers,0.4033,1,4,1,10
+2026-06-02,10,St. Louis Cardinals,Texas Rangers,0.4977,0,4,7,22
+2026-06-02,10,Seattle Mariners,New York Mets,0.54,1,3,2,10
+2026-06-02,10,Tampa Bay Rays,Detroit Tigers,0.5669,0,0,8,22
+2026-06-02,10,Philadelphia Phillies,San Diego Padres,0.5801,1,3,2,22
+2026-06-02,10,Boston Red Sox,Baltimore Orioles,0.5531,0,2,4,22
+2026-06-02,10,Washington Nationals,Miami Marlins,0.5158,0,3,7,22
+2026-06-02,10,New York Yankees,Cleveland Guardians,0.6518,0,4,9,22
+2026-06-02,10,Cincinnati Reds,Kansas City Royals,0.5341,1,4,3,22
+2026-06-02,10,Atlanta Braves,Toronto Blue Jays,0.5201,1,4,3,22
+2026-06-02,10,Minnesota Twins,Chicago White Sox,0.4658,1,6,4,22
+2026-06-02,10,Milwaukee Brewers,San Francisco Giants,0.6972,1,8,3,22
+2026-06-02,10,Seattle Mariners,New York Mets,0.5685,1,3,2,22
+2026-06-03,10,Chicago Cubs,Athletics,0.5399,0,1,2,10
+2026-06-03,10,Houston Astros,Pittsburgh Pirates,0.5141,0,6,10,10
+2026-06-03,10,Los Angeles Angels,Colorado Rockies,0.5937,0,2,8,10
+2026-06-03,10,Arizona Diamondbacks,Los Angeles Dodgers,0.4845,0,5,6,10
+2026-06-03,10,Washington Nationals,Miami Marlins,0.4947,0,1,4,19
+2026-06-03,10,Tampa Bay Rays,Detroit Tigers,0.5653,0,2,7,19
+2026-06-03,10,Minnesota Twins,Chicago White Sox,0.5729,0,0,8,19
+2026-06-03,10,Philadelphia Phillies,San Diego Padres,0.6707,1,3,2,19
+2026-06-03,10,Boston Red Sox,Baltimore Orioles,0.5787,1,8,1,19
+2026-06-03,10,New York Yankees,Cleveland Guardians,0.558,0,4,5,19
+2026-06-03,10,Cincinnati Reds,Kansas City Royals,0.5895,0,2,5,19
+2026-06-03,10,Atlanta Braves,Toronto Blue Jays,0.5755,1,7,3,19
+2026-06-03,10,Milwaukee Brewers,San Francisco Giants,0.5529,0,0,1,19
+2026-06-03,10,St. Louis Cardinals,Texas Rangers,0.5082,1,5,3,19
+2026-06-04,11,Arizona Diamondbacks,Los Angeles Dodgers,0.3457,0,0,7,10
+2026-06-04,11,Philadelphia Phillies,San Diego Padres,0.6556,1,6,4,22
+2026-06-04,11,Boston Red Sox,Baltimore Orioles,0.5228,0,2,8,21
+2026-06-04,11,New York Yankees,Cleveland Guardians,0.6011,1,2,1,21
+2026-06-04,11,Milwaukee Brewers,San Francisco Giants,0.6305,0,9,12,22
+2026-06-04,11,Atlanta Braves,Toronto Blue Jays,0.694,0,2,7,22
+2026-06-04,11,Minnesota Twins,Kansas City Royals,0.4872,0,6,8,22
+2026-06-04,11,Chicago Cubs,Athletics,0.5519,0,4,5,9
+2026-06-04,11,Houston Astros,Pittsburgh Pirates,0.4345,1,11,9,9
+2026-06-04,11,Los Angeles Angels,Colorado Rockies,0.5656,1,11,4,10
+2026-06-05,11,Atlanta Braves,Pittsburgh Pirates,0.5735,1,6,3,22
+2026-06-05,11,Houston Astros,Pittsburgh Pirates,0.5086,0,1,5,10
+2026-06-05,11,Arizona Diamondbacks,Los Angeles Dodgers,0.444,1,3,2,10
+2026-06-05,11,Philadelphia Phillies,Chicago White Sox,0.6286,1,8,6,22
+2026-06-05,11,Detroit Tigers,Seattle Mariners,0.4723,1,7,3,22
+2026-06-05,11,New York Yankees,Boston Red Sox,0.5657,0,3,5,22
+2026-06-05,11,Toronto Blue Jays,Baltimore Orioles,0.5674,0,3,13,22
+2026-06-05,11,Miami Marlins,Tampa Bay Rays,0.455,0,0,6,22
+2026-06-06,11,Atlanta Braves,Pittsburgh Pirates,0.5085,1,6,3,22
+2026-06-06,11,Miami Marlins,Tampa Bay Rays,0.4554,1,4,3,22
+2026-06-06,11,Colorado Rockies,Milwaukee Brewers,0.4162,0,7,9,10
+2026-06-06,11,Chicago Cubs,Athletics,0.5664,1,3,2,10
+2026-06-06,11,Colorado Rockies,Milwaukee Brewers,0.3351,0,7,9,22
+2026-06-06,11,San Diego Padres,New York Mets,0.5413,0,0,5,10
+2026-06-06,11,Chicago Cubs,San Francisco Giants,0.6108,1,3,2,22
+2026-06-06,11,Los Angeles Dodgers,Los Angeles Angels,0.7137,1,1,0,22
+2026-06-06,11,San Diego Padres,New York Mets,0.4863,0,0,5,22
+2026-06-06,11,Los Angeles Dodgers,Los Angeles Angels,0.6417,1,1,0,10
+2026-06-06,11,Detroit Tigers,Seattle Mariners,0.4613,0,0,4,22
+2026-06-06,11,Chicago Cubs,San Francisco Giants,0.5783,1,3,2,22
+2026-06-06,11,Toronto Blue Jays,Baltimore Orioles,0.5132,1,6,4,22
+2026-06-06,11,Philadelphia Phillies,Chicago White Sox,0.5576,0,3,6,22
+2026-06-07,11,Houston Astros,Athletics,0.5214,0,0,5,22
+2026-06-07,11,St. Louis Cardinals,Cincinnati Reds,0.5481,1,5,3,22
+2026-06-07,11,Arizona Diamondbacks,Washington Nationals,0.5733,1,5,1,22
+2026-06-07,11,Minnesota Twins,Kansas City Royals,0.4789,0,5,6,22
+2026-06-07,11,St. Louis Cardinals,Cincinnati Reds,0.5754,1,5,3,22
+2026-06-07,11,Texas Rangers,Cleveland Guardians,0.5673,1,10,0,22
+2026-06-07,11,Texas Rangers,Cleveland Guardians,0.4953,1,10,0,22
+2026-06-07,11,Minnesota Twins,Kansas City Royals,0.5667,0,5,6,22
+2026-06-07,11,New York Yankees,Boston Red Sox,0.5456,1,6,1,22
+2026-06-07,11,Atlanta Braves,Pittsburgh Pirates,0.5778,1,3,2,22
+2026-06-07,11,Philadelphia Phillies,Chicago White Sox,0.6041,1,9,5,22
+2026-06-07,11,Arizona Diamondbacks,Washington Nationals,0.5471,1,5,1,22
+2026-06-07,11,Toronto Blue Jays,Baltimore Orioles,0.5548,1,6,4,22
+2026-06-07,11,Detroit Tigers,Seattle Mariners,0.525,1,5,4,22
+2026-06-07,11,Miami Marlins,Tampa Bay Rays,0.4968,1,4,1,22
+2026-06-07,11,Houston Astros,Athletics,0.5021,0,0,5,22
+2026-06-08,11,Chicago Cubs,San Francisco Giants,0.5365,0,1,2,10
+2026-06-08,11,Baltimore Orioles,Seattle Mariners,0.4639,0,3,6,22
+2026-06-08,11,Tampa Bay Rays,Boston Red Sox,0.4957,1,3,1,21
+2026-06-08,11,Cleveland Guardians,New York Yankees,0.5393,0,5,7,21
+2026-06-08,11,Toronto Blue Jays,Philadelphia Phillies,0.3831,0,2,5,22
+2026-06-09,11,Athletics,Milwaukee Brewers,0.4158,0,14,15,10
+2026-06-09,11,Baltimore Orioles,Seattle Mariners,0.4722,0,5,6,22
+2026-06-09,11,Miami Marlins,Arizona Diamondbacks,0.5582,1,10,6,22
+2026-06-09,11,Tampa Bay Rays,Boston Red Sox,0.4754,1,4,3,22
+2026-06-09,11,Cleveland Guardians,New York Yankees,0.4751,0,2,3,22
+2026-06-09,11,San Francisco Giants,Washington Nationals,0.504,0,3,4,22
+2026-06-09,11,San Diego Padres,Cincinnati Reds,0.5952,1,6,2,22
+2026-06-09,11,Pittsburgh Pirates,Los Angeles Dodgers,0.5201,0,3,12,22
+2026-06-09,11,Toronto Blue Jays,Philadelphia Phillies,0.5002,1,3,2,22
+2026-06-09,11,New York Mets,St. Louis Cardinals,0.5454,0,0,7,22
+2026-06-09,11,Chicago White Sox,Atlanta Braves,0.414,1,6,5,22
+2026-06-09,11,Kansas City Royals,Texas Rangers,0.4682,1,5,3,22
+2026-06-09,11,Los Angeles Angels,Houston Astros,0.4575,0,4,5,10
+2026-06-09,11,San Diego Padres,Cincinnati Reds,0.554,1,6,2,10
+2026-06-09,11,San Francisco Giants,Washington Nationals,0.5799,0,3,4,10
+2026-06-09,11,Detroit Tigers,Minnesota Twins,0.5406,1,10,4,12
+2026-06-10,11,Tampa Bay Rays,Boston Red Sox,0.5907,1,7,5,21
+2026-06-10,11,Cleveland Guardians,New York Yankees,0.5198,0,4,8,22
+2026-06-10,11,Baltimore Orioles,Seattle Mariners,0.4945,1,7,2,22
+2026-06-10,11,Miami Marlins,Arizona Diamondbacks,0.4842,1,8,0,22
+2026-06-10,11,Detroit Tigers,Minnesota Twins,0.6109,0,4,6,22
+2026-06-10,11,Colorado Rockies,Chicago Cubs,0.4062,1,7,3,10
+2026-06-10,11,Pittsburgh Pirates,Los Angeles Dodgers,0.3521,1,9,8,21
+2026-06-10,11,Toronto Blue Jays,Philadelphia Phillies,0.4496,0,4,7,22
+2026-06-10,11,New York Mets,St. Louis Cardinals,0.5518,0,2,9,22
+2026-06-10,11,Colorado Rockies,Chicago Cubs,0.4131,1,7,3,22
+2026-06-10,11,Chicago White Sox,Atlanta Braves,0.4236,1,2,1,22
+2026-06-10,11,Kansas City Royals,Texas Rangers,0.4857,0,4,6,22
+2026-06-10,11,Los Angeles Angels,Houston Astros,0.4689,1,10,1,10
+2026-06-10,11,Athletics,Milwaukee Brewers,0.4998,1,7,5,10
+2026-06-11,12,Miami Marlins,Arizona Diamondbacks,0.5369,1,2,0,22
+2026-06-11,12,Detroit Tigers,Minnesota Twins,0.5413,1,11,0,22
+2026-06-11,12,New York Mets,St. Louis Cardinals,0.5749,1,5,4,22
+2026-06-11,12,Kansas City Royals,Texas Rangers,0.5141,0,2,4,22
+2026-06-11,12,Pittsburgh Pirates,Los Angeles Dodgers,0.3832,0,6,8,22
+2026-06-11,12,Athletics,Milwaukee Brewers,0.5017,1,4,3,10
+2026-06-11,12,Los Angeles Angels,Houston Astros,0.5283,1,3,2,10
+2026-06-11,12,Baltimore Orioles,Seattle Mariners,0.4909,1,7,5,22
+2026-06-12,12,Toronto Blue Jays,New York Yankees,0.527,1,8,5,22
+2026-06-12,12,Chicago White Sox,Los Angeles Dodgers,0.4162,1,8,2,22
+2026-06-12,12,Chicago White Sox,Atlanta Braves,0.4779,1,8,2,10
+2026-06-12,12,Milwaukee Brewers,Philadelphia Phillies,0.685,1,6,0,22
+2026-06-12,12,Pittsburgh Pirates,Miami Marlins,0.5657,0,3,8,22
+2026-06-12,12,Washington Nationals,Seattle Mariners,0.4284,0,2,10,22
+2026-06-12,12,Baltimore Orioles,San Diego Padres,0.5427,1,7,3,22
+2026-06-12,12,Boston Red Sox,Texas Rangers,0.5475,1,10,1,22
+2026-06-12,12,Cleveland Guardians,Detroit Tigers,0.5312,1,3,2,22
+2026-06-12,12,Cincinnati Reds,Arizona Diamondbacks,0.5119,0,2,5,22
+2026-06-12,12,New York Mets,Atlanta Braves,0.5366,1,7,5,12
+2026-06-12,12,Chicago White Sox,Atlanta Braves,0.4771,1,8,2,12
+2026-06-13,12,Boston Red Sox,Texas Rangers,0.5317,1,6,3,22
+2026-06-13,12,Cleveland Guardians,Detroit Tigers,0.4401,1,3,1,22
+2026-06-13,12,Milwaukee Brewers,Philadelphia Phillies,0.5977,0,8,9,22
+2026-06-13,12,Athletics,Colorado Rockies,0.6103,1,6,4,22
+2026-06-13,12,San Francisco Giants,Chicago Cubs,0.5163,0,1,5,22
+2026-06-13,12,Los Angeles Angels,Tampa Bay Rays,0.4807,1,4,3,22
+2026-06-13,12,New York Mets,Atlanta Braves,0.52,0,1,3,22
+2026-06-13,12,Los Angeles Angels,Tampa Bay Rays,0.4014,1,4,3,10
+2026-06-13,12,Athletics,Colorado Rockies,0.6607,1,6,4,10
+2026-06-13,12,San Francisco Giants,Chicago Cubs,0.5354,0,1,5,10
+2026-06-13,12,Toronto Blue Jays,New York Yankees,0.4817,0,1,3,22
+2026-06-13,12,Washington Nationals,Seattle Mariners,0.5186,1,8,3,22
+2026-06-13,12,Baltimore Orioles,San Diego Padres,0.5277,0,3,9,22
+2026-06-13,12,Pittsburgh Pirates,Miami Marlins,0.5094,1,3,2,22
+2026-06-13,12,Chicago White Sox,Los Angeles Dodgers,0.3493,0,1,7,22
+2026-06-13,12,Cincinnati Reds,Arizona Diamondbacks,0.4282,1,2,1,22
+2026-06-13,12,Cleveland Guardians,Detroit Tigers,0.4998,1,3,1,12
+2026-06-14,12,Kansas City Royals,Houston Astros,0.5435,1,4,0,22
+2026-06-14,12,Milwaukee Brewers,Philadelphia Phillies,0.4596,1,4,0,22
+2026-06-14,12,Pittsburgh Pirates,Miami Marlins,0.5876,0,2,4,22
+2026-06-14,12,Baltimore Orioles,San Diego Padres,0.557,0,2,5,22
+2026-06-14,12,Minnesota Twins,St. Louis Cardinals,0.5177,1,5,4,22
+2026-06-14,12,Minnesota Twins,St. Louis Cardinals,0.5067,1,5,4,22
+2026-06-14,12,Boston Red Sox,Texas Rangers,0.5162,0,4,6,22
+2026-06-14,12,Washington Nationals,Seattle Mariners,0.4531,1,10,1,22
+2026-06-14,12,Toronto Blue Jays,New York Yankees,0.4536,0,3,8,22
+2026-06-14,12,Cincinnati Reds,Arizona Diamondbacks,0.4886,0,3,5,22
+2026-06-14,12,New York Mets,Atlanta Braves,0.5387,1,8,1,22
+2026-06-14,12,Chicago White Sox,Los Angeles Dodgers,0.3619,1,6,4,22
+2026-06-14,12,Kansas City Royals,Houston Astros,0.521,1,4,0,22
+2026-06-15,12,Philadelphia Phillies,Miami Marlins,0.6347,1,7,0,22
+2026-06-15,12,Washington Nationals,Kansas City Royals,0.552,1,7,3,22
+2026-06-15,12,Cincinnati Reds,New York Mets,0.5541,1,12,0,22
+2026-06-15,12,St. Louis Cardinals,San Diego Padres,0.5892,1,3,0,22
+2026-06-16,12,Los Angeles Dodgers,Tampa Bay Rays,0.623,1,4,3,10
+2026-06-16,12,Philadelphia Phillies,Miami Marlins,0.6207,1,8,2,22
+2026-06-16,12,Boston Red Sox,Toronto Blue Jays,0.4755,0,1,6,22
+2026-06-16,12,Washington Nationals,Kansas City Royals,0.5556,1,6,4,22
+2026-06-16,12,New York Yankees,Chicago White Sox,0.5716,1,12,2,22
+2026-06-16,12,Cincinnati Reds,New York Mets,0.4813,1,5,3,22
+2026-06-16,12,Atlanta Braves,San Francisco Giants,0.6077,0,2,7,22
+2026-06-16,12,Milwaukee Brewers,Cleveland Guardians,0.5809,1,2,1,22
+2026-06-16,12,St. Louis Cardinals,San Diego Padres,0.5167,1,3,2,22
+2026-06-16,12,Houston Astros,Detroit Tigers,0.5024,0,3,9,22
+2026-06-16,12,Los Angeles Dodgers,Tampa Bay Rays,0.59,1,4,3,22
+2026-06-16,12,Arizona Diamondbacks,Los Angeles Angels,0.6125,1,4,3,22
+2026-06-16,12,Chicago Cubs,Colorado Rockies,0.6658,1,5,4,10
+2026-06-16,12,Texas Rangers,Minnesota Twins,0.5759,0,2,4,10
+2026-06-16,12,Houston Astros,Detroit Tigers,0.5281,0,3,9,10
+2026-06-16,12,Arizona Diamondbacks,Los Angeles Angels,0.5633,1,4,3,10
+2026-06-16,12,Athletics,Pittsburgh Pirates,0.5334,1,11,2,10
+2026-06-17,12,Cincinnati Reds,New York Mets,0.4449,0,1,9,22
+2026-06-17,12,Seattle Mariners,Baltimore Orioles,0.5556,1,3,1,22
+2026-06-17,12,Washington Nationals,Kansas City Royals,0.547,0,2,6,22
+2026-06-17,12,Philadelphia Phillies,Miami Marlins,0.5265,0,4,12,22
+2026-06-17,12,St. Louis Cardinals,San Diego Padres,0.54,0,1,6,22
+2026-06-17,12,Boston Red Sox,Toronto Blue Jays,0.5243,0,0,3,22
+2026-06-17,12,Chicago Cubs,Colorado Rockies,0.6501,0,2,5,10
+2026-06-17,12,Texas Rangers,Minnesota Twins,0.5436,0,2,12,10
+2026-06-17,12,New York Yankees,Chicago White Sox,0.613,1,10,5,22
+2026-06-17,12,Atlanta Braves,San Francisco Giants,0.5577,0,5,7,21
+2026-06-17,12,Athletics,Pittsburgh Pirates,0.5668,0,5,6,10
+2026-06-17,12,Seattle Mariners,Baltimore Orioles,0.5731,1,3,1,10
+2026-06-17,12,Milwaukee Brewers,Cleveland Guardians,0.5347,1,9,4,22
+2026-06-18,13,Milwaukee Brewers,Cleveland Guardians,0.5733,0,2,4,22
+2026-06-18,13,Texas Rangers,Minnesota Twins,0.4689,0,3,9,22
+2026-06-18,13,Philadelphia Phillies,New York Mets,0.5272,0,4,6,22
+2026-06-18,13,New York Yankees,Chicago White Sox,0.602,0,1,5,22
+2026-06-18,13,Kansas City Royals,St. Louis Cardinals,0.5096,1,14,6,22
+2026-06-18,13,Chicago Cubs,Colorado Rockies,0.6479,1,8,6,10
+2026-06-18,13,Athletics,Pittsburgh Pirates,0.4444,0,4,12,10
+2026-06-18,13,Boston Red Sox,Toronto Blue Jays,0.5588,0,3,4,22
+2026-06-19,13,Athletics,Los Angeles Angels,0.6302,1,5,0,10
+2026-06-19,13,Chicago Cubs,Toronto Blue Jays,0.5312,1,16,2,22
+2026-06-19,13,Detroit Tigers,Chicago White Sox,0.6454,1,4,3,22
+2026-06-19,13,New York Yankees,Cincinnati Reds,0.7079,1,5,0,22
+2026-06-19,13,Tampa Bay Rays,Washington Nationals,0.5877,1,5,2,22
+2026-06-19,13,Atlanta Braves,Milwaukee Brewers,0.3882,1,3,2,22
+2026-06-19,13,Miami Marlins,San Francisco Giants,0.511,1,4,3,11
+2026-06-20,13,Colorado Rockies,Pittsburgh Pirates,0.4386,1,4,3,10
+2026-06-20,13,Athletics,Los Angeles Angels,0.5809,1,12,11,10
+2026-06-20,13,Arizona Diamondbacks,Minnesota Twins,0.6067,1,9,5,10
+2026-06-20,13,Los Angeles Dodgers,Baltimore Orioles,0.6516,1,6,5,10
+2026-06-20,13,Arizona Diamondbacks,Minnesota Twins,0.5376,1,9,5,22
+2026-06-20,13,Los Angeles Dodgers,Baltimore Orioles,0.6857,1,6,5,22
+2026-06-20,13,Seattle Mariners,Boston Red Sox,0.5387,0,2,6,22
+2026-06-20,13,Seattle Mariners,Boston Red Sox,0.5139,0,2,6,10
+2026-06-20,13,Detroit Tigers,Chicago White Sox,0.5285,1,4,1,22
+2026-06-20,13,New York Yankees,Cincinnati Reds,0.6422,0,2,10,22
+2026-06-20,13,Chicago Cubs,Toronto Blue Jays,0.5494,0,6,8,22
+2026-06-20,13,Atlanta Braves,Milwaukee Brewers,0.5556,1,4,3,22
+2026-06-20,13,Miami Marlins,San Francisco Giants,0.566,1,6,3,22
+2026-06-20,13,Colorado Rockies,Pittsburgh Pirates,0.4301,1,4,3,22
+2026-06-20,13,Kansas City Royals,St. Louis Cardinals,0.4753,1,6,5,10
+2026-06-20,13,Athletics,Los Angeles Angels,0.5457,1,12,11,22
+2026-06-20,13,Tampa Bay Rays,Washington Nationals,0.5285,0,3,4,22
+2026-06-20,13,Philadelphia Phillies,New York Mets,0.6328,1,15,3,22
+2026-06-21,13,Atlanta Braves,Milwaukee Brewers,0.5192,0,4,9,22
+2026-06-21,13,New York Yankees,Cincinnati Reds,0.5104,0,1,4,22
+2026-06-21,13,Philadelphia Phillies,New York Mets,0.6229,1,6,2,22
+2026-06-21,13,Texas Rangers,San Diego Padres,0.5373,1,4,3,21
+2026-06-21,13,Detroit Tigers,Chicago White Sox,0.5231,1,5,4,22
+2026-06-21,13,Miami Marlins,San Francisco Giants,0.4353,1,2,1,22
+2026-06-21,13,Tampa Bay Rays,Washington Nationals,0.5465,1,4,3,22
+2026-06-21,13,Houston Astros,Cleveland Guardians,0.5487,1,2,1,22
+2026-06-21,13,Kansas City Royals,St. Louis Cardinals,0.4622,0,10,12,22
+2026-06-21,13,Houston Astros,Cleveland Guardians,0.557,1,2,1,22
+2026-06-21,13,Texas Rangers,San Diego Padres,0.5959,1,4,3,22
+2026-06-22,13,Detroit Tigers,New York Yankees,0.4649,1,5,3,22
+2026-06-22,13,Tampa Bay Rays,Kansas City Royals,0.6287,0,1,2,22
+2026-06-22,13,Miami Marlins,Texas Rangers,0.549,0,3,4,22
+2026-06-22,13,Toronto Blue Jays,Houston Astros,0.5492,1,4,2,22
+2026-06-22,13,Cincinnati Reds,Milwaukee Brewers,0.4233,0,1,2,22
+2026-06-22,13,Chicago White Sox,Cleveland Guardians,0.4993,1,6,5,22
+2026-06-22,13,Minnesota Twins,Los Angeles Dodgers,0.4219,0,1,2,22
+2026-06-22,13,St. Louis Cardinals,Arizona Diamondbacks,0.5769,1,3,2,22
+2026-06-23,13,Tampa Bay Rays,Kansas City Royals,0.6266,0,5,12,22
+2026-06-23,13,Miami Marlins,Texas Rangers,0.5922,1,6,4,22
+2026-06-23,13,Pittsburgh Pirates,Seattle Mariners,0.4526,0,2,3,22
+2026-06-23,13,Washington Nationals,Philadelphia Phillies,0.3839,0,9,14,22
+2026-06-23,13,New York Mets,Chicago Cubs,0.4933,0,6,9,22
+2026-06-23,13,Cincinnati Reds,Milwaukee Brewers,0.5034,0,0,2,22
+2026-06-23,13,Chicago White Sox,Cleveland Guardians,0.4908,1,2,1,22
+2026-06-23,13,Colorado Rockies,Boston Red Sox,0.4413,1,3,2,10
+2026-06-23,13,St. Louis Cardinals,Arizona Diamondbacks,0.5044,0,3,4,22
+2026-06-23,13,Colorado Rockies,Boston Red Sox,0.3976,1,3,2,22
+2026-06-23,13,Los Angeles Angels,Baltimore Orioles,0.5132,0,1,6,22
+2026-06-23,13,Los Angeles Angels,Baltimore Orioles,0.4038,0,1,6,10
+2026-06-23,13,San Diego Padres,Atlanta Braves,0.5105,1,1,0,10
+2026-06-23,13,Toronto Blue Jays,Houston Astros,0.5321,0,7,9,22
+2026-06-23,13,Detroit Tigers,New York Yankees,0.4854,0,3,4,22
+2026-06-23,13,Minnesota Twins,Los Angeles Dodgers,0.3869,0,3,12,12
+2026-06-23,13,New York Mets,Chicago Cubs,0.4642,0,6,9,12
+2026-06-24,13,Minnesota Twins,Los Angeles Dodgers,0.3993,0,3,4,22
+2026-06-24,13,San Diego Padres,Atlanta Braves,0.498,1,7,6,10
+2026-06-24,13,San Francisco Giants,Athletics,0.5708,1,3,1,10
+2026-06-24,13,Miami Marlins,Texas Rangers,0.4742,1,4,2,22
+2026-06-24,13,Chicago White Sox,Cleveland Guardians,0.4934,0,3,4,22
+2026-06-24,13,Detroit Tigers,New York Yankees,0.5447,0,2,4,22
+2026-06-24,13,Tampa Bay Rays,Kansas City Royals,0.5751,1,5,3,22
+2026-06-24,13,Pittsburgh Pirates,Seattle Mariners,0.5099,1,11,1,22
+2026-06-24,13,Washington Nationals,Philadelphia Phillies,0.4679,0,4,5,22
+2026-06-24,13,Toronto Blue Jays,Houston Astros,0.5642,0,1,3,22
+2026-06-24,13,Cincinnati Reds,Milwaukee Brewers,0.4525,0,5,6,22
+2026-06-24,13,St. Louis Cardinals,Arizona Diamondbacks,0.5164,0,4,9,22
+2026-06-24,13,San Francisco Giants,Athletics,0.5198,1,3,1,22
+2026-06-25,14,Toronto Blue Jays,Texas Rangers,0.5653,0,5,6,22
+2026-06-25,14,Boston Red Sox,New York Yankees,0.4277,1,6,3,22
+2026-06-25,14,New York Mets,Chicago Cubs,0.4988,0,3,4,22
+2026-06-25,14,San Diego Padres,Atlanta Braves,0.4818,1,5,2,10
+2026-06-25,14,Tampa Bay Rays,Kansas City Royals,0.5684,1,13,2,22
+2026-06-25,14,Pittsburgh Pirates,Seattle Mariners,0.4235,1,5,1,22
+2026-06-25,14,Detroit Tigers,Houston Astros,0.5252,0,1,2,22
+2026-06-25,14,Washington Nationals,Philadelphia Phillies,0.3811,0,5,10,20
+2026-06-26,14,Pittsburgh Pirates,Cincinnati Reds,0.6216,0,4,6,22
+2026-06-26,14,Detroit Tigers,Houston Astros,0.5045,1,8,0,22
+2026-06-26,14,Baltimore Orioles,Washington Nationals,0.5591,1,3,1,22
+2026-06-26,14,Toronto Blue Jays,Texas Rangers,0.5061,0,4,5,22
+2026-06-26,14,Tampa Bay Rays,Arizona Diamondbacks,0.554,1,6,1,22
+2026-06-26,14,Boston Red Sox,New York Yankees,0.52,1,6,1,22
+2026-06-26,14,Cleveland Guardians,Seattle Mariners,0.5011,0,1,3,22
+2026-06-26,14,New York Mets,Philadelphia Phillies,0.4092,0,1,2,22
+2026-06-26,14,Chicago White Sox,Kansas City Royals,0.5419,1,22,1,22
+2026-06-26,14,Milwaukee Brewers,Chicago Cubs,0.683,1,6,2,22
+2026-06-27,14,Los Angeles Angels,Athletics,0.4888,0,3,9,10
+2026-06-27,14,San Diego Padres,Los Angeles Dodgers,0.4274,1,7,1,10
+2026-06-27,14,Boston Red Sox,New York Yankees,0.4839,1,4,1,22
+2026-06-27,14,San Francisco Giants,Atlanta Braves,0.4181,0,1,3,22
+2026-06-27,14,Los Angeles Angels,Athletics,0.5062,0,3,9,22
+2026-06-27,14,San Diego Padres,Los Angeles Dodgers,0.4435,1,7,1,22
+2026-06-27,14,Detroit Tigers,Houston Astros,0.5527,0,6,8,22
+2026-06-27,14,Toronto Blue Jays,Texas Rangers,0.6348,0,4,7,22
+2026-06-27,14,Pittsburgh Pirates,Cincinnati Reds,0.4929,0,7,9,22
+2026-06-27,14,Chicago White Sox,Kansas City Royals,0.5376,1,2,1,22
+2026-06-27,14,New York Mets,Philadelphia Phillies,0.545,1,6,2,22
+2026-06-27,14,Tampa Bay Rays,Arizona Diamondbacks,0.5597,1,4,2,22
+2026-06-27,14,Baltimore Orioles,Washington Nationals,0.5086,0,3,4,22
+2026-06-27,14,Milwaukee Brewers,Chicago Cubs,0.5843,0,2,8,22
+2026-06-27,14,Cleveland Guardians,Seattle Mariners,0.4241,1,4,3,22
+2026-06-28,14,St. Louis Cardinals,Miami Marlins,0.5589,1,2,1,22
+2026-06-28,14,Boston Red Sox,New York Yankees,0.5048,1,5,4,22
+2026-06-28,14,Baltimore Orioles,Washington Nationals,0.6419,0,4,6,22
+2026-06-28,14,Pittsburgh Pirates,Cincinnati Reds,0.5551,1,9,4,22
+2026-06-28,14,Toronto Blue Jays,Texas Rangers,0.543,0,2,3,22
+2026-06-28,14,Tampa Bay Rays,Arizona Diamondbacks,0.6399,1,5,1,22
+2026-06-28,14,Cleveland Guardians,Seattle Mariners,0.5311,1,6,5,22
+2026-06-28,14,Detroit Tigers,Houston Astros,0.4871,0,5,7,22
+2026-06-28,14,New York Mets,Philadelphia Phillies,0.4102,0,4,5,22
+2026-06-28,14,Minnesota Twins,Colorado Rockies,0.5997,1,3,2,22
+2026-06-28,14,Milwaukee Brewers,Chicago Cubs,0.5953,0,3,4,22
+2026-06-28,14,Minnesota Twins,Colorado Rockies,0.5623,1,3,2,22
+2026-06-28,14,Chicago White Sox,Kansas City Royals,0.5548,0,4,5,22
+2026-06-28,14,St. Louis Cardinals,Miami Marlins,0.5308,1,2,1,22
+2026-06-29,14,Baltimore Orioles,Chicago White Sox,0.5501,0,2,8,22
+2026-06-29,14,Philadelphia Phillies,Pittsburgh Pirates,0.5037,0,7,11,22
+2026-06-29,14,New York Yankees,Detroit Tigers,0.556,0,3,7,22
+2026-06-29,14,Toronto Blue Jays,New York Mets,0.5353,1,2,1,22
+2026-06-29,14,Boston Red Sox,Washington Nationals,0.6114,1,6,3,22
+2026-06-29,14,Cleveland Guardians,Texas Rangers,0.5888,0,3,6,22
+2026-06-29,14,Milwaukee Brewers,Cincinnati Reds,0.5552,1,5,3,22
+2026-06-30,14,Baltimore Orioles,Chicago White Sox,0.5717,0,3,9,22
+2026-06-30,14,Cleveland Guardians,Texas Rangers,0.4663,0,2,4,22
+2026-06-30,14,Philadelphia Phillies,Pittsburgh Pirates,0.6605,1,8,0,22
+2026-06-30,14,New York Yankees,Detroit Tigers,0.5108,0,3,9,22
+2026-06-30,14,Toronto Blue Jays,New York Mets,0.4931,0,0,3,22
+2026-06-30,14,Boston Red Sox,Washington Nationals,0.5502,0,1,8,22
+2026-06-30,14,Atlanta Braves,St. Louis Cardinals,0.5709,0,3,5,22
+2026-06-30,14,Milwaukee Brewers,Cincinnati Reds,0.608,1,7,2,22
+2026-06-30,14,Kansas City Royals,Tampa Bay Rays,0.4858,0,4,10,22
+2026-06-30,14,Chicago Cubs,San Diego Padres,0.5509,1,3,2,22
+2026-06-30,14,Chicago Cubs,San Diego Padres,0.5954,1,3,2,10
+2026-06-30,14,Houston Astros,Minnesota Twins,0.5599,0,4,5,10
+2026-06-30,14,Colorado Rockies,Miami Marlins,0.4138,0,7,10,10
+2026-06-30,14,Arizona Diamondbacks,San Francisco Giants,0.551,1,5,4,10
+2026-06-30,14,Athletics,Los Angeles Dodgers,0.4789,0,4,9,10
+2026-06-30,14,Seattle Mariners,Los Angeles Angels,0.6427,1,6,2,10
+2026-07-01,14,Boston Red Sox,Washington Nationals,0.5728,0,2,10,22
+2026-07-01,14,New York Yankees,Detroit Tigers,0.5448,0,2,6,22
+2026-07-01,14,Houston Astros,Minnesota Twins,0.4907,1,6,4,10
+2026-07-01,14,Colorado Rockies,Miami Marlins,0.4478,0,3,14,10
+2026-07-01,14,Athletics,Los Angeles Dodgers,0.3801,0,3,9,10
+2026-07-01,14,Seattle Mariners,Los Angeles Angels,0.6293,1,8,3,10
+2026-07-01,14,Toronto Blue Jays,New York Mets,0.5101,1,9,3,22
+2026-07-01,14,Baltimore Orioles,Chicago White Sox,0.5778,1,6,1,22
+2026-07-01,14,Cleveland Guardians,Texas Rangers,0.531,1,9,4,22
+2026-07-01,14,Philadelphia Phillies,Pittsburgh Pirates,0.5688,1,10,6,22
+2026-07-01,14,Atlanta Braves,St. Louis Cardinals,0.5508,1,5,1,22
+2026-07-01,14,Kansas City Royals,Tampa Bay Rays,0.4253,0,0,4,22
+2026-07-01,14,Colorado Rockies,Miami Marlins,0.4412,0,3,14,22
+2026-07-02,15,Cleveland Guardians,Chicago White Sox,0.517,1,6,5,22
+2026-07-02,15,Atlanta Braves,St. Louis Cardinals,0.5192,0,5,11,22
+2026-07-02,15,Kansas City Royals,Tampa Bay Rays,0.4683,0,2,5,22
+2026-07-02,15,Houston Astros,Minnesota Twins,0.5834,0,3,8,10
+2026-07-02,15,Arizona Diamondbacks,San Francisco Giants,0.5476,0,4,6,10
+2026-07-02,15,Athletics,Los Angeles Dodgers,0.4015,1,7,1,10
+2026-07-02,15,Philadelphia Phillies,Pittsburgh Pirates,0.5424,0,1,6,22
+2026-07-03,15,Texas Rangers,Detroit Tigers,0.4982,1,10,4,10
+2026-07-03,15,Seattle Mariners,Los Angeles Angels,0.6673,1,1,0,10
+2026-07-03,15,Los Angeles Dodgers,San Diego Padres,0.6506,1,12,7,10
+2026-07-03,15,Chicago Cubs,St. Louis Cardinals,0.5433,0,1,17,22
+2026-07-03,15,Washington Nationals,Pittsburgh Pirates,0.5615,1,9,5,22
+2026-07-03,15,New York Yankees,Minnesota Twins,0.6656,1,5,2,22
+2026-07-03,15,Cincinnati Reds,Baltimore Orioles,0.4672,0,0,3,22
+2026-07-03,15,Cleveland Guardians,Chicago White Sox,0.5449,1,4,3,22
+2026-07-03,15,Atlanta Braves,New York Mets,0.5059,1,5,3,22
+2026-07-04,15,Athletics,Miami Marlins,0.5636,0,5,12,10
+2026-07-04,15,Arizona Diamondbacks,Milwaukee Brewers,0.4446,0,4,7,10
+2026-07-04,15,Arizona Diamondbacks,Milwaukee Brewers,0.4458,0,4,7,22
+2026-07-04,15,Athletics,Miami Marlins,0.4858,0,5,12,22
+2026-07-04,15,Los Angeles Dodgers,San Diego Padres,0.6712,1,4,3,22
+2026-07-04,15,Los Angeles Dodgers,San Diego Padres,0.7009,1,4,3,10
+2026-07-04,15,Washington Nationals,Pittsburgh Pirates,0.4149,0,1,7,22
+2026-07-04,15,New York Yankees,Minnesota Twins,0.5763,0,4,11,22
+2026-07-04,15,Texas Rangers,Detroit Tigers,0.4684,0,0,3,22
+2026-07-04,15,Cincinnati Reds,Baltimore Orioles,0.5371,0,5,8,22
+2026-07-04,15,Colorado Rockies,San Francisco Giants,0.4199,1,15,3,10
+2026-07-04,15,Colorado Rockies,San Francisco Giants,0.4694,1,15,3,22
+2026-07-04,15,Los Angeles Angels,Boston Red Sox,0.5116,0,2,5,10
+2026-07-04,15,Cleveland Guardians,Chicago White Sox,0.5591,0,1,3,22
+2026-07-05,15,Los Angeles Angels,Boston Red Sox,0.3881,0,1,8,10
+2026-07-05,15,Seattle Mariners,Toronto Blue Jays,0.5256,1,4,0,21
+2026-07-05,15,Washington Nationals,Pittsburgh Pirates,0.564,0,5,11,22
+2026-07-05,15,Cincinnati Reds,Baltimore Orioles,0.4867,1,3,2,22
+2026-07-05,15,New York Yankees,Minnesota Twins,0.5499,0,1,6,22
+2026-07-05,15,Cleveland Guardians,Chicago White Sox,0.5517,0,6,7,22
+2026-07-05,15,Texas Rangers,Detroit Tigers,0.4669,0,3,6,22
+2026-07-05,15,Houston Astros,Tampa Bay Rays,0.5095,1,2,0,22
+2026-07-05,15,Seattle Mariners,Toronto Blue Jays,0.5156,1,4,0,22
+2026-07-05,15,Houston Astros,Tampa Bay Rays,0.5172,1,2,0,12
+2026-07-06,15,Los Angeles Angels,Boston Red Sox,0.4027,0,5,7,10
+2026-07-06,15,Kansas City Royals,Philadelphia Phillies,0.3427,1,15,1,22
+2026-07-06,15,Atlanta Braves,New York Mets,0.5603,0,6,7,22
+2026-07-06,15,Tampa Bay Rays,New York Yankees,0.4715,0,1,5,22
+2026-07-06,15,Washington Nationals,Houston Astros,0.5136,1,12,11,22
+2026-07-06,15,Atlanta Braves,New York Mets,0.5393,0,6,7,22
+2026-07-06,15,St. Louis Cardinals,Milwaukee Brewers,0.476,0,3,4,22
+2026-07-06,15,Kansas City Royals,Philadelphia Phillies,0.4492,1,15,1,22
+2026-07-07,15,Tampa Bay Rays,New York Yankees,0.5508,1,6,4,22
+2026-07-07,15,Washington Nationals,Houston Astros,0.5212,0,3,6,22
+2026-07-07,15,Cincinnati Reds,Philadelphia Phillies,0.3972,0,1,4,22
+2026-07-07,15,San Diego Padres,Arizona Diamondbacks,0.5352,0,0,8,10
+2026-07-07,15,San Francisco Giants,Toronto Blue Jays,0.4892,1,10,1,10
+2026-07-07,15,Los Angeles Dodgers,Colorado Rockies,0.6855,1,8,7,10
+2026-07-07,15,New York Mets,Kansas City Royals,0.5667,0,12,16,22
+2026-07-07,15,Chicago White Sox,Boston Red Sox,0.4683,0,1,8,22
+2026-07-07,15,Baltimore Orioles,Chicago Cubs,0.4927,0,2,5,22
+2026-07-07,15,Detroit Tigers,Athletics,0.6634,1,6,2,22
+2026-07-07,15,Pittsburgh Pirates,Atlanta Braves,0.5722,1,12,4,22
+2026-07-07,15,Minnesota Twins,Cleveland Guardians,0.5007,1,3,1,22
+2026-07-07,15,San Francisco Giants,Toronto Blue Jays,0.4688,1,10,1,22
+2026-07-07,15,Miami Marlins,Seattle Mariners,0.5323,1,6,5,22
+2026-07-08,15,Washington Nationals,Houston Astros,0.5508,1,8,2,22
+2026-07-08,15,Cincinnati Reds,Philadelphia Phillies,0.5632,1,11,5,22
+2026-07-08,15,New York Mets,Kansas City Royals,0.6339,1,6,2,22
+2026-07-08,15,St. Louis Cardinals,Milwaukee Brewers,0.3453,1,5,1,22
+2026-07-08,15,Chicago White Sox,Boston Red Sox,0.5008,0,0,5,22
+2026-07-08,15,Minnesota Twins,Cleveland Guardians,0.5376,1,6,5,22
+2026-07-08,15,St. Louis Cardinals,Milwaukee Brewers,0.4263,1,5,1,22
+2026-07-08,15,Texas Rangers,Los Angeles Angels,0.5962,1,8,3,10
+2026-07-08,15,San Diego Padres,Arizona Diamondbacks,0.5235,1,4,1,10
+2026-07-08,15,Los Angeles Dodgers,Colorado Rockies,0.7317,0,3,4,10
+2026-07-08,15,Baltimore Orioles,Chicago Cubs,0.5397,0,7,9,22
+2026-07-08,15,Detroit Tigers,Athletics,0.5574,1,6,1,22
+2026-07-08,15,Pittsburgh Pirates,Atlanta Braves,0.5237,0,0,3,22
+2026-07-08,15,Miami Marlins,Seattle Mariners,0.4616,1,2,0,22
+2026-07-08,15,Tampa Bay Rays,New York Yankees,0.5233,1,3,0,22
+2026-07-09,16,Detroit Tigers,Athletics,0.5362,1,4,1,22
+2026-07-09,16,Miami Marlins,Seattle Mariners,0.4584,1,8,4,22
+2026-07-09,16,Cincinnati Reds,Philadelphia Phillies,0.393,0,0,1,22
+2026-07-09,16,St. Louis Cardinals,Milwaukee Brewers,0.4615,0,4,8,22
+2026-07-09,16,Texas Rangers,Los Angeles Angels,0.5559,0,1,13,10
+2026-07-09,16,San Diego Padres,Arizona Diamondbacks,0.5699,1,10,4,10
+2026-07-09,16,Los Angeles Dodgers,Colorado Rockies,0.702,1,4,3,10
+2026-07-09,16,Pittsburgh Pirates,Atlanta Braves,0.4956,0,5,10,22
+2026-07-09,16,Tampa Bay Rays,New York Yankees,0.5741,0,4,12,22
+2026-07-09,16,New York Mets,Kansas City Royals,0.5604,1,7,3,22
+2026-07-09,16,Baltimore Orioles,Chicago Cubs,0.5387,1,3,2,20
+2026-07-09,16,Minnesota Twins,Cleveland Guardians,0.4738,0,2,5,22
+2026-07-09,16,Chicago White Sox,Boston Red Sox,0.5122,0,1,2,22
+2026-07-09,16,Pittsburgh Pirates,Milwaukee Brewers,0.5329,0,5,10,22
+2026-07-10,16,Texas Rangers,Los Angeles Angels,0.5598,1,7,6,10
+2026-07-10,16,San Diego Padres,Arizona Diamondbacks,0.5417,0,1,3,10
+2026-07-10,16,Detroit Tigers,Philadelphia Phillies,0.5194,1,10,2,22
+2026-07-10,16,Washington Nationals,New York Yankees,0.4158,0,3,5,22
+2026-07-10,16,Baltimore Orioles,Kansas City Royals,0.5844,1,5,3,22
+2026-07-10,16,Cincinnati Reds,Chicago Cubs,0.4821,1,4,0,22
+2026-07-10,16,Miami Marlins,Cleveland Guardians,0.5285,0,2,3,22
+2026-07-10,16,Tampa Bay Rays,Seattle Mariners,0.5328,1,7,2,22
+2026-07-10,16,New York Mets,Boston Red Sox,0.5693,0,2,6,22
+2026-07-10,16,Chicago White Sox,Athletics,0.6146,1,14,1,22
+2026-07-11,16,San Diego Padres,Toronto Blue Jays,0.5311,0,3,5,10
+2026-07-11,16,Los Angeles Dodgers,Arizona Diamondbacks,0.6501,0,3,9,10
+2026-07-11,16,Chicago White Sox,Athletics,0.5285,1,1,0,22
+2026-07-11,16,Los Angeles Dodgers,Arizona Diamondbacks,0.694,0,3,9,22
+2026-07-11,16,San Diego Padres,Toronto Blue Jays,0.4601,0,3,5,22
+2026-07-11,16,Washington Nationals,New York Yankees,0.364,0,2,4,22
+2026-07-11,16,Cincinnati Reds,Chicago Cubs,0.5138,0,3,5,22
+2026-07-11,16,New York Mets,Boston Red Sox,0.5643,0,0,4,22
+2026-07-11,16,Miami Marlins,Cleveland Guardians,0.5891,0,1,4,22
+2026-07-11,16,Tampa Bay Rays,Seattle Mariners,0.5059,1,6,1,22
+2026-07-11,16,Detroit Tigers,Philadelphia Phillies,0.4393,0,2,4,22
+2026-07-11,16,Baltimore Orioles,Kansas City Royals,0.5902,1,6,1,22
+2026-07-12,16,Minnesota Twins,Los Angeles Angels,0.6086,1,4,2,22
+2026-07-12,16,St. Louis Cardinals,Atlanta Braves,0.5034,0,3,4,22
+2026-07-12,16,Texas Rangers,Houston Astros,0.5219,1,6,5,22
+2026-07-12,16,St. Louis Cardinals,Atlanta Braves,0.5456,0,3,4,22
+2026-07-12,16,Texas Rangers,Houston Astros,0.5602,1,6,5,22
+2026-07-12,16,San Francisco Giants,Colorado Rockies,0.578,1,3,1,22
+2026-07-12,16,San Francisco Giants,Colorado Rockies,0.578,1,3,1,22
+2026-07-12,16,Pittsburgh Pirates,Milwaukee Brewers,0.4738,1,14,5,22
+2026-07-12,16,Pittsburgh Pirates,Milwaukee Brewers,0.5389,1,14,5,22
+2026-07-12,16,Baltimore Orioles,Kansas City Royals,0.5758,1,8,2,22
+2026-07-12,16,Washington Nationals,New York Yankees,0.5219,0,3,5,22
+2026-07-12,16,New York Mets,Boston Red Sox,0.4941,0,2,3,22
+2026-07-12,16,Cincinnati Reds,Chicago Cubs,0.4571,0,4,8,22
+2026-07-12,16,Miami Marlins,Cleveland Guardians,0.4952,0,2,5,22
+2026-07-12,16,Detroit Tigers,Philadelphia Phillies,0.5474,0,0,5,22
+2026-07-12,16,Tampa Bay Rays,Seattle Mariners,0.5747,0,2,8,22
+2026-07-12,16,Chicago White Sox,Athletics,0.5734,1,9,1,22
+2026-07-12,16,Minnesota Twins,Los Angeles Angels,0.5461,1,4,2,22
+2026-07-16,17,Philadelphia Phillies,New York Mets,0.5333,0,1,4,15
+2026-07-17,17,New York Yankees,Los Angeles Dodgers,0.4899,0,1,2,22
+2026-07-17,17,Atlanta Braves,Texas Rangers,0.6569,1,15,1,22
+2026-07-17,17,Toronto Blue Jays,Chicago White Sox,0.5493,0,4,12,22
+2026-07-17,17,Milwaukee Brewers,Miami Marlins,0.5777,1,2,1,22
+2026-07-18,17,Athletics,Washington Nationals,0.4506,0,4,23,10
+2026-07-18,17,Seattle Mariners,San Francisco Giants,0.6248,0,0,7,10
+2026-07-18,17,Los Angeles Angels,Detroit Tigers,0.3982,0,1,2,22
+2026-07-18,17,Toronto Blue Jays,Chicago White Sox,0.5011,1,1,0,21
+2026-07-18,17,Seattle Mariners,San Francisco Giants,0.6198,0,0,7,22
+2026-07-18,17,Atlanta Braves,Texas Rangers,0.5173,0,6,7,21
+2026-07-18,17,Boston Red Sox,Tampa Bay Rays,0.5271,1,7,6,21
+2026-07-18,17,Boston Red Sox,Tampa Bay Rays,0.5157,1,7,6,21
+2026-07-18,17,Milwaukee Brewers,Miami Marlins,0.5561,1,8,6,21
+2026-07-18,17,Los Angeles Angels,Detroit Tigers,0.4799,0,1,2,10
+2026-07-18,17,Athletics,Washington Nationals,0.4538,0,4,23,22
+2026-07-18,17,Philadelphia Phillies,New York Mets,0.6565,1,6,1,16
+2026-07-19,17,Arizona Diamondbacks,St. Louis Cardinals,0.5178,1,8,7,22
+2026-07-19,17,Cleveland Guardians,Pittsburgh Pirates,0.525,0,1,7,21
+2026-07-19,17,Chicago Cubs,Minnesota Twins,0.58,1,10,1,22
+2026-07-19,17,Toronto Blue Jays,Chicago White Sox,0.4829,0,0,3,22
+2026-07-19,17,Colorado Rockies,Cincinnati Reds,0.4854,0,6,9,22
+2026-07-19,17,Houston Astros,Baltimore Orioles,0.501,0,2,5,22
+2026-07-19,17,Atlanta Braves,Texas Rangers,0.4798,1,8,5,22
+2026-07-19,17,Kansas City Royals,San Diego Padres,0.4968,0,2,19,22
+2026-07-19,17,Boston Red Sox,Tampa Bay Rays,0.5318,1,6,1,22
+2026-07-19,17,Philadelphia Phillies,New York Mets,0.4623,0,1,6,22
+2026-07-19,17,Cleveland Guardians,Pittsburgh Pirates,0.5103,0,1,7,22
+2026-07-19,17,Houston Astros,Baltimore Orioles,0.53,0,2,5,22
+2026-07-19,17,Kansas City Royals,San Diego Padres,0.5148,0,2,19,22
+2026-07-19,17,Milwaukee Brewers,Miami Marlins,0.5411,1,3,1,22
+2026-07-19,17,Chicago Cubs,Minnesota Twins,0.6055,1,10,1,22
+2026-07-19,17,Colorado Rockies,Cincinnati Reds,0.3998,0,6,9,22
+2026-07-19,17,Arizona Diamondbacks,St. Louis Cardinals,0.532,1,8,7,22
+2026-07-20,17,Cleveland Guardians,Minnesota Twins,0.4537,1,13,4,21
+2026-07-20,17,New York Yankees,Pittsburgh Pirates,0.5137,1,8,5,22
+2026-07-20,17,New York Yankees,Los Angeles Dodgers,0.4506,1,8,5,21
+2026-07-20,17,Toronto Blue Jays,Tampa Bay Rays,0.611,0,1,7,22
+2026-07-20,17,Boston Red Sox,Baltimore Orioles,0.5944,1,6,5,22
+2026-07-20,17,Philadelphia Phillies,Los Angeles Dodgers,0.5728,1,10,7,22
+2026-07-20,17,Atlanta Braves,San Diego Padres,0.5446,1,3,2,22
+2026-07-20,17,Kansas City Royals,San Francisco Giants,0.528,1,4,3,22
+2026-07-20,17,Milwaukee Brewers,New York Mets,0.6568,1,8,3,22
+2026-07-21,17,Colorado Rockies,Washington Nationals,0.4446,0,3,7,22
+2026-07-21,17,Los Angeles Angels,St. Louis Cardinals,0.5573,1,3,2,22
+2026-07-21,17,Arizona Diamondbacks,Athletics,0.5531,0,2,5,22
+2026-07-21,17,Seattle Mariners,Cincinnati Reds,0.5623,1,8,0,22
+2026-07-21,17,Chicago Cubs,Detroit Tigers,0.5098,0,6,8,8
+2026-07-21,17,Texas Rangers,Chicago White Sox,0.6044,0,3,10,10
+2026-07-21,17,Houston Astros,Miami Marlins,0.5322,1,8,5,10
+2026-07-21,17,Colorado Rockies,Washington Nationals,0.4492,0,3,7,10
+2026-07-21,17,Arizona Diamondbacks,Athletics,0.5716,0,2,5,10
+2026-07-21,17,Seattle Mariners,Cincinnati Reds,0.5722,1,8,0,10
+2026-07-21,17,Cleveland Guardians,Minnesota Twins,0.582,1,5,2,22
+2026-07-21,17,Philadelphia Phillies,Los Angeles Dodgers,0.5186,0,1,2,22
+2026-07-21,17,Toronto Blue Jays,Tampa Bay Rays,0.5013,0,2,12,22
+2026-07-21,17,Atlanta Braves,San Diego Padres,0.5716,0,3,8,22
+2026-07-21,17,Kansas City Royals,San Francisco Giants,0.497,1,3,2,22
+2026-07-21,17,Los Angeles Angels,St. Louis Cardinals,0.4914,1,3,2,10
+2026-07-21,17,Milwaukee Brewers,New York Mets,0.5519,0,0,4,22
+2026-07-22,17,Philadelphia Phillies,Los Angeles Dodgers,0.4662,0,5,9,22
+2026-07-22,17,Cleveland Guardians,Minnesota Twins,0.5633,0,6,10,22
+2026-07-22,17,Toronto Blue Jays,Tampa Bay Rays,0.5017,0,2,4,22
+2026-07-22,17,Atlanta Braves,San Diego Padres,0.5109,1,7,6,22
+2026-07-22,17,Kansas City Royals,San Francisco Giants,0.4542,1,5,4,22
+2026-07-22,17,Milwaukee Brewers,New York Mets,0.5852,1,4,3,22
+2026-07-22,17,Chicago Cubs,Detroit Tigers,0.5241,1,11,2,10
+2026-07-22,17,Texas Rangers,Chicago White Sox,0.5134,1,10,0,10
+2026-07-22,17,Houston Astros,Miami Marlins,0.5297,1,5,3,10
+2026-07-23,18,Chicago Cubs,Detroit Tigers,0.5331,0,1,5,10
+2026-07-23,18,Texas Rangers,Chicago White Sox,0.473,0,2,4,10
+2026-07-23,18,Houston Astros,Miami Marlins,0.503,1,5,2,10
+2026-07-23,18,Atlanta Braves,San Diego Padres,0.6933,1,6,5,22
+2026-07-23,18,Cleveland Guardians,Minnesota Twins,0.5725,0,1,3,22
+2026-07-23,18,Toronto Blue Jays,Tampa Bay Rays,0.4892,1,3,1,22
+2026-07-23,18,St. Louis Cardinals,Arizona Diamondbacks,0.5271,0,6,10,21
+2026-07-23,18,Detroit Tigers,Kansas City Royals,0.6703,1,4,3,22
+2026-07-24,18,Detroit Tigers,Kansas City Royals,0.6965,1,2,1,22
+2026-07-24,18,Washington Nationals,Arizona Diamondbacks,0.467,0,2,3,22
+2026-07-24,18,Philadelphia Phillies,New York Yankees,0.5576,0,0,1,22
+2026-07-24,18,Baltimore Orioles,Atlanta Braves,0.5494,0,6,7,22
+2026-07-24,18,Tampa Bay Rays,Cleveland Guardians,0.5572,1,11,3,22
+2026-07-24,18,New York Mets,Los Angeles Dodgers,0.4624,0,2,4,22
+2026-07-24,18,Miami Marlins,San Diego Padres,0.5294,0,2,4,22
+2026-07-24,18,Boston Red Sox,Toronto Blue Jays,0.5365,1,6,4,22
+2026-07-24,18,Chicago White Sox,Houston Astros,0.5474,0,5,9,22
+2026-07-24,18,Milwaukee Brewers,Colorado Rockies,0.7077,0,2,5,22
+2026-07-24,18,Pittsburgh Pirates,Chicago Cubs,0.4993,0,2,3,22
+2026-07-25,18,Boston Red Sox,Toronto Blue Jays,0.5019,0,0,6,22
+2026-07-25,18,Miami Marlins,San Diego Padres,0.5658,0,2,7,22
+2026-07-25,18,Philadelphia Phillies,New York Yankees,0.4692,0,1,3,22
+2026-07-25,18,Tampa Bay Rays,Cleveland Guardians,0.5202,1,3,0,22
+2026-07-25,18,Pittsburgh Pirates,Chicago Cubs,0.5285,0,0,11,22
+2026-07-25,18,Baltimore Orioles,Atlanta Braves,0.5069,1,3,2,22
+2026-07-25,18,Detroit Tigers,Kansas City Royals,0.5993,0,2,3,22
+2026-07-25,18,Washington Nationals,Arizona Diamondbacks,0.5526,1,5,3,22
+2026-07-25,18,Chicago White Sox,Houston Astros,0.5298,0,1,4,22
+2026-07-25,18,Milwaukee Brewers,Colorado Rockies,0.6723,1,8,5,22
+2026-07-25,18,New York Mets,Los Angeles Dodgers,0.414,0,3,4,22
+2026-07-26,18,San Francisco Giants,Los Angeles Angels,0.5606,0,3,4,22
+2026-07-26,18,Boston Red Sox,Toronto Blue Jays,0.5635,1,6,1,22
+2026-07-26,18,Pittsburgh Pirates,Chicago Cubs,0.5543,1,8,7,22
+2026-07-26,18,Detroit Tigers,Kansas City Royals,0.6273,0,4,5,22
+2026-07-26,18,Texas Rangers,Seattle Mariners,0.4918,0,4,6,22
+2026-07-26,18,Minnesota Twins,Athletics,0.5701,1,11,8,22
+2026-07-26,18,St. Louis Cardinals,Cincinnati Reds,0.5312,0,3,5,22
+2026-07-26,18,New York Mets,Los Angeles Dodgers,0.4238,1,8,3,22
+2026-07-26,18,Miami Marlins,San Diego Padres,0.5245,0,3,5,22
+2026-07-26,18,Minnesota Twins,Athletics,0.5873,1,11,8,22
+2026-07-26,18,Chicago White Sox,Houston Astros,0.5134,1,12,3,22
+2026-07-26,18,Milwaukee Brewers,Colorado Rockies,0.7505,1,11,2,22
+2026-07-26,18,St. Louis Cardinals,Cincinnati Reds,0.5492,0,3,5,22
+2026-07-26,18,Texas Rangers,Seattle Mariners,0.5044,0,4,6,22
+2026-07-26,18,Tampa Bay Rays,Cleveland Guardians,0.5324,1,1,0,22
+2026-07-26,18,Washington Nationals,Arizona Diamondbacks,0.4836,1,10,7,22
+2026-07-26,18,San Francisco Giants,Los Angeles Angels,0.4798,0,3,4,22
+2026-07-26,18,Philadelphia Phillies,New York Yankees,0.6504,1,11,4,22
+2026-07-26,18,Baltimore Orioles,Atlanta Braves,0.4947,0,2,3,22
+2026-07-27,18,Miami Marlins,Philadelphia Phillies,0.3593,1,8,7,22
+2026-07-27,18,Washington Nationals,Toronto Blue Jays,0.5322,0,2,3,22
+2026-07-27,18,New York Mets,Atlanta Braves,0.5056,1,14,3,22
+2026-07-27,18,Texas Rangers,Seattle Mariners,0.459,1,7,3,22
+2026-07-27,18,Pittsburgh Pirates,Arizona Diamondbacks,0.5143,1,3,2,22
+2026-07-27,18,Detroit Tigers,Baltimore Orioles,0.5342,0,5,8,22
+2026-07-27,18,Chicago White Sox,New York Yankees,0.436,0,5,9,12
+2026-07-27,18,St. Louis Cardinals,Chicago Cubs,0.4754,0,3,7,12
+2026-07-28,18,Chicago White Sox,New York Yankees,0.461,0,2,3,22
+2026-07-28,18,Minnesota Twins,Kansas City Royals,0.6169,1,3,2,22
+2026-07-28,18,St. Louis Cardinals,Chicago Cubs,0.4961,0,2,10,22
+2026-07-28,18,San Francisco Giants,Milwaukee Brewers,0.5034,1,3,0,22
+2026-07-28,18,Los Angeles Angels,Houston Astros,0.5028,0,4,6,10
+2026-07-28,18,Athletics,Boston Red Sox,0.3637,0,2,4,10
+2026-07-28,18,San Francisco Giants,Milwaukee Brewers,0.4385,1,3,0,10
+2026-07-28,18,Pittsburgh Pirates,Arizona Diamondbacks,0.5078,0,7,8,22
+2026-07-28,18,Detroit Tigers,Baltimore Orioles,0.5707,1,14,0,22
+2026-07-28,18,Miami Marlins,Philadelphia Phillies,0.5505,1,1,0,22
+2026-07-28,18,Tampa Bay Rays,Texas Rangers,0.6118,0,1,4,22
+2026-07-28,18,Washington Nationals,Toronto Blue Jays,0.5623,1,8,6,22
+2026-07-29,18,Cincinnati Reds,Cleveland Guardians,0.5257,0,1,6,19
+2026-07-29,18,Los Angeles Angels,Houston Astros,0.4985,0,2,3,10
+2026-07-29,18,Athletics,Boston Red Sox,0.4201,1,4,3,10
+2026-07-29,18,Detroit Tigers,Baltimore Orioles,0.6289,0,9,10,22
+2026-07-29,18,Tampa Bay Rays,Texas Rangers,0.5698,1,3,0,22
+2026-07-29,18,Cincinnati Reds,Cleveland Guardians,0.4425,0,1,6,22
+2026-07-29,18,Chicago White Sox,New York Yankees,0.4304,1,6,5,22
+2026-07-29,18,Minnesota Twins,Kansas City Royals,0.6414,0,0,4,22
+2026-07-29,18,St. Louis Cardinals,Chicago Cubs,0.5022,1,3,2,22
+2026-07-29,18,Los Angeles Dodgers,Seattle Mariners,0.676,0,6,7,10
+2026-07-29,18,Miami Marlins,Philadelphia Phillies,0.3946,1,8,6,22
+2026-07-29,18,Pittsburgh Pirates,Arizona Diamondbacks,0.5552,0,0,3,22
+2026-07-29,18,Washington Nationals,Toronto Blue Jays,0.4788,0,2,5,22
+2026-07-30,19,Minnesota Twins,Kansas City Royals,0.5509,1,4,3,10
+2026-07-30,19,Chicago White Sox,New York Yankees,0.5123,1,2,1,10
+2026-07-30,19,St. Louis Cardinals,Chicago Cubs,0.5087,0,2,4,10
+2026-07-30,19,Cincinnati Reds,Pittsburgh Pirates,0.4758,1,3,2,10
+2026-07-30,19,New York Mets,Atlanta Braves,0.4043,1,4,2,21
+2026-07-30,19,Atlanta Braves,Washington Nationals,0.5879,1,5,4,10
+2026-07-30,19,Los Angeles Angels,Houston Astros,0.4551,0,4,7,10
+2026-07-30,19,Athletics,Boston Red Sox,0.422,0,2,4,10
+2026-07-30,19,Los Angeles Dodgers,Seattle Mariners,0.6235,1,4,2,10
+2026-07-30,19,Tampa Bay Rays,Texas Rangers,0.6219,1,3,2,10
+2026-07-31,19,New York Mets,Miami Marlins,0.5177,0,2,5,10
+2026-07-31,19,Atlanta Braves,Washington Nationals,0.5229,1,6,2,10
+2026-07-31,19,Athletics,Boston Red Sox,0.3715,0,4,5,10
+2026-07-31,19,San Diego Padres,San Francisco Giants,0.6037,0,1,4,10
+2026-07-31,19,Los Angeles Dodgers,Seattle Mariners,0.5731,1,6,2,10
+2026-07-31,19,Chicago Cubs,New York Yankees,0.6025,0,0,2,10
+2026-07-31,19,Cincinnati Reds,Pittsburgh Pirates,0.4628,1,8,7,10
+2026-07-31,19,Baltimore Orioles,Philadelphia Phillies,0.5253,1,6,4,10
+2026-07-31,19,Toronto Blue Jays,St. Louis Cardinals,0.6353,1,3,1,10
+2026-07-31,19,Cleveland Guardians,Arizona Diamondbacks,0.5571,0,1,4,10
+2026-07-31,19,Tampa Bay Rays,Chicago White Sox,0.5593,0,1,6,10
+2026-08-01,19,Chicago Cubs,New York Yankees,0.5382,1,5,2,10
+2026-08-01,19,Colorado Rockies,Kansas City Royals,0.4969,1,3,1,10
+2026-08-01,19,Los Angeles Angels,Milwaukee Brewers,0.3885,0,2,6,10
+2026-08-01,19,Colorado Rockies,Kansas City Royals,0.5406,1,3,1,10
+2026-08-01,19,Los Angeles Angels,Milwaukee Brewers,0.4171,0,2,6,10
+2026-08-01,19,Athletics,Detroit Tigers,0.4346,0,1,13,10
+2026-08-01,19,Toronto Blue Jays,St. Louis Cardinals,0.6104,1,5,1,10
+2026-08-01,19,Athletics,Detroit Tigers,0.4654,0,1,13,10
+2026-08-01,19,Tampa Bay Rays,Chicago White Sox,0.6049,1,1,0,10
+2026-08-01,19,New York Mets,Miami Marlins,0.5461,0,2,6,9
+2026-08-01,19,San Diego Padres,San Francisco Giants,0.5809,1,7,0,10
+2026-08-01,19,Los Angeles Dodgers,Boston Red Sox,0.6216,0,4,9,10
+2026-08-01,19,Cincinnati Reds,Pittsburgh Pirates,0.4752,0,1,4,10
+2026-08-01,19,Baltimore Orioles,Philadelphia Phillies,0.4235,0,0,5,10
+2026-08-01,19,Cleveland Guardians,Arizona Diamondbacks,0.6165,0,8,12,10
+2026-08-01,19,Atlanta Braves,Washington Nationals,0.6053,1,8,3,10
+2026-08-02,19,Houston Astros,Texas Rangers,0.5433,1,7,3,10
+2026-08-02,19,Seattle Mariners,Minnesota Twins,0.6074,1,7,6,10
+2026-08-02,19,Seattle Mariners,Minnesota Twins,0.5605,1,7,6,10
+2026-08-02,19,Atlanta Braves,Washington Nationals,0.5444,1,4,2,10
+2026-08-02,19,Baltimore Orioles,Philadelphia Phillies,0.4317,0,0,8,10
+2026-08-02,19,Toronto Blue Jays,St. Louis Cardinals,0.5508,0,1,5,10
+2026-08-02,19,Cleveland Guardians,Arizona Diamondbacks,0.6279,1,5,0,10
+2026-08-02,19,Tampa Bay Rays,Chicago White Sox,0.5705,0,1,9,10
+2026-08-02,19,Cincinnati Reds,Pittsburgh Pirates,0.5584,1,10,2,10
+2026-08-02,19,New York Mets,Miami Marlins,0.4747,0,0,2,10
+2026-08-02,19,Houston Astros,Texas Rangers,0.5598,1,7,3,10
+2026-08-02,19,Chicago Cubs,New York Yankees,0.4842,0,1,2,10
+2026-08-03,19,Philadelphia Phillies,Washington Nationals,0.5885,1,6,3,10
+2026-08-03,19,New York Yankees,St. Louis Cardinals,0.6838,0,7,13,10
+2026-08-03,19,Milwaukee Brewers,Pittsburgh Pirates,0.5772,0,3,4,10
+2026-08-04,19,Cleveland Guardians,New York Mets,0.5521,0,2,6,10
+2026-08-04,19,Philadelphia Phillies,Washington Nationals,0.7346,1,5,0,10
+2026-08-04,19,New York Yankees,St. Louis Cardinals,0.6523,1,2,0,10
+2026-08-04,19,Boston Red Sox,Chicago White Sox,0.5788,1,14,2,10
+2026-08-04,19,Chicago Cubs,Los Angeles Dodgers,0.465,1,10,5,10
+2026-08-04,19,Texas Rangers,San Francisco Giants,0.5426,0,1,5,10
+2026-08-04,19,Houston Astros,Toronto Blue Jays,0.5792,0,1,3,10
+2026-08-04,19,Colorado Rockies,Tampa Bay Rays,0.3759,0,9,13,10
+2026-08-04,19,Atlanta Braves,Miami Marlins,0.585,1,4,2,10
+2026-08-04,19,Milwaukee Brewers,Pittsburgh Pirates,0.5727,1,4,2,10
+2026-08-04,19,Kansas City Royals,Minnesota Twins,0.4228,1,8,2,10
+2026-08-04,19,Texas Rangers,San Francisco Giants,0.6147,0,1,5,10
+2026-08-04,19,Colorado Rockies,Tampa Bay Rays,0.4064,0,9,13,10
+2026-08-04,19,Arizona Diamondbacks,San Diego Padres,0.5049,1,5,1,10
+2026-08-04,19,Baltimore Orioles,Los Angeles Angels,0.5787,1,3,1,10
+2026-08-04,19,Houston Astros,Toronto Blue Jays,0.6734,0,1,3,10
+2026-08-04,19,Cincinnati Reds,Athletics,0.5542,1,5,4,10
+2026-08-05,19,Baltimore Orioles,Los Angeles Angels,0.5629,1,5,2,10
+2026-08-05,19,Cincinnati Reds,Athletics,0.6054,1,3,2,10
+2026-08-05,19,Cleveland Guardians,New York Mets,0.5093,0,5,6,10
+2026-08-05,19,Philadelphia Phillies,Washington Nationals,0.6467,0,4,10,10
+2026-08-05,19,Seattle Mariners,Detroit Tigers,0.5259,0,0,8,10
+2026-08-05,19,Boston Red Sox,Chicago White Sox,0.5731,1,4,0,10
+2026-08-05,19,Atlanta Braves,Miami Marlins,0.5452,1,4,1,10
+2026-08-05,19,Milwaukee Brewers,Pittsburgh Pirates,0.5516,1,4,2,10
+2026-08-05,19,Kansas City Royals,Minnesota Twins,0.5276,1,2,1,10
+2026-08-05,19,Arizona Diamondbacks,San Diego Padres,0.532,0,4,9,10
+2026-08-05,19,Seattle Mariners,Detroit Tigers,0.5307,0,0,8,10
+2026-08-06,20,Cleveland Guardians,New York Mets,0.5385,0,6,13,10
+2026-08-06,20,Chicago Cubs,Los Angeles Dodgers,0.3609,1,3,2,10
+2026-08-06,20,Milwaukee Brewers,Pittsburgh Pirates,0.5377,1,5,2,10
+2026-08-06,20,Chicago Cubs,Toronto Blue Jays,0.5003,1,3,2,10
+2026-08-06,20,Philadelphia Phillies,Washington Nationals,0.7465,1,7,3,10
+2026-08-06,20,Boston Red Sox,Chicago White Sox,0.6435,1,12,11,10
+2026-08-06,20,Arizona Diamondbacks,San Diego Padres,0.4395,1,10,4,10
+2026-08-06,20,Atlanta Braves,Miami Marlins,0.6092,1,11,3,10
+2026-08-06,20,Kansas City Royals,Minnesota Twins,0.5468,0,3,4,10
+2026-08-06,20,Baltimore Orioles,Los Angeles Angels,0.6326,0,1,4,10
+2026-08-06,20,Cincinnati Reds,Athletics,0.6055,1,6,5,10
+2026-08-07,20,New York Yankees,St. Louis Cardinals,0.5874,1,3,2,10
+2026-08-07,20,Milwaukee Brewers,Minnesota Twins,0.6179,0,6,8,10
+2026-08-07,20,Arizona Diamondbacks,San Diego Padres,0.4969,0,1,5,10
+2026-08-07,20,Pittsburgh Pirates,New York Mets,0.5529,0,4,6,10
+2026-08-07,20,Philadelphia Phillies,Toronto Blue Jays,0.6568,0,4,5,10
+2026-08-07,20,Boston Red Sox,Athletics,0.7131,1,13,1,10
+2026-08-07,20,Miami Marlins,Los Angeles Angels,0.579,0,3,4,10
+2026-08-07,20,Chicago White Sox,Cleveland Guardians,0.429,0,2,8,10
+2026-08-08,20,Arizona Diamondbacks,Los Angeles Dodgers,0.38,1,4,3,10
+2026-08-08,20,Chicago White Sox,Cleveland Guardians,0.4558,1,6,3,10
+2026-08-08,20,Seattle Mariners,Tampa Bay Rays,0.5121,0,1,2,10
+2026-08-08,20,New York Yankees,Atlanta Braves,0.4225,1,5,4,10
+2026-08-08,20,Arizona Diamondbacks,Los Angeles Dodgers,0.4399,1,4,3,10
+2026-08-08,20,Boston Red Sox,Athletics,0.714,0,3,7,10
+2026-08-08,20,Miami Marlins,Los Angeles Angels,0.5862,1,7,0,10
+2026-08-08,20,Seattle Mariners,Tampa Bay Rays,0.5603,0,1,2,10
+2026-08-08,20,Philadelphia Phillies,Toronto Blue Jays,0.6147,0,5,7,10
+2026-08-08,20,Pittsburgh Pirates,New York Mets,0.5254,1,9,0,10
+2026-08-08,20,Washington Nationals,Cincinnati Reds,0.4438,1,8,2,10
+2026-08-08,20,Milwaukee Brewers,Minnesota Twins,0.5693,1,4,3,10
+2026-08-09,20,Texas Rangers,Baltimore Orioles,0.5738,0,5,10,10
+2026-08-09,20,Milwaukee Brewers,Minnesota Twins,0.706,1,4,3,10
+2026-08-09,20,Kansas City Royals,Chicago Cubs,0.4111,0,2,10,10
+2026-08-09,20,St. Louis Cardinals,Colorado Rockies,0.6112,1,7,4,10
+2026-08-09,20,St. Louis Cardinals,Colorado Rockies,0.6034,1,7,4,10
+2026-08-09,20,Texas Rangers,Baltimore Orioles,0.5454,0,5,10,10
+2026-08-09,20,San Francisco Giants,Detroit Tigers,0.4531,0,1,3,10
+2026-08-09,20,San Francisco Giants,Detroit Tigers,0.426,0,1,3,10
+2026-08-09,20,Washington Nationals,Cincinnati Reds,0.5192,1,7,1,10
+2026-08-09,20,Boston Red Sox,Athletics,0.6669,0,3,4,10
+2026-08-09,20,New York Yankees,Atlanta Braves,0.5696,0,1,2,10
+2026-08-09,20,Pittsburgh Pirates,New York Mets,0.5712,0,1,11,10
+2026-08-09,20,Philadelphia Phillies,Toronto Blue Jays,0.6805,1,7,6,10
+2026-08-09,20,Miami Marlins,Los Angeles Angels,0.5734,1,12,3,10
+2026-08-09,20,Kansas City Royals,Chicago Cubs,0.3978,0,2,10,10
+2026-08-09,20,Chicago White Sox,Cleveland Guardians,0.4558,1,5,3,10
+2026-08-10,20,San Diego Padres,Houston Astros,0.5211,1,7,2,10
+2026-08-10,20,Toronto Blue Jays,Boston Red Sox,0.4017,1,2,1,10
+2026-08-10,20,Atlanta Braves,New York Mets,0.5684,0,5,8,10
+2026-08-10,20,Minnesota Twins,Baltimore Orioles,0.5012,1,9,5,10
+2026-08-10,20,St. Louis Cardinals,Philadelphia Phillies,0.4767,0,5,6,10
+2026-08-11,20,San Francisco Giants,Houston Astros,0.4247,0,3,6,10
+2026-08-11,20,San Diego Padres,Milwaukee Brewers,0.4751,1,3,2,10
+2026-08-11,20,Arizona Diamondbacks,Colorado Rockies,0.6176,1,9,0,10
+2026-08-11,20,Athletics,Tampa Bay Rays,0.3642,0,6,10,10
+2026-08-11,20,Los Angeles Dodgers,Kansas City Royals,0.7118,1,6,5,10
+2026-08-11,20,Detroit Tigers,Cleveland Guardians,0.5675,1,6,4,10
+2026-08-11,20,Miami Marlins,Pittsburgh Pirates,0.4901,1,2,0,10
+2026-08-11,20,Washington Nationals,Chicago Cubs,0.3785,0,6,8,10
+2026-08-11,20,New York Yankees,Seattle Mariners,0.5505,1,4,1,10
+2026-08-11,20,Toronto Blue Jays,Boston Red Sox,0.5495,1,5,3,10
+2026-08-11,20,Atlanta Braves,New York Mets,0.6086,1,4,0,9
+2026-08-11,20,Minnesota Twins,Baltimore Orioles,0.5126,0,2,5,10
+2026-08-11,20,Los Angeles Angels,Texas Rangers,0.4916,0,1,4,10
+2026-08-11,20,Arizona Diamondbacks,Colorado Rockies,0.6588,1,9,0,10
+2026-08-11,20,Chicago White Sox,Cincinnati Reds,0.5904,0,4,5,10
+2026-08-11,20,St. Louis Cardinals,Philadelphia Phillies,0.4053,1,2,0,10
+2026-08-11,20,Athletics,Tampa Bay Rays,0.4054,0,6,10,10
+2026-08-11,20,San Diego Padres,Milwaukee Brewers,0.4659,1,3,2,10
+2026-08-11,20,San Francisco Giants,Houston Astros,0.4213,0,3,6,10
+2026-08-12,20,Detroit Tigers,Cleveland Guardians,0.5398,0,4,6,10
+2026-08-12,20,Miami Marlins,Pittsburgh Pirates,0.5321,1,8,2,10
+2026-08-12,20,Los Angeles Dodgers,Kansas City Royals,0.7106,1,5,4,10
+2026-08-12,20,Minnesota Twins,Baltimore Orioles,0.502,1,7,5,10
+2026-08-12,20,St. Louis Cardinals,Philadelphia Phillies,0.3954,1,7,1,10
+2026-08-12,20,Chicago White Sox,Cincinnati Reds,0.5767,1,5,0,10
+2026-08-12,20,Los Angeles Angels,Texas Rangers,0.4229,1,3,2,10
+2026-08-12,20,Washington Nationals,Chicago Cubs,0.4053,0,6,12,10
+2026-08-12,20,New York Yankees,Seattle Mariners,0.5545,1,10,5,10
+2026-08-12,20,Toronto Blue Jays,Boston Red Sox,0.4465,1,6,4,10
+2026-08-12,20,Atlanta Braves,New York Mets,0.6255,1,6,3,10
+2026-08-13,21,Los Angeles Dodgers,Kansas City Royals,0.6697,1,4,2,10
+2026-08-13,21,Los Angeles Angels,Texas Rangers,0.4544,1,5,2,10
+2026-08-13,21,Detroit Tigers,Cleveland Guardians,0.4871,1,3,0,10
+2026-08-13,21,Miami Marlins,Pittsburgh Pirates,0.4677,0,1,13,10
+2026-08-13,21,New York Yankees,Seattle Mariners,0.589,0,0,1,10
+2026-08-13,21,Toronto Blue Jays,Boston Red Sox,0.4317,0,0,7,10
+2026-08-13,21,Washington Nationals,Chicago Cubs,0.4199,1,7,0,10
+2026-08-13,21,Minnesota Twins,Philadelphia Phillies,0.501,0,1,7,10
+2026-08-13,21,Chicago White Sox,Cincinnati Reds,0.5579,0,8,9,10
+2026-08-14,21,Cleveland Guardians,San Diego Padres,0.5282,0,5,7,10
+2026-08-14,21,Los Angeles Angels,Texas Rangers,0.4232,1,7,0,10
+2026-08-14,21,Los Angeles Dodgers,Milwaukee Brewers,0.5674,0,4,5,10
+2026-08-14,21,Chicago Cubs,St. Louis Cardinals,0.6334,1,3,0,10
+2026-08-14,21,Cincinnati Reds,Miami Marlins,0.522,1,1,0,10
+2026-08-14,21,Pittsburgh Pirates,Boston Red Sox,0.4783,1,8,4,10
+2026-08-14,21,Detroit Tigers,Chicago White Sox,0.5555,0,5,9,10
+2026-08-14,21,Tampa Bay Rays,Baltimore Orioles,0.5998,0,5,6,10
+2026-08-14,21,New York Mets,Washington Nationals,0.5248,1,4,1,10
+2026-08-14,21,Atlanta Braves,Arizona Diamondbacks,0.6448,0,0,2,10
+2026-08-14,21,Toronto Blue Jays,New York Yankees,0.4205,1,3,1,10
+2026-08-15,21,Cleveland Guardians,San Diego Padres,0.5112,1,6,1,10
+2026-08-15,21,Athletics,Texas Rangers,0.398,1,8,3,10
+2026-08-15,21,Los Angeles Angels,Kansas City Royals,0.5984,0,6,7,10
+2026-08-15,21,Minnesota Twins,Philadelphia Phillies,0.4489,0,1,9,10
+2026-08-15,21,Atlanta Braves,Arizona Diamondbacks,0.5521,0,3,10,10
+2026-08-15,21,Pittsburgh Pirates,Boston Red Sox,0.4655,0,0,4,10
+2026-08-15,21,Los Angeles Angels,Kansas City Royals,0.5047,0,6,7,10
+2026-08-15,21,Detroit Tigers,Chicago White Sox,0.5743,0,3,4,10
+2026-08-15,21,Chicago Cubs,St. Louis Cardinals,0.63,0,4,8,10
+2026-08-15,21,Toronto Blue Jays,New York Yankees,0.3659,1,4,1,10
+2026-08-15,21,New York Mets,Washington Nationals,0.5607,1,5,4,10
+2026-08-15,21,Tampa Bay Rays,Baltimore Orioles,0.588,0,3,4,10
+2026-08-15,21,Cincinnati Reds,Miami Marlins,0.5051,0,4,8,10
+2026-08-16,21,New York Mets,Washington Nationals,0.6013,1,4,3,10
+2026-08-16,21,Minnesota Twins,Philadelphia Phillies,0.4906,0,5,7,10
+2026-08-16,21,Chicago Cubs,St. Louis Cardinals,0.62,0,4,11,10
+2026-08-16,21,San Francisco Giants,Colorado Rockies,0.5452,0,7,13,10
+2026-08-16,21,Houston Astros,Seattle Mariners,0.533,0,2,3,10
+2026-08-16,21,Los Angeles Dodgers,Milwaukee Brewers,0.636,0,2,6,10
+2026-08-16,21,Houston Astros,Seattle Mariners,0.5388,0,2,3,10
+2026-08-16,21,Los Angeles Dodgers,Milwaukee Brewers,0.4625,0,2,6,10
+2026-08-16,21,Tampa Bay Rays,Baltimore Orioles,0.5661,0,2,10,10
+2026-08-16,21,Atlanta Braves,Arizona Diamondbacks,0.5365,1,5,3,10
+2026-08-16,21,San Francisco Giants,Colorado Rockies,0.5523,0,7,13,10
+2026-08-16,21,Pittsburgh Pirates,Boston Red Sox,0.4946,1,8,3,10
+2026-08-16,21,Toronto Blue Jays,New York Yankees,0.5322,0,3,4,10
+2026-08-16,21,Detroit Tigers,Chicago White Sox,0.5205,0,5,7,10
+2026-08-16,21,Cincinnati Reds,Miami Marlins,0.4678,0,1,7,10
+2026-08-16,21,Cleveland Guardians,San Diego Padres,0.4901,0,0,5,10
+2026-08-17,21,Tampa Bay Rays,Baltimore Orioles,0.6031,1,7,6,10
+2026-08-17,21,Philadelphia Phillies,Miami Marlins,0.7011,1,6,5,10
+2026-08-17,21,Pittsburgh Pirates,Detroit Tigers,0.4955,0,5,8,10
+2026-08-17,21,Boston Red Sox,Arizona Diamondbacks,0.5576,1,11,1,10
+2026-08-17,21,New York Mets,San Diego Padres,0.5296,1,2,1,10
+2026-08-17,21,Kansas City Royals,Athletics,0.626,1,9,5,10
+2026-08-17,21,Minnesota Twins,Atlanta Braves,0.4497,1,4,2,10
+2026-08-18,21,Colorado Rockies,Los Angeles Dodgers,0.2841,0,5,11,10
+2026-08-18,21,Baltimore Orioles,New York Yankees,0.4912,0,1,3,10
+2026-08-18,21,Cincinnati Reds,St. Louis Cardinals,0.4763,0,0,3,10
+2026-08-18,21,Cleveland Guardians,San Francisco Giants,0.6447,1,8,1,10
+2026-08-18,21,Chicago Cubs,Chicago White Sox,0.5956,1,7,5,10
+2026-08-18,21,Chicago Cubs,Chicago White Sox,0.5744,1,7,5,10
+2026-08-18,21,Pittsburgh Pirates,Detroit Tigers,0.5887,1,4,1,10
+2026-08-18,21,Philadelphia Phillies,Miami Marlins,0.6643,1,6,4,10
+2026-08-18,21,Tampa Bay Rays,Toronto Blue Jays,0.5542,0,5,10,10
+2026-08-18,21,Boston Red Sox,Arizona Diamondbacks,0.6081,1,9,4,10
+2026-08-18,21,New York Mets,San Diego Padres,0.473,0,2,5,10
+2026-08-18,21,Minnesota Twins,Atlanta Braves,0.4236,1,4,1,10
+2026-08-18,21,Kansas City Royals,Athletics,0.5978,1,4,3,10
+2026-08-18,21,Milwaukee Brewers,Seattle Mariners,0.6109,1,22,0,10
+2026-08-19,21,Colorado Rockies,Los Angeles Dodgers,0.3536,0,6,7,10
+2026-08-19,21,Pittsburgh Pirates,Detroit Tigers,0.5935,1,4,3,10
+2026-08-19,21,New York Mets,San Diego Padres,0.4351,1,4,2,10
+2026-08-19,21,Minnesota Twins,Atlanta Braves,0.4905,1,6,4,10
+2026-08-19,21,Boston Red Sox,Arizona Diamondbacks,0.5978,0,6,7,10
+2026-08-19,21,Philadelphia Phillies,Miami Marlins,0.5732,1,4,1,10
+2026-08-19,21,Baltimore Orioles,New York Yankees,0.4952,0,3,5,10
+2026-08-19,21,Cincinnati Reds,St. Louis Cardinals,0.5626,1,5,4,10
+2026-08-19,21,Tampa Bay Rays,Toronto Blue Jays,0.6485,1,7,6,10
+2026-08-19,21,Cleveland Guardians,San Francisco Giants,0.6732,0,0,1,10
+2026-08-19,21,Milwaukee Brewers,Seattle Mariners,0.5318,0,5,7,10
+2026-08-19,21,Kansas City Royals,Athletics,0.6302,1,9,7,10
+2026-08-19,21,Texas Rangers,Washington Nationals,0.5682,1,5,0,10
+2026-08-19,21,Houston Astros,Los Angeles Angels,0.6062,0,1,3,10
+2026-08-20,22,Colorado Rockies,Los Angeles Dodgers,0.3556,0,4,6,10
+2026-08-20,22,Cincinnati Reds,St. Louis Cardinals,0.4888,0,9,10,10
+2026-08-20,22,Cleveland Guardians,San Francisco Giants,0.6553,1,5,2,10
+2026-08-20,22,Tampa Bay Rays,Toronto Blue Jays,0.6045,0,1,5,10
+2026-08-20,22,Chicago White Sox,Atlanta Braves,0.5013,0,0,2,10
+2026-08-20,22,Kansas City Royals,Athletics,0.5461,1,6,2,10
+2026-08-20,22,Milwaukee Brewers,Seattle Mariners,0.5648,1,7,4,10
+2026-08-20,22,Baltimore Orioles,New York Yankees,0.4877,0,1,6,10
+2026-08-20,22,Texas Rangers,Washington Nationals,0.534,0,0,6,10
+2026-08-20,22,Houston Astros,Los Angeles Angels,0.5785,1,3,2,10
+2026-08-21,22,Texas Rangers,Washington Nationals,0.6284,1,2,0,10
+2026-08-21,22,Houston Astros,Los Angeles Angels,0.6297,0,3,18,10
+2026-08-21,22,Milwaukee Brewers,Atlanta Braves,0.5665,1,2,1,10
+2026-08-21,22,New York Yankees,Toronto Blue Jays,0.6428,1,3,1,10
+2026-08-21,22,Boston Red Sox,San Francisco Giants,0.6219,1,6,4,10
+2026-08-21,22,Miami Marlins,Washington Nationals,0.5766,1,3,2,10
+2026-08-21,22,Baltimore Orioles,Tampa Bay Rays,0.5229,1,5,3,10
+2026-08-22,22,Colorado Rockies,Cleveland Guardians,0.42,0,1,9,10
+2026-08-22,22,Boston Red Sox,San Francisco Giants,0.6542,1,3,2,10
+2026-08-22,22,Arizona Diamondbacks,Cincinnati Reds,0.5715,1,9,0,10
+2026-08-22,22,Colorado Rockies,Cleveland Guardians,0.4432,0,1,9,10
+2026-08-22,22,San Diego Padres,Minnesota Twins,0.5649,1,6,2,10
+2026-08-22,22,Arizona Diamondbacks,Cincinnati Reds,0.5835,1,9,0,10
+2026-08-22,22,Chicago White Sox,New York Mets,0.5383,0,5,10,10
+2026-08-22,22,New York Yankees,Toronto Blue Jays,0.4942,0,3,4,10
+2026-08-22,22,Milwaukee Brewers,Atlanta Braves,0.5973,1,4,1,10
+2026-08-22,22,Miami Marlins,Washington Nationals,0.6315,1,4,2,10
+2026-08-22,22,Philadelphia Phillies,St. Louis Cardinals,0.5979,1,12,3,10
+2026-08-22,22,Baltimore Orioles,Tampa Bay Rays,0.4527,1,3,2,10
+2026-08-23,22,Houston Astros,Athletics,0.6228,0,6,7,10
+2026-08-23,22,Kansas City Royals,Detroit Tigers,0.5103,1,11,7,10
+2026-08-23,22,Texas Rangers,Los Angeles Angels,0.5637,1,5,3,10
+2026-08-23,22,Seattle Mariners,Chicago Cubs,0.5215,0,2,19,10
+2026-08-23,22,Los Angeles Dodgers,Pittsburgh Pirates,0.7066,1,4,0,10
+2026-08-23,22,Texas Rangers,Los Angeles Angels,0.5969,1,5,3,10
+2026-08-23,22,Boston Red Sox,San Francisco Giants,0.6551,1,5,4,10
+2026-08-23,22,Philadelphia Phillies,St. Louis Cardinals,0.6649,1,6,4,10
+2026-08-23,22,Seattle Mariners,Chicago Cubs,0.4604,0,2,19,10
+2026-08-23,22,Baltimore Orioles,Tampa Bay Rays,0.5107,0,1,3,10
+2026-08-23,22,New York Yankees,Toronto Blue Jays,0.539,1,8,3,10
+2026-08-23,22,Miami Marlins,Washington Nationals,0.5977,1,6,2,10
+2026-08-23,22,Kansas City Royals,Detroit Tigers,0.4898,1,11,7,10
+2026-08-23,22,Houston Astros,Athletics,0.6231,0,6,7,10
+2026-08-23,22,Los Angeles Dodgers,Pittsburgh Pirates,0.7179,1,4,0,10
+2026-08-23,22,Milwaukee Brewers,Atlanta Braves,0.5081,0,2,4,10
+2026-08-23,22,Chicago White Sox,New York Mets,0.5013,1,2,1,10
+2026-08-24,22,Miami Marlins,Boston Red Sox,0.464,0,2,4,10
+2026-08-24,22,Detroit Tigers,Tampa Bay Rays,0.4398,0,1,4,10
+2026-08-24,22,Washington Nationals,Colorado Rockies,0.6513,1,13,3,10
+2026-08-24,22,Chicago White Sox,Texas Rangers,0.5461,0,2,11,10
+2026-08-25,22,Athletics,Minnesota Twins,0.4264,0,6,9,10
+2026-08-25,22,Seattle Mariners,Philadelphia Phillies,0.477,1,9,2,10
+2026-08-25,22,San Francisco Giants,Cincinnati Reds,0.3825,1,5,0,10
+2026-08-25,22,Miami Marlins,Boston Red Sox,0.4221,0,3,7,10
+2026-08-25,22,Detroit Tigers,Tampa Bay Rays,0.453,1,4,1,10
+2026-08-25,22,Washington Nationals,Colorado Rockies,0.603,0,1,3,10
+2026-08-25,22,New York Yankees,Houston Astros,0.5734,0,7,9,10
+2026-08-25,22,Seattle Mariners,Philadelphia Phillies,0.5139,1,9,2,10
+2026-08-25,22,Toronto Blue Jays,Kansas City Royals,0.5511,0,3,5,10
+2026-08-25,22,New York Mets,Milwaukee Brewers,0.3999,1,3,2,10
+2026-08-25,22,Atlanta Braves,Los Angeles Dodgers,0.4111,1,4,3,10
+2026-08-25,22,San Diego Padres,Pittsburgh Pirates,0.5614,0,2,3,10
+2026-08-25,22,San Francisco Giants,Cincinnati Reds,0.5031,1,5,0,10
+2026-08-25,22,Chicago White Sox,Texas Rangers,0.4866,1,11,7,10
+2026-08-25,22,St. Louis Cardinals,Baltimore Orioles,0.5356,0,1,13,10
+2026-08-25,22,Los Angeles Angels,Cleveland Guardians,0.3982,0,2,4,10
+2026-08-25,22,Arizona Diamondbacks,Chicago Cubs,0.4983,0,0,7,10
+2026-08-25,22,Los Angeles Angels,Cleveland Guardians,0.4362,0,2,4,10
+2026-08-25,22,Arizona Diamondbacks,Chicago Cubs,0.4307,0,0,7,10
+2026-08-25,22,San Diego Padres,Pittsburgh Pirates,0.5215,0,2,3,10
+2026-08-26,22,Atlanta Braves,Los Angeles Dodgers,0.4669,1,6,5,10
+2026-08-26,22,Chicago White Sox,Texas Rangers,0.5319,1,10,4,10
+2026-08-26,22,St. Louis Cardinals,Baltimore Orioles,0.4905,0,7,8,10
+2026-08-26,22,Detroit Tigers,Tampa Bay Rays,0.5308,0,0,3,10
+2026-08-26,22,Athletics,Minnesota Twins,0.4219,1,4,2,10
+2026-08-26,22,Miami Marlins,Boston Red Sox,0.4482,1,4,0,10
+2026-08-26,22,Washington Nationals,Colorado Rockies,0.5593,0,1,13,10
+2026-08-26,22,New York Yankees,Houston Astros,0.5318,1,9,3,10
+2026-08-26,22,Toronto Blue Jays,Kansas City Royals,0.5928,1,3,0,10
+2026-08-26,22,New York Mets,Milwaukee Brewers,0.4149,0,1,8,10
+2026-08-27,23,Athletics,Minnesota Twins,0.4447,1,7,4,10
+2026-08-27,23,Washington Nationals,Colorado Rockies,0.5718,1,7,1,10
+2026-08-27,23,St. Louis Cardinals,Baltimore Orioles,0.4545,1,7,5,10
+2026-08-27,23,New York Yankees,Houston Astros,0.5938,0,1,5,10
+2026-08-27,23,Toronto Blue Jays,Kansas City Royals,0.4974,0,2,13,10
+2026-08-27,23,New York Mets,Milwaukee Brewers,0.3545,0,2,8,10
+2026-08-27,23,Atlanta Braves,Los Angeles Dodgers,0.5219,1,1,0,10
+2026-08-28,23,Cleveland Guardians,Kansas City Royals,0.5552,0,0,3,10
+2026-08-28,23,New York Mets,Houston Astros,0.4984,0,1,3,10
+2026-08-28,23,Tampa Bay Rays,San Diego Padres,0.542,1,9,4,10
+2026-08-28,23,Atlanta Braves,Colorado Rockies,0.669,1,6,4,10
+2026-08-28,23,New York Yankees,Boston Red Sox,0.5875,1,1,0,10
+2026-08-28,23,Milwaukee Brewers,Texas Rangers,0.6634,1,6,1,10
+2026-08-28,23,San Francisco Giants,Arizona Diamondbacks,0.4716,1,6,1,10
+2026-08-28,23,Chicago Cubs,Cincinnati Reds,0.6459,0,8,10,10
+2026-08-28,23,Detroit Tigers,Los Angeles Dodgers,0.3698,0,1,2,10
+2026-08-28,23,Washington Nationals,Miami Marlins,0.4372,1,9,2,10
+2026-08-29,23,Chicago Cubs,Cincinnati Reds,0.6623,1,17,5,10
+2026-08-29,23,Toronto Blue Jays,Seattle Mariners,0.5067,1,4,3,10
+2026-08-29,23,Los Angeles Angels,Philadelphia Phillies,0.4752,0,3,5,10
+2026-08-29,23,Athletics,Baltimore Orioles,0.4909,0,3,4,10
+2026-08-29,23,Detroit Tigers,Los Angeles Dodgers,0.3724,1,2,1,10
+2026-08-29,23,Athletics,Baltimore Orioles,0.4203,0,3,4,10
+2026-08-29,23,Los Angeles Angels,Philadelphia Phillies,0.3233,0,3,5,10
+2026-08-29,23,Washington Nationals,Miami Marlins,0.4933,1,5,4,10
+2026-08-29,23,Atlanta Braves,Colorado Rockies,0.6834,1,2,1,10
+2026-08-29,23,Cleveland Guardians,Kansas City Royals,0.6021,0,3,8,10
+2026-08-29,23,New York Mets,Houston Astros,0.593,1,6,2,10
+2026-08-29,23,Tampa Bay Rays,San Diego Padres,0.5473,1,7,6,10
+2026-08-29,23,Milwaukee Brewers,Texas Rangers,0.6054,1,5,3,10
+2026-08-30,23,Minnesota Twins,Chicago White Sox,0.5492,1,5,1,10
+2026-08-30,23,St. Louis Cardinals,Pittsburgh Pirates,0.5338,0,4,5,10
+2026-08-30,23,New York Yankees,Boston Red Sox,0.4278,1,16,1,10
+2026-08-30,23,San Francisco Giants,Arizona Diamondbacks,0.479,1,7,2,10
+2026-08-30,23,Toronto Blue Jays,Seattle Mariners,0.4379,1,7,0,10
+2026-08-30,23,Cleveland Guardians,Kansas City Royals,0.6224,1,11,1,9
+2026-08-30,23,Detroit Tigers,Los Angeles Dodgers,0.4114,0,1,6,10
+2026-08-30,23,Minnesota Twins,Chicago White Sox,0.5214,1,5,1,10
+2026-08-30,23,Milwaukee Brewers,Texas Rangers,0.5962,0,4,7,10
+2026-08-30,23,New York Yankees,Boston Red Sox,0.5053,1,16,1,10
+2026-08-30,23,St. Louis Cardinals,Pittsburgh Pirates,0.4625,0,4,5,10
+2026-08-30,23,New York Mets,Houston Astros,0.5355,0,3,6,10
+2026-08-30,23,Chicago Cubs,Cincinnati Reds,0.5916,0,5,7,10
+2026-08-30,23,Washington Nationals,Miami Marlins,0.5385,0,2,6,10
+2026-08-30,23,Atlanta Braves,Colorado Rockies,0.6831,1,3,2,10
+2026-08-31,23,Boston Red Sox,Seattle Mariners,0.5922,1,9,8,10
+2026-08-31,23,Washington Nationals,Miami Marlins,0.4875,1,6,3,10
+2026-08-31,23,Chicago Cubs,Milwaukee Brewers,0.4987,1,17,3,10
+2026-08-31,23,Minnesota Twins,Detroit Tigers,0.5386,1,11,1,10
+2026-08-31,23,Atlanta Braves,San Francisco Giants,0.6506,0,3,7,10
+2026-08-31,23,Cincinnati Reds,San Diego Padres,0.4192,0,0,5,10
+2026-08-31,23,Tampa Bay Rays,New York Mets,0.6315,0,2,3,10
+2026-09-01,23,Texas Rangers,Athletics,0.6663,1,8,1,10
+2026-09-01,23,Boston Red Sox,Seattle Mariners,0.5221,0,6,9,10
+2026-09-01,23,Chicago Cubs,Milwaukee Brewers,0.5332,0,4,9,10
+2026-09-01,23,Minnesota Twins,Detroit Tigers,0.5083,1,15,2,10
+2026-09-01,23,Colorado Rockies,Baltimore Orioles,0.3957,0,1,2,10
+2026-09-01,23,Houston Astros,Chicago White Sox,0.5525,1,6,3,10
+2026-09-01,23,Colorado Rockies,Baltimore Orioles,0.4664,0,1,2,10
+2026-09-01,23,Los Angeles Angels,New York Yankees,0.4657,1,10,1,10
+2026-09-01,23,Kansas City Royals,Miami Marlins,0.5025,0,3,6,10
+2026-09-01,23,Texas Rangers,Athletics,0.6615,1,8,1,10
+2026-09-01,23,Arizona Diamondbacks,Philadelphia Phillies,0.4956,0,1,2,10
+2026-09-01,23,Cincinnati Reds,San Diego Padres,0.4463,1,4,3,10
+2026-09-01,23,Arizona Diamondbacks,Philadelphia Phillies,0.4563,0,1,2,10
+2026-09-01,23,Cleveland Guardians,Toronto Blue Jays,0.6156,1,6,1,10
+2026-09-01,23,Tampa Bay Rays,New York Mets,0.554,1,6,2,10
+2026-09-01,23,Pittsburgh Pirates,San Francisco Giants,0.6071,1,13,12,10
+2026-09-01,23,Washington Nationals,Atlanta Braves,0.4319,1,9,5,10
+2026-09-02,23,Boston Red Sox,Seattle Mariners,0.5738,0,3,8,10
+2026-09-02,23,Houston Astros,Chicago White Sox,0.5997,0,1,5,10
+2026-09-02,23,Houston Astros,Chicago White Sox,0.4901,0,1,5,10
+2026-09-02,23,Cleveland Guardians,Toronto Blue Jays,0.4536,0,0,11,10
+2026-09-02,23,Tampa Bay Rays,New York Mets,0.6266,0,4,10,10
+2026-09-02,23,Los Angeles Angels,New York Yankees,0.3716,0,3,7,10
+2026-09-02,23,Los Angeles Dodgers,St. Louis Cardinals,0.6408,0,8,13,10
+2026-09-02,23,Cincinnati Reds,San Diego Padres,0.4029,1,7,3,10
+2026-09-02,23,Washington Nationals,Atlanta Braves,0.4414,0,0,9,10
+2026-09-02,23,Pittsburgh Pirates,San Francisco Giants,0.5855,0,4,5,10
+2026-09-02,23,Chicago Cubs,Milwaukee Brewers,0.4228,0,5,9,10
+2026-09-02,23,Minnesota Twins,Detroit Tigers,0.5215,0,6,11,10
+2026-09-02,23,Kansas City Royals,Miami Marlins,0.5298,0,6,9,10
+2026-09-03,24,Baltimore Orioles,Boston Red Sox,0.4775,0,5,6,10
+2026-09-03,24,Chicago Cubs,Milwaukee Brewers,0.4665,1,2,1,10
+2026-09-03,24,Kansas City Royals,Miami Marlins,0.5269,1,7,3,10
+2026-09-03,24,Los Angeles Angels,New York Yankees,0.4082,0,3,6,10
+2026-09-03,24,Los Angeles Dodgers,St. Louis Cardinals,0.7241,0,6,8,10
+2026-09-03,24,Pittsburgh Pirates,San Francisco Giants,0.6083,1,5,2,10
+2026-09-03,24,Cleveland Guardians,Toronto Blue Jays,0.4992,0,3,6,10
+2026-09-04,24,Chicago White Sox,Minnesota Twins,0.5383,1,4,1,10
+2026-09-04,24,Texas Rangers,Tampa Bay Rays,0.4678,1,6,0,10
+2026-09-04,24,Seattle Mariners,Athletics,0.6592,0,4,7,10
+2026-09-04,24,Los Angeles Dodgers,St. Louis Cardinals,0.7167,1,3,2,10
+2026-09-04,24,Philadelphia Phillies,Atlanta Braves,0.5255,0,2,5,10
+2026-09-04,24,Pittsburgh Pirates,Los Angeles Angels,0.6373,1,1,0,10
+2026-09-04,24,Baltimore Orioles,Boston Red Sox,0.4859,0,0,1,10
+2026-09-04,24,Miami Marlins,Chicago Cubs,0.3937,0,1,6,10
+2026-09-04,24,New York Mets,San Francisco Giants,0.6478,1,10,6,10
+2026-09-05,24,Baltimore Orioles,Boston Red Sox,0.4619,0,0,5,10
+2026-09-05,24,Chicago White Sox,Minnesota Twins,0.5313,0,4,6,10
+2026-09-05,24,Cleveland Guardians,Detroit Tigers,0.5742,0,0,6,10
+2026-09-05,24,Colorado Rockies,St. Louis Cardinals,0.4637,0,6,7,10
+2026-09-05,24,Colorado Rockies,St. Louis Cardinals,0.4642,0,6,7,10
+2026-09-05,24,Seattle Mariners,Athletics,0.6818,0,6,7,10
+2026-09-05,24,Los Angeles Dodgers,Washington Nationals,0.7043,1,5,3,10
+2026-09-05,24,Miami Marlins,Chicago Cubs,0.458,0,5,6,10
+2026-09-05,24,Seattle Mariners,Athletics,0.6581,0,6,7,10
+2026-09-05,24,New York Mets,San Francisco Giants,0.6057,0,5,9,10
+2026-09-05,24,Philadelphia Phillies,Atlanta Braves,0.5973,1,4,2,10
+2026-09-05,24,Cleveland Guardians,Detroit Tigers,0.5958,0,0,6,10
+2026-09-05,24,Cincinnati Reds,Milwaukee Brewers,0.4205,1,5,3,10
+2026-09-05,24,Pittsburgh Pirates,Los Angeles Angels,0.6247,0,1,6,10
+2026-09-06,24,Texas Rangers,Tampa Bay Rays,0.5168,1,8,6,10
+2026-09-06,24,New York Mets,San Francisco Giants,0.6051,1,4,2,10
+2026-09-06,24,Miami Marlins,Chicago Cubs,0.4381,1,10,3,10
+2026-09-06,24,Kansas City Royals,Toronto Blue Jays,0.5173,1,6,1,10
+2026-09-06,24,Houston Astros,Arizona Diamondbacks,0.5404,0,2,3,10
+2026-09-06,24,Houston Astros,Arizona Diamondbacks,0.519,0,2,3,10
+2026-09-06,24,Kansas City Royals,Toronto Blue Jays,0.4728,1,6,1,10
+2026-09-06,24,San Diego Padres,New York Yankees,0.4934,1,4,3,10
+2026-09-06,24,Texas Rangers,Tampa Bay Rays,0.4964,1,8,6,10
+2026-09-06,24,Los Angeles Dodgers,Washington Nationals,0.6263,1,6,5,10
+2026-09-06,24,San Diego Padres,New York Yankees,0.5194,1,4,3,10
+2026-09-06,24,Chicago White Sox,Minnesota Twins,0.5718,1,10,1,10
+2026-09-06,24,Cincinnati Reds,Milwaukee Brewers,0.4312,1,12,8,10
+2026-09-06,24,Philadelphia Phillies,Atlanta Braves,0.5027,0,4,5,10
+2026-09-06,24,Baltimore Orioles,Boston Red Sox,0.4512,0,1,3,10
+2026-09-06,24,Pittsburgh Pirates,Los Angeles Angels,0.6149,1,1,0,10
+2026-09-06,24,Cleveland Guardians,Detroit Tigers,0.6049,1,3,2,10
+2026-09-07,24,Detroit Tigers,Minnesota Twins,0.5266,1,5,4,10
+2026-09-07,24,San Diego Padres,Washington Nationals,0.643,1,3,2,10
+2026-09-07,24,Los Angeles Dodgers,Washington Nationals,0.6383,1,7,5,10
+2026-09-07,24,Philadelphia Phillies,Atlanta Braves,0.6286,1,1,0,10
+2026-09-07,24,Miami Marlins,New York Mets,0.5529,0,4,9,10
+2026-09-07,24,Baltimore Orioles,Cleveland Guardians,0.5564,1,6,4,10
+2026-09-07,24,Boston Red Sox,Los Angeles Angels,0.6181,1,5,2,10
+2026-09-07,24,Kansas City Royals,Arizona Diamondbacks,0.5071,0,4,5,10
+2026-09-07,24,Milwaukee Brewers,Chicago Cubs,0.5339,1,4,3,10
+2026-09-08,24,San Francisco Giants,St. Louis Cardinals,0.546,1,5,4,10
+2026-09-08,24,Chicago White Sox,Pittsburgh Pirates,0.5647,0,3,9,10
+2026-09-08,24,Athletics,Toronto Blue Jays,0.3804,1,6,5,10
+2026-09-08,24,Los Angeles Dodgers,Cincinnati Reds,0.6206,1,6,3,10
+2026-09-08,24,Athletics,Toronto Blue Jays,0.3417,1,6,5,10
+2026-09-08,24,San Francisco Giants,St. Louis Cardinals,0.4977,1,5,4,10
+2026-09-08,24,Baltimore Orioles,Cleveland Guardians,0.5243,0,5,9,10
+2026-09-08,24,Detroit Tigers,Minnesota Twins,0.5508,0,2,3,10
+2026-09-08,24,Philadelphia Phillies,Houston Astros,0.5526,0,5,6,10
+2026-09-08,24,Miami Marlins,New York Mets,0.5109,0,5,7,10
+2026-09-08,24,Boston Red Sox,Los Angeles Angels,0.5716,0,1,6,10
+2026-09-08,24,New York Yankees,Colorado Rockies,0.7471,1,5,3,10
+2026-09-08,24,Atlanta Braves,Tampa Bay Rays,0.5127,0,1,7,10
+2026-09-08,24,Kansas City Royals,Arizona Diamondbacks,0.5075,0,3,5,10
+2026-09-08,24,Milwaukee Brewers,Chicago Cubs,0.6473,1,4,3,10
+2026-09-09,24,Boston Red Sox,Los Angeles Angels,0.66,0,4,6,10
+2026-09-09,24,New York Yankees,Colorado Rockies,0.6847,1,6,1,10
+2026-09-09,24,Atlanta Braves,Tampa Bay Rays,0.531,0,2,7,10
+2026-09-09,24,Kansas City Royals,Arizona Diamondbacks,0.4789,1,5,2,9
+2026-09-09,24,Milwaukee Brewers,Chicago Cubs,0.547,1,8,6,10
+2026-09-09,24,Los Angeles Dodgers,Cincinnati Reds,0.7286,1,3,2,10
+2026-09-09,24,Detroit Tigers,Minnesota Twins,0.5322,1,7,2,10
+2026-09-09,24,Chicago White Sox,Pittsburgh Pirates,0.5448,0,2,4,10
+2026-09-09,24,Baltimore Orioles,Cleveland Guardians,0.4788,1,9,5,10
+2026-09-09,24,Philadelphia Phillies,Houston Astros,0.5794,1,11,7,10
+2026-09-09,24,Miami Marlins,New York Mets,0.5342,0,14,15,10
+2026-09-10,25,Los Angeles Dodgers,Cincinnati Reds,0.7134,1,14,1,10
+2026-09-10,25,Atlanta Braves,Tampa Bay Rays,0.5426,1,3,1,10
+2026-09-10,25,Philadelphia Phillies,Houston Astros,0.6299,0,1,2,10
+2026-09-10,25,Seattle Mariners,Texas Rangers,0.512,1,4,3,10
+2026-09-10,25,Seattle Mariners,Texas Rangers,0.5812,1,4,3,10
+2026-09-10,25,New York Yankees,Colorado Rockies,0.7151,1,10,3,10
+2026-09-10,25,Chicago White Sox,Pittsburgh Pirates,0.5144,0,0,2,10
+2026-09-11,25,Washington Nationals,Los Angeles Angels,0.5923,1,4,3,10
+2026-09-11,25,New York Yankees,New York Mets,0.5463,1,6,4,10
+2026-09-11,25,Toronto Blue Jays,Baltimore Orioles,0.5526,0,4,7,10
+2026-09-11,25,Boston Red Sox,Kansas City Royals,0.6476,0,2,3,10
+2026-09-11,25,Tampa Bay Rays,Houston Astros,0.6378,1,3,1,10
+2026-09-11,25,Miami Marlins,Los Angeles Dodgers,0.3588,0,2,6,10
+2026-09-11,25,Milwaukee Brewers,Cincinnati Reds,0.6418,1,20,0,10
+2026-09-11,25,Chicago Cubs,Pittsburgh Pirates,0.6333,1,12,2,10
+2026-09-11,25,Detroit Tigers,Colorado Rockies,0.6228,1,6,2,10
+2026-09-12,25,Arizona Diamondbacks,Texas Rangers,0.548,1,9,1,13
+2026-09-12,25,New York Yankees,New York Mets,0.596,0,2,12,10
+2026-09-12,25,Chicago Cubs,Pittsburgh Pirates,0.5344,1,4,3,10
+2026-09-12,25,Toronto Blue Jays,Baltimore Orioles,0.5602,1,7,3,10
+2026-09-12,25,Washington Nationals,Los Angeles Angels,0.5461,1,6,5,10
+2026-09-12,25,Atlanta Braves,Philadelphia Phillies,0.6256,1,12,2,10
+2026-09-12,25,Boston Red Sox,Kansas City Royals,0.6661,1,5,1,10
+2026-09-12,25,Miami Marlins,Los Angeles Dodgers,0.3965,1,4,3,10
+2026-09-12,25,Tampa Bay Rays,Houston Astros,0.5725,1,3,2,10
+2026-09-12,25,Milwaukee Brewers,Cincinnati Reds,0.6512,1,13,9,10
+2026-09-12,25,Athletics,Seattle Mariners,0.403,1,6,5,10
+2026-09-12,25,Arizona Diamondbacks,Texas Rangers,0.514,1,9,1,10
+2026-09-12,25,Detroit Tigers,Colorado Rockies,0.5946,1,11,7,10
+2026-09-12,25,Athletics,Seattle Mariners,0.4172,1,6,5,10
+2026-09-13,25,Chicago Cubs,Pittsburgh Pirates,0.6013,0,3,4,13
+2026-09-13,25,San Francisco Giants,San Diego Padres,0.4334,0,4,6,13
+2026-09-13,25,St. Louis Cardinals,Chicago White Sox,0.4817,1,3,1,9
+2026-09-13,25,Detroit Tigers,Colorado Rockies,0.6238,1,8,1,10
+2026-09-13,25,San Francisco Giants,San Diego Padres,0.3743,0,4,6,10
+2026-09-13,25,Minnesota Twins,Cleveland Guardians,0.5012,0,2,9,10
+2026-09-13,25,St. Louis Cardinals,Chicago White Sox,0.4971,1,3,1,10
+2026-09-13,25,Atlanta Braves,Philadelphia Phillies,0.5416,0,4,9,10
+2026-09-13,25,Washington Nationals,Los Angeles Angels,0.555,1,6,5,10
+2026-09-13,25,New York Yankees,New York Mets,0.6175,1,2,0,10
+2026-09-13,25,Toronto Blue Jays,Baltimore Orioles,0.5788,1,8,1,10
+2026-09-13,25,Miami Marlins,Los Angeles Dodgers,0.4459,1,6,4,10
+2026-09-13,25,Tampa Bay Rays,Houston Astros,0.5415,1,14,4,10
+2026-09-13,25,Milwaukee Brewers,Cincinnati Reds,0.6383,0,3,4,10
+2026-09-13,25,Boston Red Sox,Kansas City Royals,0.6342,1,4,1,10
+2026-09-14,25,New York Mets,Baltimore Orioles,0.5645,0,1,2,13
+2026-09-14,25,Toronto Blue Jays,Detroit Tigers,0.566,0,5,6,13
+2026-09-14,25,Cleveland Guardians,Chicago White Sox,0.6129,0,3,7,10
+2026-09-14,25,Cincinnati Reds,Los Angeles Dodgers,0.3383,0,1,4,10
+2026-09-14,25,Chicago Cubs,Atlanta Braves,0.5545,1,7,3,10
+2026-09-14,25,Minnesota Twins,New York Yankees,0.4619,0,3,8,10
+2026-09-14,25,St. Louis Cardinals,San Francisco Giants,0.5793,1,2,1,10
+2026-09-15,25,Toronto Blue Jays,Detroit Tigers,0.5675,0,1,10,24
+2026-09-15,25,Cleveland Guardians,Chicago White Sox,0.5827,1,7,6,24
+2026-09-15,25,Washington Nationals,Philadelphia Phillies,0.339,1,6,3,24
+2026-09-15,25,Pittsburgh Pirates,Milwaukee Brewers,0.3444,0,1,5,24
+2026-09-15,25,Minnesota Twins,New York Yankees,0.3937,0,1,8,24
+2026-09-15,25,St. Louis Cardinals,San Francisco Giants,0.6139,0,3,10,22
+2026-09-15,25,Chicago Cubs,Atlanta Braves,0.5655,0,3,6,22
+2026-09-15,25,Los Angeles Angels,Seattle Mariners,0.5039,1,6,4,22
+2026-09-15,25,New York Mets,Baltimore Orioles,0.5471,0,5,7,22
+2026-09-15,25,Cincinnati Reds,Los Angeles Dodgers,0.3188,0,0,4,21
+2026-09-15,25,Arizona Diamondbacks,Miami Marlins,0.5526,1,8,7,22
+2026-09-15,25,Colorado Rockies,San Diego Padres,0.3414,0,7,8,22
+2026-09-15,25,Tampa Bay Rays,Athletics,0.6718,1,2,1,10
+2026-09-16,25,Houston Astros,Kansas City Royals,0.577,1,4,2,30
+2026-09-16,25,Colorado Rockies,San Diego Padres,0.3901,1,9,3,30
+2026-09-16,25,Texas Rangers,Boston Red Sox,0.5636,1,4,2,24
+2026-09-16,25,St. Louis Cardinals,San Francisco Giants,0.5932,0,5,6,30
+2026-09-16,25,Pittsburgh Pirates,Milwaukee Brewers,0.4543,0,4,5,30
+2026-09-16,25,New York Mets,Baltimore Orioles,0.5145,0,1,7,24
+2026-09-16,25,Cleveland Guardians,Chicago White Sox,0.59,1,6,3,30
+2026-09-16,25,Arizona Diamondbacks,Miami Marlins,0.588,0,2,4,30
+2026-09-16,25,Minnesota Twins,New York Yankees,0.3898,1,5,4,30
+2026-09-16,25,Washington Nationals,Philadelphia Phillies,0.3673,0,0,3,30
+2026-09-16,25,Toronto Blue Jays,Detroit Tigers,0.5417,1,5,1,24
+2026-09-16,25,Chicago Cubs,Atlanta Braves,0.5949,1,8,4,28
+2026-09-16,25,Colorado Rockies,San Diego Padres,0.3628,1,9,3,22
+2026-09-16,25,Houston Astros,Kansas City Royals,0.5931,1,4,2,22
+2026-09-16,25,Cincinnati Reds,Los Angeles Dodgers,0.3317,1,6,2,27
+2026-09-16,25,Los Angeles Angels,Seattle Mariners,0.3964,1,2,1,22
+2026-09-16,25,Tampa Bay Rays,Athletics,0.6217,1,4,3,10
+2026-09-17,26,Cincinnati Reds,Los Angeles Dodgers,0.4002,0,2,8,29
+2026-09-17,26,Texas Rangers,Boston Red Sox,0.4946,1,7,3,30
+2026-09-17,26,Pittsburgh Pirates,Milwaukee Brewers,0.4433,1,7,4,30
+2026-09-17,26,Arizona Diamondbacks,Miami Marlins,0.5596,0,3,4,30
+2026-09-17,26,Los Angeles Angels,Seattle Mariners,0.4548,0,2,7,30
+2026-09-17,26,Chicago White Sox,Detroit Tigers,0.512,1,3,1,29
+2026-09-17,26,New York Mets,Philadelphia Phillies,0.541,0,0,3,28
+2026-09-17,26,Tampa Bay Rays,Athletics,0.7005,1,10,1,10
+2026-09-18,26,New York Mets,Philadelphia Phillies,0.5306,1,6,3,29
+2026-09-18,26,Los Angeles Angels,Minnesota Twins,0.5031,1,5,4,28
+2026-09-18,26,Baltimore Orioles,Milwaukee Brewers,0.4266,0,5,6,28
+2026-09-18,26,Tampa Bay Rays,Boston Red Sox,0.5551,0,2,4,29
+2026-09-18,26,Texas Rangers,Boston Red Sox,0.4656,0,3,4,28
+2026-09-18,26,Cleveland Guardians,Athletics,0.6754,1,5,3,13
+2026-09-18,26,Cincinnati Reds,Chicago Cubs,0.4238,1,6,4,28
+2026-09-18,26,Pittsburgh Pirates,Kansas City Royals,0.6291,1,8,5,28
+2026-09-18,26,Chicago White Sox,Detroit Tigers,0.5457,0,8,11,27
+2026-09-19,26,Los Angeles Angels,Minnesota Twins,0.4902,0,0,3,28
+2026-09-19,26,Arizona Diamondbacks,New York Yankees,0.4329,0,2,9,31
+2026-09-19,26,Colorado Rockies,Seattle Mariners,0.4164,0,4,5,31
+2026-09-19,26,San Diego Padres,Miami Marlins,0.5811,1,8,2,31
+2026-09-19,26,Los Angeles Angels,Minnesota Twins,0.4961,0,0,3,24
+2026-09-19,26,Chicago White Sox,Detroit Tigers,0.5426,1,3,1,28
+2026-09-19,26,San Diego Padres,Miami Marlins,0.6452,1,8,2,29
+2026-09-19,26,Arizona Diamondbacks,New York Yankees,0.5092,0,2,9,29
+2026-09-19,26,Tampa Bay Rays,Boston Red Sox,0.5732,1,2,1,30
+2026-09-19,26,Baltimore Orioles,Milwaukee Brewers,0.5004,0,0,1,29
+2026-09-19,26,Colorado Rockies,Seattle Mariners,0.3725,0,4,5,28
+2026-09-19,26,New York Mets,Philadelphia Phillies,0.5321,1,10,3,29
+2026-09-19,26,Los Angeles Dodgers,San Francisco Giants,0.7746,1,8,2,29
+2026-09-19,26,Cincinnati Reds,Chicago Cubs,0.4296,0,2,5,28
+2026-09-19,26,Los Angeles Dodgers,San Francisco Giants,0.7311,1,8,2,27
+2026-09-19,26,Pittsburgh Pirates,Kansas City Royals,0.5187,1,6,5,28
+2026-09-19,26,Cleveland Guardians,Athletics,0.624,1,12,6,10
+2026-09-20,26,St. Louis Cardinals,Washington Nationals,0.4941,1,5,3,30
+2026-09-20,26,Houston Astros,Atlanta Braves,0.5843,0,2,4,31
+2026-09-20,26,St. Louis Cardinals,Washington Nationals,0.5382,1,5,3,31
+2026-09-20,26,Texas Rangers,Toronto Blue Jays,0.4471,0,2,7,29
+2026-09-20,26,Houston Astros,Atlanta Braves,0.4831,0,2,4,30
+2026-09-20,26,Texas Rangers,Toronto Blue Jays,0.6118,0,2,7,29
+2026-09-20,26,Pittsburgh Pirates,Kansas City Royals,0.5196,1,4,3,30
+2026-09-20,26,Cincinnati Reds,Chicago Cubs,0.4052,0,1,9,31
+2026-09-20,26,Tampa Bay Rays,Boston Red Sox,0.5767,1,5,1,30
+2026-09-20,26,New York Mets,Philadelphia Phillies,0.4099,0,2,7,30
+2026-09-20,26,Chicago White Sox,Detroit Tigers,0.5186,1,8,1,18
+2026-09-20,26,Baltimore Orioles,Milwaukee Brewers,0.3454,0,0,3,21
+2026-09-20,26,Cleveland Guardians,Athletics,0.6932,1,1,0,9
+2026-09-21,26,Detroit Tigers,Washington Nationals,0.5483,1,9,2,31
+2026-09-21,26,Baltimore Orioles,Toronto Blue Jays,0.4985,1,4,3,29
+2026-09-22,26,Philadelphia Phillies,Milwaukee Brewers,0.5806,1,6,4,30
+2026-09-22,26,Pittsburgh Pirates,St. Louis Cardinals,0.6032,1,2,0,30
+2026-09-22,26,Atlanta Braves,Cincinnati Reds,0.6721,0,0,4,30
+2026-09-22,26,Chicago Cubs,Miami Marlins,0.6542,0,2,8,30
+2026-09-22,26,Detroit Tigers,Washington Nationals,0.5783,0,1,3,30
+2026-09-22,26,Boston Red Sox,Cleveland Guardians,0.5295,0,2,3,29
+2026-09-22,26,San Francisco Giants,Minnesota Twins,0.4568,1,5,2,30
+2026-09-22,26,San Francisco Giants,Minnesota Twins,0.4173,1,5,2,30
+2026-09-22,26,Kansas City Royals,Chicago White Sox,0.4774,0,11,14,29
+2026-09-23,26,Atlanta Braves,Cincinnati Reds,0.7029,1,3,2,31
+2026-09-23,26,Texas Rangers,New York Mets,0.5366,0,3,6,30
+2026-09-23,26,New York Yankees,Tampa Bay Rays,0.5392,1,9,2,29
+2026-09-23,26,Colorado Rockies,Arizona Diamondbacks,0.367,0,2,7,30
+2026-09-23,26,Philadelphia Phillies,Milwaukee Brewers,0.4665,0,1,4,30
+2026-09-23,26,Pittsburgh Pirates,St. Louis Cardinals,0.5551,0,1,5,30
+2026-09-23,26,Detroit Tigers,Washington Nationals,0.6075,0,2,4,30
+2026-09-23,26,Colorado Rockies,Arizona Diamondbacks,0.3799,0,2,7,30
+2026-09-23,26,Texas Rangers,New York Mets,0.5002,0,3,6,30
+2026-09-23,26,Kansas City Royals,Chicago White Sox,0.4792,1,5,4,30
+2026-09-23,26,Los Angeles Dodgers,San Diego Padres,0.5386,1,7,0,27
+2026-09-23,26,New York Yankees,Tampa Bay Rays,0.5659,1,9,2,30
+2026-09-23,26,Seattle Mariners,Houston Astros,0.5469,0,0,7,28
+2026-09-23,26,Chicago Cubs,Miami Marlins,0.6272,0,2,3,30
+2026-09-23,26,Boston Red Sox,Cleveland Guardians,0.5639,1,1,0,30
+2026-09-23,26,Athletics,Los Angeles Angels,0.498,1,9,7,9
+2026-09-24,27,Philadelphia Phillies,Milwaukee Brewers,0.5494,0,1,5,29
+2026-09-24,27,Seattle Mariners,Houston Astros,0.5394,1,6,5,31
+2026-09-24,27,New York Yankees,Baltimore Orioles,0.4978,1,6,4,29
+2026-09-24,27,Los Angeles Dodgers,San Diego Padres,0.6676,0,1,5,29
+2026-09-24,27,Chicago Cubs,Miami Marlins,0.6541,1,2,1,22
+2026-09-24,27,Atlanta Braves,Cincinnati Reds,0.6698,0,6,7,30
+2026-09-24,27,Boston Red Sox,Chicago Cubs,0.4773,0,0,1,28
+2026-09-24,27,Pittsburgh Pirates,St. Louis Cardinals,0.5946,1,2,1,30
+2026-09-24,27,Boston Red Sox,Cleveland Guardians,0.5422,0,0,1,30
+2026-09-24,27,New York Yankees,Tampa Bay Rays,0.5725,1,6,4,30
+2026-09-24,27,Kansas City Royals,Chicago White Sox,0.442,0,1,9,22
+2026-09-24,27,Athletics,Los Angeles Angels,0.4451,1,7,3,10
+2026-09-25,27,Miami Marlins,Atlanta Braves,0.4882,1,3,0,30
+2026-09-25,27,Seattle Mariners,Los Angeles Angels,0.6385,0,4,6,31
+2026-09-25,27,Washington Nationals,New York Mets,0.5016,1,7,6,28
+2026-09-25,27,Toronto Blue Jays,Cincinnati Reds,0.5865,1,6,5,23
+2026-09-25,27,Detroit Tigers,Pittsburgh Pirates,0.517,1,8,7,28
+2026-09-25,27,Milwaukee Brewers,St. Louis Cardinals,0.6266,1,8,4,29
+2026-09-25,27,Philadelphia Phillies,Tampa Bay Rays,0.6148,0,0,2,28
+2026-09-25,27,Los Angeles Dodgers,San Diego Padres,0.6078,0,2,4,29
+2026-09-25,27,Chicago White Sox,Colorado Rockies,0.6795,1,6,1,29
+2026-09-25,27,Athletics,Houston Astros,0.3839,0,5,7,10
+2026-09-26,27,Washington Nationals,New York Mets,0.501,0,1,7,26
+2026-09-26,27,Seattle Mariners,Los Angeles Angels,0.5124,0,5,7,29
+2026-09-26,27,Kansas City Royals,Cleveland Guardians,0.4444,0,5,11,30
+2026-09-26,27,Athletics,Houston Astros,0.3987,1,6,5,13
+2026-09-26,27,Miami Marlins,Atlanta Braves,0.4784,0,3,8,29
+2026-09-26,27,Milwaukee Brewers,St. Louis Cardinals,0.5927,1,3,2,29
+2026-09-26,27,Seattle Mariners,Los Angeles Angels,0.593,0,5,7,31
+2026-09-26,27,Detroit Tigers,Pittsburgh Pirates,0.5185,1,4,3,29
+2026-09-26,27,Toronto Blue Jays,Cincinnati Reds,0.5956,0,1,5,28
+2026-09-26,27,Chicago White Sox,Colorado Rockies,0.6901,0,6,9,28
+2026-09-26,27,San Diego Padres,Arizona Diamondbacks,0.4231,0,4,11,30
+2026-09-26,27,Philadelphia Phillies,Tampa Bay Rays,0.5277,0,1,12,29
+2026-09-26,27,San Diego Padres,Arizona Diamondbacks,0.5242,0,4,11,28
+2026-09-27,27,San Francisco Giants,Los Angeles Dodgers,0.2682,0,1,5,30
+2026-09-27,27,Minnesota Twins,Texas Rangers,0.4664,1,6,4,30
+2026-09-27,27,Kansas City Royals,Cleveland Guardians,0.4995,1,3,2,30
+2026-09-27,27,San Francisco Giants,Los Angeles Dodgers,0.3181,0,1,5,29
+2026-09-27,27,Toronto Blue Jays,Cincinnati Reds,0.6027,1,5,1,30
+2026-09-27,27,Minnesota Twins,Texas Rangers,0.4832,1,6,4,29
+2026-09-27,27,Boston Red Sox,Chicago Cubs,0.4811,0,2,6,28
+2026-09-27,27,Miami Marlins,Atlanta Braves,0.5311,1,5,3,30
+2026-09-27,27,Detroit Tigers,Pittsburgh Pirates,0.5165,0,2,4,30
+2026-09-27,27,Milwaukee Brewers,St. Louis Cardinals,0.6485,1,6,4,30
+2026-09-27,27,Chicago White Sox,Colorado Rockies,0.5927,1,4,2,30
+2026-09-27,27,Philadelphia Phillies,Tampa Bay Rays,0.6438,1,7,3,22
+2026-09-27,27,Washington Nationals,New York Mets,0.4919,1,6,4,19
+2026-09-29,27,Atlanta Braves,Philadelphia Phillies,0.6193,1,5,3,30
+2026-09-29,27,Houston Astros,Chicago White Sox,0.5293,0,3,6,30
+2026-09-30,27,New York Yankees,Boston Red Sox,0.5452,1,9,0,30
+2026-09-30,27,Houston Astros,Chicago White Sox,0.5746,0,3,7,30
+2026-09-30,27,San Diego Padres,Chicago Cubs,0.552,1,8,0,30
+2026-09-30,27,Atlanta Braves,Philadelphia Phillies,0.4871,0,3,4,30
+2026-10-01,28,New York Yankees,Boston Red Sox,0.5547,1,9,2,30
+2026-10-01,28,San Diego Padres,Chicago Cubs,0.5694,1,4,1,29
+2026-10-02,28,Atlanta Braves,Philadelphia Phillies,0.5053,1,6,2,30
+2026-10-03,28,Los Angeles Dodgers,Atlanta Braves,0.6624,1,5,3,28
+2026-10-03,28,Cleveland Guardians,Chicago White Sox,0.5731,0,0,3,30
+2026-10-03,28,Tampa Bay Rays,New York Yankees,0.5578,1,1,0,30
+2026-10-05,28,Los Angeles Dodgers,Atlanta Braves,0.6749,0,2,3,30
+2026-10-05,28,Cleveland Guardians,Chicago White Sox,0.5817,0,3,4,31
+2026-10-06,28,Tampa Bay Rays,New York Yankees,0.4644,1,5,2,31
+2026-10-06,28,Atlanta Braves,Los Angeles Dodgers,0.4934,0,1,3,30
+2026-10-07,28,San Diego Padres,Milwaukee Brewers,0.5606,1,4,3,31
+2026-10-07,28,Atlanta Braves,Los Angeles Dodgers,0.4209,0,1,4,29
+2026-10-07,28,Chicago White Sox,Cleveland Guardians,0.5381,0,3,9,30
+2026-10-08,29,New York Yankees,Tampa Bay Rays,0.6096,0,3,4,30
+2026-10-08,29,San Diego Padres,Milwaukee Brewers,0.4997,0,1,3,30
+2026-10-09,29,Chicago White Sox,Cleveland Guardians,0.4849,0,5,9,30
+2026-10-11,29,Cleveland Guardians,Chicago White Sox,0.563,1,2,0,30
+2026-10-14,29,Tampa Bay Rays,Cleveland Guardians,0.5488,1,3,1,30
+2026-10-15,30,Cleveland Guardians,Tampa Bay Rays,0.538,1,3,2,30
+2026-10-15,30,Los Angeles Dodgers,Milwaukee Brewers,0.617,0,2,6,29
+2026-10-15,30,Cleveland Guardians,Tampa Bay Rays,0.4905,1,3,2,29
+2026-10-16,30,Los Angeles Dodgers,Milwaukee Brewers,0.5817,0,4,6,29
+2026-10-20,30,Tampa Bay Rays,Cleveland Guardians,0.5842,1,7,3,30
+2026-10-24,31,Milwaukee Brewers,Tampa Bay Rays,0.6302,1,3,2,27
+2026-10-25,31,Milwaukee Brewers,Tampa Bay Rays,0.5209,1,5,4,27
+2026-10-27,31,Tampa Bay Rays,Milwaukee Brewers,0.5175,0,1,10,26
+2026-10-28,31,Tampa Bay Rays,Milwaukee Brewers,0.4749,1,4,3,24

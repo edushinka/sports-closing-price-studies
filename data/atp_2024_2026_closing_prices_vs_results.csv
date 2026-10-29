@@ -1,0 +1,1723 @@
+date_utc,week,home_team,away_team,home_no_vig_close_prob,home_won,home_score,away_score,n_books,tournament,surface,round,best_of
+2024-01-14,1,Andrey Rublev,Thiago Seyboth Wild,0.9443,1,,,8,Australian Open,Hard,1st Round,5
+2024-01-14,1,Facundo Diaz Acosta,Taylor Fritz,0.0722,0,,,13,Australian Open,Hard,1st Round,5
+2024-01-14,1,Fabian Marozsan,Marin Cilic,0.5553,1,,,14,Australian Open,Hard,1st Round,5
+2024-01-14,1,Botic Van de Zandschulp,Jannik Sinner,0.0892,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-14,1,Arthur Rinderknech,Pavel Kotov,0.422,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-14,1,Jesper De Jong,Pedro Cachin,0.6831,1,,,14,Australian Open,Hard,1st Round,5
+2024-01-14,1,Alexander Shevchenko,Jaume Munar,0.6892,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-14,1,Dino Prizmic,Novak Djokovic,0.035,0,,,4,Australian Open,Hard,1st Round,5
+2024-01-14,1,Lloyd Harris,Quentin Halys,0.6978,0,,,14,Australian Open,Hard,1st Round,5
+2024-01-14,1,Dane Sweeny,Francisco Cerundolo,0.2891,0,,,14,Australian Open,Hard,1st Round,5
+2024-01-14,1,Shintaro Mochizuki,Tomas Machac,0.2432,0,,,14,Australian Open,Hard,1st Round,5
+2024-01-14,1,Borna Coric,Frances Tiafoe,0.3942,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-14,1,Adam Walton,Matteo Arnaldi,0.2096,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Stefanos Tsitsipas,Zizou Bergs,0.8837,1,,,12,Australian Open,Hard,1st Round,5
+2024-01-15,1,Andy Murray,Tomas Martin Etcheverry,0.5857,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Alejandro Tabilo,Aleksandar Kovacevic,0.572,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Aleksandar Vukic,Jordan Thompson,0.303,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Dominic Thiem,Felix Auger-Aliassime,0.3465,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Hubert Hurkacz,Omar Jasika,0.9365,1,,,14,Australian Open,Hard,1st Round,5
+2024-01-15,1,Denis Shapovalov,Jakub Mensik,0.4203,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Emil Ruusuvuori,Patrick Kypson,0.8647,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Hugo Gaston,Roberto Carballes Baena,0.4089,1,,,14,Australian Open,Hard,1st Round,5
+2024-01-15,1,Christopher Eubanks,Taro Daniel,0.414,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Ben Shelton,Roberto Bautista Agut,0.6795,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Miomir Kecmanovic,Yosuke Watanuki,0.7345,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Alexandre Muller,Hugo Grenier,0.6914,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Alexei Popyrin,Marc Polmans,0.8157,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Adrian Mannarino,Stan Wawrinka,0.6747,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Maximilian Marterer,Nuno Borges,0.5422,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,James Duckworth,Luca Van Assche,0.4639,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Daniel Altmaier,Karen Khachanov,0.2084,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Alejandro Davidovich Fokina,Constant Lestienne,0.8191,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Sebastian Korda,Vit Kopriva,0.8835,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,David Goffin,Ugo Humbert,0.3207,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Gael Monfils,Yannick Hanfmann,0.6304,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Federico Coria,Zhizhen Zhang,0.101,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-15,1,Flavio Cobolli,Nicolas Jarry,0.2229,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-15,1,Benjamin Bonzi,Lorenzo Musetti,0.2943,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Arthur Cazaux,Laslo Djere,0.4658,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Arthur Fils,Jiri Vesely,0.8775,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Jack Draper,Marcos Giron,0.7431,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Mate Valkusz,Max Purcell,0.2629,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Juncheng Shang,Mackenzie McDonald,0.559,1,,,14,Australian Open,Hard,1st Round,5
+2024-01-16,1,Alexander Bublik,Sumit Nagal,0.8082,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Bernabe Zapata Miralles,Jiri Lehecka,0.0998,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Alexander Zverev,Dominik Koepfer,0.9005,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Gregoire Barrere,Tommy Paul,0.1476,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Dusan Lajovic,Giulio Zeppieri,0.5224,0,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Roman Safiullin,Tallon Griekspoor,0.6294,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Carlos Alcaraz,Richard Gasquet,0.9473,1,,,7,Australian Open,Hard,1st Round,5
+2024-01-16,1,Alex Michelsen,James McCabe,0.8055,1,,,15,Australian Open,Hard,1st Round,5
+2024-01-16,1,Sebastian Ofner,Thanasi Kokkinakis,0.519,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Grigor Dimitrov,Marton Fucsovics,0.8301,1,,,16,Australian Open,Hard,1st Round,5
+2024-01-16,1,Daniel Evans,Lorenzo Sonego,0.4755,0,,,16,Australian Open,Hard,1st Round,5
+2024-01-17,1,Frances Tiafoe,Tomas Machac,0.6504,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Alexei Popyrin,Novak Djokovic,0.0559,0,,,11,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Fabian Marozsan,Francisco Cerundolo,0.6069,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Adrian Mannarino,Jaume Munar,0.7086,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Jannik Sinner,Jesper De Jong,0.9459,1,,,9,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Quentin Halys,Sebastian Korda,0.243,0,,,16,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Alex de Minaur,Matteo Arnaldi,0.8066,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Lorenzo Musetti,Luca Van Assche,0.6623,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Gael Monfils,Tomas Martin Etcheverry,0.6012,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Aleksandar Kovacevic,Karen Khachanov,0.1725,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Flavio Cobolli,Pavel Kotov,0.3799,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Hugo Gaston,Taylor Fritz,0.1494,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Andrey Rublev,Christopher Eubanks,0.8687,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-17,1,Jordan Thompson,Stefanos Tsitsipas,0.2119,0,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Hubert Hurkacz,Jakub Mensik,0.7825,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Daniil Medvedev,Emil Ruusuvuori,0.8713,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Alex Michelsen,Jiri Lehecka,0.2414,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Grigor Dimitrov,Thanasi Kokkinakis,0.8427,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Ugo Humbert,Zhizhen Zhang,0.6949,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Alexander Zverev,Lukas Klein,0.9103,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Felix Auger-Aliassime,Hugo Grenier,0.8638,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Casper Ruud,Max Purcell,0.8196,1,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Jack Draper,Tommy Paul,0.4998,0,,,16,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Arthur Fils,Tallon Griekspoor,0.5922,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Alejandro Davidovich Fokina,Nuno Borges,0.7862,0,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Carlos Alcaraz,Lorenzo Sonego,0.9286,1,,,12,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Cameron Norrie,Giulio Zeppieri,0.7085,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-18,1,Juncheng Shang,Sumit Nagal,0.6642,1,,,15,Australian Open,Hard,2nd Round,5
+2024-01-19,1,Karen Khachanov,Tomas Machac,0.5954,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Novak Djokovic,Tomas Martin Etcheverry,0.9136,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Jannik Sinner,Sebastian Baez,0.9466,1,,,8,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Andrey Rublev,Sebastian Korda,0.6912,1,,,16,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Alex de Minaur,Flavio Cobolli,0.8981,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Luca Van Assche,Stefanos Tsitsipas,0.2015,0,,,15,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Fabian Marozsan,Taylor Fritz,0.2672,0,,,15,Australian Open,Hard,3rd Round,5
+2024-01-19,1,Adrian Mannarino,Ben Shelton,0.3079,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Hubert Hurkacz,Ugo Humbert,0.5889,1,,,16,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Daniil Medvedev,Felix Auger-Aliassime,0.7994,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Cameron Norrie,Casper Ruud,0.3083,1,,,16,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Grigor Dimitrov,Nuno Borges,0.8909,0,,,15,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Alex Michelsen,Alexander Zverev,0.1843,0,,,15,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Arthur Cazaux,Tallon Griekspoor,0.4162,1,,,15,Australian Open,Hard,3rd Round,5
+2024-01-20,1,Miomir Kecmanovic,Tommy Paul,0.2985,1,,,16,Australian Open,Hard,3rd Round,5
+2024-01-21,2,Stefanos Tsitsipas,Taylor Fritz,0.5675,0,,,16,Australian Open,Hard,4th Round,5
+2024-01-21,2,Alex de Minaur,Andrey Rublev,0.4509,0,,,16,Australian Open,Hard,4th Round,5
+2024-01-21,2,Jannik Sinner,Karen Khachanov,0.8699,1,,,14,Australian Open,Hard,4th Round,5
+2024-01-21,2,Adrian Mannarino,Novak Djokovic,0.0654,0,,,11,Australian Open,Hard,4th Round,5
+2024-01-22,2,Alexander Zverev,Cameron Norrie,0.7671,1,,,16,Australian Open,Hard,4th Round,5
+2024-01-22,2,Carlos Alcaraz,Miomir Kecmanovic,0.921,1,,,14,Australian Open,Hard,4th Round,5
+2024-01-22,2,Daniil Medvedev,Nuno Borges,0.9168,1,,,15,Australian Open,Hard,4th Round,5
+2024-01-22,2,Arthur Cazaux,Hubert Hurkacz,0.3066,0,,,15,Australian Open,Hard,4th Round,5
+2024-01-23,2,Novak Djokovic,Taylor Fritz,0.8685,1,,,16,Australian Open,Hard,Quarterfinals,5
+2024-01-23,2,Andrey Rublev,Jannik Sinner,0.2233,0,,,15,Australian Open,Hard,Quarterfinals,5
+2024-01-24,2,Daniil Medvedev,Hubert Hurkacz,0.6862,1,,,16,Australian Open,Hard,Quarterfinals,5
+2024-01-24,2,Alexander Zverev,Carlos Alcaraz,0.2111,1,,,15,Australian Open,Hard,Quarterfinals,5
+2024-01-26,2,Jannik Sinner,Novak Djokovic,0.3637,1,,,15,Australian Open,Hard,Semifinals,5
+2024-01-26,2,Alexander Zverev,Daniil Medvedev,0.4447,0,,,16,Australian Open,Hard,Semifinals,5
+2024-01-28,3,Daniil Medvedev,Jannik Sinner,0.2903,0,,,14,Australian Open,Hard,The Final,5
+2024-05-26,20,Brandon Nakashima,Nicolas Moreno De Alboran,0.6134,1,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Gabriel Diallo,Kei Nishikori,0.6585,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Corentin Moutet,Nicolas Jarry,0.3353,1,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Jordan Thompson,Maximilian Marterer,0.5992,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Fabian Marozsan,Mikhail Kukushkin,0.7629,1,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Andrey Rublev,Taro Daniel,0.9227,1,,,12,French Open,Clay,1st Round,5
+2024-05-26,20,Jack Draper,Jesper De Jong,0.7759,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Hubert Hurkacz,Shintaro Mochizuki,0.9258,1,,,14,French Open,Clay,1st Round,5
+2024-05-26,20,Aleksandar Vukic,Zhizhen Zhang,0.2969,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Aleksandar Kovacevic,Grigor Dimitrov,0.1306,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Alexandre Muller,Luca Nardi,0.6138,1,,,14,French Open,Clay,1st Round,5
+2024-05-26,20,Lorenzo Sonego,Ugo Humbert,0.3817,1,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Andy Murray,Stan Wawrinka,0.3852,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Harold Mayot,Sebastian Korda,0.2015,0,,,14,French Open,Clay,1st Round,5
+2024-05-26,20,Sebastian Ofner,Terence Atmane,0.6133,1,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Borna Coric,Richard Gasquet,0.6946,0,,,15,French Open,Clay,1st Round,5
+2024-05-26,20,Alejandro Tabilo,Zizou Bergs,0.6915,0,,,14,French Open,Clay,1st Round,5
+2024-05-26,20,Daniel Altmaier,Laslo Djere,0.6191,1,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Jozef Kovalik,Marcos Giron,0.4482,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Miomir Kecmanovic,Thiago Monteiro,0.5145,1,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Ben Shelton,Hugo Gaston,0.6734,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Arthur Fils,Matteo Arnaldi,0.5434,0,,,13,French Open,Clay,1st Round,5
+2024-05-27,20,Alexander Shevchenko,Aslan Karatsev,0.6074,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Karen Khachanov,Sumit Nagal,0.8561,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Daniil Medvedev,Dominik Koepfer,0.7824,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Botic van de Zandschulp,Fabio Fognini,0.6497,0,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Felix Auger-Aliassime,Yoshihito Nishioka,0.8071,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Cameron Norrie,Pavel Kotov,0.6641,0,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Marton Fucsovics,Stefanos Tsitsipas,0.1371,0,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Gustavo Heide,Sebastian Baez,0.1772,0,,,11,French Open,Clay,1st Round,5
+2024-05-27,20,Christopher Eubanks,Jannik Sinner,0.0528,0,,,9,French Open,Clay,1st Round,5
+2024-05-27,20,Gael Monfils,Thiago Seyboth Wild,0.4168,1,,,16,French Open,Clay,1st Round,5
+2024-05-27,20,Pedro Cachin,Tommy Paul,0.129,0,,,13,French Open,Clay,1st Round,5
+2024-05-27,20,Henri Squire,Max Purcell,0.6476,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Francisco Cerundolo,Yannick Hanfmann,0.7208,1,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Frances Tiafoe,Mattia Bellucci,0.7508,1,,,15,French Open,Clay,1st Round,5
+2024-05-27,20,Dusan Lajovic,Roman Safiullin,0.6007,1,,,13,French Open,Clay,1st Round,5
+2024-05-27,20,Alexander Zverev,Rafael Nadal,0.7355,1,,,14,French Open,Clay,1st Round,5
+2024-05-27,20,Denis Shapovalov,Luca Van Assche,0.587,1,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Jaume Munar,Roberto Bautista Agut,0.5598,1,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Alex Michelsen,Alex de Minaur,0.1369,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Flavio Cobolli,Hamad Medjedovic,0.3858,1,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Adam Walton,Arthur Rinderknech,0.1936,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Federico Coria,Taylor Fritz,0.1528,0,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Alejandro Davidovich Fokina,Valentin Vacherot,0.7843,1,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Daniel Evans,Holger Rune,0.1264,0,,,14,French Open,Clay,1st Round,5
+2024-05-28,20,Alexei Popyrin,Thanasi Kokkinakis,0.5149,0,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Adrian Mannarino,Giulio Zeppieri,0.225,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Mariano Navone,Pablo Carreno Busta,0.8223,1,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Mackenzie McDonald,Tallon Griekspoor,0.1438,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Arthur Cazaux,Tomas Martin Etcheverry,0.2068,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Alexander Bublik,Gregoire Barrere,0.5133,1,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Nuno Borges,Tomas Machac,0.4016,0,,,16,French Open,Clay,1st Round,5
+2024-05-28,20,Constant Lestienne,Roberto Carballes Baena,0.177,0,,,15,French Open,Clay,1st Round,5
+2024-05-28,20,Luciano Darderi,Rinky Hijikata,0.8941,1,,,16,French Open,Clay,1st Round,5
+2024-05-29,20,Pavel Kotov,Stan Wawrinka,0.5695,1,,,16,French Open,Clay,2nd Round,5
+2024-05-29,20,Jannik Sinner,Richard Gasquet,0.9437,1,,,12,French Open,Clay,2nd Round,5
+2024-05-29,20,Daniel Altmaier,Stefanos Tsitsipas,0.0974,0,,,16,French Open,Clay,2nd Round,5
+2024-05-29,20,Andrey Rublev,Pedro Martinez,0.8446,1,,,13,French Open,Clay,2nd Round,5
+2024-05-30,20,Jozef Kovalik,Karen Khachanov,0.126,1,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Dusan Lajovic,Taylor Fritz,0.2041,0,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Filip Misolic,Francisco Cerundolo,0.1577,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Novak Djokovic,Roberto Carballes Baena,0.9353,1,,,13,French Open,Clay,2nd Round,5
+2024-05-30,20,Felix Auger-Aliassime,Henri Squire,0.8875,1,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Denis Shapovalov,Frances Tiafoe,0.6064,1,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Fabio Fognini,Tommy Paul,0.1938,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Sebastian Baez,Sebastian Ofner,0.7809,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Lorenzo Sonego,Zhizhen Zhang,0.5103,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Alexander Shevchenko,Corentin Moutet,0.3408,0,,,14,French Open,Clay,2nd Round,5
+2024-05-30,20,Brandon Nakashima,Hubert Hurkacz,0.2845,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Alex de Minaur,Jaume Munar,0.7255,1,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Alexander Zverev,David Goffin,0.9238,1,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Maximilian Marterer,Zizou Bergs,0.3392,0,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Flavio Cobolli,Holger Rune,0.3411,0,,,15,French Open,Clay,2nd Round,5
+2024-05-30,20,Luciano Darderi,Tallon Griekspoor,0.565,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Fabian Marozsan,Grigor Dimitrov,0.2845,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Gael Monfils,Lorenzo Musetti,0.3475,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Giulio Zeppieri,Thanasi Kokkinakis,0.4327,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Alejandro Davidovich Fokina,Casper Ruud,0.191,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Mariano Navone,Tomas Machac,0.4385,0,,,16,French Open,Clay,2nd Round,5
+2024-05-30,20,Alexandre Muller,Matteo Arnaldi,0.3786,0,,,16,French Open,Clay,2nd Round,5
+2024-05-31,20,Stefanos Tsitsipas,Zhizhen Zhang,0.873,1,,,16,French Open,Clay,3rd Round,5
+2024-05-31,20,Carlos Alcaraz,Sebastian Korda,0.867,1,,,15,French Open,Clay,3rd Round,5
+2024-05-31,20,Jannik Sinner,Pavel Kotov,0.9293,1,,,13,French Open,Clay,3rd Round,5
+2024-05-31,20,Andrey Rublev,Matteo Arnaldi,0.7839,0,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Casper Ruud,Tomas Martin Etcheverry,0.7721,1,,,15,French Open,Clay,3rd Round,5
+2024-06-01,20,Taylor Fritz,Thanasi Kokkinakis,0.8341,1,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Grigor Dimitrov,Zizou Bergs,0.9031,1,,,3,French Open,Clay,3rd Round,5
+2024-06-01,20,Alexander Zverev,Tallon Griekspoor,0.8615,1,,,15,French Open,Clay,3rd Round,5
+2024-06-01,20,Holger Rune,Jozef Kovalik,0.8513,1,,,14,French Open,Clay,3rd Round,5
+2024-06-01,20,Lorenzo Musetti,Novak Djokovic,0.2035,0,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Francisco Cerundolo,Tommy Paul,0.4333,1,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Denis Shapovalov,Hubert Hurkacz,0.3225,0,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Daniil Medvedev,Tomas Machac,0.7184,1,,,16,French Open,Clay,3rd Round,5
+2024-06-01,20,Ben Shelton,Felix Auger-Aliassime,0.3883,0,,,16,French Open,Clay,3rd Round,5
+2024-06-02,21,Corentin Moutet,Jannik Sinner,0.0864,0,,,15,French Open,Clay,4th Round,5
+2024-06-02,21,Matteo Arnaldi,Stefanos Tsitsipas,0.2016,0,,,16,French Open,Clay,4th Round,5
+2024-06-02,21,Grigor Dimitrov,Hubert Hurkacz,0.5878,1,,,16,French Open,Clay,4th Round,5
+2024-06-02,21,Carlos Alcaraz,Felix Auger-Aliassime,0.8521,1,,,14,French Open,Clay,4th Round,5
+2024-06-03,21,Francisco Cerundolo,Novak Djokovic,0.1532,0,,,16,French Open,Clay,4th Round,5
+2024-06-03,21,Alexander Zverev,Holger Rune,0.7102,1,,,15,French Open,Clay,4th Round,5
+2024-06-03,21,Casper Ruud,Taylor Fritz,0.6924,1,,,16,French Open,Clay,4th Round,5
+2024-06-03,21,Alex de Minaur,Daniil Medvedev,0.388,1,,,16,French Open,Clay,4th Round,5
+2024-06-04,21,Grigor Dimitrov,Jannik Sinner,0.205,0,,,16,French Open,Clay,Quarterfinals,5
+2024-06-04,21,Carlos Alcaraz,Stefanos Tsitsipas,0.7749,1,,,15,French Open,Clay,Quarterfinals,5
+2024-06-05,21,Alex de Minaur,Alexander Zverev,0.3041,0,,,16,French Open,Clay,Quarterfinals,5
+2024-06-07,21,Alexander Zverev,Casper Ruud,0.5327,1,,,16,French Open,Clay,Semifinals,5
+2024-06-07,21,Carlos Alcaraz,Jannik Sinner,0.5774,1,,,15,French Open,Clay,Semifinals,5
+2024-06-09,22,Alexander Zverev,Carlos Alcaraz,0.2989,0,,,15,French Open,Clay,The Final,5
+2024-07-01,25,Dusan Lajovic,Grigor Dimitrov,0.0839,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Lorenzo Sonego,Mariano Navone,0.8858,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Alexander Bublik,Jakub Mensik,0.6608,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Miomir Kecmanovic,Sumit Nagal,0.8689,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Adrian Mannarino,Gael Monfils,0.3883,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Jordan Thompson,Pavel Kotov,0.7666,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Max Purcell,Otto Virtanen,0.5947,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Arthur Fery,Daniel Altmaier,0.5098,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Aleksandar Kovacevic,Daniil Medvedev,0.0682,0,,,11,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Charles Broom,Stan Wawrinka,0.4148,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Fabio Fognini,Luca Van Assche,0.4662,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Botic van de Zandschulp,Liam Broady,0.596,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Denis Shapovalov,Nicolas Jarry,0.6016,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Cristian Garin,Juncheng Shang,0.4851,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Alex Bolt,Casper Ruud,0.3074,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Frances Tiafoe,Matteo Arnaldi,0.5636,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Aleksandar Vukic,Sebastian Ofner,0.5579,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Brandon Nakashima,Sebastian Baez,0.8147,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Maximilian Marterer,Roberto Bautista Agut,0.2537,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Marton Fucsovics,Matteo Berrettini,0.1956,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Alexandre Muller,Hugo Gaston,0.4051,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Arthur Cazaux,Zizou Bergs,0.3238,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Pedro Martinez,Tommy Paul,0.0823,0,,,14,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Maxime Janvier,Zhizhen Zhang,0.2116,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Alex Michelsen,Lloyd Harris,0.4656,0,,,12,Wimbledon,Grass,1st Round,5
+2024-07-01,25,Alexander Shevchenko,Ugo Humbert,0.1582,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Nuno Borges,Yoshihito Nishioka,0.4583,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Flavio Cobolli,Rinky Hijikata,0.4413,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Luca Nardi,Tomas Martin Etcheverry,0.3973,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Jan Choinski,Luciano Darderi,0.3005,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Hubert Hurkacz,Radu Albot,0.9128,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Cameron Norrie,Facundo Diaz Acosta,0.908,1,,,15,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Elias Ymer,Jack Draper,0.0716,0,,,15,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Stefanos Tsitsipas,Taro Daniel,0.9065,1,,,15,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Constant Lestienne,Lorenzo Musetti,0.1329,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Alejandro Moro Canas,Jacob Fearnley,0.3483,0,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Billy Harris,Jaume Munar,0.6202,0,,,14,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Andrey Rublev,Francisco Comesana,0.9334,0,,,10,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Adam Walton,Federico Coria,0.7666,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Novak Djokovic,Vit Kopriva,0.944,1,,,10,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Henry Searle,Marcos Giron,0.1888,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Alex de Minaur,James Duckworth,0.9078,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Alexei Popyrin,Thiago Monteiro,0.7169,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Paul Jubb,Thiago Seyboth Wild,0.5781,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Alexander Zverev,Roberto Carballes Baena,0.9464,1,,,8,Wimbledon,Grass,1st Round,5
+2024-07-02,25,Ben Shelton,Mattia Bellucci,0.7004,1,,,17,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Brandon Nakashima,Jordan Thompson,0.5667,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Christopher Eubanks,Quentin Halys,0.4774,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Laslo Djere,Lucas Pouille,0.3337,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Emil Ruusuvuori,Mackenzie McDonald,0.5799,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Arthur Rinderknech,Kei Nishikori,0.6963,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Alejandro Tabilo,Daniel Evans,0.6807,1,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Borna Coric,Frances Tiafoe,0.3415,0,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Aleksandar Vukic,Carlos Alcaraz,0.0578,0,,,12,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Francisco Cerundolo,Roman Safiullin,0.4594,0,,,16,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Alexander Bublik,Arthur Cazaux,0.7156,1,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Lorenzo Sonego,Roberto Bautista Agut,0.4072,0,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Miomir Kecmanovic,Tallon Griekspoor,0.399,1,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Casper Ruud,Fabio Fognini,0.8002,0,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Alexandre Muller,Daniil Medvedev,0.0622,0,,,10,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Felix Auger-Aliassime,Thanasi Kokkinakis,0.6868,0,,,15,Wimbledon,Grass,1st Round,5
+2024-07-03,25,Otto Virtanen,Tommy Paul,0.1278,0,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Jannik Sinner,Matteo Berrettini,0.812,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-03,25,Botic van de Zandschulp,Ugo Humbert,0.2362,0,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Daniel Altmaier,Denis Shapovalov,0.1578,0,,,14,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Alejandro Tabilo,Flavio Cobolli,0.7054,1,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Grigor Dimitrov,Juncheng Shang,0.8296,1,,,15,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Ben Shelton,Lloyd Harris,0.5496,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Lorenzo Musetti,Luciano Darderi,0.7574,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Jacob Fearnley,Novak Djokovic,0.0581,0,,,12,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Arthur Rinderknech,Taylor Fritz,0.1093,0,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Karen Khachanov,Quentin Halys,0.7382,0,,,9,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Emil Ruusuvuori,Stefanos Tsitsipas,0.2212,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Adam Walton,Francisco Comesana,0.6339,0,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Alexei Popyrin,Tomas Martin Etcheverry,0.5761,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Alexander Zverev,Marcos Giron,0.8493,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Alex de Minaur,Jaume Munar,0.9324,1,,,16,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Roman Safiullin,Tomas Machac,0.5615,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Gael Monfils,Stan Wawrinka,0.7016,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Cameron Norrie,Jack Draper,0.2802,1,,,17,Wimbledon,Grass,2nd Round,5
+2024-07-04,25,Holger Rune,Thiago Seyboth Wild,0.8589,1,,,15,Wimbledon,Grass,2nd Round,5
+2024-07-05,25,Gael Monfils,Grigor Dimitrov,0.2731,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-05,25,Jannik Sinner,Miomir Kecmanovic,0.9336,1,,,13,Wimbledon,Grass,3rd Round,5
+2024-07-05,25,Carlos Alcaraz,Frances Tiafoe,0.9097,1,,,16,Wimbledon,Grass,3rd Round,5
+2024-07-05,25,Alexander Bublik,Tommy Paul,0.3627,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Ben Shelton,Denis Shapovalov,0.5245,1,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Holger Rune,Quentin Halys,0.7396,1,,,16,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Arthur Fils,Roman Safiullin,0.5376,1,,,15,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Fabio Fognini,Roberto Bautista Agut,0.3312,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Francisco Comesana,Lorenzo Musetti,0.1759,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Alexander Zverev,Cameron Norrie,0.8481,1,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Brandon Nakashima,Ugo Humbert,0.4588,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-06,25,Alejandro Tabilo,Taylor Fritz,0.2025,0,,,17,Wimbledon,Grass,3rd Round,3
+2024-07-06,25,Alexei Popyrin,Novak Djokovic,0.1542,0,,,17,Wimbledon,Grass,3rd Round,5
+2024-07-07,26,Roberto Bautista Agut,Tommy Paul,0.1635,0,,,17,Wimbledon,Grass,4th Round,5
+2024-07-07,26,Ben Shelton,Jannik Sinner,0.0859,0,,,17,Wimbledon,Grass,4th Round,5
+2024-07-07,26,Carlos Alcaraz,Ugo Humbert,0.8592,1,,,16,Wimbledon,Grass,4th Round,5
+2024-07-08,26,Alexander Zverev,Taylor Fritz,0.6003,0,,,17,Wimbledon,Grass,4th Round,5
+2024-07-08,26,Holger Rune,Novak Djokovic,0.2788,0,,,16,Wimbledon,Grass,4th Round,5
+2024-07-08,26,Alex de Minaur,Arthur Fils,0.8023,1,,,16,Wimbledon,Grass,4th Round,5
+2024-07-09,26,Carlos Alcaraz,Tommy Paul,0.7567,1,,,15,Wimbledon,Grass,Quarterfinals,5
+2024-07-09,26,Daniil Medvedev,Jannik Sinner,0.2266,1,,,16,Wimbledon,Grass,Quarterfinals,5
+2024-07-10,26,Lorenzo Musetti,Taylor Fritz,0.2135,1,,,17,Wimbledon,Grass,Quarterfinals,5
+2024-07-12,26,Carlos Alcaraz,Daniil Medvedev,0.7361,1,,,15,Wimbledon,Grass,Semifinals,5
+2024-07-12,26,Lorenzo Musetti,Novak Djokovic,0.1425,0,,,17,Wimbledon,Grass,Semifinals,5
+2024-07-14,27,Carlos Alcaraz,Novak Djokovic,0.5462,1,,,16,Wimbledon,Grass,The Final,5
+2024-08-07,30,Alexander Bublik,Ben Shelton,0.3672,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Alejandro Tabilo,Frances Tiafoe,0.4189,1,,,14,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Jack Draper,Jordan Thompson,0.7049,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Arthur Fils,Ugo Humbert,0.4122,0,,,14,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Luciano Darderi,Tommy Paul,0.1609,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Mariano Navone,Taylor Fritz,0.1165,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Alejandro Davidovich Fokina,Roman Safiullin,0.5082,1,,,15,Canadian Open,Hard,1st Round,3
+2024-08-07,30,Alexei Popyrin,Tomas Machac,0.4213,1,,,15,Canadian Open,Hard,1st Round,3
+2024-08-08,30,Kei Nishikori,Stefanos Tsitsipas,0.2046,1,,,15,Canadian Open,Hard,2nd Round,3
+2024-08-08,30,Holger Rune,Pablo Carreno Busta,0.7405,1,,,14,Canadian Open,Hard,2nd Round,3
+2024-08-08,30,Alejandro Tabilo,Lorenzo Sonego,0.5786,1,,,15,Canadian Open,Hard,2nd Round,3
+2024-08-08,30,Felix Auger-Aliassime,Flavio Cobolli,0.7143,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-08,30,Andrey Rublev,Tomas Martin Etcheverry,0.7322,1,,,15,Canadian Open,Hard,2nd Round,3
+2024-08-08,30,Gael Monfils,Thanasi Kokkinakis,0.4555,0,,,15,Canadian Open,Hard,1st Round,3
+2024-08-08,30,Alexander Zverev,Jordan Thompson,0.7351,1,,,15,Canadian Open,Hard,2nd Round,3
+2024-08-08,30,Grigor Dimitrov,Rinky Hijikata,0.7773,1,,,15,Canadian Open,Hard,2nd Round,3
+2024-08-10,30,Kei Nishikori,Nuno Borges,0.4184,1,,,15,Canadian Open,Hard,3rd Round,3
+2024-08-10,30,Alejandro Tabilo,Jannik Sinner,0.1016,0,,,15,Canadian Open,Hard,3rd Round,3
+2024-08-10,30,Sebastian Korda,Taylor Fritz,0.4119,1,,,14,Canadian Open,Hard,2nd Round,3
+2024-08-10,30,Hubert Hurkacz,Thanasi Kokkinakis,0.5546,1,,,13,Canadian Open,Hard,2nd Round,3
+2024-08-10,30,Alexander Zverev,Holger Rune,0.7245,1,,,14,Canadian Open,Hard,3rd Round,3
+2024-08-10,30,Andrey Rublev,Brandon Nakashima,0.6177,1,,,15,Canadian Open,Hard,3rd Round,3
+2024-08-10,30,Alexei Popyrin,Grigor Dimitrov,0.2797,1,,,15,Canadian Open,Hard,3rd Round,3
+2024-08-11,31,Kei Nishikori,Matteo Arnaldi,0.3848,0,,,15,Canadian Open,Hard,Quarterfinals,3
+2024-08-12,31,Alexei Popyrin,Sebastian Korda,0.3192,1,,,14,Canadian Open,Hard,Semifinals,3
+2024-08-13,31,Alejandro Davidovich Fokina,Frances Tiafoe,0.4359,0,,,17,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Francisco Cerundolo,Karen Khachanov,0.389,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Lorenzo Musetti,Nicolas Jarry,0.658,1,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Marcos Giron,Sebastian Baez,0.6004,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Alejandro Tabilo,Luciano Darderi,0.6981,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Ben Shelton,Reilly Opelka,0.6567,1,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Jiri Lehecka,Mariano Navone,0.7109,1,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-13,31,Jordan Thompson,Ugo Humbert,0.3712,1,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Arthur Fils,Brandon Holt,0.794,1,,,15,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Corentin Moutet,Fabian Marozsan,0.508,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Alexei Popyrin,Gael Monfils,0.5427,0,,,15,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Brandon Nakashima,Taylor Fritz,0.2975,1,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Pablo Carreno Busta,Sebastian Korda,0.2015,1,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Jack Draper,Jaume Munar,0.7652,1,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Max Purcell,Tomas Machac,0.3521,1,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Aleksandar Kovacevic,Felix Auger-Aliassime,0.2662,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Holger Rune,Matteo Berrettini,0.431,1,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Adrian Mannarino,Nuno Borges,0.2969,0,,,16,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-14,31,Matteo Arnaldi,Tomas Martin Etcheverry,0.5456,0,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2024-08-15,31,Arthur Fils,Brandon Nakashima,0.46,0,,,15,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-15,31,Andrey Rublev,Zhizhen Zhang,0.7056,1,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-15,31,Alexander Zverev,Karen Khachanov,0.7489,1,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-15,31,Hubert Hurkacz,Yoshihito Nishioka,0.6671,1,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-15,31,Daniil Medvedev,Jiri Lehecka,0.7718,0,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-16,31,Flavio Cobolli,Hubert Hurkacz,0.4201,0,,,16,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2024-08-16,31,Andrey Rublev,Brandon Nakashima,0.6674,1,,,16,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2024-08-16,31,Casper Ruud,Felix Auger-Aliassime,0.4067,0,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2024-08-16,31,Alexander Zverev,Pablo Carreno Busta,0.8707,1,,,16,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2024-08-17,31,Frances Tiafoe,Jiri Lehecka,0.5305,1,,,16,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2024-08-17,31,Alexander Zverev,Ben Shelton,0.7425,1,,,16,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2024-08-18,32,Holger Rune,Jack Draper,0.5192,1,,,15,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2024-08-26,33,Lorenzo Musetti,Reilly Opelka,0.6677,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Hugo Grenier,Mitchell Krueger,0.4486,0,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Alexander Shevchenko,Dominik Koepfer,0.3947,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Camilo Ugo Carabelli,Taylor Fritz,0.0341,0,,,4,US Open,Hard,1st Round,5
+2024-08-26,33,Alexander Zverev,Maximilian Marterer,0.9474,1,,,12,US Open,Hard,1st Round,5
+2024-08-26,33,Luca Nardi,Roberto Bautista Agut,0.226,0,,,14,US Open,Hard,1st Round,5
+2024-08-26,33,Jan Choinski,Roberto Carballes Baena,0.3605,0,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Andrey Rublev,Thiago Seyboth Wild,0.8823,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Alejandro Davidovich Fokina,Rinky Hijikata,0.7153,0,,,16,US Open,Hard,1st Round,5
+2024-08-26,33,Diego Schwartzman,Gael Monfils,0.2093,0,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Adam Walton,Alexandre Muller,0.3433,0,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Francisco Cerundolo,Sebastian Ofner,0.7049,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Brandon Nakashima,Holger Rune,0.3863,1,,,13,US Open,Hard,1st Round,5
+2024-08-26,33,Alexander Bublik,Juncheng Shang,0.4314,0,,,14,US Open,Hard,1st Round,5
+2024-08-26,33,Ben Shelton,Dominic Thiem,0.9003,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Thiago Monteiro,Ugo Humbert,0.1547,0,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Maks Kasnikowski,Pedro Martinez,0.4806,0,,,13,US Open,Hard,1st Round,5
+2024-08-26,33,Arthur Rinderknech,Christopher Eubanks,0.5636,1,,,15,US Open,Hard,1st Round,5
+2024-08-26,33,Luciano Darderi,Sebastian Baez,0.4384,0,,,14,US Open,Hard,1st Round,5
+2024-08-26,33,Grigor Dimitrov,Kyrian Jacquet,0.9096,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Constant Lestienne,Jordan Thompson,0.1551,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Hubert Hurkacz,Timofey Skatov,0.8368,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Alex Michelsen,Eliot Spizzirri,0.7626,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Sumit Nagal,Tallon Griekspoor,0.2141,0,,,14,US Open,Hard,1st Round,5
+2024-08-27,33,Jannik Sinner,Mackenzie McDonald,0.9519,1,,,7,US Open,Hard,1st Round,5
+2024-08-27,33,Botic van de Zandschulp,Denis Shapovalov,0.2618,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Fabian Marozsan,Hamad Medjedovic,0.5546,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Taro Daniel,Tristan Schoolkate,0.6005,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Daniel Evans,Karen Khachanov,0.2131,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Fabio Fognini,Tomas Machac,0.2233,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Gabriel Diallo,Jaume Munar,0.506,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Daniel Altmaier,Mariano Navone,0.5943,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Corentin Moutet,Sebastian Korda,0.2176,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Arthur Fils,Learner Tien,0.7103,1,,,14,US Open,Hard,1st Round,5
+2024-08-27,33,Daniil Medvedev,Dusan Lajovic,0.922,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Aleksandar Kovacevic,Frances Tiafoe,0.1759,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Facundo Diaz Acosta,Hugo Gaston,0.4084,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Aleksandar Vukic,Max Purcell,0.5737,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Otto Virtanen,Quentin Halys,0.4681,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Alex de Minaur,Marcos Giron,0.754,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Alejandro Tabilo,David Goffin,0.5826,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Adrian Mannarino,Borna Coric,0.2712,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Matteo Arnaldi,Zachary Svajda,0.7203,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Matthew Forbes,Roman Safiullin,0.0236,0,,,3,US Open,Hard,1st Round,5
+2024-08-27,33,Stefanos Tsitsipas,Thanasi Kokkinakis,0.6895,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Arthur Cazaux,Pablo Carreno Busta,0.391,1,,,14,US Open,Hard,1st Round,5
+2024-08-27,33,Pavel Kotov,Zizou Bergs,0.459,0,,,14,US Open,Hard,1st Round,5
+2024-08-27,33,Felix Auger-Aliassime,Jakub Mensik,0.7613,0,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Flavio Cobolli,James Duckworth,0.7273,1,,,15,US Open,Hard,1st Round,5
+2024-08-27,33,Federico Coria,Nuno Borges,0.1322,0,,,15,US Open,Hard,1st Round,5
+2024-08-28,33,Alexei Popyrin,Pedro Martinez,0.8176,1,,,13,US Open,Hard,2nd Round,5
+2024-08-28,33,Andrey Rublev,Arthur Rinderknech,0.8493,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Grigor Dimitrov,Rinky Hijikata,0.8802,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Francisco Comesana,Ugo Humbert,0.1247,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Francisco Cerundolo,Tomas Martin Etcheverry,0.4627,0,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Jiri Lehecka,Mitchell Krueger,0.7827,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Arthur Cazaux,Brandon Nakashima,0.2489,0,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Lorenzo Sonego,Tommy Paul,0.2149,0,,,15,US Open,Hard,1st Round,5
+2024-08-28,33,Casper Ruud,Gael Monfils,0.6295,1,,,16,US Open,Hard,2nd Round,5
+2024-08-28,33,Juncheng Shang,Roberto Carballes Baena,0.7135,1,,,14,US Open,Hard,2nd Round,5
+2024-08-28,33,Alexander Zverev,Alexandre Muller,0.9296,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Lorenzo Musetti,Miomir Kecmanovic,0.6736,1,,,15,US Open,Hard,2nd Round,5
+2024-08-28,33,Mattia Bellucci,Stan Wawrinka,0.6846,1,,,15,US Open,Hard,1st Round,5
+2024-08-28,33,Ben Shelton,Roberto Bautista Agut,0.8165,1,,,15,US Open,Hard,2nd Round,5
+2024-08-29,33,Facundo Diaz Acosta,Jack Draper,0.115,0,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Sebastian Korda,Tomas Machac,0.7285,0,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Jakub Mensik,Tristan Schoolkate,0.8123,1,,,12,US Open,Hard,2nd Round,5
+2024-08-29,33,Adrian Mannarino,David Goffin,0.3616,0,,,14,US Open,Hard,2nd Round,5
+2024-08-29,33,Flavio Cobolli,Zizou Bergs,0.6293,1,,,15,US Open,Hard,2nd Round,5
+2024-08-29,33,Matteo Arnaldi,Roman Safiullin,0.5562,1,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Nuno Borges,Thanasi Kokkinakis,0.4524,1,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Matteo Berrettini,Taylor Fritz,0.3823,0,,,16,US Open,Hard,2nd Round,5
+2024-08-29,33,Daniel Evans,Mariano Navone,0.4896,1,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Arthur Fils,Gabriel Diallo,0.714,0,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Alex de Minaur,Otto Virtanen,0.7994,1,,,17,US Open,Hard,2nd Round,5
+2024-08-29,33,Alex Michelsen,Jannik Sinner,0.0754,0,,,16,US Open,Hard,2nd Round,5
+2024-08-29,33,Hubert Hurkacz,Jordan Thompson,0.6567,0,,,13,US Open,Hard,2nd Round,5
+2024-08-30,33,Botic van de Zandschulp,Carlos Alcaraz,0.0384,1,,,6,US Open,Hard,2nd Round,5
+2024-08-30,33,Ben Shelton,Frances Tiafoe,0.5852,0,,,17,US Open,Hard,3rd Round,5
+2024-08-30,33,Francisco Comesana,Taylor Fritz,0.071,0,,,13,US Open,Hard,3rd Round,5
+2024-08-30,33,Grigor Dimitrov,Tallon Griekspoor,0.8096,1,,,15,US Open,Hard,3rd Round,5
+2024-08-30,33,Daniil Medvedev,Fabian Marozsan,0.8671,1,,,17,US Open,Hard,2nd Round,5
+2024-08-30,33,Brandon Nakashima,Lorenzo Musetti,0.5935,1,,,17,US Open,Hard,3rd Round,5
+2024-08-30,33,Andrey Rublev,Jiri Lehecka,0.7247,1,,,17,US Open,Hard,3rd Round,5
+2024-08-30,33,Casper Ruud,Juncheng Shang,0.6867,1,,,16,US Open,Hard,3rd Round,5
+2024-08-31,33,Jakub Mensik,Nuno Borges,0.3956,0,,,17,US Open,Hard,3rd Round,5
+2024-08-31,33,Jordan Thompson,Matteo Arnaldi,0.5193,1,,,17,US Open,Hard,3rd Round,5
+2024-08-31,33,Gabriel Diallo,Tommy Paul,0.138,0,,,14,US Open,Hard,3rd Round,5
+2024-08-31,33,Alexander Zverev,Tomas Martin Etcheverry,0.908,1,,,17,US Open,Hard,3rd Round,5
+2024-08-31,33,David Goffin,Tomas Machac,0.3938,0,,,17,US Open,Hard,3rd Round,5
+2024-08-31,33,Alexei Popyrin,Novak Djokovic,0.1574,1,,,17,US Open,Hard,3rd Round,5
+2024-08-31,33,Botic van de Zandschulp,Jack Draper,0.2405,0,,,17,US Open,Hard,3rd Round,5
+2024-09-01,34,Casper Ruud,Taylor Fritz,0.2934,0,,,17,US Open,Hard,4th Round,5
+2024-09-01,34,Alex de Minaur,Daniel Evans,0.8295,1,,,17,US Open,Hard,3rd Round,5
+2024-09-01,34,Daniil Medvedev,Flavio Cobolli,0.8426,1,,,17,US Open,Hard,3rd Round,5
+2024-09-01,34,Andrey Rublev,Grigor Dimitrov,0.5225,0,,,17,US Open,Hard,4th Round,5
+2024-09-01,34,Alexander Zverev,Brandon Nakashima,0.7725,1,,,17,US Open,Hard,4th Round,5
+2024-09-02,34,Jack Draper,Tomas Machac,0.6794,1,,,16,US Open,Hard,4th Round,5
+2024-09-02,34,Daniil Medvedev,Nuno Borges,0.8707,1,,,17,US Open,Hard,4th Round,5
+2024-09-02,34,Alexei Popyrin,Frances Tiafoe,0.5092,0,,,16,US Open,Hard,4th Round,5
+2024-09-02,34,Alex de Minaur,Jordan Thompson,0.7513,1,,,17,US Open,Hard,4th Round,5
+2024-09-03,34,Jannik Sinner,Tommy Paul,0.8362,1,,,17,US Open,Hard,4th Round,5
+2024-09-03,34,Alexander Zverev,Taylor Fritz,0.6247,0,,,17,US Open,Hard,Quarterfinals,5
+2024-09-04,34,Alex de Minaur,Jack Draper,0.5653,0,,,17,US Open,Hard,Quarterfinals,5
+2024-09-05,34,Daniil Medvedev,Jannik Sinner,0.2843,0,,,15,US Open,Hard,Quarterfinals,5
+2024-09-06,34,Jack Draper,Jannik Sinner,0.1717,0,,,16,US Open,Hard,Semifinals,5
+2024-09-07,34,Frances Tiafoe,Taylor Fritz,0.2915,0,,,16,US Open,Hard,Semifinals,5
+2024-09-08,35,Jannik Sinner,Taylor Fritz,0.7813,1,,,16,US Open,Hard,The Final,5
+2024-09-26,37,Jiri Lehecka,Pedro Martinez,0.728,1,,,14,China Open,Hard,1st Round,3
+2024-09-26,37,Adrian Mannarino,Lorenzo Sonego,0.3843,1,,,13,China Open,Hard,1st Round,3
+2024-09-26,37,Jannik Sinner,Nicolas Jarry,0.9197,1,,,13,China Open,Hard,1st Round,3
+2024-09-26,37,Miomir Kecmanovic,Tallon Griekspoor,0.4717,0,,,16,China Open,Hard,1st Round,3
+2024-09-26,37,Alexander Bublik,Flavio Cobolli,0.4917,0,,,16,China Open,Hard,1st Round,3
+2024-09-26,37,Pavel Kotov,Yi Zhou,0.8199,1,,,13,China Open,Hard,1st Round,3
+2024-09-27,37,Roman Safiullin,Stan Wawrinka,0.6865,1,,,16,China Open,Hard,1st Round,3
+2024-09-27,37,Arthur Rinderknech,Roberto Bautista Agut,0.448,0,,,16,China Open,Hard,1st Round,3
+2024-09-27,37,Karen Khachanov,Roberto Carballes Baena,0.7089,1,,,16,China Open,Hard,1st Round,3
+2024-09-27,37,Andrey Rublev,Pablo Carreno Busta,0.7863,1,,,16,China Open,Hard,1st Round,3
+2024-09-27,37,Daniil Medvedev,Gael Monfils,0.7898,1,,,16,China Open,Hard,1st Round,3
+2024-09-27,37,Alejandro Davidovich Fokina,Zhizhen Zhang,0.4281,1,,,17,China Open,Hard,1st Round,3
+2024-09-27,37,Lorenzo Musetti,Zizou Bergs,0.5894,1,,,15,China Open,Hard,1st Round,3
+2024-09-27,37,Francisco Cerundolo,Jakub Mensik,0.4704,1,,,16,China Open,Hard,1st Round,3
+2024-09-28,37,Jiri Lehecka,Roberto Bautista Agut,0.5918,1,,,16,China Open,Hard,2nd Round,3
+2024-09-28,37,Adrian Mannarino,Daniil Medvedev,0.1301,0,,,16,China Open,Hard,2nd Round,3
+2024-09-28,37,Flavio Cobolli,Pavel Kotov,0.6267,1,,,16,China Open,Hard,2nd Round,3
+2024-09-28,37,Jannik Sinner,Roman Safiullin,0.8962,1,,,16,China Open,Hard,2nd Round,3
+2024-09-29,38,Francisco Cerundolo,Karen Khachanov,0.4371,0,,,16,China Open,Hard,2nd Round,3
+2024-09-29,38,Carlos Alcaraz,Tallon Griekspoor,0.8966,1,,,15,China Open,Hard,2nd Round,3
+2024-09-30,38,Daniil Medvedev,Flavio Cobolli,0.8004,1,,,16,China Open,Hard,Quarterfinals,3
+2024-09-30,38,Alejandro Davidovich Fokina,Andrey Rublev,0.2639,0,,,16,China Open,Hard,2nd Round,3
+2024-09-30,38,Carlos Alcaraz,Karen Khachanov,0.8847,1,,,15,China Open,Hard,Quarterfinals,3
+2024-09-30,38,Jannik Sinner,Jiri Lehecka,0.8455,1,,,16,China Open,Hard,Quarterfinals,3
+2024-10-01,38,Carlos Alcaraz,Daniil Medvedev,0.7525,1,,,15,China Open,Hard,Semifinals,3
+2024-10-02,38,Carlos Alcaraz,Jannik Sinner,0.5477,1,,,15,China Open,Hard,The Final,3
+2024-10-06,39,Daniil Medvedev,Matteo Arnaldi,0.8098,1,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-06,39,Alejandro Tabilo,Tommy Paul,0.2327,0,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-06,39,Jannik Sinner,Tomas Martin Etcheverry,0.9312,1,,,14,Shanghai Masters,Hard,3rd Round,3
+2024-10-07,39,Jordan Thompson,Tallon Griekspoor,0.5509,0,,,14,Shanghai Masters,Hard,2nd Round,3
+2024-10-07,39,Holger Rune,Matteo Berrettini,0.4916,1,,,13,Shanghai Masters,Hard,2nd Round,3
+2024-10-07,39,Karen Khachanov,Marcos Giron,0.6392,0,,,12,Shanghai Masters,Hard,2nd Round,3
+2024-10-07,39,Flavio Cobolli,Stan Wawrinka,0.6875,1,,,14,Shanghai Masters,Hard,2nd Round,3
+2024-10-07,39,Frances Tiafoe,Yi Zhou,0.9068,1,,,14,Shanghai Masters,Hard,2nd Round,3
+2024-10-07,39,David Goffin,Lorenzo Musetti,0.3512,1,,,14,Shanghai Masters,Hard,2nd Round,3
+2024-10-08,39,Frances Tiafoe,Roman Safiullin,0.5674,0,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Ben Shelton,Roberto Carballes Baena,0.8029,1,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Gael Monfils,Ugo Humbert,0.3289,1,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Taylor Fritz,Yosuke Watanuki,0.8039,1,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Flavio Cobolli,Novak Djokovic,0.1415,0,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Alexander Shevchenko,Jakub Mensik,0.3186,0,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Alexandre Muller,Stefanos Tsitsipas,0.2395,0,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Aleksandar Vukic,Tomas Machac,0.3233,0,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Alexander Zverev,Tallon Griekspoor,0.7898,1,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Alexei Popyrin,Grigor Dimitrov,0.4297,0,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,Holger Rune,Jiri Lehecka,0.5995,1,,,15,Shanghai Masters,Hard,3rd Round,3
+2024-10-08,39,David Goffin,Marcos Giron,0.4297,1,,,16,Shanghai Masters,Hard,3rd Round,3
+2024-10-09,39,Novak Djokovic,Roman Safiullin,0.8687,1,,,15,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Alexander Zverev,David Goffin,0.8405,0,,,14,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Daniil Medvedev,Stefanos Tsitsipas,0.6765,1,,,15,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Tomas Machac,Tommy Paul,0.3758,1,,,15,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Carlos Alcaraz,Gael Monfils,0.9096,1,,,14,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Grigor Dimitrov,Jakub Mensik,0.6775,0,,,16,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Holger Rune,Taylor Fritz,0.3887,0,,,14,Shanghai Masters,Hard,4th Round,3
+2024-10-09,39,Ben Shelton,Jannik Sinner,0.1752,0,,,15,Shanghai Masters,Hard,4th Round,3
+2024-10-10,39,Carlos Alcaraz,Tomas Machac,0.8869,0,,,15,Shanghai Masters,Hard,Quarterfinals,3
+2024-10-10,39,Daniil Medvedev,Jannik Sinner,0.2578,0,,,16,Shanghai Masters,Hard,Quarterfinals,3
+2024-10-11,39,David Goffin,Taylor Fritz,0.1744,0,,,16,Shanghai Masters,Hard,Quarterfinals,3
+2024-10-11,39,Jakub Mensik,Novak Djokovic,0.1362,0,,,16,Shanghai Masters,Hard,Quarterfinals,3
+2024-10-12,39,Jannik Sinner,Tomas Machac,0.864,1,,,15,Shanghai Masters,Hard,Semifinals,3
+2024-10-12,39,Novak Djokovic,Taylor Fritz,0.6827,1,,,16,Shanghai Masters,Hard,Semifinals,3
+2024-10-13,40,Jannik Sinner,Novak Djokovic,0.67,1,,,16,Shanghai Masters,Hard,The Final,3
+2024-10-29,42,Ben Shelton,Corentin Moutet,0.7407,1,,,16,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Alexei Popyrin,Matteo Berrettini,0.3862,1,,,16,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Holger Rune,Matteo Arnaldi,0.7487,1,,,15,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Casper Ruud,Jordan Thompson,0.5717,0,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-29,42,Alex de Minaur,Mariano Navone,0.867,1,,,16,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Arthur Fils,Marin Cilic,0.7396,1,,,15,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Andrey Rublev,Francisco Cerundolo,0.719,0,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-29,42,Alex Michelsen,Hubert Hurkacz,0.4438,1,,,16,BNP Paribas Masters,Hard,1st Round,3
+2024-10-29,42,Jack Draper,Jiri Lehecka,0.6349,1,,,16,BNP Paribas Masters,Hard,1st Round,3
+2024-10-30,42,Alexei Popyrin,Daniil Medvedev,0.2708,1,,,15,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Grigor Dimitrov,Tomas Martin Etcheverry,0.758,1,,,15,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Alexander Bublik,Holger Rune,0.2814,0,,,14,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Alexander Zverev,Tallon Griekspoor,0.7378,1,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Alex Michelsen,Arthur Rinderknech,0.6481,0,,,15,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Arthur Cazaux,Ben Shelton,0.2542,1,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Jack Draper,Taylor Fritz,0.5089,1,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Alex de Minaur,Miomir Kecmanovic,0.7463,1,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-30,42,Marcos Giron,Ugo Humbert,0.2924,0,,,16,BNP Paribas Masters,Hard,2nd Round,3
+2024-10-31,42,Alexei Popyrin,Karen Khachanov,0.4221,0,,,16,BNP Paribas Masters,Hard,3rd Round,3
+2024-10-31,42,Adrian Mannarino,Jordan Thompson,0.3988,0,,,16,BNP Paribas Masters,Hard,3rd Round,3
+2024-10-31,42,Francisco Cerundolo,Stefanos Tsitsipas,0.3678,0,,,16,BNP Paribas Masters,Hard,3rd Round,3
+2024-10-31,42,Carlos Alcaraz,Ugo Humbert,0.8096,0,,,15,BNP Paribas Masters,Hard,3rd Round,3
+2024-10-31,42,Arthur Rinderknech,Grigor Dimitrov,0.213,0,,,16,BNP Paribas Masters,Hard,3rd Round,3
+2024-11-01,42,Alexander Zverev,Stefanos Tsitsipas,0.6834,1,,,15,BNP Paribas Masters,Hard,Quarterfinals,3
+2024-11-01,42,Alex de Minaur,Holger Rune,0.5685,0,,,15,BNP Paribas Masters,Hard,Quarterfinals,3
+2024-11-01,42,Jordan Thompson,Ugo Humbert,0.2794,0,,,16,BNP Paribas Masters,Hard,Quarterfinals,3
+2024-11-02,42,Alexander Zverev,Holger Rune,0.676,1,,,15,BNP Paribas Masters,Hard,Semifinals,3
+2024-11-03,43,Alexander Zverev,Ugo Humbert,0.6819,1,,,16,BNP Paribas Masters,Hard,The Final,3
+2025-01-12,53,Matteo Gigante,Ugo Humbert,0.1205,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Gauthier Onclin,Reilly Opelka,0.2621,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Arthur Fils,Otto Virtanen,0.8495,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-12,53,Alexander Zverev,Lucas Pouille,0.9425,1,,,12,Australian Open,Hard,1st Round,5
+2025-01-12,53,Hugo Gaston,Omar Jasika,0.6953,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Casper Ruud,Jaume Munar,0.8191,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Kei Nishikori,Thiago Monteiro,0.7902,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Adam Walton,Quentin Halys,0.5149,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Jiri Lehecka,Li Tu,0.8762,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-12,53,Sumit Nagal,Tomas Machac,0.0914,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Benjamin Bonzi,David Goffin,0.6383,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-13,53,Alex Michelsen,Stefanos Tsitsipas,0.3953,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,James McCabe,Martin Landaluce,0.2625,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Dominik Koepfer,Jordan Thompson,0.3057,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Nishesh Basavareddy,Novak Djokovic,0.0739,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-13,53,Alejandro Tabilo,Roberto Carballes Baena,0.6354,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Jaime Faria,Pavel Kotov,0.4105,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-13,53,Jannik Sinner,Nicolas Jarry,0.9712,1,,,3,Australian Open,Hard,1st Round,5
+2025-01-13,53,Jakub Mensik,Nikoloz Basilashvili,0.8133,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Fabian Marozsan,Thiago Seyboth Wild,0.6704,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Jack Draper,Mariano Navone,0.908,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Jacob Fearnley,Nick Kyrgios,0.4799,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Lukas Klein,Sebastian Korda,0.2849,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Aleksandar Vukic,Damir Dzumhur,0.7385,1,,,13,Australian Open,Hard,1st Round,5
+2025-01-13,53,Alexander Shevchenko,Carlos Alcaraz,0.028,0,,,3,Australian Open,Hard,1st Round,5
+2025-01-13,53,Arthur Rinderknech,Frances Tiafoe,0.2516,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Arthur Cazaux,Sebastian Baez,0.6755,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Taro Daniel,Tristan Schoolkate,0.5162,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Alexandre Muller,Nuno Borges,0.4279,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Aziz Dougaz,Yoshihito Nishioka,0.1791,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-13,53,Roman Safiullin,Thanasi Kokkinakis,0.404,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-14,53,Hubert Hurkacz,Tallon Griekspoor,0.7058,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Jenson Brooksby,Taylor Fritz,0.0657,0,,,12,Australian Open,Hard,1st Round,5
+2025-01-14,53,Adrian Mannarino,Karen Khachanov,0.142,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Cameron Norrie,Matteo Berrettini,0.315,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Lorenzo Musetti,Matteo Arnaldi,0.6006,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Ben Shelton,Brandon Nakashima,0.6446,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Alexei Popyrin,Corentin Moutet,0.7712,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-14,53,Holger Rune,Zhizhen Zhang,0.7344,1,,,13,Australian Open,Hard,1st Round,5
+2025-01-14,53,Gabriel Diallo,Luca Nardi,0.6578,1,,,13,Australian Open,Hard,1st Round,5
+2025-01-14,53,Alexander Bublik,Francisco Cerundolo,0.3992,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Andrey Rublev,Joao Fonseca,0.5862,0,,,15,Australian Open,Hard,1st Round,5
+2025-01-14,53,Alex de Minaur,Botic van de Zandschulp,0.9016,1,,,15,Australian Open,Hard,1st Round,5
+2025-01-14,53,Denis Shapovalov,Roberto Bautista Agut,0.6987,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Mitchell Krueger,Rinky Hijikata,0.3151,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Kamil Majchrzak,Pablo Carreno Busta,0.4113,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Flavio Cobolli,Tomas Martin Etcheverry,0.3834,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Dusan Lajovic,Miomir Kecmanovic,0.2084,0,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Borna Coric,Cristian Garin,0.5179,0,,,13,Australian Open,Hard,1st Round,5
+2025-01-14,53,Camilo Ugo Carabelli,Learner Tien,0.1697,0,,,12,Australian Open,Hard,1st Round,5
+2025-01-14,53,Federico Coria,Tristan Boyer,0.1683,0,,,13,Australian Open,Hard,1st Round,5
+2025-01-14,53,Lorenzo Sonego,Stan Wawrinka,0.676,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Marcos Giron,Yannick Hanfmann,0.7711,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Daniel Altmaier,Francisco Comesana,0.5255,1,,,14,Australian Open,Hard,1st Round,5
+2025-01-14,53,Facundo Diaz Acosta,Zizou Bergs,0.3475,1,,,13,Australian Open,Hard,1st Round,5
+2025-01-15,53,Benjamin Bonzi,Francesco Passaro,0.7432,1,,,14,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Kei Nishikori,Tommy Paul,0.3245,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,James Duckworth,Roberto Carballes Baena,0.4119,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Carlos Alcaraz,Yoshihito Nishioka,0.9492,1,,,11,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Jaime Faria,Novak Djokovic,0.0488,0,,,8,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Arthur Cazaux,Jacob Fearnley,0.4285,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Hady Habib,Ugo Humbert,0.1194,0,,,14,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Reilly Opelka,Tomas Machac,0.2938,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Jordan Thompson,Nuno Borges,0.4911,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Alexander Zverev,Pedro Martinez,0.9534,1,,,7,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Casper Ruud,Jakub Mensik,0.5462,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Arthur Fils,Quentin Halys,0.7777,1,,,14,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Jack Draper,Thanasi Kokkinakis,0.6629,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Alejandro Davidovich Fokina,Felix Auger-Aliassime,0.262,1,,,16,Australian Open,Hard,2nd Round,5
+2025-01-15,53,Aleksandar Vukic,Sebastian Korda,0.2294,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Denis Shapovalov,Lorenzo Musetti,0.525,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Marcos Giron,Tomas Martin Etcheverry,0.496,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Holger Rune,Matteo Berrettini,0.4396,1,,,14,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Ben Shelton,Pablo Carreno Busta,0.7285,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Corentin Moutet,Mitchell Krueger,0.6396,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Alex Michelsen,James McCabe,0.8571,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Gabriel Diallo,Karen Khachanov,0.2792,0,,,14,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Joao Fonseca,Lorenzo Sonego,0.7972,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Hubert Hurkacz,Miomir Kecmanovic,0.7379,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Daniel Altmaier,Gael Monfils,0.2123,0,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Daniil Medvedev,Learner Tien,0.8288,0,,,13,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Cristian Garin,Taylor Fritz,0.07,0,,,12,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Fabian Marozsan,Frances Tiafoe,0.3678,1,,,15,Australian Open,Hard,2nd Round,5
+2025-01-16,53,Alex de Minaur,Tristan Boyer,0.9044,1,,,10,Australian Open,Hard,2nd Round,5
+2025-01-17,53,Alejandro Davidovich Fokina,Jakub Mensik,0.3571,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Carlos Alcaraz,Nuno Borges,0.9389,1,,,12,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Roberto Carballes Baena,Tommy Paul,0.1588,0,,,15,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Alexander Zverev,Jacob Fearnley,0.8968,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Aleksandar Vukic,Jack Draper,0.2097,0,,,15,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Benjamin Bonzi,Jiri Lehecka,0.2564,0,,,15,Australian Open,Hard,3rd Round,5
+2025-01-17,53,Novak Djokovic,Tomas Machac,0.7668,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Corentin Moutet,Learner Tien,0.4925,0,,,13,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Holger Rune,Miomir Kecmanovic,0.656,1,,,14,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Fabian Marozsan,Lorenzo Sonego,0.4698,0,,,15,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Jannik Sinner,Marcos Giron,0.9516,1,,,9,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Alex de Minaur,Francisco Cerundolo,0.8754,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Ben Shelton,Lorenzo Musetti,0.586,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Alex Michelsen,Karen Khachanov,0.4022,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-18,53,Gael Monfils,Taylor Fritz,0.1448,1,,,15,Australian Open,Hard,3rd Round,5
+2025-01-19,54,Alexander Zverev,Ugo Humbert,0.8205,1,,,15,Australian Open,Hard,4th Round,5
+2025-01-19,54,Alejandro Davidovich Fokina,Tommy Paul,0.2249,0,,,15,Australian Open,Hard,4th Round,5
+2025-01-19,54,Jiri Lehecka,Novak Djokovic,0.2272,0,,,15,Australian Open,Hard,4th Round,5
+2025-01-20,54,Holger Rune,Jannik Sinner,0.1058,0,,,14,Australian Open,Hard,4th Round,5
+2025-01-20,54,Alex Michelsen,Alex de Minaur,0.2409,0,,,15,Australian Open,Hard,4th Round,5
+2025-01-20,54,Learner Tien,Lorenzo Sonego,0.4631,0,,,13,Australian Open,Hard,4th Round,5
+2025-01-21,54,Carlos Alcaraz,Novak Djokovic,0.6443,0,,,14,Australian Open,Hard,Quarterfinals,5
+2025-01-21,54,Alexander Zverev,Tommy Paul,0.7118,1,,,15,Australian Open,Hard,Quarterfinals,5
+2025-01-22,54,Alex de Minaur,Jannik Sinner,0.18,0,,,15,Australian Open,Hard,Quarterfinals,5
+2025-01-22,54,Ben Shelton,Lorenzo Sonego,0.7065,1,,,15,Australian Open,Hard,Quarterfinals,5
+2025-01-24,54,Ben Shelton,Jannik Sinner,0.0966,0,,,14,Australian Open,Hard,Semifinals,5
+2025-01-26,55,Alexander Zverev,Jannik Sinner,0.2934,0,,,16,Australian Open,Hard,The Final,5
+2025-02-17,58,Carlos Alcaraz,Marin Cilic,0.9256,1,,,14,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-17,58,Grigor Dimitrov,Jiri Lehecka,0.4603,0,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-17,58,Aziz Dougaz,Fabian Marozsan,0.1734,0,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-17,58,Alexei Popyrin,Jack Draper,0.3244,0,,,12,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Abedallah Shelbayh,Botic van de Zandschulp,0.2021,0,,,14,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Alexander Bublik,Andrey Rublev,0.2425,0,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Alex de Minaur,Roman Safiullin,0.8658,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Daniil Medvedev,Karen Khachanov,0.6079,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Nuno Borges,Otto Virtanen,0.673,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Matteo Berrettini,Novak Djokovic,0.2496,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Hamad Medjedovic,Stefanos Tsitsipas,0.3473,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Roberto Bautista Agut,Zizou Bergs,0.443,0,,,14,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Luca Nardi,Zhizhen Zhang,0.4352,1,,,14,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-18,58,Felix Auger-Aliassime,Quentin Halys,0.7659,1,,,15,Qatar Exxon Mobil Open,Hard,1st Round,3
+2025-02-19,58,Alex de Minaur,Botic van de Zandschulp,0.8308,1,,,15,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-19,58,Carlos Alcaraz,Luca Nardi,0.9358,1,,,5,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-19,58,Matteo Berrettini,Tallon Griekspoor,0.6928,1,,,15,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-19,58,Daniil Medvedev,Zizou Bergs,0.7128,1,,,14,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-19,58,Fabian Marozsan,Jiri Lehecka,0.2709,0,,,15,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-19,58,Andrey Rublev,Nuno Borges,0.7326,1,,,15,Qatar Exxon Mobil Open,Hard,2nd Round,3
+2025-02-20,58,Carlos Alcaraz,Jiri Lehecka,0.7847,0,,,13,Qatar Exxon Mobil Open,Hard,Quarterfinals,3
+2025-02-20,58,Jack Draper,Matteo Berrettini,0.5764,1,,,14,Qatar Exxon Mobil Open,Hard,Quarterfinals,3
+2025-02-20,58,Alex de Minaur,Andrey Rublev,0.5706,0,,,14,Qatar Exxon Mobil Open,Hard,Quarterfinals,3
+2025-02-21,58,Andrey Rublev,Felix Auger-Aliassime,0.5691,1,,,15,Qatar Exxon Mobil Open,Hard,Semifinals,3
+2025-02-21,58,Jack Draper,Jiri Lehecka,0.5732,1,,,15,Qatar Exxon Mobil Open,Hard,Semifinals,3
+2025-02-22,58,Andrey Rublev,Jack Draper,0.4588,1,,,15,Qatar Exxon Mobil Open,Hard,The Final,3
+2025-02-25,59,Alex de Minaur,Marin Cilic,0.8668,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Luca Nardi,Marton Fucsovics,0.3762,1,,,14,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Gael Monfils,Matteo Berrettini,0.3746,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Andrey Rublev,Quentin Halys,0.7427,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Arthur Fils,Nuno Borges,0.5975,0,,,14,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Alexander Bublik,Felix Auger-Aliassime,0.2604,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Jiri Lehecka,Ugo Humbert,0.4955,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-25,59,Roman Safiullin,Tallon Griekspoor,0.4173,0,,,15,Dubai Tennis Championships,Hard,1st Round,3
+2025-02-26,59,Felix Auger-Aliassime,Nuno Borges,0.6313,1,,,15,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-26,59,Karen Khachanov,Stefanos Tsitsipas,0.4686,0,,,15,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-26,59,Tallon Griekspoor,Ugo Humbert,0.2642,1,,,15,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-26,59,Luca Nardi,Zizou Bergs,0.3643,1,,,14,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-26,59,Quentin Halys,Roberto Bautista Agut,0.5235,1,,,15,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-26,59,Alexei Popyrin,Marin Cilic,0.5645,0,,,15,Dubai Tennis Championships,Hard,2nd Round,3
+2025-02-27,59,Luca Nardi,Quentin Halys,0.4807,0,,,15,Dubai Tennis Championships,Hard,Quarterfinals,3
+2025-02-27,59,Daniil Medvedev,Tallon Griekspoor,0.7497,0,,,16,Dubai Tennis Championships,Hard,Quarterfinals,3
+2025-02-27,59,Matteo Berrettini,Stefanos Tsitsipas,0.5992,0,,,16,Dubai Tennis Championships,Hard,Quarterfinals,3
+2025-02-27,59,Felix Auger-Aliassime,Marin Cilic,0.6759,1,,,16,Dubai Tennis Championships,Hard,Quarterfinals,3
+2025-02-28,59,Stefanos Tsitsipas,Tallon Griekspoor,0.5957,1,,,16,Dubai Tennis Championships,Hard,Semifinals,3
+2025-02-28,59,Felix Auger-Aliassime,Quentin Halys,0.7453,1,,,16,Dubai Tennis Championships,Hard,Semifinals,3
+2025-03-01,59,Felix Auger-Aliassime,Stefanos Tsitsipas,0.4311,0,,,16,Dubai Tennis Championships,Hard,The Final,3
+2025-03-06,60,Benjamin Bonzi,Jenson Brooksby,0.499,0,,,16,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Aleksandar Kovacevic,Matteo Arnaldi,0.3239,0,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Corentin Moutet,Jordan Thompson,0.5058,1,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Cameron Norrie,Luca Nardi,0.6179,1,,,15,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Alexander Shevchenko,Rinky Hijikata,0.5676,0,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Alexander Bublik,Yosuke Watanuki,0.5412,0,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Jakub Mensik,Tomas Martin Etcheverry,0.626,1,,,16,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Alejandro Davidovich Fokina,Mackenzie McDonald,0.6521,0,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Matteo Gigante,Sebastian Baez,0.4539,1,,,16,BNP Paribas Open,Hard,1st Round,3
+2025-03-06,60,Jacob Fearnley,Joao Fonseca,0.2706,0,,,16,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Adam Walton,Giulio Zeppieri,0.5928,1,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Arthur Rinderknech,Nuno Borges,0.3029,0,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Learner Tien,Mariano Navone,0.7092,0,,,14,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Alexei Popyrin,Zizou Bergs,0.5158,1,,,15,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Alex Michelsen,Colton Smith,0.6728,1,,,15,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Casper Ruud,Marcos Giron,0.6112,0,,,16,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Alexander Zverev,Tallon Griekspoor,0.7574,0,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Hugo Gaston,Luciano Darderi,0.6232,1,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Kei Nishikori,Ugo Humbert,0.2922,0,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Cameron Norrie,Jiri Lehecka,0.3961,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,Pablo Carreno Busta,Quentin Halys,0.6028,0,,,16,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Lorenzo Musetti,Roman Safiullin,0.4757,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-07,60,David Goffin,Lorenzo Sonego,0.4544,1,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Dusan Lajovic,Li Tu,0.5177,1,,,17,BNP Paribas Open,Hard,1st Round,3
+2025-03-07,60,Tommy Paul,Tristan Boyer,0.864,1,,,15,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Botic van de Zandschulp,Novak Djokovic,0.1315,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Corentin Moutet,Holger Rune,0.3103,0,,,15,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Felix Auger-Aliassime,Jenson Brooksby,0.7351,0,,,16,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Arthur Fils,Gabriel Diallo,0.5668,1,,,13,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Alejandro Tabilo,Dusan Lajovic,0.4743,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Brandon Nakashima,Rinky Hijikata,0.7613,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Hubert Hurkacz,Hugo Gaston,0.779,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Jack Draper,Joao Fonseca,0.6201,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Andrey Rublev,Matteo Arnaldi,0.6854,0,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Damir Dzumhur,Frances Tiafoe,0.2596,0,,,16,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Adam Walton,Denis Shapovalov,0.258,0,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Stefanos Tsitsipas,Thiago Seyboth Wild,0.7644,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Matteo Gigante,Taylor Fritz,0.1118,0,,,16,BNP Paribas Open,Hard,2nd Round,3
+2025-03-08,60,Francisco Cerundolo,Mackenzie McDonald,0.541,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-09,61,Holger Rune,Ugo Humbert,0.4461,1,,,15,BNP Paribas Open,Hard,3rd Round,3
+2025-03-09,61,Gael Monfils,Sebastian Korda,0.5607,1,,,16,BNP Paribas Open,Hard,2nd Round,3
+2025-03-09,61,Grigor Dimitrov,Nuno Borges,0.4407,1,,,13,BNP Paribas Open,Hard,2nd Round,3
+2025-03-09,61,Jakub Mensik,Karen Khachanov,0.4511,0,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-09,61,Cameron Norrie,Tommy Paul,0.1983,0,,,10,BNP Paribas Open,Hard,3rd Round,3
+2025-03-09,61,Matteo Berrettini,Stefanos Tsitsipas,0.5119,0,,,17,BNP Paribas Open,Hard,3rd Round,3
+2025-03-09,61,Ben Shelton,Mariano Navone,0.7353,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-09,61,Alexei Popyrin,Marcos Giron,0.4518,0,,,16,BNP Paribas Open,Hard,3rd Round,3
+2025-03-09,61,Alex de Minaur,David Goffin,0.814,1,,,17,BNP Paribas Open,Hard,2nd Round,3
+2025-03-10,61,Jack Draper,Jenson Brooksby,0.6937,1,,,13,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Ben Shelton,Karen Khachanov,0.5394,1,,,17,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Botic van de Zandschulp,Francisco Cerundolo,0.5286,0,,,12,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Arthur Fils,Lorenzo Musetti,0.5356,1,,,15,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Alex de Minaur,Hubert Hurkacz,0.6505,1,,,17,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Frances Tiafoe,Yosuke Watanuki,0.6704,0,,,17,BNP Paribas Open,Hard,3rd Round,3
+2025-03-10,61,Alejandro Tabilo,Taylor Fritz,0.1752,0,,,16,BNP Paribas Open,Hard,3rd Round,3
+2025-03-11,61,Holger Rune,Stefanos Tsitsipas,0.4162,1,,,15,BNP Paribas Open,Hard,4th Round,3
+2025-03-11,61,Arthur Fils,Marcos Giron,0.5843,1,,,15,BNP Paribas Open,Hard,4th Round,3
+2025-03-11,61,Carlos Alcaraz,Denis Shapovalov,0.8112,1,,,16,BNP Paribas Open,Hard,3rd Round,3
+2025-03-11,61,Tallon Griekspoor,Yosuke Watanuki,0.6674,1,,,12,BNP Paribas Open,Hard,4th Round,3
+2025-03-11,61,Gael Monfils,Grigor Dimitrov,0.4725,0,,,16,BNP Paribas Open,Hard,3rd Round,3
+2025-03-12,61,Jack Draper,Taylor Fritz,0.5226,1,,,15,BNP Paribas Open,Hard,4th Round,3
+2025-03-12,61,Daniil Medvedev,Tommy Paul,0.5208,1,,,16,BNP Paribas Open,Hard,4th Round,3
+2025-03-12,61,Alex de Minaur,Francisco Cerundolo,0.7428,0,,,16,BNP Paribas Open,Hard,4th Round,3
+2025-03-12,61,Ben Shelton,Brandon Nakashima,0.6191,1,,,16,BNP Paribas Open,Hard,4th Round,3
+2025-03-13,61,Holger Rune,Tallon Griekspoor,0.5974,1,,,15,BNP Paribas Open,Hard,Quarterfinals,3
+2025-03-13,61,Arthur Fils,Daniil Medvedev,0.2928,0,,,15,BNP Paribas Open,Hard,Quarterfinals,3
+2025-03-13,61,Carlos Alcaraz,Grigor Dimitrov,0.8567,1,,,15,BNP Paribas Open,Hard,4th Round,3
+2025-03-14,61,Carlos Alcaraz,Francisco Cerundolo,0.8961,1,,,16,BNP Paribas Open,Hard,Quarterfinals,3
+2025-03-14,61,Ben Shelton,Jack Draper,0.3477,0,,,17,BNP Paribas Open,Hard,Quarterfinals,3
+2025-03-15,61,Carlos Alcaraz,Jack Draper,0.7201,0,,,16,BNP Paribas Open,Hard,Semifinals,3
+2025-03-15,61,Daniil Medvedev,Holger Rune,0.6203,0,,,14,BNP Paribas Open,Hard,Semifinals,3
+2025-03-19,62,Alexander Bublik,Sebastian Baez,0.6381,1,,,14,Miami Open,Hard,1st Round,3
+2025-03-19,62,Arthur Rinderknech,Jaume Munar,0.4109,0,,,14,Miami Open,Hard,1st Round,3
+2025-03-19,62,Hamad Medjedovic,Rinky Hijikata,0.6722,0,,,14,Miami Open,Hard,1st Round,3
+2025-03-19,62,Fabian Marozsan,Gael Monfils,0.3364,0,,,14,Miami Open,Hard,1st Round,3
+2025-03-19,62,Aleksandar Vukic,David Goffin,0.4028,0,,,14,Miami Open,Hard,1st Round,3
+2025-03-19,62,Aleksandar Kovacevic,Miomir Kecmanovic,0.3924,0,,,14,Miami Open,Hard,1st Round,3
+2025-03-20,62,Quentin Halys,Thiago Seyboth Wild,0.5906,1,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Jenson Brooksby,Roman Safiullin,0.4817,0,,,16,Miami Open,Hard,1st Round,3
+2025-03-20,62,Luciano Darderi,Pedro Martinez,0.4034,1,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Jakub Mensik,Roberto Bautista Agut,0.685,1,,,16,Miami Open,Hard,1st Round,3
+2025-03-20,62,Nuno Borges,Zizou Bergs,0.5346,0,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Gabriel Diallo,Tomas Martin Etcheverry,0.4925,1,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Joao Fonseca,Learner Tien,0.7151,1,,,16,Miami Open,Hard,1st Round,3
+2025-03-20,62,Jordan Thompson,Marcos Giron,0.3867,1,,,16,Miami Open,Hard,1st Round,3
+2025-03-20,62,Benjamin Bonzi,Jacob Fearnley,0.3524,0,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Christopher Eubanks,Reilly Opelka,0.3857,0,,,15,Miami Open,Hard,1st Round,3
+2025-03-20,62,Lorenzo Sonego,Mariano Navone,0.6388,1,,,16,Miami Open,Hard,1st Round,3
+2025-03-21,62,Casper Ruud,Miomir Kecmanovic,0.569,1,,,14,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Brandon Nakashima,Roberto Carballes Baena,0.7092,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Alex Michelsen,Camilo Ugo Carabelli,0.7765,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Alexander Bublik,Tommy Paul,0.2349,0,,,14,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Lorenzo Musetti,Quentin Halys,0.6128,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Alejandro Tabilo,Corentin Moutet,0.4132,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Eliot Spizzirri,Sebastian Korda,0.2958,0,,,14,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Gael Monfils,Jiri Lehecka,0.4387,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Karen Khachanov,Nick Kyrgios,0.703,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Felix Auger-Aliassime,Tristan Schoolkate,0.7614,1,,,14,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Daniil Medvedev,Jaume Munar,0.8119,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-21,62,Novak Djokovic,Rinky Hijikata,0.8718,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Holger Rune,Reilly Opelka,0.6695,0,,,14,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Alexandre Muller,Francisco Cerundolo,0.3825,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Andrey Rublev,Zizou Bergs,0.726,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Alexei Popyrin,Roman Safiullin,0.5334,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Alexander Zverev,Jacob Fearnley,0.821,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Matteo Arnaldi,Tomas Machac,0.352,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Joao Fonseca,Ugo Humbert,0.4197,1,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Lorenzo Sonego,Taylor Fritz,0.1767,0,,,14,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Hugo Gaston,Matteo Berrettini,0.1646,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Carlos Alcaraz,David Goffin,0.93,0,,,13,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Alejandro Davidovich Fokina,Frances Tiafoe,0.5478,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-22,62,Jack Draper,Jakub Mensik,0.7457,0,,,15,Miami Open,Hard,2nd Round,3
+2025-03-23,63,Grigor Dimitrov,Karen Khachanov,0.5479,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-23,63,Gael Monfils,Jaume Munar,0.6029,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-23,63,Camilo Ugo Carabelli,Novak Djokovic,0.0986,0,,,15,Miami Open,Hard,3rd Round,3
+2025-03-23,63,Felix Auger-Aliassime,Lorenzo Musetti,0.6248,0,,,14,Miami Open,Hard,3rd Round,3
+2025-03-23,63,Brandon Nakashima,David Goffin,0.6559,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-23,63,Sebastian Korda,Stefanos Tsitsipas,0.4086,1,,,14,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Denis Shapovalov,Taylor Fritz,0.3394,0,,,14,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Reilly Opelka,Tomas Machac,0.3715,0,,,15,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Alex de Minaur,Joao Fonseca,0.5152,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Francisco Cerundolo,Tommy Paul,0.3598,1,,,14,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Alejandro Tabilo,Casper Ruud,0.2948,0,,,14,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Alexander Zverev,Jordan Thompson,0.8159,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Matteo Berrettini,Zizou Bergs,0.6758,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Arthur Fils,Frances Tiafoe,0.5244,1,,,13,Miami Open,Hard,3rd Round,3
+2025-03-24,63,Jakub Mensik,Roman Safiullin,0.6312,1,,,15,Miami Open,Hard,3rd Round,3
+2025-03-25,63,Gael Monfils,Sebastian Korda,0.4349,0,,,14,Miami Open,Hard,4th Round,3
+2025-03-25,63,Brandon Nakashima,Grigor Dimitrov,0.3858,0,,,15,Miami Open,Hard,4th Round,3
+2025-03-25,63,Lorenzo Musetti,Novak Djokovic,0.2758,0,,,15,Miami Open,Hard,4th Round,3
+2025-03-25,63,Casper Ruud,Francisco Cerundolo,0.4561,0,,,14,Miami Open,Hard,4th Round,3
+2025-03-26,63,Alexander Zverev,Arthur Fils,0.7193,0,,,13,Miami Open,Hard,4th Round,3
+2025-03-27,63,Matteo Berrettini,Taylor Fritz,0.3436,0,,,14,Miami Open,Hard,Quarterfinals,3
+2025-03-31,64,Jakub Mensik,Novak Djokovic,0.2346,1,,,15,Miami Open,Hard,The Final,3
+2025-04-07,65,Alexandre Muller,Camilo Ugo Carabelli,0.4984,1,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Jiri Lehecka,Sebastian Korda,0.5529,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Alejandro Davidovich Fokina,Ben Shelton,0.594,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Fabian Marozsan,Gael Monfils,0.543,0,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Denis Shapovalov,Marcos Giron,0.6594,0,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Alejandro Tabilo,Stan Wawrinka,0.558,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Fabio Fognini,Francisco Cerundolo,0.1296,0,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Daniel Altmaier,Felix Auger-Aliassime,0.3243,1,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Mariano Navone,Matteo Berrettini,0.3744,0,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-07,65,Daniil Medvedev,Karen Khachanov,0.5375,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Frances Tiafoe,Miomir Kecmanovic,0.3515,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Jack Draper,Marcos Giron,0.7364,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-08,65,Dusan Lajovic,Flavio Cobolli,0.4878,0,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Alexei Popyrin,Ugo Humbert,0.4154,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Arthur Fils,Tallon Griekspoor,0.639,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Corentin Moutet,Tomas Martin Etcheverry,0.4201,0,,,17,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Sebastian Baez,Tomas Machac,0.4411,0,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Alexander Zverev,Matteo Berrettini,0.6159,0,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-08,65,Jordan Thompson,Stefanos Tsitsipas,0.1531,0,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-08,65,Grigor Dimitrov,Nicolas Jarry,0.73,1,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Lorenzo Sonego,Pedro Martinez,0.6369,0,,,14,Monte Carlo Masters,Clay,1st Round,3
+2025-04-08,65,Brandon Nakashima,Roberto Bautista Agut,0.5701,0,,,16,Monte Carlo Masters,Clay,1st Round,3
+2025-04-09,65,Arthur Fils,Flavio Cobolli,0.6567,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Alejandro Davidovich Fokina,Tomas Martin Etcheverry,0.604,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Andrey Rublev,Gael Monfils,0.6322,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Casper Ruud,Roberto Bautista Agut,0.7888,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Grigor Dimitrov,Valentin Vacherot,0.8039,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Daniel Altmaier,Richard Gasquet,0.6605,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Jiri Lehecka,Lorenzo Musetti,0.438,0,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Alexei Popyrin,Frances Tiafoe,0.5754,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Alex de Minaur,Tomas Machac,0.5567,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Carlos Alcaraz,Francisco Cerundolo,0.7371,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Alejandro Tabilo,Novak Djokovic,0.1729,1,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Alexandre Muller,Daniil Medvedev,0.3389,0,,,17,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-09,65,Nuno Borges,Pedro Martinez,0.6405,1,,,15,Monte Carlo Masters,Clay,2nd Round,3
+2025-04-10,65,Alex de Minaur,Daniil Medvedev,0.5713,1,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Alexei Popyrin,Casper Ruud,0.2165,1,,,16,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Carlos Alcaraz,Daniel Altmaier,0.9211,1,,,16,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Nuno Borges,Stefanos Tsitsipas,0.2219,0,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Lorenzo Musetti,Matteo Berrettini,0.4576,1,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Alejandro Tabilo,Grigor Dimitrov,0.3978,0,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Andrey Rublev,Arthur Fils,0.449,0,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-10,65,Alejandro Davidovich Fokina,Jack Draper,0.3509,1,,,17,Monte Carlo Masters,Clay,3rd Round,3
+2025-04-11,65,Alex de Minaur,Grigor Dimitrov,0.6144,1,,,17,Monte Carlo Masters,Clay,Quarterfinals,3
+2025-04-11,65,Arthur Fils,Carlos Alcaraz,0.3025,0,,,17,Monte Carlo Masters,Clay,Quarterfinals,3
+2025-04-11,65,Lorenzo Musetti,Stefanos Tsitsipas,0.4329,1,,,17,Monte Carlo Masters,Clay,Quarterfinals,3
+2025-04-11,65,Alejandro Davidovich Fokina,Alexei Popyrin,0.628,1,,,17,Monte Carlo Masters,Clay,Quarterfinals,3
+2025-04-12,65,Alex de Minaur,Lorenzo Musetti,0.5501,0,,,17,Monte Carlo Masters,Clay,Semifinals,3
+2025-04-12,65,Alejandro Davidovich Fokina,Carlos Alcaraz,0.2188,0,,,17,Monte Carlo Masters,Clay,Semifinals,3
+2025-04-13,66,Carlos Alcaraz,Lorenzo Musetti,0.7876,1,,,17,Monte Carlo Masters,Clay,The Final,3
+2025-04-23,67,Arthur Rinderknech,Roman Safiullin,0.3716,1,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Francisco Comesana,Pedro Martinez,0.5336,1,,,14,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Nuno Borges,Pablo Carreno Busta,0.5772,1,,,18,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Benjamin Bonzi,Marin Cilic,0.2779,1,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Fabian Marozsan,Flavio Cobolli,0.5542,0,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Alex Michelsen,Alexander Bublik,0.4662,0,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-23,67,Jaume Munar,Roberto Bautista Agut,0.6277,0,,,18,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Learner Tien,Marcos Giron,0.4545,0,,,15,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Tallon Griekspoor,Vit Kopriva,0.7322,1,,,16,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Cameron Norrie,Martin Landaluce,0.7381,1,,,16,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Elmer Moller,Joao Fonseca,0.2919,0,,,15,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Damir Dzumhur,Mattia Bellucci,0.5046,1,,,16,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Lorenzo Sonego,Miomir Kecmanovic,0.405,1,,,16,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Aleksandar Vukic,Kei Nishikori,0.3153,0,,,18,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Borna Coric,Matteo Arnaldi,0.4467,0,,,16,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Luciano Darderi,Quentin Halys,0.6861,1,,,18,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Daniel Altmaier,Nicolas Jarry,0.5716,0,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Hamad Medjedovic,Tomas Martin Etcheverry,0.5782,0,,,18,Mutua Madrid Open,Clay,1st Round,3
+2025-04-24,67,Reilly Opelka,Rinky Hijikata,0.6614,1,,,17,Mutua Madrid Open,Clay,1st Round,3
+2025-04-25,67,Benjamin Bonzi,Hubert Hurkacz,0.3465,1,,,18,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Francisco Cerundolo,Harold Mayot,0.8581,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Brandon Nakashima,Sebastian Ofner,0.5931,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Arthur Rinderknech,Casper Ruud,0.1436,0,,,18,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Arthur Fils,Francisco Comesana,0.7901,0,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Ben Shelton,Mariano Navone,0.5286,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Ethan Quinn,Jakub Mensik,0.2998,0,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Alexander Bublik,Alexei Popyrin,0.4014,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Alejandro Davidovich Fokina,Nuno Borges,0.6698,1,,,18,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-25,67,Alexander Zverev,Roberto Bautista Agut,0.8804,1,,,18,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Marcos Giron,Matteo Berrettini,0.2044,0,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Damir Dzumhur,Sebastian Baez,0.252,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Alexandre Muller,Ugo Humbert,0.4808,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Matteo Arnaldi,Novak Djokovic,0.2716,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Gabriel Diallo,Kamil Majchrzak,0.4828,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Lorenzo Musetti,Tomas Martin Etcheverry,0.6592,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Grigor Dimitrov,Nicolas Jarry,0.5973,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Cameron Norrie,Jiri Lehecka,0.3112,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Jacob Fearnley,Tomas Machac,0.3468,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Denis Shapovalov,Kei Nishikori,0.5475,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Alex de Minaur,Lorenzo Sonego,0.7964,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Karen Khachanov,Reilly Opelka,0.7218,1,,,16,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Joao Fonseca,Tommy Paul,0.609,0,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-26,67,Jack Draper,Tallon Griekspoor,0.5946,1,,,17,Mutua Madrid Open,Clay,2nd Round,3
+2025-04-27,68,Francisco Cerundolo,Francisco Comesana,0.7641,1,,,16,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-27,68,Alexander Bublik,Andrey Rublev,0.2524,1,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-27,68,Alejandro Davidovich Fokina,Alexander Zverev,0.292,0,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-27,68,Ben Shelton,Jakub Mensik,0.4228,0,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-27,68,Casper Ruud,Sebastian Korda,0.6799,1,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-27,68,Brandon Nakashima,Flavio Cobolli,0.3927,1,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-28,68,Damir Dzumhur,Matteo Arnaldi,0.3021,0,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Alex de Minaur,Denis Shapovalov,0.7528,1,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Casper Ruud,Taylor Fritz,0.5623,1,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-04-29,68,Alexander Bublik,Jakub Mensik,0.2853,0,,,17,Mutua Madrid Open,Clay,4th Round,3
+2025-04-29,68,Cameron Norrie,Gabriel Diallo,0.5224,0,,,18,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Alexandre Muller,Frances Tiafoe,0.4224,0,,,18,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Brandon Nakashima,Daniil Medvedev,0.298,0,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-04-29,68,Lorenzo Musetti,Stefanos Tsitsipas,0.4793,1,,,17,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Alexander Zverev,Francisco Cerundolo,0.6341,0,,,17,Mutua Madrid Open,Clay,4th Round,3
+2025-04-29,68,Grigor Dimitrov,Jacob Fearnley,0.7132,1,,,18,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-29,68,Karen Khachanov,Tommy Paul,0.4397,0,,,18,Mutua Madrid Open,Clay,3rd Round,3
+2025-04-30,68,Frances Tiafoe,Matteo Arnaldi,0.4456,0,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-04-30,68,Alex de Minaur,Lorenzo Musetti,0.5703,0,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-04-30,68,Jack Draper,Tommy Paul,0.6185,1,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-04-30,68,Gabriel Diallo,Grigor Dimitrov,0.299,1,,,18,Mutua Madrid Open,Clay,4th Round,3
+2025-05-01,68,Jack Draper,Matteo Arnaldi,0.7353,1,,,18,Mutua Madrid Open,Clay,Quarterfinals,3
+2025-05-01,68,Casper Ruud,Daniil Medvedev,0.6349,1,,,18,Mutua Madrid Open,Clay,Quarterfinals,3
+2025-05-01,68,Francisco Cerundolo,Jakub Mensik,0.5598,1,,,18,Mutua Madrid Open,Clay,Quarterfinals,3
+2025-05-02,68,Casper Ruud,Francisco Cerundolo,0.5145,1,,,18,Mutua Madrid Open,Clay,Semifinals,3
+2025-05-02,68,Jack Draper,Lorenzo Musetti,0.6211,1,,,18,Mutua Madrid Open,Clay,Semifinals,3
+2025-05-03,68,Casper Ruud,Jack Draper,0.3237,1,,,17,Mutua Madrid Open,Clay,The Final,3
+2025-05-07,69,Corentin Moutet,Rinky Hijikata,0.7452,1,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Aleksandar Kovacevic,Carlos Taberner,0.3993,0,,,17,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Camilo Ugo Carabelli,Pablo Carreno Busta,0.485,1,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Alexandre Muller,Jiri Lehecka,0.3696,1,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Dusan Lajovic,Yoshihito Nishioka,0.7637,1,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Damir Dzumhur,Vilius Gaubas,0.4863,0,,,15,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Hamad Medjedovic,Otto Virtanen,0.7695,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Miomir Kecmanovic,Tallon Griekspoor,0.4058,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Lorenzo Sonego,Roman Andres Burruchaga,0.6029,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Laslo Djere,Tomas Martin Etcheverry,0.5102,1,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Quentin Halys,Vit Kopriva,0.3571,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-07,69,Daniel Altmaier,Francisco Comesana,0.4515,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Gabriel Diallo,Marcos Giron,0.56,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Alexander Bublik,Roman Safiullin,0.5281,1,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Fabian Marozsan,Joao Fonseca,0.3257,1,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Matteo Arnaldi,Roberto Bautista Agut,0.7542,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Arthur Rinderknech,Matteo Gigante,0.4413,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Hugo Gaston,Nicolas Jarry,0.3909,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Aleksandar Vukic,Nicolas Moreno De Alboran,0.4344,1,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Flavio Cobolli,Luca Nardi,0.6952,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Fabio Fognini,Jacob Fearnley,0.3374,0,,,18,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Mattia Bellucci,Pedro Martinez,0.4288,0,,,14,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Learner Tien,Reilly Opelka,0.4785,1,,,17,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Nuno Borges,Thiago Seyboth Wild,0.5435,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-08,69,Alexander Shevchenko,Jesper De Jong,0.4145,0,,,19,Internazionali BNL d'Italia,Clay,1st Round,3
+2025-05-09,69,Francesco Passaro,Grigor Dimitrov,0.2427,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Jack Draper,Luciano Darderi,0.7526,1,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Arthur Fils,Tallon Griekspoor,0.6365,1,,,17,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Cameron Norrie,Daniil Medvedev,0.273,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Lorenzo Musetti,Otto Virtanen,0.8879,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Denis Shapovalov,Vilius Gaubas,0.6442,0,,,17,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Alex Michelsen,Laslo Djere,0.3337,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Carlos Alcaraz,Dusan Lajovic,0.9136,1,,,16,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Sebastian Baez,Vit Kopriva,0.6628,0,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Alexandre Muller,Stefanos Tsitsipas,0.2326,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Alexander Zverev,Camilo Ugo Carabelli,0.8778,1,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Francisco Comesana,Holger Rune,0.2734,0,,,16,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Karen Khachanov,Roman Andres Burruchaga,0.7389,1,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-09,69,Alexei Popyrin,Carlos Taberner,0.6529,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Ben Shelton,Jaume Munar,0.5419,0,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Jakub Mensik,Matteo Gigante,0.7804,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Alejandro Davidovich Fokina,Jesper De Jong,0.7364,0,,,17,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Aleksandar Vukic,Sebastian Korda,0.2746,0,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Learner Tien,Tomas Machac,0.2821,0,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Marcos Giron,Taylor Fritz,0.1677,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Alexander Bublik,Casper Ruud,0.1932,0,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Roberto Bautista Agut,Tommy Paul,0.2323,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Jannik Sinner,Mariano Navone,0.8902,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Jacob Fearnley,Matteo Berrettini,0.2803,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Alex de Minaur,Luca Nardi,0.8724,1,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Hubert Hurkacz,Pedro Martinez,0.5887,1,,,14,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Francisco Cerundolo,Nicolas Jarry,0.7869,1,,,18,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Andrey Rublev,Fabian Marozsan,0.5608,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-10,69,Frances Tiafoe,Sebastian Ofner,0.5833,0,,,19,Internazionali BNL d'Italia,Clay,2nd Round,3
+2025-05-11,70,Carlos Alcaraz,Laslo Djere,0.8734,1,,,17,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Alexander Zverev,Vilius Gaubas,0.9083,1,,,17,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Jack Draper,Vit Kopriva,0.8556,1,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Arthur Fils,Stefanos Tsitsipas,0.5688,1,,,17,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Brandon Nakashima,Lorenzo Musetti,0.1891,0,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Alexei Popyrin,Daniil Medvedev,0.3067,0,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Francesco Passaro,Karen Khachanov,0.326,0,,,18,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-11,70,Corentin Moutet,Holger Rune,0.1964,1,,,17,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Jannik Sinner,Jesper De Jong,0.9167,1,,,18,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Alex de Minaur,Hugo Dellien,0.9223,1,,,17,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Francisco Cerundolo,Sebastian Ofner,0.8262,1,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Jaume Munar,Sebastian Korda,0.4402,1,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Tomas Machac,Tommy Paul,0.424,0,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Fabian Marozsan,Jakub Mensik,0.4224,0,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-12,70,Hubert Hurkacz,Marcos Giron,0.6504,1,,,19,Internazionali BNL d'Italia,Clay,3rd Round,3
+2025-05-13,70,Alexander Zverev,Arthur Fils,0.614,1,,,17,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Francisco Cerundolo,Jannik Sinner,0.2381,0,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Daniil Medvedev,Lorenzo Musetti,0.3747,0,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Corentin Moutet,Jack Draper,0.1376,0,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Alex de Minaur,Tommy Paul,0.626,0,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Hubert Hurkacz,Jakub Mensik,0.3237,1,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-13,70,Carlos Alcaraz,Karen Khachanov,0.8736,1,,,17,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-14,70,Casper Ruud,Jaume Munar,0.7741,1,,,19,Internazionali BNL d'Italia,Clay,4th Round,3
+2025-05-14,70,Alexander Zverev,Lorenzo Musetti,0.6078,0,,,19,Internazionali BNL d'Italia,Clay,Quarterfinals,3
+2025-05-14,70,Carlos Alcaraz,Jack Draper,0.7067,1,,,17,Internazionali BNL d'Italia,Clay,Quarterfinals,3
+2025-05-15,70,Casper Ruud,Jannik Sinner,0.247,0,,,19,Internazionali BNL d'Italia,Clay,Quarterfinals,3
+2025-05-15,70,Hubert Hurkacz,Tommy Paul,0.3225,0,,,19,Internazionali BNL d'Italia,Clay,Quarterfinals,3
+2025-05-16,70,Jannik Sinner,Tommy Paul,0.8774,1,,,19,Internazionali BNL d'Italia,Clay,Semifinals,3
+2025-05-16,70,Carlos Alcaraz,Lorenzo Musetti,0.7132,1,,,17,Internazionali BNL d'Italia,Clay,Semifinals,3
+2025-05-18,71,Carlos Alcaraz,Jannik Sinner,0.4184,1,,,17,Internazionali BNL d'Italia,Clay,The Final,3
+2025-05-25,72,Brandon Nakashima,Mariano Navone,0.4041,0,,,15,French Open,Clay,1st Round,5
+2025-05-25,72,Frances Tiafoe,Roman Safiullin,0.6742,1,,,15,French Open,Clay,1st Round,5
+2025-05-25,72,Jaime Faria,Jenson Brooksby,0.4279,0,,,14,French Open,Clay,1st Round,5
+2025-05-25,72,Francisco Comesana,Pablo Carreno Busta,0.6092,0,,,15,French Open,Clay,1st Round,5
+2025-05-25,72,Botic van de Zandschulp,Emilio Nava,0.5378,0,,,15,French Open,Clay,1st Round,5
+2025-05-25,72,Elmer Moller,Tommy Paul,0.1457,0,,,17,French Open,Clay,1st Round,5
+2025-05-25,72,Ben Shelton,Lorenzo Sonego,0.5855,1,,,18,French Open,Clay,1st Round,5
+2025-05-25,72,Reilly Opelka,Rinky Hijikata,0.6517,1,,,14,French Open,Clay,1st Round,5
+2025-05-25,72,Hamad Medjedovic,Kamil Majchrzak,0.5835,1,,,16,French Open,Clay,1st Round,5
+2025-05-25,72,Fabian Marozsan,Luca Nardi,0.7708,1,,,18,French Open,Clay,1st Round,5
+2025-05-25,72,Benjamin Hassan,Matteo Gigante,0.3686,0,,,17,French Open,Clay,1st Round,5
+2025-05-26,72,Stefanos Tsitsipas,Tomas Martin Etcheverry,0.8153,1,,,14,French Open,Clay,1st Round,5
+2025-05-26,72,Denis Shapovalov,Pedro Martinez,0.6664,1,,,14,French Open,Clay,1st Round,5
+2025-05-26,72,Holger Rune,Roberto Bautista Agut,0.8123,1,,,14,French Open,Clay,1st Round,5
+2025-05-26,72,Miomir Kecmanovic,Sebastian Baez,0.4387,1,,,15,French Open,Clay,1st Round,5
+2025-05-26,72,Alejandro Tabilo,Arthur Cazaux,0.6,1,,,16,French Open,Clay,1st Round,5
+2025-05-26,72,Francisco Cerundolo,Gabriel Diallo,0.8539,0,,,17,French Open,Clay,1st Round,5
+2025-05-26,72,Hugo Gaston,Ugo Blanchet,0.6355,1,,,12,French Open,Clay,1st Round,5
+2025-05-26,72,Jacob Fearnley,Stan Wawrinka,0.6421,1,,,15,French Open,Clay,1st Round,5
+2025-05-26,72,Arthur Fils,Nicolas Jarry,0.8341,1,,,14,French Open,Clay,1st Round,5
+2025-05-26,72,Camilo Ugo Carabelli,Jaume Munar,0.4286,0,,,16,French Open,Clay,1st Round,5
+2025-05-26,72,Daniel Altmaier,Taylor Fritz,0.2492,1,,,16,French Open,Clay,1st Round,5
+2025-05-26,72,Alejandro Davidovich Fokina,Pablo Llamas Ruiz,0.8622,1,,,17,French Open,Clay,1st Round,5
+2025-05-26,72,Aleksandar Vukic,Karen Khachanov,0.1294,0,,,15,French Open,Clay,1st Round,5
+2025-05-27,72,Francesco Passaro,Jesper De Jong,0.3883,0,,,14,French Open,Clay,1st Round,5
+2025-05-27,72,Adam Walton,Maximilian Marterer,0.253,1,,,19,French Open,Clay,1st Round,5
+2025-05-27,72,Flavio Cobolli,Marin Cilic,0.6369,1,,,12,French Open,Clay,1st Round,5
+2025-05-27,72,Alex de Minaur,Laslo Djere,0.7449,1,,,17,French Open,Clay,1st Round,5
+2025-05-27,72,Gael Monfils,Hugo Dellien,0.7255,1,,,15,French Open,Clay,1st Round,5
+2025-05-27,72,Clement Tabur,Corentin Moutet,0.2266,0,,,17,French Open,Clay,1st Round,5
+2025-05-27,72,Jack Draper,Mattia Bellucci,0.9334,1,,,10,French Open,Clay,1st Round,5
+2025-05-27,72,Benjamin Bonzi,Pierre-Hugues Herbert,0.5993,0,,,15,French Open,Clay,1st Round,5
+2025-05-27,72,Cameron Norrie,Daniil Medvedev,0.2328,1,,,17,French Open,Clay,1st Round,5
+2025-05-27,72,Andrey Rublev,Lloyd Harris,0.8981,1,,,13,French Open,Clay,1st Round,5
+2025-05-27,72,Henrique Rocha,Nikoloz Basilashvili,0.3723,1,,,12,French Open,Clay,1st Round,5
+2025-05-27,72,Felix Auger-Aliassime,Matteo Arnaldi,0.5425,0,,,15,French Open,Clay,1st Round,5
+2025-05-27,72,Alexander Bublik,James Duckworth,0.8048,1,,,17,French Open,Clay,1st Round,5
+2025-05-27,72,Hubert Hurkacz,Joao Fonseca,0.4303,0,,,14,French Open,Clay,1st Round,5
+2025-05-27,72,Alexander Shevchenko,Dusan Lajovic,0.3725,1,,,13,French Open,Clay,1st Round,5
+2025-05-27,72,Alexandre Muller,Jakub Mensik,0.3005,0,,,17,French Open,Clay,1st Round,5
+2025-05-27,72,Alexander Zverev,Learner Tien,0.927,1,,,13,French Open,Clay,1st Round,5
+2025-05-28,72,Jenson Brooksby,Sebastian Korda,0.2716,0,,,16,French Open,Clay,2nd Round,5
+2025-05-28,72,Karen Khachanov,Sebastian Ofner,0.6735,1,,,18,French Open,Clay,2nd Round,5
+2025-05-28,72,Emilio Nava,Holger Rune,0.1479,0,,,19,French Open,Clay,2nd Round,5
+2025-05-28,72,Alejandro Tabilo,Alexei Popyrin,0.3725,0,,,19,French Open,Clay,2nd Round,5
+2025-05-28,72,Daniel Altmaier,Vit Kopriva,0.6199,1,,,19,French Open,Clay,2nd Round,5
+2025-05-28,72,Casper Ruud,Nuno Borges,0.8603,0,,,16,French Open,Clay,2nd Round,5
+2025-05-28,72,Frances Tiafoe,Pablo Carreno Busta,0.6145,1,,,19,French Open,Clay,2nd Round,5
+2025-05-28,72,Carlos Alcaraz,Fabian Marozsan,0.9439,1,,,7,French Open,Clay,2nd Round,5
+2025-05-29,72,Alexander Zverev,Jesper De Jong,0.9241,1,,,18,French Open,Clay,2nd Round,5
+2025-05-29,72,Alejandro Davidovich Fokina,Jiri Lehecka,0.5361,0,,,19,French Open,Clay,2nd Round,5
+2025-05-29,72,Adam Walton,Andrey Rublev,0.0646,0,,,16,French Open,Clay,2nd Round,5
+2025-05-29,72,Henrique Rocha,Jakub Mensik,0.0814,1,,,19,French Open,Clay,2nd Round,5
+2025-05-29,72,Denis Shapovalov,Filip Misolic,0.6177,0,,,18,French Open,Clay,2nd Round,5
+2025-05-29,72,Gabriel Diallo,Tallon Griekspoor,0.3897,0,,,18,French Open,Clay,2nd Round,5
+2025-05-29,72,Corentin Moutet,Novak Djokovic,0.1077,0,,,18,French Open,Clay,2nd Round,5
+2025-05-29,72,Alexander Shevchenko,Ethan Quinn,0.5384,0,,,18,French Open,Clay,2nd Round,5
+2025-05-29,72,Alex de Minaur,Alexander Bublik,0.8781,0,,,19,French Open,Clay,2nd Round,5
+2025-05-29,72,Arthur Fils,Jaume Munar,0.8122,1,,,19,French Open,Clay,2nd Round,5
+2025-05-29,72,Gael Monfils,Jack Draper,0.1524,0,,,20,French Open,Clay,2nd Round,5
+2025-05-29,72,Flavio Cobolli,Matteo Arnaldi,0.5426,1,,,18,French Open,Clay,2nd Round,5
+2025-05-30,72,Lorenzo Musetti,Mariano Navone,0.8608,1,,,19,French Open,Clay,3rd Round,5
+2025-05-30,72,Ben Shelton,Matteo Gigante,0.6093,1,,,19,French Open,Clay,3rd Round,5
+2025-05-30,72,Alexei Popyrin,Nuno Borges,0.5476,1,,,19,French Open,Clay,3rd Round,5
+2025-05-30,72,Daniel Altmaier,Hamad Medjedovic,0.393,1,,,18,French Open,Clay,3rd Round,5
+2025-05-30,72,Karen Khachanov,Tommy Paul,0.5474,0,,,19,French Open,Clay,3rd Round,5
+2025-05-30,72,Frances Tiafoe,Sebastian Korda,0.4854,1,,,18,French Open,Clay,3rd Round,5
+2025-05-30,72,Holger Rune,Quentin Halys,0.8192,1,,,19,French Open,Clay,3rd Round,5
+2025-05-31,72,Ethan Quinn,Tallon Griekspoor,0.197,0,,,19,French Open,Clay,3rd Round,5
+2025-05-31,72,Alexander Zverev,Flavio Cobolli,0.7963,1,,,18,French Open,Clay,3rd Round,5
+2025-05-31,72,Jannik Sinner,Jiri Lehecka,0.9024,1,,,19,French Open,Clay,3rd Round,5
+2025-05-31,72,Cameron Norrie,Jacob Fearnley,0.4778,1,,,18,French Open,Clay,3rd Round,5
+2025-05-31,72,Alexander Bublik,Henrique Rocha,0.7193,1,,,19,French Open,Clay,3rd Round,5
+2025-05-31,72,Filip Misolic,Novak Djokovic,0.0891,0,,,19,French Open,Clay,3rd Round,5
+2025-05-31,72,Jack Draper,Joao Fonseca,0.6412,1,,,19,French Open,Clay,3rd Round,5
+2025-06-01,73,Daniel Altmaier,Frances Tiafoe,0.3699,0,,,19,French Open,Clay,4th Round,5
+2025-06-01,73,Alexei Popyrin,Tommy Paul,0.3975,0,,,19,French Open,Clay,4th Round,5
+2025-06-01,73,Ben Shelton,Carlos Alcaraz,0.0815,0,,,19,French Open,Clay,4th Round,5
+2025-06-01,73,Holger Rune,Lorenzo Musetti,0.3395,0,,,19,French Open,Clay,4th Round,5
+2025-06-02,73,Andrey Rublev,Jannik Sinner,0.0891,0,,,20,French Open,Clay,4th Round,5
+2025-06-02,73,Alexander Bublik,Jack Draper,0.1176,1,,,19,French Open,Clay,4th Round,5
+2025-06-02,73,Cameron Norrie,Novak Djokovic,0.1113,0,,,19,French Open,Clay,4th Round,5
+2025-06-03,73,Frances Tiafoe,Lorenzo Musetti,0.2132,0,,,19,French Open,Clay,Quarterfinals,5
+2025-06-03,73,Carlos Alcaraz,Tommy Paul,0.8912,1,,,19,French Open,Clay,Quarterfinals,5
+2025-06-04,73,Alexander Zverev,Novak Djokovic,0.499,0,,,19,French Open,Clay,Quarterfinals,5
+2025-06-04,73,Alexander Bublik,Jannik Sinner,0.0654,0,,,18,French Open,Clay,Quarterfinals,5
+2025-06-06,73,Jannik Sinner,Novak Djokovic,0.7714,1,,,21,French Open,Clay,Semifinals,5
+2025-06-08,74,Carlos Alcaraz,Jannik Sinner,0.4827,1,,,20,French Open,Clay,The Final,5
+2025-06-30,77,Alejandro Davidovich Fokina,Brandon Holt,0.7791,1,,,20,Wimbledon,Grass,1st Round,5
+2025-06-30,77,Jacob Fearnley,Joao Fonseca,0.354,0,,,20,Wimbledon,Grass,1st Round,5
+2025-06-30,77,Holger Rune,Nicolas Jarry,0.7388,0,,,19,Wimbledon,Grass,1st Round,5
+2025-06-30,77,Daniel Altmaier,Gabriel Diallo,0.2016,0,,,20,Wimbledon,Grass,1st Round,5
+2025-06-30,77,Cameron Norrie,Roberto Bautista Agut,0.5099,1,,,19,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Alexander Shevchenko,Reilly Opelka,0.289,0,,,20,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Grigor Dimitrov,Yoshihito Nishioka,0.8155,1,,,19,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Gael Monfils,Ugo Humbert,0.281,1,,,20,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Alex Michelsen,Miomir Kecmanovic,0.6597,0,,,20,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Alex de Minaur,Roberto Carballes Baena,0.9616,1,,,3,Wimbledon,Grass,1st Round,5
+2025-07-01,77,Adam Walton,Arthur Cazaux,0.3715,0,,,20,Wimbledon,Grass,1st Round,5
+2025-07-01,77,David Goffin,Rinky Hijikata,0.4028,0,,,20,Wimbledon,Grass,1st Round,5
+2025-07-02,77,Andrey Rublev,Lloyd Harris,0.7571,1,,,15,Wimbledon,Grass,2nd Round,5
+2025-07-02,77,Cameron Norrie,Frances Tiafoe,0.386,1,,,21,Wimbledon,Grass,2nd Round,5
+2025-07-03,77,Brandon Nakashima,Reilly Opelka,0.6649,1,,,21,Wimbledon,Grass,2nd Round,5
+2025-07-04,77,Ben Shelton,Rinky Hijikata,0.7814,1,,,20,Wimbledon,Grass,2nd Round,5
+2025-07-04,77,Gael Monfils,Marton Fucsovics,0.4906,0,,,21,Wimbledon,Grass,2nd Round,5
+2025-07-04,77,Alejandro Davidovich Fokina,Taylor Fritz,0.2563,0,,,22,Wimbledon,Grass,3rd Round,5
+2025-07-05,77,Brandon Nakashima,Lorenzo Sonego,0.6294,0,,,22,Wimbledon,Grass,3rd Round,5
+2025-07-06,78,Andrey Rublev,Carlos Alcaraz,0.1263,0,,,21,Wimbledon,Grass,4th Round,5
+2025-07-07,78,Ben Shelton,Lorenzo Sonego,0.7337,1,,,21,Wimbledon,Grass,4th Round,5
+2025-07-07,78,Flavio Cobolli,Marin Cilic,0.4843,1,,,21,Wimbledon,Grass,4th Round,5
+2025-07-07,78,Alex de Minaur,Novak Djokovic,0.202,0,,,21,Wimbledon,Grass,4th Round,5
+2025-07-09,78,Flavio Cobolli,Novak Djokovic,0.1236,0,,,22,Wimbledon,Grass,Quarterfinals,5
+2025-07-09,78,Ben Shelton,Jannik Sinner,0.274,0,,,22,Wimbledon,Grass,Quarterfinals,5
+2025-07-11,78,Jannik Sinner,Novak Djokovic,0.6684,1,,,21,Wimbledon,Grass,Semifinals,5
+2025-07-11,78,Carlos Alcaraz,Taylor Fritz,0.8116,1,,,20,Wimbledon,Grass,Semifinals,5
+2025-07-13,79,Carlos Alcaraz,Jannik Sinner,0.4858,0,,,21,Wimbledon,Grass,The Final,5
+2025-07-29,81,Alexandre Muller,Miomir Kecmanovic,0.3742,1,,,17,Canadian Open,Hard,2nd Round,3
+2025-07-30,81,Reilly Opelka,Tomas Machac,0.4023,1,,,18,Canadian Open,Hard,2nd Round,3
+2025-07-30,81,Adrian Mannarino,Ben Shelton,0.1902,0,,,18,Canadian Open,Hard,2nd Round,3
+2025-07-30,81,Frances Tiafoe,Yosuke Watanuki,0.7067,1,,,18,Canadian Open,Hard,2nd Round,3
+2025-07-31,81,Arthur Fils,Pablo Carreno Busta,0.6971,1,,,18,Canadian Open,Hard,2nd Round,3
+2025-07-31,81,Francisco Cerundolo,Tomas Martin Etcheverry,0.6276,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-07-31,81,Casper Ruud,Nuno Borges,0.6279,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-07-31,81,Learner Tien,Reilly Opelka,0.5531,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Alexei Popyrin,Daniil Medvedev,0.2411,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Arthur Fils,Jiri Lehecka,0.4298,0,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Alejandro Davidovich Fokina,Jakub Mensik,0.5012,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Andrey Rublev,Lorenzo Sonego,0.6868,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Fabian Marozsan,Flavio Cobolli,0.2539,0,,,9,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Alexander Zverev,Matteo Arnaldi,0.7859,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-01,81,Aleksandar Vukic,Frances Tiafoe,0.3214,0,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-02,81,Ben Shelton,Brandon Nakashima,0.6877,1,,,18,Canadian Open,Hard,3rd Round,3
+2025-08-02,81,Alex Michelsen,Learner Tien,0.4853,1,,,18,Canadian Open,Hard,4th Round,3
+2025-08-04,82,Ben Shelton,Flavio Cobolli,0.6763,1,,,17,Canadian Open,Hard,4th Round,3
+2025-08-05,82,Alexander Zverev,Alexei Popyrin,0.7305,1,,,18,Canadian Open,Hard,Quarterfinals,3
+2025-08-05,82,Alex Michelsen,Karen Khachanov,0.3285,0,,,18,Canadian Open,Hard,Quarterfinals,3
+2025-08-06,82,Andrey Rublev,Taylor Fritz,0.3329,0,,,18,Canadian Open,Hard,Quarterfinals,3
+2025-08-07,82,Alexander Zverev,Karen Khachanov,0.6776,0,,,18,Canadian Open,Hard,Semifinals,3
+2025-08-07,82,Arthur Rinderknech,Nuno Borges,0.3751,1,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-07,82,Hugo Gaston,Roberto Carballes Baena,0.4554,0,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-07,82,Juncheng Shang,Tomas Martin Etcheverry,0.4228,0,,,13,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-07,82,Alejandro Tabilo,Roman Safiullin,0.3376,0,,,14,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-08,82,Aleksandar Kovacevic,Hamad Medjedovic,0.5109,0,,,17,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-09,82,Pedro Martinez,Tommy Paul,0.1332,0,,,16,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-09,82,Adrian Mannarino,Tomas Machac,0.3796,1,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-09,82,Damir Dzumhur,Mattia Bellucci,0.4589,1,,,17,Western & Southern Financial Group Masters,Hard,1st Round,3
+2025-08-09,82,Benjamin Bonzi,Lorenzo Musetti,0.2818,1,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-09,82,Gabriel Diallo,Sebastian Baez,0.7728,1,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-09,82,Holger Rune,Roman Safiullin,0.7234,1,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-09,82,Arthur Rinderknech,Casper Ruud,0.3187,1,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-10,83,Cameron Norrie,Roberto Bautista Agut,0.5989,0,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-10,83,Ethan Quinn,Jakub Mensik,0.3505,0,,,18,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-10,83,Carlos Alcaraz,Damir Dzumhur,0.9393,1,,,15,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2025-08-11,83,Lorenzo Sonego,Taylor Fritz,0.1824,0,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-12,83,Adam Walton,Jiri Lehecka,0.2309,0,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-12,83,Alexei Popyrin,Andrey Rublev,0.3605,0,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-12,83,Adrian Mannarino,Tommy Paul,0.2731,1,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-13,83,Alexander Zverev,Brandon Nakashima,0.7417,1,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-13,83,Ben Shelton,Roberto Bautista Agut,0.8119,1,,,18,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2025-08-13,83,Taylor Fritz,Terence Atmane,0.8575,0,,,18,Western & Southern Financial Group Masters,Hard,4th Round,3
+2025-08-15,83,Andrey Rublev,Carlos Alcaraz,0.217,0,,,17,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2025-08-24,85,Luciano Darderi,Rinky Hijikata,0.5998,1,,,17,US Open,Hard,1st Round,5
+2025-08-24,85,Camilo Ugo Carabelli,Tomas Martin Etcheverry,0.2993,0,,,18,US Open,Hard,1st Round,5
+2025-08-24,85,Corentin Moutet,Jordan Thompson,0.7106,0,,,18,US Open,Hard,1st Round,5
+2025-08-25,85,Jaime Faria,Jaume Munar,0.2357,0,,,18,US Open,Hard,1st Round,5
+2025-08-25,85,Frances Tiafoe,Yoshihito Nishioka,0.8697,1,,,18,US Open,Hard,1st Round,5
+2025-08-26,85,Alexandre Muller,Stefanos Tsitsipas,0.3675,0,,,18,US Open,Hard,1st Round,5
+2025-08-26,85,Daniel Altmaier,Hamad Medjedovic,0.2653,1,,,18,US Open,Hard,1st Round,5
+2025-08-26,85,Casper Ruud,Sebastian Ofner,0.7785,1,,,17,US Open,Hard,1st Round,5
+2025-08-26,85,Denis Shapovalov,Marton Fucsovics,0.5099,1,,,17,US Open,Hard,1st Round,5
+2025-08-27,85,Jiri Lehecka,Tomas Martin Etcheverry,0.75,1,,,16,US Open,Hard,2nd Round,5
+2025-08-27,85,Adrian Mannarino,Jordan Thompson,0.615,1,,,16,US Open,Hard,2nd Round,5
+2025-08-27,85,Elmer Moller,Tommy Paul,0.0857,0,,,18,US Open,Hard,1st Round,5
+2025-08-27,85,Alejandro Tabilo,Alexander Zverev,0.0635,0,,,14,US Open,Hard,1st Round,5
+2025-08-28,85,Gabriel Diallo,Jaume Munar,0.4815,0,,,18,US Open,Hard,2nd Round,5
+2025-08-28,85,David Goffin,Lorenzo Musetti,0.1814,0,,,17,US Open,Hard,2nd Round,5
+2025-08-28,85,Ben Shelton,Pablo Carreno Busta,0.8828,1,,,17,US Open,Hard,2nd Round,5
+2025-08-29,85,Alexander Zverev,Jacob Fearnley,0.893,1,,,17,US Open,Hard,2nd Round,5
+2025-08-29,85,Daniel Altmaier,Stefanos Tsitsipas,0.2722,1,,,18,US Open,Hard,2nd Round,5
+2025-08-30,85,Cameron Norrie,Novak Djokovic,0.1228,0,,,18,US Open,Hard,3rd Round,5
+2025-08-31,86,Alexander Bublik,Tommy Paul,0.5007,1,,,18,US Open,Hard,3rd Round,5
+2025-08-31,86,Alexander Zverev,Felix Auger-Aliassime,0.7473,0,,,19,US Open,Hard,3rd Round,5
+2025-08-31,86,Taylor Fritz,Tomas Machac,0.6935,1,,,19,US Open,Hard,4th Round,5
+2025-09-01,86,Andrey Rublev,Felix Auger-Aliassime,0.5383,0,,,19,US Open,Hard,4th Round,5
+2025-09-01,86,Jaume Munar,Lorenzo Musetti,0.3389,0,,,19,US Open,Hard,4th Round,5
+2025-09-02,86,Carlos Alcaraz,Jiri Lehecka,0.9037,1,,,19,US Open,Hard,Quarterfinals,5
+2025-09-02,86,Alexander Bublik,Jannik Sinner,0.1188,0,,,19,US Open,Hard,4th Round,5
+2025-09-03,86,Novak Djokovic,Taylor Fritz,0.6544,1,,,19,US Open,Hard,Quarterfinals,5
+2025-09-03,86,Alex de Minaur,Felix Auger-Aliassime,0.5816,0,,,19,US Open,Hard,Quarterfinals,5
+2025-09-05,86,Carlos Alcaraz,Novak Djokovic,0.7516,1,,,17,US Open,Hard,Semifinals,5
+2025-09-06,86,Felix Auger-Aliassime,Jannik Sinner,0.0694,0,,,19,US Open,Hard,Semifinals,5
+2025-09-07,87,Carlos Alcaraz,Jannik Sinner,0.4642,1,,,18,US Open,Hard,The Final,5
+2025-09-26,89,Alexander Zverev,Lorenzo Sonego,0.7591,1,,,19,China Open,Hard,1st Round,3
+2025-09-26,89,Arthur Rinderknech,David Goffin,0.5563,1,,,16,China Open,Hard,1st Round,3
+2025-09-26,89,Cameron Norrie,Daniil Medvedev,0.282,0,,,18,China Open,Hard,1st Round,3
+2025-09-26,89,Jakub Mensik,Miomir Kecmanovic,0.6419,1,,,17,China Open,Hard,1st Round,3
+2025-09-26,89,Andrey Rublev,Flavio Cobolli,0.6769,0,,,17,China Open,Hard,1st Round,3
+2025-09-28,90,Adrian Mannarino,Lorenzo Musetti,0.3483,0,,,19,China Open,Hard,2nd Round,3
+2025-09-28,90,Alejandro Davidovich Fokina,Daniil Medvedev,0.4429,0,,,19,China Open,Hard,2nd Round,3
+2025-09-29,90,Fabian Marozsan,Jannik Sinner,0.086,0,,,18,China Open,Hard,Quarterfinals,3
+2025-09-29,90,Alexander Zverev,Daniil Medvedev,0.4787,0,,,19,China Open,Hard,Quarterfinals,3
+2025-09-30,90,Alex de Minaur,Jannik Sinner,0.1579,0,,,19,China Open,Hard,Semifinals,3
+2025-10-01,90,Lorenzo Sonego,Yannick Hanfmann,0.5938,0,,,16,Shanghai Masters,Hard,1st Round,3
+2025-10-01,90,Alexandre Muller,David Goffin,0.5174,0,,,16,Shanghai Masters,Hard,1st Round,3
+2025-10-03,90,Holger Rune,Sebastian Baez,0.7976,1,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-03,90,Jordan Thompson,Ugo Humbert,0.4087,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-03,90,Fabian Marozsan,Taylor Fritz,0.2648,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-03,90,Ben Shelton,David Goffin,0.7105,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-03,90,Frances Tiafoe,Yannick Hanfmann,0.602,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-04,90,Alejandro Davidovich Fokina,Matteo Arnaldi,0.6574,1,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-04,90,Alex Michelsen,Arthur Rinderknech,0.5143,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-04,90,Corentin Moutet,Learner Tien,0.5491,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-04,90,Francisco Comesana,Lorenzo Musetti,0.2757,0,,,17,Shanghai Masters,Hard,2nd Round,3
+2025-10-05,91,Holger Rune,Ugo Humbert,0.6193,1,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-05,91,Novak Djokovic,Yannick Hanfmann,0.8691,1,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-05,91,Jaume Munar,Yoshihito Nishioka,0.624,1,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-06,91,Denis Shapovalov,Jiri Lehecka,0.3843,0,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-06,91,Alejandro Davidovich Fokina,Daniil Medvedev,0.3583,0,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-06,91,Cameron Norrie,Learner Tien,0.4584,0,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-06,91,Felix Auger-Aliassime,Jesper De Jong,0.7746,1,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-06,91,Lorenzo Musetti,Luciano Darderi,0.7717,1,,,17,Shanghai Masters,Hard,3rd Round,3
+2025-10-07,91,Gabriel Diallo,Zizou Bergs,0.6137,0,,,17,Shanghai Masters,Hard,4th Round,3
+2025-10-08,91,Felix Auger-Aliassime,Lorenzo Musetti,0.5002,1,,,17,Shanghai Masters,Hard,4th Round,3
+2025-10-08,91,Daniil Medvedev,Learner Tien,0.7053,1,,,18,Shanghai Masters,Hard,4th Round,3
+2025-10-08,91,Arthur Rinderknech,Jiri Lehecka,0.2848,1,,,15,Shanghai Masters,Hard,4th Round,3
+2025-10-10,91,Alex de Minaur,Daniil Medvedev,0.6272,0,,,18,Shanghai Masters,Hard,Quarterfinals,3
+2025-10-27,94,Aleksandar Kovacevic,Miomir Kecmanovic,0.4184,0,,,20,BNP Paribas Masters,Hard,1st Round,3
+2025-10-27,94,Alex Michelsen,Zizou Bergs,0.5145,0,,,17,BNP Paribas Masters,Hard,1st Round,3
+2025-10-27,94,Lorenzo Sonego,Sebastian Korda,0.3648,1,,,19,BNP Paribas Masters,Hard,1st Round,3
+2025-10-27,94,Daniel Altmaier,Marcos Giron,0.3774,1,,,21,BNP Paribas Masters,Hard,1st Round,3
+2025-10-27,94,Alexander Bublik,Alexei Popyrin,0.666,1,,,17,BNP Paribas Masters,Hard,1st Round,3
+2025-10-27,94,Flavio Cobolli,Tomas Machac,0.5302,1,,,21,BNP Paribas Masters,Hard,1st Round,3
+2025-10-28,94,Gabriel Diallo,Tallon Griekspoor,0.4617,1,,,21,BNP Paribas Masters,Hard,1st Round,3
+2025-10-28,94,Aleksandar Vukic,Taylor Fritz,0.1392,0,,,21,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-28,94,Daniil Medvedev,Jaume Munar,0.6773,1,,,21,BNP Paribas Masters,Hard,1st Round,3
+2025-10-28,94,Ben Shelton,Flavio Cobolli,0.4871,1,,,21,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-29,94,Alejandro Davidovich Fokina,Arthur Cazaux,0.6267,1,,,21,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-29,94,Alexander Zverev,Camilo Ugo Carabelli,0.9262,1,,,18,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-29,94,Alexandre Muller,Felix Auger-Aliassime,0.2482,0,,,20,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-29,94,Lorenzo Musetti,Lorenzo Sonego,0.727,0,,,21,BNP Paribas Masters,Hard,2nd Round,3
+2025-10-30,94,Daniel Altmaier,Felix Auger-Aliassime,0.3414,0,,,21,BNP Paribas Masters,Hard,3rd Round,3
+2025-10-30,94,Daniil Medvedev,Lorenzo Sonego,0.6097,1,,,13,BNP Paribas Masters,Hard,3rd Round,3
+2025-10-30,94,Francisco Cerundolo,Jannik Sinner,0.0819,0,,,20,BNP Paribas Masters,Hard,3rd Round,3
+2025-10-30,94,Alejandro Davidovich Fokina,Alexander Zverev,0.3429,0,,,21,BNP Paribas Masters,Hard,3rd Round,3
+2025-10-30,94,Andrey Rublev,Ben Shelton,0.435,0,,,21,BNP Paribas Masters,Hard,3rd Round,3
+2025-10-31,94,Alex de Minaur,Alexander Bublik,0.55,0,,,20,BNP Paribas Masters,Hard,Quarterfinals,3
+2025-10-31,94,Ben Shelton,Jannik Sinner,0.1814,0,,,20,BNP Paribas Masters,Hard,Quarterfinals,3
+2025-11-01,94,Alexander Bublik,Felix Auger-Aliassime,0.5128,0,,,21,BNP Paribas Masters,Hard,Semifinals,3
+2025-11-02,95,Felix Auger-Aliassime,Jannik Sinner,0.1302,0,,,21,BNP Paribas Masters,Hard,The Final,3
+2026-07-07,130,Alexander Zverev,Jiri Lehecka,0.7151,1,,,9,Wimbledon,Grass,4th Round,5
+2026-07-08,130,Arthur Fery,Flavio Cobolli,0.2964,1,,,9,Wimbledon,Grass,Quarterfinals,5
+2026-07-08,130,Alexander Zverev,Taylor Fritz,0.4655,1,,,9,Wimbledon,Grass,Quarterfinals,5
+2026-07-10,130,Alexander Zverev,Arthur Fery,0.8443,1,,,9,Wimbledon,Grass,Semifinals,5
+2026-07-12,131,Alexander Zverev,Jannik Sinner,0.2007,0,,,9,Wimbledon,Grass,The Final,5
+2026-07-30,133,Brandon Nakashima,Jakub Mensik,0.4163,1,,,10,Citi Open,Hard,2nd Round,3
+2026-07-30,133,Ben Shelton,Ugo Humbert,0.6608,1,,,8,Citi Open,Hard,2nd Round,3
+2026-07-30,133,Alejandro Tabilo,Terence Atmane,0.4611,1,,,9,Citi Open,Hard,2nd Round,3
+2026-07-31,133,Alex de Minaur,Brandon Nakashima,0.6049,0,,,10,Citi Open,Hard,Quarterfinals,3
+2026-07-31,133,Lorenzo Musetti,Rafael Jodar,0.387,0,,,9,Citi Open,Hard,Quarterfinals,3
+2026-07-31,133,Alex Michelsen,Taylor Fritz,0.3219,0,,,9,Citi Open,Hard,Quarterfinals,3
+2026-08-01,133,Brandon Nakashima,Taylor Fritz,0.3782,0,,,11,Citi Open,Hard,Semifinals,3
+2026-08-01,133,Alejandro Tabilo,Ben Shelton,0.2625,1,,,9,Citi Open,Hard,Quarterfinals,3
+2026-08-02,134,Jaume Munar,Rinky Hijikata,0.5536,1,,,10,Canadian Open,Hard,1st Round,3
+2026-08-02,134,Alejandro Tabilo,Rafael Jodar,0.3008,0,,,12,Citi Open,Hard,Semifinals,3
+2026-08-03,134,Aleksandar Kovacevic,Nuno Borges,0.3337,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Mariano Navone,Matteo Berrettini,0.3844,1,,,10,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Luca Van Assche,Titouan Droguet,0.5051,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Benjamin Bonzi,Yannick Hanfmann,0.4614,0,,,9,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Alexis Galarneau,Vit Kopriva,0.5214,0,,,9,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Martin Landaluce,Nicolas Mejia,0.683,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-03,134,Rafael Jodar,Taylor Fritz,0.4045,0,,,10,Citi Open,Hard,The Final,3
+2026-08-04,134,Jiri Lehecka,Vit Kopriva,0.8046,1,,,12,Canadian Open,Hard,2nd Round,3
+2026-08-04,134,Adrian Mannarino,Jacob Fearnley,0.3946,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Michael Zheng,Miomir Kecmanovic,0.5632,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Brandon Nakashima,Daniel Altmaier,0.7385,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-04,134,Corentin Moutet,Marton Fucsovics,0.5245,1,,,9,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Marin Cilic,Sho Shimabukuro,0.5563,1,,,9,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Adam Walton,Jenson Brooksby,0.4517,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Fabian Marozsan,Shintaro Mochizuki,0.6218,1,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Alexei Popyrin,Roman Andres Burruchaga,0.602,1,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Mattia Bellucci,Sebastian Baez,0.4747,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Daniel Merida Aguilar,Liam Draxl,0.5647,1,,,10,Canadian Open,Hard,1st Round,3
+2026-08-04,134,Andrey Rublev,Juncheng Shang,0.7548,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-04,134,Aleksandar Vukic,Daniel Altmaier,0.5778,0,,,10,Canadian Open,Hard,1st Round,3
+2026-08-05,134,Karen Khachanov,Terence Atmane,0.5605,0,,,12,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Lorenzo Musetti,Nicolas Mejia,0.8475,1,,,12,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Alex de Minaur,James Duckworth,0.864,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Frances Tiafoe,Marin Cilic,0.66,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Corentin Moutet,Rafael Jodar,0.2717,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Alex Michelsen,Francisco Cerundolo,0.5915,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Arthur Rinderknech,Miomir Kecmanovic,0.4739,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Cameron Norrie,Ignacio Buse,0.683,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Mariano Navone,Valentin Vacherot,0.4045,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Arthur Fils,Zachary Svajda,0.7295,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Alexander Zverev,Tallon Griekspoor,0.8366,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Alexei Popyrin,Raphael Collignon,0.3991,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Alejandro Tabilo,Hubert Hurkacz,0.4221,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Fabian Marozsan,Matteo Arnaldi,0.5716,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Daniel Merida Aguilar,Ugo Humbert,0.3206,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Jacob Fearnley,Jakub Mensik,0.3173,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Nuno Borges,Tomas Martin Etcheverry,0.6163,1,,,9,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Joao Fonseca,Stefanos Tsitsipas,0.578,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Sebastian Baez,Zizou Bergs,0.427,0,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-05,134,Ben Shelton,Jenson Brooksby,0.7194,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-06,134,Nuno Borges,Yannick Hanfmann,0.5933,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-06,134,Alex de Minaur,Cameron Norrie,0.637,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-06,134,Arthur Fils,Mariano Navone,0.7381,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-06,134,Juncheng Shang,Luciano Darderi,0.5273,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-06,134,Tommy Paul,Valentin Royer,0.808,1,,,10,Canadian Open,Hard,2nd Round,3
+2026-08-06,134,Gael Monfils,Learner Tien,0.2916,0,,,9,Canadian Open,Hard,2nd Round,3
+2026-08-07,134,Lorenzo Musetti,Rafael Jodar,0.4517,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Brandon Nakashima,Titouan Droguet,0.7489,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Botic van de Zandschulp,Hubert Hurkacz,0.3635,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Alex Michelsen,Daniel Merida Aguilar,0.7104,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Jakub Mensik,Terence Atmane,0.6458,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Ben Shelton,Zizou Bergs,0.717,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-07,134,Matteo Arnaldi,Tallon Griekspoor,0.3522,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-08,134,Casper Ruud,Joao Fonseca,0.4393,0,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-08,134,Arthur Rinderknech,Brandon Nakashima,0.3438,0,,,10,Canadian Open,Hard,4th Round,3
+2026-08-08,134,Luciano Darderi,Nuno Borges,0.3875,1,,,10,Canadian Open,Hard,4th Round,3
+2026-08-08,134,Learner Tien,Tommy Paul,0.3853,1,,,10,Canadian Open,Hard,3rd Round,3
+2026-08-09,135,Jiri Lehecka,Rafael Jodar,0.4577,0,,,10,Canadian Open,Hard,4th Round,3
+2026-08-09,135,Arthur Fils,Cameron Norrie,0.6861,1,,,10,Canadian Open,Hard,4th Round,3
+2026-08-09,135,Daniel Merida Aguilar,Tallon Griekspoor,0.4649,1,,,9,Canadian Open,Hard,4th Round,3
+2026-08-09,135,Ben Shelton,Joao Fonseca,0.5543,1,,,10,Canadian Open,Hard,4th Round,3
+2026-08-10,135,Botic van de Zandschulp,Jakub Mensik,0.2896,0,,,10,Canadian Open,Hard,4th Round,3
+2026-08-11,135,Brandon Nakashima,Luciano Darderi,0.6904,1,,,10,Canadian Open,Hard,Quarterfinals,3
+2026-08-11,135,Ben Shelton,Jakub Mensik,0.565,1,,,10,Canadian Open,Hard,Quarterfinals,3
+2026-08-11,135,Arthur Fils,Rafael Jodar,0.4405,0,,,10,Canadian Open,Hard,Quarterfinals,3
+2026-08-12,135,Daniel Merida Aguilar,Learner Tien,0.358,0,,,10,Canadian Open,Hard,Quarterfinals,3
+2026-08-12,135,Brandon Nakashima,Rafael Jodar,0.3226,1,,,10,Canadian Open,Hard,Semifinals,3
+2026-08-13,135,Ben Shelton,Learner Tien,0.6574,1,,,12,Canadian Open,Hard,Semifinals,3
+2026-08-13,135,Cameron Norrie,Dino Prizmic,0.6446,1,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-13,135,Jack Draper,Martin Landaluce,0.6975,0,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-13,135,Mariano Navone,Raphael Collignon,0.4314,1,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-13,135,Camilo Ugo Carabelli,Miomir Kecmanovic,0.2681,0,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-13,135,Adrian Mannarino,Denis Shapovalov,0.455,0,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Ben Shelton,Brandon Nakashima,0.682,1,,,10,Canadian Open,Hard,The Final,3
+2026-08-14,135,Daniel Merida Aguilar,Marin Cilic,0.5299,1,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Grigor Dimitrov,Sebastian Baez,0.5769,0,,,8,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Adam Walton,Nicolas Mejia,0.6358,1,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Hamad Medjedovic,Marco Trungelliti,0.6457,0,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Nuno Borges,Thanasi Kokkinakis,0.6754,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Stefanos Tsitsipas,Valentin Royer,0.7327,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Hubert Hurkacz,Sho Shimabukuro,0.7447,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Luca Van Assche,Yannick Hanfmann,0.4701,0,,,8,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Matteo Berrettini,Titouan Droguet,0.5495,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Alex Michelsen,Jesper De Jong,0.7984,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Fabian Marozsan,Michael Zheng,0.4361,0,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Juncheng Shang,Lorenzo Sonego,0.5836,0,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Quentin Halys,Vit Kopriva,0.6976,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Gael Monfils,Rinky Hijikata,0.5584,0,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Mattia Bellucci,Zachary Svajda,0.3752,1,,,6,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-14,135,Pablo Carreno Busta,Tomas Machac,0.5166,1,,,9,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-15,135,Terence Atmane,Tomas Martin Etcheverry,0.6115,1,,,12,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-15,135,Jaime Faria,Jenson Brooksby,0.4344,1,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-15,135,Jakub Mensik,Mattia Bellucci,0.748,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-15,135,Luciano Darderi,Rinky Hijikata,0.5964,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-15,135,Martin Landaluce,Matteo Arnaldi,0.5487,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-15,135,Alexander Blockx,Mariano Navone,0.5697,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-15,135,Aleksandar Kovacevic,Karen Khachanov,0.3211,1,,,10,Western & Southern Financial Group Masters,Hard,1st Round,3
+2026-08-15,135,Flavio Cobolli,Miomir Kecmanovic,0.5389,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Denis Shapovalov,Rafael Jodar,0.3119,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Alexander Zverev,Cameron Norrie,0.7616,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Alex Michelsen,Taylor Fritz,0.3924,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Francisco Cerundolo,Nuno Borges,0.4572,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Daniel Altmaier,Lorenzo Musetti,0.2289,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Daniil Medvedev,Marco Trungelliti,0.8201,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Learner Tien,Sebastian Baez,0.7282,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Michael Zheng,Ugo Humbert,0.4807,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Botic van de Zandschulp,Joao Fonseca,0.3078,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Daniel Merida Aguilar,Zizou Bergs,0.529,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Aleksandar Kovacevic,Brandon Nakashima,0.2562,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-16,136,Andrey Rublev,Pablo Carreno Busta,0.6694,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-17,136,Alexander Blockx,Flavio Cobolli,0.5258,0,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-17,136,Alejandro Tabilo,Rafael Jodar,0.3219,0,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-17,136,Alex de Minaur,Arthur Fery,0.7817,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-17,136,Frances Tiafoe,Lorenzo Sonego,0.6124,1,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-17,136,Ben Shelton,Jaime Faria,0.8049,0,,,10,Western & Southern Financial Group Masters,Hard,2nd Round,3
+2026-08-18,136,Lorenzo Musetti,Michael Zheng,0.6324,1,,,12,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Adam Walton,Jaime Faria,0.4207,0,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Jakub Mensik,Rinky Hijikata,0.7319,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Arthur Fils,Jiri Lehecka,0.5902,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Andrey Rublev,Nuno Borges,0.6326,0,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Brandon Nakashima,Daniil Medvedev,0.4367,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Daniel Merida Aguilar,Taylor Fritz,0.2203,0,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-18,136,Alexander Zverev,Terence Atmane,0.8267,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-19,136,Frances Tiafoe,Learner Tien,0.4648,1,,,10,Western & Southern Financial Group Masters,Hard,3rd Round,3
+2026-08-19,136,Alexander Zverev,Tommy Paul,0.6986,0,,,10,Western & Southern Financial Group Masters,Hard,4th Round,3
+2026-08-19,136,Flavio Cobolli,Rafael Jodar,0.2716,1,,,10,Western & Southern Financial Group Masters,Hard,4th Round,3
+2026-08-19,136,Alex de Minaur,Arthur Fils,0.3889,0,,,10,Western & Southern Financial Group Masters,Hard,4th Round,3
+2026-08-19,136,Brandon Nakashima,Nuno Borges,0.6033,1,,,10,Western & Southern Financial Group Masters,Hard,4th Round,3
+2026-08-20,136,Jaime Faria,Lorenzo Musetti,0.2823,0,,,10,Western & Southern Financial Group Masters,Hard,4th Round,3
+2026-08-20,136,Flavio Cobolli,Tommy Paul,0.4082,1,,,10,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2026-08-21,136,Brandon Nakashima,Taylor Fritz,0.3765,1,,,10,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2026-08-22,136,Frances Tiafoe,Lorenzo Musetti,0.5007,1,,,10,Western & Southern Financial Group Masters,Hard,Quarterfinals,3
+2026-08-22,136,Arthur Fils,Flavio Cobolli,0.6998,1,,,10,Western & Southern Financial Group Masters,Hard,Semifinals,3
+2026-08-23,137,Brandon Nakashima,Frances Tiafoe,0.5165,0,,,10,Western & Southern Financial Group Masters,Hard,Semifinals,3
+2026-08-23,137,Arthur Fils,Frances Tiafoe,0.6505,1,,,10,Western & Southern Financial Group Masters,Hard,The Final,3
+2026-08-30,138,Arthur Rinderknech,Sho Shimabukuro,0.7466,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Hamad Medjedovic,Kamil Majchrzak,0.4574,0,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Jiri Lehecka,Pablo Carreno Busta,0.7841,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Jaime Faria,Jenson Brooksby,0.4727,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Jaume Munar,Terence Atmane,0.3725,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Daniil Medvedev,Hugo Gaston,0.854,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Daniel Merida Aguilar,Marton Fucsovics,0.7847,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Alexander Shevchenko,Dino Prizmic,0.3006,0,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Cameron Norrie,Luca Van Assche,0.6657,0,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Denis Shapovalov,Miomir Kecmanovic,0.5544,1,,,10,US Open,Hard,1st Round,5
+2026-08-30,138,Tomas Martin Etcheverry,Vit Kopriva,0.6265,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Facundo Diaz Acosta,Quentin Halys,0.2796,0,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Damir Dzumhur,Hubert Hurkacz,0.1137,0,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Dalibor Svrcina,Valentin Royer,0.485,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Carlos Alcaraz,Roman Safiullin,0.7974,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,James Duckworth,Matteo Arnaldi,0.4016,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Aleksandar Vukic,Rei Sakamoto,0.4179,0,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Juncheng Shang,Marco Trungelliti,0.6488,0,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Karen Khachanov,Roman Andres Burruchaga,0.7559,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Learner Tien,Nuno Borges,0.6455,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Jacob Fearnley,Martin Landaluce,0.4729,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Aleksandar Kovacevic,Valentin Vacherot,0.4725,0,,,9,US Open,Hard,1st Round,5
+2026-08-31,138,Arthur Fils,Stefanos Tsitsipas,0.8089,0,,,9,US Open,Hard,1st Round,5
+2026-08-31,138,Mariano Navone,Novak Djokovic,0.1765,1,,,9,US Open,Hard,1st Round,5
+2026-08-31,138,Matteo Berrettini,Stan Wawrinka,0.7663,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Alejandro Tabilo,Yannick Hanfmann,0.5489,1,,,10,US Open,Hard,1st Round,5
+2026-08-31,138,Brandon Nakashima,Sebastian Baez,0.8464,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Alexei Popyrin,Grigor Dimitrov,0.3614,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Ben Shelton,Tallon Griekspoor,0.847,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Jakub Mensik,Shintaro Mochizuki,0.8716,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Nishesh Basavareddy,Tristan Schoolkate,0.7302,0,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Mattia Bellucci,Zsombor Piros,0.6571,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Flavio Cobolli,Francisco Comesana,0.7888,1,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Filip Misolic,Francisco Cerundolo,0.0933,0,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Arthur Fery,Lorenzo Musetti,0.2573,0,,,10,US Open,Hard,1st Round,5
+2026-09-01,138,Darwin Blanch,Taylor Fritz,0.0655,0,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Jacob Fearnley,Tomas Martin Etcheverry,0.4262,0,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Ben Shelton,Hubert Hurkacz,0.6778,1,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Fabian Marozsan,Michael Zheng,0.4004,0,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Lloyd Harris,Stefanos Tsitsipas,0.3233,0,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Denis Shapovalov,Luca Van Assche,0.5686,1,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Mariano Navone,Matteo Berrettini,0.413,1,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Andrey Rublev,Daniel Merida Aguilar,0.59,0,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Alex Michelsen,Brandon Nakashima,0.3285,1,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Alexander Zverev,Lorenzo Sonego,0.9114,1,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Arthur Rinderknech,Jaume Munar,0.5941,1,,,10,US Open,Hard,2nd Round,5
+2026-09-02,138,Daniel Altmaier,Zachary Svajda,0.411,0,,,9,US Open,Hard,1st Round,5
+2026-09-02,138,Botic van de Zandschulp,Jan Choinski,0.7608,1,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Francesco Passaro,Jesper De Jong,0.4323,0,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Carlos Taberner,Zizou Bergs,0.0868,0,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Ignacio Buse,Marcos Giron,0.6024,1,,,10,US Open,Hard,1st Round,5
+2026-09-02,138,Alex Molcan,Benjamin Bonzi,0.3459,0,,,10,US Open,Hard,1st Round,5
+2026-09-03,138,Frances Tiafoe,Rei Sakamoto,0.7664,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Kamil Majchrzak,Valentin Vacherot,0.4579,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Dino Prizmic,Tommy Paul,0.2005,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Adrian Mannarino,Alexander Bublik,0.2496,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Dalibor Svrcina,Luciano Darderi,0.4346,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Dane Sweeny,Lorenzo Musetti,0.0813,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Jakub Mensik,Jurij Rodionov,0.8493,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Alejandro Tabilo,Alexei Popyrin,0.6033,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Flavio Cobolli,Tristan Schoolkate,0.7915,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Alexander Blockx,Marco Trungelliti,0.8265,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Alex de Minaur,Botic van de Zandschulp,0.7172,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Jesper De Jong,Zizou Bergs,0.3118,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Carlos Alcaraz,Jaime Faria,0.8986,1,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Mattia Bellucci,Taylor Fritz,0.1417,0,,,10,US Open,Hard,2nd Round,5
+2026-09-03,138,Benjamin Bonzi,Ignacio Buse,0.4793,1,,,9,US Open,Hard,2nd Round,5
+2026-09-03,138,Arthur Gea,Zachary Svajda,0.4326,1,,,9,US Open,Hard,2nd Round,5
+2026-09-04,138,Alexander Zverev,Quentin Halys,0.8317,1,,,13,US Open,Hard,2nd Round,5
+2026-09-04,138,Jiri Lehecka,Stefanos Tsitsipas,0.616,0,,,10,US Open,Hard,3rd Round,5
+2026-09-04,138,Mariano Navone,Tomas Martin Etcheverry,0.4555,0,,,10,US Open,Hard,3rd Round,5
+2026-09-04,138,Gael Monfils,Learner Tien,0.194,0,,,10,US Open,Hard,2nd Round,5
+2026-09-04,138,Arthur Rinderknech,Daniil Medvedev,0.2838,0,,,10,US Open,Hard,3rd Round,5
+2026-09-04,138,Alex Michelsen,Daniel Merida Aguilar,0.6256,1,,,10,US Open,Hard,3rd Round,5
+2026-09-04,138,Alexander Bublik,Tommy Paul,0.3834,0,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Alexander Blockx,Flavio Cobolli,0.4889,1,,,13,US Open,Hard,3rd Round,5
+2026-09-05,138,Ben Shelton,Denis Shapovalov,0.7717,1,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Dane Sweeny,Luciano Darderi,0.2499,0,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Arthur Gea,Michael Zheng,0.4316,1,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Botic van de Zandschulp,Zizou Bergs,0.6366,1,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Benjamin Bonzi,Karen Khachanov,0.3305,0,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Frances Tiafoe,Valentin Vacherot,0.6326,1,,,10,US Open,Hard,3rd Round,5
+2026-09-05,138,Francisco Cerundolo,Taylor Fritz,0.1573,1,,,10,US Open,Hard,3rd Round,5
+2026-09-06,139,Daniil Medvedev,Frances Tiafoe,0.6026,0,,,13,US Open,Hard,4th Round,5
+2026-09-06,139,Carlos Alcaraz,Tommy Paul,0.7923,1,,,10,US Open,Hard,4th Round,5
+2026-09-06,139,Alex Michelsen,Tomas Martin Etcheverry,0.7236,1,,,10,US Open,Hard,4th Round,5
+2026-09-06,139,Jakub Mensik,Learner Tien,0.4464,0,,,10,US Open,Hard,3rd Round,5
+2026-09-06,139,Alejandro Tabilo,Alexander Zverev,0.1928,0,,,10,US Open,Hard,3rd Round,5
+2026-09-07,139,Karen Khachanov,Learner Tien,0.3789,1,,,13,US Open,Hard,4th Round,5
+2026-09-07,139,Arthur Gea,Botic van de Zandschulp,0.4335,0,,,9,US Open,Hard,4th Round,5
+2026-09-07,139,Ben Shelton,Stefanos Tsitsipas,0.7148,1,,,10,US Open,Hard,4th Round,5
+2026-09-09,139,Ben Shelton,Carlos Alcaraz,0.2377,1,,,12,US Open,Hard,Quarterfinals,5
+2026-09-10,139,Alexander Zverev,Botic van de Zandschulp,0.8583,1,,,11,US Open,Hard,Quarterfinals,5
+2026-09-11,139,Alexander Zverev,Karen Khachanov,0.7985,1,,,10,US Open,Hard,Semifinals,5
+2026-09-12,139,Ben Shelton,Frances Tiafoe,0.718,1,,,11,US Open,Hard,Semifinals,5
+2026-09-13,140,Alexander Zverev,Ben Shelton,0.5706,1,,,10,US Open,Hard,The Final,5
+2026-09-30,142,Novak Djokovic,Nuno Borges,0.711,1,,,11,China Open,Hard,1st Round,3
+2026-09-30,142,Arthur Gea,Zhizhen Zhang,0.7757,1,,,11,China Open,Hard,1st Round,3
+2026-09-30,142,Alexander Blockx,Valentin Vacherot,0.5703,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-09-30,142,Alejandro Tabilo,Tommy Paul,0.3022,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-09-30,142,Matteo Arnaldi,Rei Sakamoto,0.4373,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-09-30,142,Arthur Fils,Luca Van Assche,0.8392,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Ignacio Buse,Quentin Halys,0.4606,0,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Hubert Hurkacz,Learner Tien,0.3815,1,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Flavio Cobolli,Roman Safiullin,0.5311,0,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Alexander Bublik,Jakub Mensik,0.4021,0,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Alexander Zverev,Cameron Norrie,0.868,1,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Juncheng Shang,Sebastian Baez,0.5757,1,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Andrey Rublev,Tallon Griekspoor,0.6156,1,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Alex de Minaur,Mariano Navone,0.7818,1,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Botic van de Zandschulp,Francisco Cerundolo,0.4326,0,,,10,China Open,Hard,1st Round,3
+2026-10-01,142,Jiri Lehecka,Zizou Bergs,0.7045,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Stefanos Tsitsipas,Tomas Martin Etcheverry,0.7024,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Frances Tiafoe,Kei Nishikori,0.8048,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Holger Rune,Kyrian Jacquet,0.6184,0,,,9,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Casper Ruud,Luciano Darderi,0.662,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Arthur Fery,Jaime Faria,0.4874,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Brandon Nakashima,Ugo Humbert,0.6599,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Jaume Munar,Taylor Fritz,0.2618,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Denis Shapovalov,Sho Shimabukuro,0.7162,1,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Alejandro Davidovich Fokina,Matteo Berrettini,0.5764,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-01,142,Alex Michelsen,Carlos Alcaraz,0.1756,0,,,10,Japan Open Tennis Championships,Hard,1st Round,3
+2026-10-02,142,Daniil Medvedev,Pablo Carreno Busta,0.7871,1,,,10,China Open,Hard,1st Round,3
+2026-10-02,142,Arthur Gea,Hubert Hurkacz,0.4312,0,,,10,China Open,Hard,2nd Round,3
+2026-10-02,142,Alex Molcan,Karen Khachanov,0.2308,0,,,10,China Open,Hard,2nd Round,3
+2026-10-02,142,Kyrian Jacquet,Luciano Darderi,0.446,1,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-02,142,Arthur Fils,Frances Tiafoe,0.6887,1,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-02,142,Stefanos Tsitsipas,Valentin Vacherot,0.6072,0,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-02,142,Jaime Faria,Jaume Munar,0.4058,0,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-03,142,Francisco Cerundolo,Jakub Mensik,0.3588,1,,,10,China Open,Hard,2nd Round,3
+2026-10-03,142,Alex de Minaur,Quentin Halys,0.719,1,,,10,China Open,Hard,2nd Round,3
+2026-10-03,142,Alexander Zverev,Juncheng Shang,0.8886,1,,,10,China Open,Hard,2nd Round,3
+2026-10-03,142,Andrey Rublev,Roman Safiullin,0.5687,1,,,10,China Open,Hard,2nd Round,3
+2026-10-03,142,Alejandro Tabilo,Denis Shapovalov,0.4318,0,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-03,142,Jiri Lehecka,Ugo Humbert,0.5994,1,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-03,142,Carlos Alcaraz,Matteo Arnaldi,0.9058,1,,,10,Japan Open Tennis Championships,Hard,2nd Round,3
+2026-10-04,143,Daniil Medvedev,Francisco Cerundolo,0.6916,1,,,10,China Open,Hard,Quarterfinals,3
+2026-10-04,143,Hubert Hurkacz,Karen Khachanov,0.4165,1,,,10,China Open,Hard,Quarterfinals,3
+2026-10-04,143,Alex de Minaur,Andrey Rublev,0.5355,1,,,9,China Open,Hard,Quarterfinals,3
+2026-10-04,143,Alexander Zverev,Novak Djokovic,0.6967,0,,,10,China Open,Hard,Quarterfinals,3
+2026-10-04,143,Jaume Munar,Kyrian Jacquet,0.5776,1,,,10,Japan Open Tennis Championships,Hard,Quarterfinals,3
+2026-10-04,143,Arthur Fils,Valentin Vacherot,0.7679,0,,,10,Japan Open Tennis Championships,Hard,Quarterfinals,3
+2026-10-05,143,Jiri Lehecka,Valentin Vacherot,0.6338,1,,,10,Japan Open Tennis Championships,Hard,Semifinals,3
+2026-10-05,143,Carlos Alcaraz,Jaume Munar,0.8582,1,,,10,Japan Open Tennis Championships,Hard,Semifinals,3
+2026-10-06,143,Carlos Alcaraz,Jiri Lehecka,0.7564,1,,,9,Japan Open Tennis Championships,Hard,The Final,3
+2026-10-07,143,Miomir Kecmanovic,Sho Shimabukuro,0.6772,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Aleksandar Kovacevic,Matteo Berrettini,0.3708,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Arthur Gea,Jaime Faria,0.6266,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Tomas Machac,Zhizhen Zhang,0.6733,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Rinky Hijikata,Roman Safiullin,0.2847,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Arthur Fery,Marin Cilic,0.6004,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Alex Molcan,Federico Cinà,0.5942,1,,,9,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Mattia Bellucci,Yi Zhou,0.7512,0,,,9,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Marco Trungelliti,Rei Sakamoto,0.342,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Kamil Majchrzak,Yannick Hanfmann,0.605,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-07,143,Daniel Altmaier,Holger Rune,0.35,1,,,9,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Hubert Hurkacz,James Duckworth,0.6724,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Facundo Diaz Acosta,Nuno Borges,0.2559,0,,,9,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Marcos Giron,Sebastian Baez,0.4543,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Fabian Marozsan,Zachary Svajda,0.5189,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Botic van de Zandschulp,Daniel Merida Aguilar,0.4871,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Mariano Navone,Pablo Carreno Busta,0.5397,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Vit Kopriva,Zizou Bergs,0.3042,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Jaume Munar,Jenson Brooksby,0.6119,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Pavel Kotov,Tallon Griekspoor,0.3488,1,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Kimmer Coppejans,Stefanos Tsitsipas,0.1196,0,,,10,Shanghai Masters,Hard,1st Round,3
+2026-10-08,143,Bernard Tomic,Matteo Arnaldi,0.3374,0,,,9,Shanghai Masters,Hard,1st Round,3
+2026-10-09,143,Andrey Rublev,Rei Sakamoto,0.7027,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Ben Shelton,Daniel Altmaier,0.8536,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Lorenzo Musetti,Yi Zhou,0.7967,0,,,9,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Frances Tiafoe,Yannick Hanfmann,0.6943,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Brandon Nakashima,Matteo Berrettini,0.5934,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Alexander Blockx,Quentin Halys,0.525,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Jakub Mensik,Miomir Kecmanovic,0.7242,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Alexander Bublik,Tomas Machac,0.6301,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Francisco Cerundolo,Roman Safiullin,0.5005,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Arthur Fery,Karen Khachanov,0.3333,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Alejandro Davidovich Fokina,Jenson Brooksby,0.6729,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Arthur Gea,Ugo Humbert,0.5271,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Adrian Mannarino,Flavio Cobolli,0.3648,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-09,143,Hubert Hurkacz,Novak Djokovic,0.3677,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Arthur Fils,Pavel Kotov,0.873,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Jiri Lehecka,Nuno Borges,0.7089,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Alejandro Tabilo,Pablo Carreno Busta,0.6242,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Matteo Arnaldi,Taylor Fritz,0.2388,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Dalibor Svrcina,Tomas Martin Etcheverry,0.422,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Learner Tien,Zachary Svajda,0.7142,1,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Luciano Darderi,Stefanos Tsitsipas,0.3248,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Ignacio Buse,Zizou Bergs,0.3771,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Alex Michelsen,Botic van de Zandschulp,0.6353,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-10,143,Sebastian Baez,Valentin Vacherot,0.2685,0,,,10,Shanghai Masters,Hard,2nd Round,3
+2026-10-11,144,Adrian Mannarino,Karen Khachanov,0.2552,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Hubert Hurkacz,Yi Zhou,0.8459,1,,,9,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Francisco Cerundolo,Jakub Mensik,0.415,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Alexander Bublik,Brandon Nakashima,0.4667,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Alejandro Davidovich Fokina,Frances Tiafoe,0.4979,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Alexander Zverev,Quentin Halys,0.8395,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Arthur Gea,Ben Shelton,0.29,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-11,144,Alex de Minaur,Rei Sakamoto,0.69,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Casper Ruud,Learner Tien,0.417,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Stefanos Tsitsipas,Taylor Fritz,0.4042,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Tommy Paul,Valentin Vacherot,0.6016,1,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Jiri Lehecka,Rafael Jodar,0.5894,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Dalibor Svrcina,Daniil Medvedev,0.1529,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Carlos Alcaraz,Zizou Bergs,0.8974,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-12,144,Arthur Fils,Botic van de Zandschulp,0.7796,0,,,10,Shanghai Masters,Hard,3rd Round,3
+2026-10-13,144,Alejandro Davidovich Fokina,Hubert Hurkacz,0.4873,1,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-13,144,Alexander Bublik,Alexander Zverev,0.2862,0,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-13,144,Alex de Minaur,Karen Khachanov,0.541,1,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-13,144,Arthur Gea,Jakub Mensik,0.3864,1,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-14,144,Tommy Paul,Zizou Bergs,0.657,1,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-14,144,Daniil Medvedev,Stefanos Tsitsipas,0.6609,1,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-14,144,Botic van de Zandschulp,Rafael Jodar,0.3657,0,,,10,Shanghai Masters,Hard,4th Round,3
+2026-10-15,144,Alex de Minaur,Alexander Zverev,0.3553,0,,,10,Shanghai Masters,Hard,Quarterfinals,3
+2026-10-16,144,Daniil Medvedev,Tommy Paul,0.6756,1,,,10,Shanghai Masters,Hard,Quarterfinals,3
+2026-10-16,144,Casper Ruud,Rafael Jodar,0.4527,0,,,10,Shanghai Masters,Hard,Quarterfinals,3
+2026-10-17,144,Alejandro Davidovich Fokina,Alexander Zverev,0.2339,1,,,9,Shanghai Masters,Hard,Semifinals,3
+2026-10-17,144,Daniil Medvedev,Rafael Jodar,0.6275,0,,,9,Shanghai Masters,Hard,Semifinals,3
+2026-10-18,145,Alejandro Davidovich Fokina,Rafael Jodar,0.4456,1,,,10,Shanghai Masters,Hard,The Final,3
+2026-10-26,146,Holger Rune,Quentin Halys,0.5016,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-26,146,Mariano Navone,Valentin Vacherot,0.3625,0,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-26,146,Casper Ruud,Dominic Stephan Stricker,0.6863,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-26,146,Matteo Berrettini,Tomas Martin Etcheverry,0.6111,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-26,146,Alex de Minaur,Tomas Machac,0.6729,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-26,146,Jakub Mensik,Lukas Neumayer,0.8259,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-26,146,Luciano Darderi,Matteo Arnaldi,0.4521,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-26,146,Learner Tien,Luca Van Assche,0.6806,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Hubert Hurkacz,Zizou Bergs,0.6262,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Alejandro Tabilo,Rafael Jodar,0.2752,0,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Arthur Rinderknech,Jerome Kym,0.474,0,,,9,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Arthur Fils,Giovanni Mpetshi Perricard,0.7607,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Alex Michelsen,Botic van de Zandschulp,0.6095,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Aleksandar Kovacevic,Ben Shelton,0.1997,0,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Jiri Lehecka,Stan Wawrinka,0.8162,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-27,146,Adrian Mannarino,Ignacio Buse,0.6259,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Andrey Rublev,Tommy Paul,0.4613,0,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Carlos Alcaraz,Karen Khachanov,0.791,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Alexander Zverev,Martin Landaluce,0.8814,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Flavio Cobolli,Grigor Dimitrov,0.6589,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-27,146,Cameron Norrie,Francisco Cerundolo,0.3541,1,,,10,Erste Bank Open,,1st Round,3
+2026-10-28,146,Novak Djokovic,Ugo Humbert,0.6929,1,,,10,Swiss Indoors Basel,,1st Round,3
+2026-10-28,146,Casper Ruud,Nuno Borges,0.6304,0,,,10,Swiss Indoors Basel,,2nd Round,3
+2026-10-28,146,Brandon Nakashima,Tallon Griekspoor,0.6618,0,,,10,Erste Bank Open,,1st Round,3
+2026-10-28,146,Jurij Rodionov,Nikoloz Basilashvili,0.4355,0,,,10,Erste Bank Open,,1st Round,3
+2026-10-28,146,Frances Tiafoe,Lorenzo Musetti,0.5181,0,,,9,Erste Bank Open,,1st Round,3
+2026-10-28,146,Adrian Mannarino,Jakub Mensik,0.1982,1,,,10,Erste Bank Open,,2nd Round,3

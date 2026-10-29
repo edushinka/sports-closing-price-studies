@@ -1,0 +1,425 @@
+date_utc,week,home_team,away_team,home_no_vig_close_prob,home_won,home_score,away_score,n_books,format,gender,toss_winner
+2023-01-09,1,Pakistan,New Zealand,0.555,1,,,5,One-day internationals (ODI),Men,Pakistan
+2023-01-10,1,India,Sri Lanka,0.7645,1,,,5,One-day internationals (ODI),Men,Sri Lanka
+2023-01-11,1,Pakistan,New Zealand,0.5426,0,,,5,One-day internationals (ODI),Men,New Zealand
+2023-01-12,1,India,Sri Lanka,0.7736,1,,,5,One-day internationals (ODI),Men,Sri Lanka
+2023-01-13,1,Pakistan,New Zealand,0.5217,0,,,5,One-day internationals (ODI),Men,Pakistan
+2023-01-15,1,India,Sri Lanka,0.7555,1,,,5,One-day internationals (ODI),Men,India
+2023-01-18,2,Zimbabwe,Ireland,0.5685,1,,,5,One-day internationals (ODI),Men,Zimbabwe
+2023-01-18,2,India,New Zealand,0.6817,1,,,5,One-day internationals (ODI),Men,India
+2023-01-21,2,Zimbabwe,Ireland,0.577,0,,,5,One-day internationals (ODI),Men,Zimbabwe
+2023-01-21,2,India,New Zealand,0.7117,1,,,5,One-day internationals (ODI),Men,India
+2023-01-24,3,India,New Zealand,0.7256,1,,,5,One-day internationals (ODI),Men,New Zealand
+2023-01-27,3,South Africa,England,0.3915,1,,,5,One-day internationals (ODI),Men,South Africa
+2023-01-29,3,South Africa,England,0.4349,1,,,5,One-day internationals (ODI),Men,South Africa
+2023-02-01,4,South Africa,England,0.4421,0,,,5,One-day internationals (ODI),Men,South Africa
+2023-03-01,8,Bangladesh,England,0.3109,0,,,3,One-day internationals (ODI),Men,Bangladesh
+2023-03-03,8,Bangladesh,England,0.348,0,,,5,One-day internationals (ODI),Men,Bangladesh
+2023-03-06,9,Bangladesh,England,0.32,1,,,5,One-day internationals (ODI),Men,Bangladesh
+2023-03-17,10,India,Australia,0.5881,1,,,6,One-day internationals (ODI),Men,India
+2023-03-18,10,Bangladesh,Ireland,0.7754,1,,,6,One-day internationals (ODI),Men,Ireland
+2023-03-18,10,South Africa,West Indies,0.7518,0,,,7,One-day internationals (ODI),Men,West Indies
+2023-03-19,10,India,Australia,0.5925,0,,,6,One-day internationals (ODI),Men,Australia
+2023-03-21,11,South Africa,West Indies,0.6771,1,,,7,One-day internationals (ODI),Men,South Africa
+2023-03-21,11,Zimbabwe,Netherlands,0.6675,0,,,7,One-day internationals (ODI),Men,Netherlands
+2023-03-22,11,India,Australia,0.5699,0,,,6,One-day internationals (ODI),Men,Australia
+2023-03-23,11,Zimbabwe,Netherlands,0.6618,1,,,7,One-day internationals (ODI),Men,Zimbabwe
+2023-03-23,11,Bangladesh,Ireland,0.8126,1,,,6,One-day internationals (ODI),Men,Ireland
+2023-03-25,11,Zimbabwe,Netherlands,0.6597,1,,,7,One-day internationals (ODI),Men,Netherlands
+2023-03-25,11,New Zealand,Sri Lanka,0.6639,1,,,6,One-day internationals (ODI),Men,Sri Lanka
+2023-03-31,12,New Zealand,Sri Lanka,0.6812,1,,,6,One-day internationals (ODI),Men,Sri Lanka
+2023-03-31,12,South Africa,Netherlands,0.9402,1,,,4,One-day internationals (ODI),Men,South Africa
+2023-04-02,12,South Africa,Netherlands,0.946,1,,,4,One-day internationals (ODI),Men,Netherlands
+2023-04-27,16,Pakistan,New Zealand,0.6892,1,,,7,One-day internationals (ODI),Men,Pakistan
+2023-04-29,16,Pakistan,New Zealand,0.6914,1,,,7,One-day internationals (ODI),Men,Pakistan
+2023-05-03,17,Pakistan,New Zealand,0.6539,1,,,8,One-day internationals (ODI),Men,New Zealand
+2023-05-05,17,Pakistan,New Zealand,0.6518,1,,,8,One-day internationals (ODI),Men,New Zealand
+2023-05-07,17,Pakistan,New Zealand,0.6572,0,,,8,One-day internationals (ODI),Men,New Zealand
+2023-05-12,18,Ireland,Bangladesh,0.3539,0,,,7,One-day internationals (ODI),Men,Bangladesh
+2023-05-14,18,Ireland,Bangladesh,0.3662,0,,,7,One-day internationals (ODI),Men,Ireland
+2023-06-04,21,United Arab Emirates,West Indies,0.2132,0,,,8,One-day internationals (ODI),Men,United Arab Emirates
+2023-06-06,22,United Arab Emirates,West Indies,0.1867,0,,,8,One-day internationals (ODI),Men,West Indies
+2023-06-09,22,United Arab Emirates,West Indies,0.1573,0,,,8,One-day internationals (ODI),Men,United Arab Emirates
+2023-07-27,29,West Indies,India,0.2376,0,,,7,One-day internationals (ODI),Men,India
+2023-07-29,29,West Indies,India,0.2141,1,,,7,One-day internationals (ODI),Men,West Indies
+2023-08-01,30,West Indies,India,0.2349,0,,,8,One-day internationals (ODI),Men,West Indies
+2023-08-23,33,St Kitts & Nevis Patriots,Jamaica Tallawahs,0.4839,0,,,7,Caribbean Premier League (T20),Men,Jamaica Tallawahs
+2023-08-24,33,St Kitts & Nevis Patriots,Guyana Amazon Warriors,0.4605,0,,,7,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2023-08-26,33,St Kitts & Nevis Patriots,Barbados Royals,0.5548,0,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2023-08-26,33,Saint Lucia Kings,Trinbago Knight Riders,0.4234,1,,,7,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2023-08-27,33,Jamaica Tallawahs,Guyana Amazon Warriors,0.4775,0,,,7,Caribbean Premier League (T20),Men,Jamaica Tallawahs
+2023-08-30,34,Barbados Royals,Trinbago Knight Riders,0.3886,0,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2023-08-31,34,Barbados Royals,Jamaica Tallawahs,0.4363,1,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2023-09-02,34,Guyana Amazon Warriors,St Kitts & Nevis Patriots,0.5908,1,,,7,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2023-09-02,34,Barbados Royals,Saint Lucia Kings,0.4676,0,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2023-09-03,34,Jamaica Tallawahs,Trinbago Knight Riders,0.3975,0,,,6,Caribbean Premier League (T20),Men,Jamaica Tallawahs
+2023-09-03,34,Barbados Royals,St Kitts & Nevis Patriots,0.5497,1,,,6,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2023-09-05,35,Trinbago Knight Riders,Guyana Amazon Warriors,0.5815,0,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-07,35,South Africa,Australia,0.447,0,,,9,One-day internationals (ODI),Men,Australia
+2023-09-08,35,England,New Zealand,0.6414,0,,,8,One-day internationals (ODI),Men,New Zealand
+2023-09-09,35,South Africa,Australia,0.4451,0,,,9,One-day internationals (ODI),Men,South Africa
+2023-09-09,35,St Kitts & Nevis Patriots,Saint Lucia Kings,0.4169,1,,,7,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2023-09-09,35,Trinbago Knight Riders,Jamaica Tallawahs,0.6095,1,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2023-09-10,35,England,New Zealand,0.6202,1,,,8,One-day internationals (ODI),Men,New Zealand
+2023-09-10,35,Barbados Royals,Guyana Amazon Warriors,0.4497,0,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-12,36,South Africa,Australia,0.4128,1,,,9,One-day internationals (ODI),Men,Australia
+2023-09-13,36,England,New Zealand,0.6409,1,,,8,One-day internationals (ODI),Men,New Zealand
+2023-09-13,36,Guyana Amazon Warriors,Jamaica Tallawahs,0.5871,1,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-14,36,Guyana Amazon Warriors,Saint Lucia Kings,0.5844,0,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-15,36,South Africa,Australia,0.4147,1,,,9,One-day internationals (ODI),Men,Australia
+2023-09-15,36,England,New Zealand,0.6568,1,,,6,One-day internationals (ODI),Men,England
+2023-09-16,36,Jamaica Tallawahs,St Kitts & Nevis Patriots,0.5679,1,,,7,Caribbean Premier League (T20),Men,Jamaica Tallawahs
+2023-09-16,36,Guyana Amazon Warriors,Trinbago Knight Riders,0.432,1,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-17,36,South Africa,Australia,0.4507,1,,,9,One-day internationals (ODI),Men,Australia
+2023-09-17,36,Guyana Amazon Warriors,Barbados Royals,0.5847,1,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2023-09-20,37,Guyana Amazon Warriors,Trinbago Knight Riders,0.475,0,,,7,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2023-09-22,37,India,Australia,0.5054,1,,,8,One-day internationals (ODI),Men,India
+2023-09-22,37,Guyana Amazon Warriors,Jamaica Tallawahs,0.5717,1,,,7,Caribbean Premier League (T20),Men,Jamaica Tallawahs
+2023-09-23,37,Bangladesh,New Zealand,0.5406,0,,,10,One-day internationals (ODI),Men,New Zealand
+2023-09-23,37,England,Ireland,0.8324,1,,,6,One-day internationals (ODI),Men,Ireland
+2023-09-24,37,India,Australia,0.5329,1,,,8,One-day internationals (ODI),Men,Australia
+2023-09-24,37,Trinbago Knight Riders,Guyana Amazon Warriors,0.5469,0,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2023-09-26,38,Bangladesh,New Zealand,0.4957,0,,,10,One-day internationals (ODI),Men,Bangladesh
+2023-09-27,38,India,Australia,0.586,0,,,8,One-day internationals (ODI),Men,Australia
+2023-12-03,47,West Indies,England,0.2843,1,,,8,One-day internationals (ODI),Men,England
+2023-12-06,48,West Indies,England,0.3389,0,,,8,One-day internationals (ODI),Men,England
+2023-12-09,48,West Indies,England,0.3368,1,,,7,One-day internationals (ODI),Men,West Indies
+2023-12-15,49,Zimbabwe,Ireland,0.4303,0,,,4,One-day internationals (ODI),Men,Zimbabwe
+2023-12-17,49,New Zealand,Bangladesh,0.7647,1,,,10,One-day internationals (ODI),Men,Bangladesh
+2023-12-17,49,South Africa,India,0.5068,0,,,8,One-day internationals (ODI),Men,South Africa
+2023-12-17,49,Zimbabwe,Ireland,0.4206,0,,,4,One-day internationals (ODI),Men,Ireland
+2023-12-19,50,South Africa,India,0.4762,1,,,8,One-day internationals (ODI),Men,South Africa
+2023-12-20,50,New Zealand,Bangladesh,0.7735,1,,,10,One-day internationals (ODI),Men,New Zealand
+2023-12-21,50,South Africa,India,0.5163,0,,,8,One-day internationals (ODI),Men,South Africa
+2023-12-23,50,New Zealand,Bangladesh,0.7745,0,,,10,One-day internationals (ODI),Men,Bangladesh
+2024-01-08,53,Sri Lanka,Zimbabwe,0.8093,1,,,7,One-day internationals (ODI),Men,Zimbabwe
+2024-01-11,53,Sri Lanka,Zimbabwe,0.7635,1,,,6,One-day internationals (ODI),Men,Zimbabwe
+2024-02-02,56,Australia,West Indies,0.8454,1,,,10,One-day internationals (ODI),Men,Australia
+2024-02-04,56,Australia,West Indies,0.8535,1,,,10,One-day internationals (ODI),Men,West Indies
+2024-02-06,57,Australia,West Indies,0.8347,1,,,10,One-day internationals (ODI),Men,Australia
+2024-03-13,62,Bangladesh,Sri Lanka,0.4043,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-03-15,62,Bangladesh,Sri Lanka,0.4127,0,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-03-18,63,Bangladesh,Sri Lanka,0.4121,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-07-18,80,Oman,Namibia,0.3709,0,,,3,One-day internationals (ODI),Men,Namibia
+2024-07-20,80,Scotland,Namibia,0.6076,1,,,3,One-day internationals (ODI),Men,Namibia
+2024-07-22,81,Scotland,Oman,0.7692,1,,,3,One-day internationals (ODI),Men,Scotland
+2024-07-24,81,Oman,Namibia,0.2603,1,,,3,One-day internationals (ODI),Men,Oman
+2024-07-26,81,Scotland,Namibia,0.6517,1,,,3,One-day internationals (ODI),Men,Namibia
+2024-08-04,82,Sri Lanka,India,0.2324,1,,,7,One-day internationals (ODI),Men,Sri Lanka
+2024-08-07,83,Sri Lanka,India,0.2546,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-08-11,83,Netherlands,Canada,0.6444,1,,,3,One-day internationals (ODI),Men,Canada
+2024-08-17,84,Netherlands,Canada,0.6686,1,,,3,One-day internationals (ODI),Men,Canada
+2024-08-31,86,St Kitts & Nevis Patriots,Trinbago Knight Riders,0.4072,0,,,6,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2024-09-01,86,St Kitts & Nevis Patriots,Saint Lucia Kings,0.5261,0,,,6,Caribbean Premier League (T20),Men,St Lucia Kings
+2024-09-01,86,Antigua & Barbuda Falcons,Barbados Royals,0.4309,0,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-03,87,Antigua & Barbuda Falcons,Saint Lucia Kings,0.3788,0,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2024-09-04,87,St Kitts & Nevis Patriots,Guyana Amazon Warriors,0.4418,0,,,6,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2024-09-05,87,Antigua & Barbuda Falcons,Trinbago Knight Riders,0.3227,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-06,87,St Kitts & Nevis Patriots,Barbados Royals,0.4797,0,,,6,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-07,87,Saint Lucia Kings,Guyana Amazon Warriors,0.5248,0,,,6,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2024-09-08,87,St Kitts & Nevis Patriots,Antigua & Barbuda Falcons,0.5735,0,,,4,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2024-09-10,88,Saint Lucia Kings,Trinbago Knight Riders,0.393,0,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-11,88,Barbados Royals,Antigua & Barbuda Falcons,0.6099,1,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-12,88,Saint Lucia Kings,St Kitts & Nevis Patriots,0.5128,1,,,6,Caribbean Premier League (T20),Men,St Lucia Kings
+2024-09-13,88,Barbados Royals,Trinbago Knight Riders,0.43,0,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-14,88,Barbados Royals,Guyana Amazon Warriors,0.5204,1,,,6,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2024-09-15,88,Saint Lucia Kings,Antigua & Barbuda Falcons,0.5867,1,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2024-09-16,89,Canada,Nepal,0.3968,1,,,3,One-day internationals (ODI),Men,Nepal
+2024-09-17,89,Barbados Royals,St Kitts & Nevis Patriots,0.5812,1,,,6,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-18,89,Nepal,Oman,0.5638,0,,,3,One-day internationals (ODI),Men,Oman
+2024-09-18,89,Trinbago Knight Riders,Guyana Amazon Warriors,0.613,1,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-19,89,England,Australia,0.4118,0,,,7,One-day internationals (ODI),Men,England
+2024-09-19,89,Trinbago Knight Riders,Antigua & Barbuda Falcons,0.6908,0,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2024-09-20,89,Canada,Oman,0.5814,1,,,3,One-day internationals (ODI),Men,Oman
+2024-09-20,89,Guyana Amazon Warriors,St Kitts & Nevis Patriots,0.5862,1,,,5,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2024-09-21,89,England,Australia,0.415,0,,,7,One-day internationals (ODI),Men,England
+2024-09-21,89,Guyana Amazon Warriors,Antigua & Barbuda Falcons,0.6228,1,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2024-09-22,89,Nepal,Canada,0.4004,0,,,3,One-day internationals (ODI),Men,Nepal
+2024-09-22,89,Trinbago Knight Riders,St Kitts & Nevis Patriots,0.6646,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-24,90,England,Australia,0.4037,1,,,7,One-day internationals (ODI),Men,England
+2024-09-24,90,Trinbago Knight Riders,Saint Lucia Kings,0.6025,0,,,7,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-09-25,90,Guyana Amazon Warriors,Barbados Royals,0.5217,1,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-26,90,Canada,Oman,0.6578,1,,,3,One-day internationals (ODI),Men,Canada
+2024-09-27,90,England,Australia,0.4383,1,,,7,One-day internationals (ODI),Men,Australia
+2024-09-27,90,Trinbago Knight Riders,Barbados Royals,0.6028,1,,,7,Caribbean Premier League (T20),Men,Barbados Royals
+2024-09-28,90,Guyana Amazon Warriors,Saint Lucia Kings,0.5612,1,,,7,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2024-09-29,90,England,Australia,0.4468,0,,,7,One-day internationals (ODI),Men,Australia
+2024-09-29,90,Guyana Amazon Warriors,Trinbago Knight Riders,0.4741,0,,,7,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-10-01,91,Trinbago Knight Riders,Barbados Royals,0.6051,0,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2024-10-02,91,Ireland,South Africa,0.2507,0,,,7,One-day internationals (ODI),Men,South Africa
+2024-10-02,91,Guyana Amazon Warriors,Saint Lucia Kings,0.5836,0,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2024-10-04,91,Ireland,South Africa,0.2249,0,,,7,One-day internationals (ODI),Men,South Africa
+2024-10-04,91,Guyana Amazon Warriors,Barbados Royals,0.5804,1,,,6,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2024-10-06,91,Saint Lucia Kings,Guyana Amazon Warriors,0.4496,1,,,6,Caribbean Premier League (T20),Men,St Lucia Kings
+2024-10-07,92,Ireland,South Africa,0.2048,1,,,7,One-day internationals (ODI),Men,Ireland
+2024-10-20,93,Sri Lanka,West Indies,0.6855,1,,,8,One-day internationals (ODI),Men,West Indies
+2024-10-23,94,Sri Lanka,West Indies,0.6847,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-10-26,94,Sri Lanka,West Indies,0.6808,0,,,8,One-day internationals (ODI),Men,West Indies
+2024-10-29,95,Nepal,Scotland,0.3176,1,,,3,One-day internationals (ODI),Men,Nepal
+2024-10-31,95,West Indies,England,0.4526,1,,,6,One-day internationals (ODI),Men,West Indies
+2024-11-02,95,West Indies,England,0.5056,0,,,6,One-day internationals (ODI),Men,England
+2024-11-04,96,Australia,Pakistan,0.7918,1,,,9,One-day internationals (ODI),Men,Australia
+2024-11-05,96,Oman,Netherlands,0.3307,1,,,3,One-day internationals (ODI),Men,Oman
+2024-11-06,96,West Indies,England,0.4608,1,,,6,One-day internationals (ODI),Men,West Indies
+2024-11-08,96,Australia,Pakistan,0.7912,0,,,9,One-day internationals (ODI),Men,Pakistan
+2024-11-10,96,Australia,Pakistan,0.646,0,,,9,One-day internationals (ODI),Men,Pakistan
+2024-11-11,97,Oman,Netherlands,0.3657,1,,,3,One-day internationals (ODI),Men,Netherlands
+2024-11-13,97,Sri Lanka,New Zealand,0.6709,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-11-17,97,Sri Lanka,New Zealand,0.6647,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2024-11-24,98,Zimbabwe,Pakistan,0.2251,1,,,8,One-day internationals (ODI),Men,Pakistan
+2024-11-26,99,Zimbabwe,Pakistan,0.3053,0,,,8,One-day internationals (ODI),Men,Zimbabwe
+2024-11-28,99,Zimbabwe,Pakistan,0.2483,0,,,8,One-day internationals (ODI),Men,Pakistan
+2024-12-08,100,West Indies,Bangladesh,0.7127,1,,,8,One-day internationals (ODI),Men,Bangladesh
+2024-12-10,101,West Indies,Bangladesh,0.6953,1,,,8,One-day internationals (ODI),Men,West Indies
+2024-12-12,101,West Indies,Bangladesh,0.7022,1,,,8,One-day internationals (ODI),Men,West Indies
+2024-12-17,102,South Africa,Pakistan,0.6081,0,,,8,One-day internationals (ODI),Men,South Africa
+2024-12-19,102,South Africa,Pakistan,0.6408,0,,,8,One-day internationals (ODI),Men,South Africa
+2024-12-22,102,South Africa,Pakistan,0.5835,0,,,8,One-day internationals (ODI),Men,South Africa
+2025-01-05,104,New Zealand,Sri Lanka,0.6164,1,,,8,One-day internationals (ODI),Men,New Zealand
+2025-01-08,105,New Zealand,Sri Lanka,0.6775,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-01-11,105,New Zealand,Sri Lanka,0.6925,0,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-02-06,109,India,England,0.6476,1,,,6,One-day internationals (ODI),Men,England
+2025-02-08,109,Pakistan,New Zealand,0.588,0,,,8,One-day internationals (ODI),Men,New Zealand
+2025-02-09,109,India,England,0.6495,1,,,6,One-day internationals (ODI),Men,England
+2025-02-10,110,New Zealand,South Africa,0.736,1,,,8,One-day internationals (ODI),Men,New Zealand
+2025-02-12,110,Sri Lanka,Australia,0.3397,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-02-12,110,India,England,0.667,1,,,6,One-day internationals (ODI),Men,England
+2025-02-12,110,Pakistan,South Africa,0.7031,1,,,8,One-day internationals (ODI),Men,South Africa
+2025-02-14,110,New Zealand,Pakistan,0.4323,1,,,8,One-day internationals (ODI),Men,Pakistan
+2025-02-14,110,Sri Lanka,Australia,0.3861,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-02-14,110,Zimbabwe,Ireland,0.4918,1,,,6,One-day internationals (ODI),Men,Ireland
+2025-02-16,110,Zimbabwe,Ireland,0.5134,0,,,6,One-day internationals (ODI),Men,Ireland
+2025-02-16,110,Oman,Namibia,0.4758,1,,,3,One-day internationals (ODI),Men,Namibia
+2025-02-18,111,Zimbabwe,Ireland,0.5119,1,,,6,One-day internationals (ODI),Men,Zimbabwe
+2025-03-07,113,Namibia,Netherlands,0.4017,0,,,3,One-day internationals (ODI),Men,Namibia
+2025-03-13,114,Namibia,Netherlands,0.3855,0,,,3,One-day internationals (ODI),Men,Namibia
+2025-03-15,114,Namibia,Canada,0.4386,1,,,3,One-day internationals (ODI),Men,Namibia
+2025-03-29,116,New Zealand,Pakistan,0.5821,1,,,8,One-day internationals (ODI),Men,Pakistan
+2025-05-21,124,Ireland,West Indies,0.3488,1,,,7,One-day internationals (ODI),Men,West Indies
+2025-05-25,124,Ireland,West Indies,0.3345,0,,,7,One-day internationals (ODI),Men,Ireland
+2025-06-01,125,England,West Indies,0.8373,1,,,8,One-day internationals (ODI),Men,England
+2025-07-02,130,Sri Lanka,Bangladesh,0.7307,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-07-05,130,Sri Lanka,Bangladesh,0.7225,0,,,8,One-day internationals (ODI),Men,Bangladesh
+2025-07-08,131,Sri Lanka,Bangladesh,0.6939,1,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-08-08,135,West Indies,Pakistan,0.3653,0,,,8,One-day internationals (ODI),Men,Pakistan
+2025-08-10,135,West Indies,Pakistan,0.3868,1,,,8,One-day internationals (ODI),Men,West Indies
+2025-08-12,136,West Indies,Pakistan,0.4022,1,,,7,One-day internationals (ODI),Men,Pakistan
+2025-08-14,136,St Kitts & Nevis Patriots,Antigua & Barbuda Falcons,0.6447,1,,,5,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2025-08-15,136,St Kitts & Nevis Patriots,Guyana Amazon Warriors,0.4393,0,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-08-16,136,Antigua & Barbuda Falcons,Barbados Royals,0.3571,1,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2025-08-17,136,St Kitts & Nevis Patriots,Trinbago Knight Riders,0.3786,0,,,5,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2025-08-19,137,Australia,South Africa,0.6614,0,,,7,One-day internationals (ODI),Men,Australia
+2025-08-19,137,St Kitts & Nevis Patriots,Saint Lucia Kings,0.5119,0,,,5,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2025-08-20,137,Antigua & Barbuda Falcons,Trinbago Knight Riders,0.2512,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2025-08-20,137,Welsh Fire,Southern Brave,0.4581,0,,,11,The Hundred (men),Men,Welsh Fire
+2025-08-20,137,London Spirit,Northern Superchargers,0.4361,0,,,10,The Hundred (men),Men,Northern Superchargers
+2025-08-21,137,St Kitts & Nevis Patriots,Barbados Royals,0.4653,1,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2025-08-21,137,Oval Invincibles,Trent Rockets,0.6197,1,,,11,The Hundred (men),Men,Oval Invincibles
+2025-08-22,137,Australia,South Africa,0.6424,0,,,8,One-day internationals (ODI),Men,South Africa
+2025-08-22,137,Antigua & Barbuda Falcons,Guyana Amazon Warriors,0.3277,0,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-08-22,137,Birmingham Phoenix,Welsh Fire,0.5547,0,,,11,The Hundred (men),Men,Welsh Fire
+2025-08-23,137,Saint Lucia Kings,Trinbago Knight Riders,0.3883,0,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-08-23,137,London Spirit,Southern Brave,0.4024,1,,,10,The Hundred (men),Men,Southern Brave
+2025-08-23,137,Northern Superchargers,Oval Invincibles,0.4187,1,,,10,The Hundred (men),Men,Oval Invincibles
+2025-08-24,137,Australia,South Africa,0.6352,1,,,8,One-day internationals (ODI),Men,Australia
+2025-08-24,137,Antigua & Barbuda Falcons,St Kitts & Nevis Patriots,0.4036,1,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2025-08-24,137,Manchester Originals,Birmingham Phoenix,0.5211,0,,,11,The Hundred (men),Men,Manchester Originals
+2025-08-24,137,Welsh Fire,Trent Rockets,0.4458,0,,,10,The Hundred (men),Men,Trent Rockets
+2025-08-25,138,Oval Invincibles,London Spirit,0.6124,1,,,10,The Hundred (men),Men,Oval Invincibles
+2025-08-26,138,Saint Lucia Kings,Guyana Amazon Warriors,0.4075,1,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-08-26,138,Northern Superchargers,Manchester Originals,0.5509,0,,,10,The Hundred (men),Men,Manchester Originals
+2025-08-27,138,Trinbago Knight Riders,Antigua & Barbuda Falcons,0.7218,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2025-08-27,138,Trent Rockets,Birmingham Phoenix,0.5556,1,,,11,The Hundred (men),Men,Trent Rockets
+2025-08-28,138,Saint Lucia Kings,St Kitts & Nevis Patriots,0.5617,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-08-28,138,Southern Brave,Welsh Fire,0.5385,1,,,10,The Hundred (men),Men,Welsh Fire
+2025-08-29,138,Zimbabwe,Sri Lanka,0.24,0,,,8,One-day internationals (ODI),Men,Zimbabwe
+2025-08-29,138,Trinbago Knight Riders,Barbados Royals,0.6793,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2025-08-30,138,Trinbago Knight Riders,Guyana Amazon Warriors,0.5705,1,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2025-08-31,138,Zimbabwe,Sri Lanka,0.2813,0,,,8,One-day internationals (ODI),Men,Sri Lanka
+2025-08-31,138,Saint Lucia Kings,Antigua & Barbuda Falcons,0.6479,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-01,139,Trinbago Knight Riders,St Kitts & Nevis Patriots,0.6795,1,,,5,Caribbean Premier League (T20),Men,St Kitts and Nevis Patriots
+2025-09-02,139,England,South Africa,0.6088,0,,,7,One-day internationals (ODI),Men,South Africa
+2025-09-03,139,Trinbago Knight Riders,Saint Lucia Kings,0.6064,0,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-04,139,England,South Africa,0.5931,0,,,8,One-day internationals (ODI),Men,England
+2025-09-04,139,Barbados Royals,Guyana Amazon Warriors,0.4079,0,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-09-05,139,Barbados Royals,Antigua & Barbuda Falcons,0.6061,0,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2025-09-06,139,Guyana Amazon Warriors,Trinbago Knight Riders,0.4156,1,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-09-07,139,England,South Africa,0.5837,1,,,7,One-day internationals (ODI),Men,South Africa
+2025-09-07,139,Barbados Royals,Saint Lucia Kings,0.3988,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-10,140,Guyana Amazon Warriors,Antigua & Barbuda Falcons,0.6911,0,,,5,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2025-09-11,140,Barbados Royals,St Kitts & Nevis Patriots,0.572,0,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2025-09-12,140,Barbados Royals,Trinbago Knight Riders,0.3404,1,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2025-09-13,140,Guyana Amazon Warriors,Saint Lucia Kings,0.5327,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-14,140,Guyana Amazon Warriors,Barbados Royals,0.6142,1,,,5,Caribbean Premier League (T20),Men,Barbados Royals
+2025-09-16,141,Trinbago Knight Riders,Antigua & Barbuda Falcons,0.7292,1,,,3,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2025-09-17,141,Saint Lucia Kings,Guyana Amazon Warriors,0.4375,0,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-19,141,Trinbago Knight Riders,Saint Lucia Kings,0.5956,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2025-09-21,141,Guyana Amazon Warriors,Trinbago Knight Riders,0.4265,0,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2025-10-18,145,Bangladesh,West Indies,0.5748,1,,,10,One-day internationals (ODI),Men,West Indies
+2025-10-19,145,Australia,India,0.5482,1,,,11,One-day internationals (ODI),Men,Australia
+2025-10-23,146,Australia,India,0.5851,1,,,11,One-day internationals (ODI),Men,Australia
+2025-10-23,146,Bangladesh,West Indies,0.5855,1,,,11,One-day internationals (ODI),Men,Bangladesh
+2025-10-25,146,Australia,India,0.5557,0,,,11,One-day internationals (ODI),Men,Australia
+2025-10-29,147,New Zealand,England,0.4175,1,,,11,One-day internationals (ODI),Men,New Zealand
+2025-11-01,147,New Zealand,England,0.42,1,,,11,One-day internationals (ODI),Men,New Zealand
+2025-11-04,148,Pakistan,South Africa,0.6489,1,,,11,One-day internationals (ODI),Men,Pakistan
+2025-11-06,148,Pakistan,South Africa,0.6477,0,,,11,One-day internationals (ODI),Men,Pakistan
+2025-11-08,148,Pakistan,South Africa,0.6151,1,,,11,One-day internationals (ODI),Men,South Africa
+2025-11-11,149,Pakistan,Sri Lanka,0.6152,1,,,11,One-day internationals (ODI),Men,Sri Lanka
+2025-11-14,149,Pakistan,Sri Lanka,0.6111,1,,,11,One-day internationals (ODI),Men,Pakistan
+2025-11-16,149,New Zealand,West Indies,0.7806,1,,,11,One-day internationals (ODI),Men,West Indies
+2025-11-16,149,Pakistan,Sri Lanka,0.6134,1,,,11,One-day internationals (ODI),Men,Pakistan
+2025-11-19,150,New Zealand,West Indies,0.7507,1,,,11,One-day internationals (ODI),Men,New Zealand
+2025-11-22,150,New Zealand,West Indies,0.7482,1,,,11,One-day internationals (ODI),Men,West Indies
+2025-11-30,151,India,South Africa,0.6871,1,,,11,One-day internationals (ODI),Men,South Africa
+2025-12-03,152,India,South Africa,0.6794,0,,,11,One-day internationals (ODI),Men,South Africa
+2025-12-06,152,India,South Africa,0.6663,1,,,11,One-day internationals (ODI),Men,India
+2026-01-11,157,India,New Zealand,0.8238,1,,,11,One-day internationals (ODI),Men,India
+2026-01-14,158,India,New Zealand,0.79,0,,,11,One-day internationals (ODI),Men,New Zealand
+2026-01-18,158,India,New Zealand,0.7474,0,,,11,One-day internationals (ODI),Men,India
+2026-01-22,159,Sri Lanka,England,0.4345,1,,,11,One-day internationals (ODI),Men,Sri Lanka
+2026-01-24,159,Sri Lanka,England,0.4358,0,,,11,One-day internationals (ODI),Men,Sri Lanka
+2026-01-27,160,Sri Lanka,England,0.4226,0,,,11,One-day internationals (ODI),Men,England
+2026-03-11,166,Bangladesh,Pakistan,0.4223,1,,,11,One-day internationals (ODI),Men,Bangladesh
+2026-03-13,166,Bangladesh,Pakistan,0.4638,0,,,11,One-day internationals (ODI),Men,Bangladesh
+2026-03-15,166,Bangladesh,Pakistan,0.4254,1,,,11,One-day internationals (ODI),Men,Pakistan
+2026-04-04,169,Namibia,Oman,0.5252,0,,,4,One-day internationals (ODI),Men,Oman
+2026-04-08,170,Scotland,Oman,0.6968,0,,,4,One-day internationals (ODI),Men,Scotland
+2026-04-10,170,Namibia,Oman,0.5649,1,,,4,One-day internationals (ODI),Men,Namibia
+2026-04-17,171,Bangladesh,New Zealand,0.6581,0,,,11,One-day internationals (ODI),Men,New Zealand
+2026-04-20,172,Bangladesh,New Zealand,0.6007,1,,,11,One-day internationals (ODI),Men,New Zealand
+2026-04-23,172,Bangladesh,New Zealand,0.6094,1,,,11,One-day internationals (ODI),Men,New Zealand
+2026-04-29,173,Nepal,Oman,0.5636,0,,,4,One-day internationals (ODI),Men,Oman
+2026-05-05,174,Nepal,Oman,0.5366,1,,,4,One-day internationals (ODI),Men,Nepal
+2026-05-12,175,Nepal,Scotland,0.4518,0,,,4,One-day internationals (ODI),Men,Scotland
+2026-05-18,176,Nepal,Scotland,0.464,1,,,4,One-day internationals (ODI),Men,Scotland
+2026-05-30,177,Pakistan,Australia,0.5296,1,,,10,One-day internationals (ODI),Men,Pakistan
+2026-06-02,178,Pakistan,Australia,0.5737,0,,,11,One-day internationals (ODI),Men,Pakistan
+2026-06-03,178,West Indies,Sri Lanka,0.4496,0,,,11,One-day internationals (ODI),Men,West Indies
+2026-06-04,178,Pakistan,Australia,0.5446,1,,,11,One-day internationals (ODI),Men,Australia
+2026-06-09,179,Bangladesh,Australia,0.4092,1,,,11,One-day internationals (ODI),Men,Australia
+2026-06-10,179,Canada,Netherlands,0.4054,1,,,4,One-day internationals (ODI),Men,Canada
+2026-06-11,179,Bangladesh,Australia,0.4289,1,,,11,One-day internationals (ODI),Men,Australia
+2026-06-14,179,Bangladesh,Australia,0.4641,0,,,11,One-day internationals (ODI),Men,Bangladesh
+2026-07-06,183,Zimbabwe,Bangladesh,0.4195,1,,,11,One-day internationals (ODI),Men,Bangladesh
+2026-07-09,183,Zimbabwe,Bangladesh,0.3083,1,,,5,One-day internationals (ODI),Men,Bangladesh
+2026-07-11,183,Zimbabwe,Bangladesh,0.4328,0,,,11,One-day internationals (ODI),Men,Bangladesh
+2026-07-11,183,West Indies,New Zealand,0.4186,1,,,11,One-day internationals (ODI),Men,West Indies
+2026-07-13,184,West Indies,New Zealand,0.4325,0,,,11,One-day internationals (ODI),Men,New Zealand
+2026-07-14,184,England,India,0.5335,0,,,11,One-day internationals (ODI),Men,England
+2026-07-16,184,West Indies,New Zealand,0.3943,0,,,11,One-day internationals (ODI),Men,New Zealand
+2026-07-16,184,England,India,0.533,1,,,11,One-day internationals (ODI),Men,England
+2026-07-19,184,West Indies,New Zealand,0.3918,0,,,11,One-day internationals (ODI),Men,New Zealand
+2026-07-19,184,England,India,0.535,1,,,11,One-day internationals (ODI),Men,England
+2026-07-21,185,West Indies,New Zealand,0.3919,1,,,11,One-day internationals (ODI),Men,West Indies
+2026-07-21,185,Nepal,Namibia,0.6038,0,,,4,One-day internationals (ODI),Men,Namibia
+2026-07-23,185,Netherlands,Nepal,0.6122,1,,,4,One-day internationals (ODI),Men,Netherlands
+2026-07-25,185,Namibia,Netherlands,0.3926,0,,,4,One-day internationals (ODI),Men,Namibia
+2026-07-27,186,Namibia,Nepal,0.4698,1,,,4,One-day internationals (ODI),Men,Nepal
+2026-07-28,186,Sunrisers Leeds,Manchester Super Giants,0.4516,0,,,4,The Hundred (women),Women,Manchester Super Giants
+2026-07-29,186,Welsh Fire,Trent Rockets,0.4217,0,,,10,The Hundred (men),Men,Trent Rockets
+2026-07-29,186,MI London,London Spirit,0.5231,0,,,9,The Hundred (men),Men,London Spirit
+2026-07-29,186,Welsh Fire,Trent Rockets,0.4117,0,,,8,The Hundred (women),Women,Trent Rockets
+2026-07-30,186,Southern Brave,Birmingham Phoenix,0.5233,1,,,10,The Hundred (men),Men,Birmingham Phoenix
+2026-07-30,186,Southern Brave,Birmingham Phoenix,0.5735,1,,,8,The Hundred (women),Women,Birmingham Phoenix
+2026-07-31,186,Manchester Super Giants,Trent Rockets,0.4805,0,,,9,The Hundred (men),Men,Trent Rockets
+2026-07-31,186,Manchester Super Giants,Trent Rockets,0.5465,0,,,8,The Hundred (women),Women,Manchester Super Giants
+2026-08-01,186,London Spirit,Southern Brave,0.4723,0,,,10,The Hundred (men),Men,Southern Brave
+2026-08-01,186,Birmingham Phoenix,Welsh Fire,0.4811,0,,,10,The Hundred (men),Men,Birmingham Phoenix
+2026-08-01,186,Birmingham Phoenix,Welsh Fire,0.4878,1,,,7,The Hundred (women),Women,Birmingham Phoenix
+2026-08-01,186,London Spirit,Southern Brave,0.4152,0,,,7,The Hundred (women),Women,Southern Brave
+2026-08-02,186,Trent Rockets,Sunrisers Leeds,0.4908,1,,,9,The Hundred (men),Men,Trent Rockets
+2026-08-02,186,Trent Rockets,Sunrisers Leeds,0.555,1,,,8,The Hundred (women),Women,Sunrisers Leeds
+2026-08-02,186,MI London,Manchester Super Giants,0.3688,0,,,7,The Hundred (women),Women,Manchester Super Giants
+2026-08-03,187,Welsh Fire,Southern Brave,0.5488,1,,,9,The Hundred (men),Men,Welsh Fire
+2026-08-03,187,Welsh Fire,Southern Brave,0.3563,1,,,8,The Hundred (women),Women,Southern Brave
+2026-08-04,187,Sunrisers Leeds,London Spirit,0.5567,1,,,8,The Hundred (men),Men,London Spirit
+2026-08-04,187,Sunrisers Leeds,London Spirit,0.5851,1,,,7,The Hundred (women),Women,Sunrisers Leeds
+2026-08-05,187,Trent Rockets,Birmingham Phoenix,0.634,1,,,10,The Hundred (men),Men,Trent Rockets
+2026-08-05,187,Manchester Super Giants,Welsh Fire,0.5508,1,,,9,The Hundred (men),Men,Welsh Fire
+2026-08-05,187,Manchester Super Giants,Welsh Fire,0.5674,0,,,8,The Hundred (women),Women,Welsh Fire
+2026-08-05,187,Trent Rockets,Birmingham Phoenix,0.6656,1,,,8,The Hundred (women),Women,Trent Rockets
+2026-08-06,187,London Spirit,MI London,0.3979,0,,,10,The Hundred (men),Men,MI London
+2026-08-06,187,London Spirit,MI London,0.6285,0,,,6,The Hundred (women),Women,London Spirit
+2026-08-07,187,Birmingham Phoenix,Sunrisers Leeds,0.3854,0,,,9,The Hundred (men),Men,Birmingham Phoenix
+2026-08-07,187,Birmingham Phoenix,Sunrisers Leeds,0.378,0,,,8,The Hundred (women),Women,Sunrisers Leeds
+2026-08-08,187,MI London,Trent Rockets,0.4782,0,,,9,The Hundred (men),Men,Trent Rockets
+2026-08-08,187,Southern Brave,Manchester Super Giants,0.509,0,,,10,The Hundred (men),Men,Manchester Super Giants
+2026-08-08,187,MI London,Trent Rockets,0.2945,0,,,8,The Hundred (women),Women,Trent Rockets
+2026-08-08,187,Southern Brave,Manchester Super Giants,0.5303,0,,,8,The Hundred (women),Women,Manchester Super Giants
+2026-08-09,187,London Spirit,Birmingham Phoenix,0.6282,1,,,10,The Hundred (men),Men,London Spirit
+2026-08-09,187,Sunrisers Leeds,Welsh Fire,0.5878,1,,,9,The Hundred (men),Men,Welsh Fire
+2026-08-09,187,Sunrisers Leeds,Welsh Fire,0.6499,1,,,8,The Hundred (women),Women,Sunrisers Leeds
+2026-08-09,187,London Spirit,Birmingham Phoenix,0.5285,1,,,6,The Hundred (women),Women,Birmingham Phoenix
+2026-08-10,188,Trent Rockets,Southern Brave,0.6759,1,,,8,The Hundred (women),Women,Trent Rockets
+2026-08-11,188,Manchester Super Giants,Sunrisers Leeds,0.504,1,,,8,The Hundred (men),Men,Manchester Super Giants
+2026-08-11,188,Manchester Super Giants,Sunrisers Leeds,0.509,0,,,8,The Hundred (women),Women,Manchester Super Giants
+2026-08-12,188,Birmingham Phoenix,MI London,0.3756,0,,,10,The Hundred (men),Men,Birmingham Phoenix
+2026-08-12,188,Welsh Fire,London Spirit,0.5657,0,,,10,The Hundred (men),Men,Welsh Fire
+2026-08-12,188,Welsh Fire,London Spirit,0.517,1,,,7,The Hundred (women),Women,London Spirit
+2026-08-12,188,Birmingham Phoenix,MI London,0.517,1,,,8,The Hundred (women),Women,Birmingham Phoenix
+2026-08-14,188,Manchester Super Giants,Sunrisers Leeds,0.4617,1,,,10,The Hundred (men),Men,Sunrisers Leeds
+2026-08-14,188,Sunrisers Leeds,Southern Brave,0.6224,1,,,8,The Hundred (women),Women,Sunrisers Leeds
+2026-08-16,188,Trent Rockets,Manchester Super Giants,0.4745,0,,,10,The Hundred (men),Men,Manchester Super Giants
+2026-08-16,188,Trent Rockets,Sunrisers Leeds,0.5788,1,,,8,The Hundred (women),Women,Trent Rockets
+2026-08-21,189,Saint Lucia Kings,Jamaica Kingsmen,0.5295,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2026-08-26,190,Trinbago Knight Riders,Saint Lucia Kings,0.6741,0,,,5,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2026-08-31,191,Trinbago Knight Riders,Guyana Amazon Warriors,0.5196,0,,,6,Caribbean Premier League (T20),Men,Trinbago Knight Riders
+2026-09-04,191,Guyana Amazon Warriors,Jamaica Kingsmen,0.6992,1,,,5,Caribbean Premier League (T20),Men,Guyana Amazon Warriors
+2026-09-06,191,Barbados Tridents,Saint Lucia Kings,0.5333,1,,,5,Caribbean Premier League (T20),Men,Barbados Tridents
+2026-09-09,192,Guyana Amazon Warriors,Saint Lucia Kings,0.6616,1,,,5,Caribbean Premier League (T20),Men,St Lucia Kings
+2026-09-10,192,Barbados Tridents,St Kitts & Nevis Patriots,0.5152,1,,,5,Caribbean Premier League (T20),Men,Barbados Tridents
+2026-09-13,192,Namibia,South Africa,0.118,0,,,7,One-day internationals (ODI),Men,Namibia
+2026-09-15,193,Zimbabwe,Australia,0.1374,0,,,11,One-day internationals (ODI),Men,Australia
+2026-09-15,193,Rwanda,Kenya,0.2746,0,,,4,T20 internationals,Men,Rwanda
+2026-09-15,193,England,Sri Lanka,0.7652,1,,,10,T20 internationals,Men,Sri Lanka
+2026-09-16,193,Barbados Tridents,Jamaica Kingsmen,0.4882,0,,,5,Caribbean Premier League (T20),Men,Jamaica Kingsmen
+2026-09-17,193,Rwanda,Uganda,0.1767,0,,,5,T20 internationals,Men,Uganda
+2026-09-17,193,Botswana,Kenya,0.0839,0,,,5,T20 internationals,Men,Kenya
+2026-09-17,193,England,Sri Lanka,0.8523,1,,,10,T20 internationals,Men,England
+2026-09-17,193,Guyana Amazon Warriors,Antigua & Barbuda Falcons,0.4796,0,,,6,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2026-09-18,193,Zimbabwe,Australia,0.1695,0,,,12,One-day internationals (ODI),Men,Zimbabwe
+2026-09-18,193,Botswana,Sierra Leone,0.8083,1,,,5,T20 internationals,Men,Sierra Leone
+2026-09-19,193,Japan,Hong Kong,0.3169,0,,,9,T20 internationals,Men,Japan
+2026-09-19,193,England,Sri Lanka,0.8525,1,,,10,T20 internationals,Men,England
+2026-09-19,193,Japan,Hong Kong,0.234,0,,,8,T20 internationals,Men,Japan
+2026-09-20,193,Zimbabwe,Australia,0.1403,0,,,12,One-day internationals (ODI),Men,Zimbabwe
+2026-09-20,193,Antigua & Barbuda Falcons,Jamaica Kingsmen,0.5614,1,,,6,Caribbean Premier League (T20),Men,Antigua and Barbuda Falcons
+2026-09-22,194,England,Sri Lanka,0.8435,1,,,12,One-day internationals (ODI),Men,England
+2026-09-24,194,South Africa,Australia,0.4021,1,,,13,One-day internationals (ODI),Men,Australia
+2026-09-24,194,England,Sri Lanka,0.8391,0,,,13,One-day internationals (ODI),Men,Sri Lanka
+2026-09-24,194,Cayman Islands,Bahamas,0.7991,1,,,7,T20 internationals,Men,Bahamas
+2026-09-26,194,Bahamas,Bermuda,0.114,0,,,5,T20 internationals,Men,Bahamas
+2026-09-27,194,England,Sri Lanka,0.8015,1,,,15,One-day internationals (ODI),Men,England
+2026-09-27,194,South Africa,Australia,0.467,1,,,15,One-day internationals (ODI),Men,Australia
+2026-09-27,194,India,West Indies,0.8734,1,,,15,One-day internationals (ODI),Men,India
+2026-09-27,194,Cayman Islands,Bermuda,0.3226,0,,,7,T20 internationals,Men,Cayman Islands
+2026-09-30,195,India,West Indies,0.8538,1,,,14,One-day internationals (ODI),Men,India
+2026-09-30,195,South Africa,Australia,0.4461,0,,,14,One-day internationals (ODI),Men,South Africa
+2026-10-03,195,India,West Indies,0.8142,0,,,14,One-day internationals (ODI),Men,India
+2026-10-06,196,India,West Indies,0.7762,1,,,13,T20 internationals,Men,India
+2026-10-09,196,Oman,Canada,0.5552,1,,,7,One-day internationals (ODI),Men,Oman
+2026-10-09,196,India,West Indies,0.7498,0,,,14,T20 internationals,Men,West Indies
+2026-10-09,196,Pakistan,Sri Lanka,0.666,1,,,14,T20 internationals,Men,Sri Lanka
+2026-10-11,196,Canada,Nepal,0.3978,0,,,6,One-day internationals (ODI),Men,Canada
+2026-10-11,196,Pakistan,Sri Lanka,0.6539,1,,,15,T20 internationals,Men,Sri Lanka
+2026-10-11,196,India,West Indies,0.7364,1,,,15,T20 internationals,Men,West Indies
+2026-10-13,197,Oman,Nepal,0.4028,0,,,7,One-day internationals (ODI),Men,Nepal
+2026-10-13,197,Pakistan,Sri Lanka,0.6553,0,,,15,T20 internationals,Men,Sri Lanka
+2026-10-14,197,India,West Indies,0.7688,0,,,16,T20 internationals,Men,India
+2026-10-15,197,Oman,Canada,0.6047,0,,,7,One-day internationals (ODI),Men,Canada
+2026-10-17,197,Bangladesh,Zimbabwe,0.6607,0,,,13,One-day internationals (ODI),Men,Zimbabwe
+2026-10-17,197,Canada,Nepal,0.3478,1,,,7,One-day internationals (ODI),Men,Canada
+2026-10-18,197,Pakistan,Sri Lanka,0.6793,1,,,17,One-day internationals (ODI),Men,Sri Lanka
+2026-10-19,198,Oman,Nepal,0.351,0,,,7,One-day internationals (ODI),Men,Nepal
+2026-10-20,198,Pakistan,England,0.3925,1,,,17,One-day internationals (ODI),Men,England
+2026-10-22,198,Sri Lanka,England,0.274,1,,,17,One-day internationals (ODI),Men,Sri Lanka
+2026-10-22,198,Namibia,Ireland,0.3522,0,,,15,One-day internationals (ODI),Men,Namibia
+2026-10-22,198,New Zealand,India,0.4305,0,,,15,T20 internationals,Men,India
+2026-10-24,198,Namibia,Ireland,0.3593,1,,,14,One-day internationals (ODI),Men,Ireland
+2026-10-24,198,New Zealand,India,0.4339,0,,,14,T20 internationals,Men,India
+2026-10-25,198,Pakistan,England,0.4207,1,,,15,One-day internationals (ODI),Men,Pakistan
+2026-10-27,199,Namibia,Ireland,0.4137,1,,,14,One-day internationals (ODI),Men,Namibia
+2026-10-27,199,Netherlands,Oman,0.6164,1,,,5,One-day internationals (ODI),Men,Oman
+2026-10-27,199,Pakistan,Sri Lanka,0.6278,0,,,15,One-day internationals (ODI),Men,Sri Lanka
+2026-10-27,199,New Zealand,India,0.4044,0,,,14,T20 internationals,Men,India
