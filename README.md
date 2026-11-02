@@ -30,6 +30,18 @@ UFC, ATP and WTA have no home side: `home_team` is the alphabetically first comp
 
 More leagues are added as each season's sample grows.
 
+## Beyond closing-price calibration
+
+These three files have their own columns (see the header row of each CSV and the write-up).
+
+| Study | Rows | Headline | Write-up | DOI | CSV |
+|---|---|---|---|---|---|
+| NFL starters out 2021-2024 | 577 team-games | Without the starting QB: 75-150-1, margin -3.1, spread moved 3.1 | [nfl-injuries-starters-2021-2024](https://betbetter.world/studies/nfl-injuries-starters-2021-2024) | [10.5281/zenodo.23879869](https://doi.org/10.5281/zenodo.23879869) | `data/nfl_starters_out_2021_2024.csv` |
+| NBA defense vs position 2018-2025 | 6,360 | Guards +0.51 points against the five easiest defenses | [nba-defense-vs-position-2018-2025](https://betbetter.world/studies/nba-defense-vs-position-2018-2025) | [10.5281/zenodo.23879979](https://doi.org/10.5281/zenodo.23879979) | `data/nba_defense_vs_position_2018_2025.csv` |
+| NFL weather and scoring 2021-2026 | 997 | 15+ mph wind: 40.3 points vs 44.7, closing total down about 1 | [nfl-weather-scoring-2021-2026](https://betbetter.world/studies/nfl-weather-scoring-2021-2026) | [10.5281/zenodo.23880021](https://doi.org/10.5281/zenodo.23880021) | `data/nfl_weather_scoring_2021_2026.csv` |
+
+R walkthroughs: [NFL wind and scoring](https://rpubs.com/betbetter/nfl-wind-scoring-r), [NBA defense vs position](https://rpubs.com/betbetter/nba-defense-vs-position-r).
+
 ## Columns
 
 | Column | Meaning |
